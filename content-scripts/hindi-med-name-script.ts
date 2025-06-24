@@ -61,8 +61,7 @@ async function englishToHindhiConvert() {
                             AND how_it_works IS NOT NULL 
                             AND how_to_use IS NOT NULL 
                             AND benefits IS NOT NULL 
-                            AND side_effects IS NOT NULL 
-                            AND disease_explanation IS NOT NULL
+                            AND side_effects IS NOT NULL
                         THEN true
                         ELSE false
                     END AS is_complete
