@@ -1,0 +1,4 @@
+Route Name     : igurati-25mg-tablet-10s
+Language       : bengali
+Total Tokens   : 213
+-------------------------------

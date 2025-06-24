@@ -1,0 +1,28 @@
+# Dependency folder
+node_modules/
+
+# Environment variables
+.env
+
+# Build outputs (if any)
+dist/
+build/
+out/
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Logs
+logs/
+*.log
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# IDE-specific
+.vscode/
+.idea/
+
+# Optional: pnpm store (if using isolated node_modules)
+.pnpm-store/
