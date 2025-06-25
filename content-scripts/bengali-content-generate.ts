@@ -14,7 +14,7 @@ async function englishToHindhiConvert() {
     let i = 1;
 
     for (const { route_name } of medicines) {
-        const routeName = extractRouteName(route_name)?.trim();
+        const routeName = route_name;
 
         if (!routeName) {
             console.log("Route name not found for:", routeName);

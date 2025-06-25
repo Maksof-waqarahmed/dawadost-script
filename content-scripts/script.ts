@@ -216,7 +216,7 @@ const medicines = csvBufferToJson(file);
 // }
 
 async function getIncompleteEnglishRouteNames() {
-    const codes = medicines.map(m => extractRouteName(m.route_name || "")?.trim()).filter(Boolean);
+    const codes = medicines.map(m => (m.route_name || "")?.trim()).filter(Boolean);
 
     if (codes.length === 0) {
         console.log("❌ No valid dd_item_code found.");

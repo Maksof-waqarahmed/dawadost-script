@@ -21627,3 +21627,1693 @@ Route Name     : metrogyl-suspension-60ml
 Language       : bengali-content
 Total Tokens   : 2014
 -------------------------------
+
+Route Name     : mymi-d-tablet-10s
+Language       : bengali-content
+Total Tokens   : 764
+-------------------------------
+
+Route Name     : mymi-d-tablet-10s
+Language       : bengali-content
+Total Tokens   : 753
+-------------------------------
+
+Route Name     : mymi-d-tablet-10s
+Language       : bengali-content
+Total Tokens   : 764
+-------------------------------
+
+Route Name     : mymi-d-tablet-10s
+Language       : bengali-content
+Total Tokens   : 768
+-------------------------------
+
+Route Name     : mymi-d-tablet-10s
+Language       : bengali-content
+Total Tokens   : 863
+-------------------------------
+
+Route Name     : mymi-d-tablet-10s
+Language       : bengali-content
+Total Tokens   : 838
+-------------------------------
+
+Route Name     : mymi-d-tablet-10s
+Language       : bengali-content
+Total Tokens   : 916
+-------------------------------
+
+Route Name     : mymi-d-tablet-10s
+Language       : bengali-content
+Total Tokens   : 937
+-------------------------------
+
+Route Name     : mymi-d-tablet-10s
+Language       : bengali-content
+Total Tokens   : 1075
+-------------------------------
+
+Route Name     : mymi-d-tablet-10s
+Language       : bengali-content
+Total Tokens   : 768
+-------------------------------
+
+Route Name     : mymi-d-tablet-10s
+Language       : bengali-content
+Total Tokens   : 1324
+-------------------------------
+
+Route Name     : lidozone-ear-drop
+Language       : bengali-content
+Total Tokens   : 766
+-------------------------------
+
+Route Name     : lidozone-ear-drop
+Language       : bengali-content
+Total Tokens   : 764
+-------------------------------
+
+Route Name     : lidozone-ear-drop
+Language       : bengali-content
+Total Tokens   : 756
+-------------------------------
+
+Route Name     : lidozone-ear-drop
+Language       : bengali-content
+Total Tokens   : 772
+-------------------------------
+
+Route Name     : lidozone-ear-drop
+Language       : bengali-content
+Total Tokens   : 806
+-------------------------------
+
+Route Name     : lidozone-ear-drop
+Language       : bengali-content
+Total Tokens   : 771
+-------------------------------
+
+Route Name     : lidozone-ear-drop
+Language       : bengali-content
+Total Tokens   : 771
+-------------------------------
+
+Route Name     : lidozone-ear-drop
+Language       : bengali-content
+Total Tokens   : 844
+-------------------------------
+
+Route Name     : lidozone-ear-drop
+Language       : bengali-content
+Total Tokens   : 953
+-------------------------------
+
+Route Name     : lidozone-ear-drop
+Language       : bengali-content
+Total Tokens   : 1054
+-------------------------------
+
+Route Name     : lidozone-ear-drop
+Language       : bengali-content
+Total Tokens   : 1425
+-------------------------------
+
+Route Name     : lidozone-ear-drop
+Language       : bengali-content
+Total Tokens   : 1379
+-------------------------------
+
+Route Name     : c-win-shampoo-100ml
+Language       : bengali-content
+Total Tokens   : 760
+-------------------------------
+
+Route Name     : c-win-shampoo-100ml
+Language       : bengali-content
+Total Tokens   : 768
+-------------------------------
+
+Route Name     : c-win-shampoo-100ml
+Language       : bengali-content
+Total Tokens   : 756
+-------------------------------
+
+Route Name     : c-win-shampoo-100ml
+Language       : bengali-content
+Total Tokens   : 807
+-------------------------------
+
+Route Name     : c-win-shampoo-100ml
+Language       : bengali-content
+Total Tokens   : 768
+-------------------------------
+
+Route Name     : c-win-shampoo-100ml
+Language       : bengali-content
+Total Tokens   : 809
+-------------------------------
+
+Route Name     : c-win-shampoo-100ml
+Language       : bengali-content
+Total Tokens   : 766
+-------------------------------
+
+Route Name     : c-win-shampoo-100ml
+Language       : bengali-content
+Total Tokens   : 806
+-------------------------------
+
+Route Name     : c-win-shampoo-100ml
+Language       : bengali-content
+Total Tokens   : 927
+-------------------------------
+
+Route Name     : c-win-shampoo-100ml
+Language       : bengali-content
+Total Tokens   : 887
+-------------------------------
+
+Route Name     : c-win-shampoo-100ml
+Language       : bengali-content
+Total Tokens   : 1571
+-------------------------------
+
+Route Name     : lubimoist-eye-drops-10ml
+Language       : bengali-content
+Total Tokens   : 755
+-------------------------------
+
+Route Name     : lubimoist-eye-drops-10ml
+Language       : bengali-content
+Total Tokens   : 775
+-------------------------------
+
+Route Name     : lubimoist-eye-drops-10ml
+Language       : bengali-content
+Total Tokens   : 769
+-------------------------------
+
+Route Name     : lubimoist-eye-drops-10ml
+Language       : bengali-content
+Total Tokens   : 784
+-------------------------------
+
+Route Name     : lubimoist-eye-drops-10ml
+Language       : bengali-content
+Total Tokens   : 774
+-------------------------------
+
+Route Name     : lubimoist-eye-drops-10ml
+Language       : bengali-content
+Total Tokens   : 782
+-------------------------------
+
+Route Name     : lubimoist-eye-drops-10ml
+Language       : bengali-content
+Total Tokens   : 916
+-------------------------------
+
+Route Name     : lubimoist-eye-drops-10ml
+Language       : bengali-content
+Total Tokens   : 974
+-------------------------------
+
+Route Name     : lubimoist-eye-drops-10ml
+Language       : bengali-content
+Total Tokens   : 978
+-------------------------------
+
+Route Name     : lubimoist-eye-drops-10ml
+Language       : bengali-content
+Total Tokens   : 976
+-------------------------------
+
+Route Name     : lidovis-mouth-wash-300ml
+Language       : bengali-content
+Total Tokens   : 802
+-------------------------------
+
+Route Name     : lidovis-mouth-wash-300ml
+Language       : bengali-content
+Total Tokens   : 813
+-------------------------------
+
+Route Name     : lidovis-mouth-wash-300ml
+Language       : bengali-content
+Total Tokens   : 809
+-------------------------------
+
+Route Name     : lidovis-mouth-wash-300ml
+Language       : bengali-content
+Total Tokens   : 825
+-------------------------------
+
+Route Name     : lidovis-mouth-wash-300ml
+Language       : bengali-content
+Total Tokens   : 867
+-------------------------------
+
+Route Name     : lidovis-mouth-wash-300ml
+Language       : bengali-content
+Total Tokens   : 898
+-------------------------------
+
+Route Name     : lidovis-mouth-wash-300ml
+Language       : bengali-content
+Total Tokens   : 865
+-------------------------------
+
+Route Name     : lidovis-mouth-wash-300ml
+Language       : bengali-content
+Total Tokens   : 891
+-------------------------------
+
+Route Name     : lidovis-mouth-wash-300ml
+Language       : bengali-content
+Total Tokens   : 953
+-------------------------------
+
+Route Name     : lidovis-mouth-wash-300ml
+Language       : bengali-content
+Total Tokens   : 931
+-------------------------------
+
+Route Name     : lidovis-mouth-wash-300ml
+Language       : bengali-content
+Total Tokens   : 826
+-------------------------------
+
+Route Name     : lidovis-mouth-wash-300ml
+Language       : bengali-content
+Total Tokens   : 974
+-------------------------------
+
+Route Name     : lidovis-mouth-wash-300ml
+Language       : bengali-content
+Total Tokens   : 911
+-------------------------------
+
+Route Name     : lidovis-mouth-wash-300ml
+Language       : bengali-content
+Total Tokens   : 912
+-------------------------------
+
+Route Name     : lidovis-mouth-wash-300ml
+Language       : bengali-content
+Total Tokens   : 1017
+-------------------------------
+
+Route Name     : lidovis-mouth-wash-300ml
+Language       : bengali-content
+Total Tokens   : 1055
+-------------------------------
+
+Route Name     : lidovis-mouth-wash-300ml
+Language       : bengali-content
+Total Tokens   : 968
+-------------------------------
+
+Route Name     : lidovis-mouth-wash-300ml
+Language       : bengali-content
+Total Tokens   : 935
+-------------------------------
+
+Route Name     : lidovis-mouth-wash-300ml
+Language       : bengali-content
+Total Tokens   : 1110
+-------------------------------
+
+Route Name     : lidovis-mouth-wash-300ml
+Language       : bengali-content
+Total Tokens   : 1355
+-------------------------------
+
+Route Name     : lidovis-mouth-wash-300ml
+Language       : bengali-content
+Total Tokens   : 1185
+-------------------------------
+
+Route Name     : lidovis-mouth-wash-300ml
+Language       : bengali-content
+Total Tokens   : 1605
+-------------------------------
+
+Route Name     : lidovis-mouth-wash-300ml
+Language       : bengali-content
+Total Tokens   : 1259
+-------------------------------
+
+Route Name     : uniport-sf-powder-200gm
+Language       : bengali-content
+Total Tokens   : 752
+-------------------------------
+
+Route Name     : uniport-sf-powder-200gm
+Language       : bengali-content
+Total Tokens   : 772
+-------------------------------
+
+Route Name     : uniport-sf-powder-200gm
+Language       : bengali-content
+Total Tokens   : 764
+-------------------------------
+
+Route Name     : uniport-sf-powder-200gm
+Language       : bengali-content
+Total Tokens   : 772
+-------------------------------
+
+Route Name     : uniport-sf-powder-200gm
+Language       : bengali-content
+Total Tokens   : 783
+-------------------------------
+
+Route Name     : uniport-sf-powder-200gm
+Language       : bengali-content
+Total Tokens   : 820
+-------------------------------
+
+Route Name     : uniport-sf-powder-200gm
+Language       : bengali-content
+Total Tokens   : 875
+-------------------------------
+
+Route Name     : uniport-sf-powder-200gm
+Language       : bengali-content
+Total Tokens   : 862
+-------------------------------
+
+Route Name     : uniport-sf-powder-200gm
+Language       : bengali-content
+Total Tokens   : 760
+-------------------------------
+
+Route Name     : uniport-sf-powder-200gm
+Language       : bengali-content
+Total Tokens   : 776
+-------------------------------
+
+Route Name     : uniport-sf-powder-200gm
+Language       : bengali-content
+Total Tokens   : 819
+-------------------------------
+
+Route Name     : uniport-sf-powder-200gm
+Language       : bengali-content
+Total Tokens   : 864
+-------------------------------
+
+Route Name     : uniport-sf-powder-200gm
+Language       : bengali-content
+Total Tokens   : 831
+-------------------------------
+
+Route Name     : uniport-sf-powder-200gm
+Language       : bengali-content
+Total Tokens   : 972
+-------------------------------
+
+Route Name     : uniport-sf-powder-200gm
+Language       : bengali-content
+Total Tokens   : 1118
+-------------------------------
+
+Route Name     : uniport-sf-powder-200gm
+Language       : bengali-content
+Total Tokens   : 938
+-------------------------------
+
+Route Name     : uniport-sf-powder-200gm
+Language       : bengali-content
+Total Tokens   : 1089
+-------------------------------
+
+Route Name     : uniport-sf-powder-200gm
+Language       : bengali-content
+Total Tokens   : 1074
+-------------------------------
+
+Route Name     : uniport-sf-powder-200gm
+Language       : bengali-content
+Total Tokens   : 1615
+-------------------------------
+
+Route Name     : uniport-sf-powder-200gm
+Language       : bengali-content
+Total Tokens   : 986
+-------------------------------
+
+Route Name     : uniport-sf-powder-200gm
+Language       : bengali-content
+Total Tokens   : 1042
+-------------------------------
+
+Route Name     : uniport-sf-powder-200gm
+Language       : bengali-content
+Total Tokens   : 879
+-------------------------------
+
+Route Name     : uniport-sf-powder-200gm
+Language       : bengali-content
+Total Tokens   : 1407
+-------------------------------
+
+Route Name     : sestry-moisturising-shampoo-anagain-argan-oil-200ml
+Language       : bengali-content
+Total Tokens   : 747
+-------------------------------
+
+Route Name     : sestry-moisturising-shampoo-anagain-argan-oil-200ml
+Language       : bengali-content
+Total Tokens   : 760
+-------------------------------
+
+Route Name     : sestry-moisturising-shampoo-anagain-argan-oil-200ml
+Language       : bengali-content
+Total Tokens   : 765
+-------------------------------
+
+Route Name     : sestry-moisturising-shampoo-anagain-argan-oil-200ml
+Language       : bengali-content
+Total Tokens   : 786
+-------------------------------
+
+Route Name     : sestry-moisturising-shampoo-anagain-argan-oil-200ml
+Language       : bengali-content
+Total Tokens   : 771
+-------------------------------
+
+Route Name     : sestry-moisturising-shampoo-anagain-argan-oil-200ml
+Language       : bengali-content
+Total Tokens   : 804
+-------------------------------
+
+Route Name     : sestry-moisturising-shampoo-anagain-argan-oil-200ml
+Language       : bengali-content
+Total Tokens   : 865
+-------------------------------
+
+Route Name     : sestry-moisturising-shampoo-anagain-argan-oil-200ml
+Language       : bengali-content
+Total Tokens   : 974
+-------------------------------
+
+Route Name     : sestry-moisturising-shampoo-anagain-argan-oil-200ml
+Language       : bengali-content
+Total Tokens   : 1125
+-------------------------------
+
+Route Name     : sestry-moisturising-shampoo-anagain-argan-oil-200ml
+Language       : bengali-content
+Total Tokens   : 1245
+-------------------------------
+
+Route Name     : eglucent-mix-25-cartridge-3ml
+Language       : bengali-content
+Total Tokens   : 753
+-------------------------------
+
+Route Name     : eglucent-mix-25-cartridge-3ml
+Language       : bengali-content
+Total Tokens   : 777
+-------------------------------
+
+Route Name     : eglucent-mix-25-cartridge-3ml
+Language       : bengali-content
+Total Tokens   : 791
+-------------------------------
+
+Route Name     : eglucent-mix-25-cartridge-3ml
+Language       : bengali-content
+Total Tokens   : 778
+-------------------------------
+
+Route Name     : eglucent-mix-25-cartridge-3ml
+Language       : bengali-content
+Total Tokens   : 775
+-------------------------------
+
+Route Name     : eglucent-mix-25-cartridge-3ml
+Language       : bengali-content
+Total Tokens   : 807
+-------------------------------
+
+Route Name     : eglucent-mix-25-cartridge-3ml
+Language       : bengali-content
+Total Tokens   : 872
+-------------------------------
+
+Route Name     : eglucent-mix-25-cartridge-3ml
+Language       : bengali-content
+Total Tokens   : 809
+-------------------------------
+
+Route Name     : eglucent-mix-25-cartridge-3ml
+Language       : bengali-content
+Total Tokens   : 1054
+-------------------------------
+
+Route Name     : eglucent-mix-25-cartridge-3ml
+Language       : bengali-content
+Total Tokens   : 899
+-------------------------------
+
+Route Name     : eglucent-mix-25-cartridge-3ml
+Language       : bengali-content
+Total Tokens   : 2046
+-------------------------------
+
+Route Name     : eglucent-mix-25-cartridge-3ml
+Language       : bengali-content
+Total Tokens   : 1876
+-------------------------------
+
+Route Name     : remo-mv-500-tablet
+Language       : bengali-content
+Total Tokens   : 770
+-------------------------------
+
+Route Name     : remo-mv-500-tablet
+Language       : bengali-content
+Total Tokens   : 765
+-------------------------------
+
+Route Name     : remo-mv-500-tablet
+Language       : bengali-content
+Total Tokens   : 763
+-------------------------------
+
+Route Name     : remo-mv-500-tablet
+Language       : bengali-content
+Total Tokens   : 780
+-------------------------------
+
+Route Name     : remo-mv-500-tablet
+Language       : bengali-content
+Total Tokens   : 768
+-------------------------------
+
+Route Name     : remo-mv-500-tablet
+Language       : bengali-content
+Total Tokens   : 813
+-------------------------------
+
+Route Name     : remo-mv-500-tablet
+Language       : bengali-content
+Total Tokens   : 919
+-------------------------------
+
+Route Name     : remo-mv-500-tablet
+Language       : bengali-content
+Total Tokens   : 933
+-------------------------------
+
+Route Name     : remo-mv-500-tablet
+Language       : bengali-content
+Total Tokens   : 984
+-------------------------------
+
+Route Name     : remo-mv-500-tablet
+Language       : bengali-content
+Total Tokens   : 1247
+-------------------------------
+
+Route Name     : remo-mv-500-tablet
+Language       : bengali-content
+Total Tokens   : 1259
+-------------------------------
+
+Route Name     : oraflora-oral-gel
+Language       : bengali-content
+Total Tokens   : 755
+-------------------------------
+
+Route Name     : oraflora-oral-gel
+Language       : bengali-content
+Total Tokens   : 749
+-------------------------------
+
+Route Name     : oraflora-oral-gel
+Language       : bengali-content
+Total Tokens   : 757
+-------------------------------
+
+Route Name     : oraflora-oral-gel
+Language       : bengali-content
+Total Tokens   : 768
+-------------------------------
+
+Route Name     : oraflora-oral-gel
+Language       : bengali-content
+Total Tokens   : 772
+-------------------------------
+
+Route Name     : oraflora-oral-gel
+Language       : bengali-content
+Total Tokens   : 776
+-------------------------------
+
+Route Name     : oraflora-oral-gel
+Language       : bengali-content
+Total Tokens   : 758
+-------------------------------
+
+Route Name     : oraflora-oral-gel
+Language       : bengali-content
+Total Tokens   : 836
+-------------------------------
+
+Route Name     : oraflora-oral-gel
+Language       : bengali-content
+Total Tokens   : 835
+-------------------------------
+
+Route Name     : oraflora-oral-gel
+Language       : bengali-content
+Total Tokens   : 954
+-------------------------------
+
+Route Name     : c-win-cream-30gm
+Language       : bengali-content
+Total Tokens   : 764
+-------------------------------
+
+Route Name     : c-win-cream-30gm
+Language       : bengali-content
+Total Tokens   : 762
+-------------------------------
+
+Route Name     : c-win-cream-30gm
+Language       : bengali-content
+Total Tokens   : 769
+-------------------------------
+
+Route Name     : c-win-cream-30gm
+Language       : bengali-content
+Total Tokens   : 765
+-------------------------------
+
+Route Name     : c-win-cream-30gm
+Language       : bengali-content
+Total Tokens   : 764
+-------------------------------
+
+Route Name     : c-win-cream-30gm
+Language       : bengali-content
+Total Tokens   : 788
+-------------------------------
+
+Route Name     : c-win-cream-30gm
+Language       : bengali-content
+Total Tokens   : 874
+-------------------------------
+
+Route Name     : c-win-cream-30gm
+Language       : bengali-content
+Total Tokens   : 774
+-------------------------------
+
+Route Name     : c-win-cream-30gm
+Language       : bengali-content
+Total Tokens   : 951
+-------------------------------
+
+Route Name     : c-win-cream-30gm
+Language       : bengali-content
+Total Tokens   : 900
+-------------------------------
+
+Route Name     : c-win-cream-30gm
+Language       : bengali-content
+Total Tokens   : 1251
+-------------------------------
+
+Route Name     : c-win-cream-30gm
+Language       : bengali-content
+Total Tokens   : 764
+-------------------------------
+
+Route Name     : c-win-cream-30gm
+Language       : bengali-content
+Total Tokens   : 769
+-------------------------------
+
+Route Name     : c-win-cream-30gm
+Language       : bengali-content
+Total Tokens   : 763
+-------------------------------
+
+Route Name     : c-win-cream-30gm
+Language       : bengali-content
+Total Tokens   : 774
+-------------------------------
+
+Route Name     : c-win-cream-30gm
+Language       : bengali-content
+Total Tokens   : 768
+-------------------------------
+
+Route Name     : c-win-cream-30gm
+Language       : bengali-content
+Total Tokens   : 761
+-------------------------------
+
+Route Name     : c-win-cream-30gm
+Language       : bengali-content
+Total Tokens   : 901
+-------------------------------
+
+Route Name     : c-win-cream-30gm
+Language       : bengali-content
+Total Tokens   : 875
+-------------------------------
+
+Route Name     : c-win-cream-30gm
+Language       : bengali-content
+Total Tokens   : 948
+-------------------------------
+
+Route Name     : c-win-cream-30gm
+Language       : bengali-content
+Total Tokens   : 788
+-------------------------------
+
+Route Name     : c-win-cream-30gm
+Language       : bengali-content
+Total Tokens   : 1258
+-------------------------------
+
+Route Name     : urethral-catheter-k-90
+Language       : bengali-content
+Total Tokens   : 760
+-------------------------------
+
+Route Name     : urethral-catheter-k-90
+Language       : bengali-content
+Total Tokens   : 749
+-------------------------------
+
+Route Name     : urethral-catheter-k-90
+Language       : bengali-content
+Total Tokens   : 772
+-------------------------------
+
+Route Name     : urethral-catheter-k-90
+Language       : bengali-content
+Total Tokens   : 756
+-------------------------------
+
+Route Name     : urethral-catheter-k-90
+Language       : bengali-content
+Total Tokens   : 779
+-------------------------------
+
+Route Name     : urethral-catheter-k-90
+Language       : bengali-content
+Total Tokens   : 765
+-------------------------------
+
+Route Name     : urethral-catheter-k-90
+Language       : bengali-content
+Total Tokens   : 849
+-------------------------------
+
+Route Name     : urethral-catheter-k-90
+Language       : bengali-content
+Total Tokens   : 990
+-------------------------------
+
+Route Name     : urethral-catheter-k-90
+Language       : bengali-content
+Total Tokens   : 1099
+-------------------------------
+
+Route Name     : urethral-catheter-k-90
+Language       : bengali-content
+Total Tokens   : 1101
+-------------------------------
+
+Route Name     : zilipse-face-wash-100gm
+Language       : bengali-content
+Total Tokens   : 850
+-------------------------------
+
+Route Name     : zilipse-face-wash-100gm
+Language       : bengali-content
+Total Tokens   : 853
+-------------------------------
+
+Route Name     : zilipse-face-wash-100gm
+Language       : bengali-content
+Total Tokens   : 868
+-------------------------------
+
+Route Name     : zilipse-face-wash-100gm
+Language       : bengali-content
+Total Tokens   : 870
+-------------------------------
+
+Route Name     : zilipse-face-wash-100gm
+Language       : bengali-content
+Total Tokens   : 866
+-------------------------------
+
+Route Name     : zilipse-face-wash-100gm
+Language       : bengali-content
+Total Tokens   : 879
+-------------------------------
+
+Route Name     : zilipse-face-wash-100gm
+Language       : bengali-content
+Total Tokens   : 1086
+-------------------------------
+
+Route Name     : zilipse-face-wash-100gm
+Language       : bengali-content
+Total Tokens   : 1021
+-------------------------------
+
+Route Name     : zilipse-face-wash-100gm
+Language       : bengali-content
+Total Tokens   : 1039
+-------------------------------
+
+Route Name     : zilipse-face-wash-100gm
+Language       : bengali-content
+Total Tokens   : 1080
+-------------------------------
+
+Route Name     : quadriline-ointment-15gm
+Language       : bengali-content
+Total Tokens   : 756
+-------------------------------
+
+Route Name     : quadriline-ointment-15gm
+Language       : bengali-content
+Total Tokens   : 775
+-------------------------------
+
+Route Name     : quadriline-ointment-15gm
+Language       : bengali-content
+Total Tokens   : 766
+-------------------------------
+
+Route Name     : quadriline-ointment-15gm
+Language       : bengali-content
+Total Tokens   : 770
+-------------------------------
+
+Route Name     : quadriline-ointment-15gm
+Language       : bengali-content
+Total Tokens   : 846
+-------------------------------
+
+Route Name     : quadriline-ointment-15gm
+Language       : bengali-content
+Total Tokens   : 898
+-------------------------------
+
+Route Name     : quadriline-ointment-15gm
+Language       : bengali-content
+Total Tokens   : 801
+-------------------------------
+
+Route Name     : quadriline-ointment-15gm
+Language       : bengali-content
+Total Tokens   : 777
+-------------------------------
+
+Route Name     : quadriline-ointment-15gm
+Language       : bengali-content
+Total Tokens   : 908
+-------------------------------
+
+Route Name     : quadriline-ointment-15gm
+Language       : bengali-content
+Total Tokens   : 1380
+-------------------------------
+
+Route Name     : quadriline-ointment-15gm
+Language       : bengali-content
+Total Tokens   : 1752
+-------------------------------
+
+Route Name     : epsolin-50mg-injection-2ml
+Language       : bengali-content
+Total Tokens   : 758
+-------------------------------
+
+Route Name     : epsolin-50mg-injection-2ml
+Language       : bengali-content
+Total Tokens   : 781
+-------------------------------
+
+Route Name     : epsolin-50mg-injection-2ml
+Language       : bengali-content
+Total Tokens   : 765
+-------------------------------
+
+Route Name     : epsolin-50mg-injection-2ml
+Language       : bengali-content
+Total Tokens   : 768
+-------------------------------
+
+Route Name     : epsolin-50mg-injection-2ml
+Language       : bengali-content
+Total Tokens   : 776
+-------------------------------
+
+Route Name     : epsolin-50mg-injection-2ml
+Language       : bengali-content
+Total Tokens   : 815
+-------------------------------
+
+Route Name     : epsolin-50mg-injection-2ml
+Language       : bengali-content
+Total Tokens   : 772
+-------------------------------
+
+Route Name     : epsolin-50mg-injection-2ml
+Language       : bengali-content
+Total Tokens   : 898
+-------------------------------
+
+Route Name     : epsolin-50mg-injection-2ml
+Language       : bengali-content
+Total Tokens   : 897
+-------------------------------
+
+Route Name     : epsolin-50mg-injection-2ml
+Language       : bengali-content
+Total Tokens   : 877
+-------------------------------
+
+Route Name     : epsolin-50mg-injection-2ml
+Language       : bengali-content
+Total Tokens   : 1933
+-------------------------------
+
+Route Name     : epsolin-50mg-injection-2ml
+Language       : bengali-content
+Total Tokens   : 1945
+-------------------------------
+
+Route Name     : tiger-king-cream-xxl-30gm
+Language       : bengali-content
+Total Tokens   : 754
+-------------------------------
+
+Route Name     : tiger-king-cream-xxl-30gm
+Language       : bengali-content
+Total Tokens   : 774
+-------------------------------
+
+Route Name     : tiger-king-cream-xxl-30gm
+Language       : bengali-content
+Total Tokens   : 767
+-------------------------------
+
+Route Name     : tiger-king-cream-xxl-30gm
+Language       : bengali-content
+Total Tokens   : 766
+-------------------------------
+
+Route Name     : tiger-king-cream-xxl-30gm
+Language       : bengali-content
+Total Tokens   : 779
+-------------------------------
+
+Route Name     : tiger-king-cream-xxl-30gm
+Language       : bengali-content
+Total Tokens   : 826
+-------------------------------
+
+Route Name     : tiger-king-cream-xxl-30gm
+Language       : bengali-content
+Total Tokens   : 838
+-------------------------------
+
+Route Name     : tiger-king-cream-xxl-30gm
+Language       : bengali-content
+Total Tokens   : 858
+-------------------------------
+
+Route Name     : tiger-king-cream-xxl-30gm
+Language       : bengali-content
+Total Tokens   : 915
+-------------------------------
+
+Route Name     : tiger-king-cream-xxl-30gm
+Language       : bengali-content
+Total Tokens   : 764
+-------------------------------
+
+Route Name     : tiger-king-cream-xxl-30gm
+Language       : bengali-content
+Total Tokens   : 994
+-------------------------------
+
+Route Name     : tiger-king-cream-xxl-30gm
+Language       : bengali-content
+Total Tokens   : 1032
+-------------------------------
+
+Route Name     : vermor-10-injection
+Language       : bengali-content
+Total Tokens   : 768
+-------------------------------
+
+Route Name     : vermor-10-injection
+Language       : bengali-content
+Total Tokens   : 762
+-------------------------------
+
+Route Name     : vermor-10-injection
+Language       : bengali-content
+Total Tokens   : 768
+-------------------------------
+
+Route Name     : vermor-10-injection
+Language       : bengali-content
+Total Tokens   : 762
+-------------------------------
+
+Route Name     : vermor-10-injection
+Language       : bengali-content
+Total Tokens   : 766
+-------------------------------
+
+Route Name     : vermor-10-injection
+Language       : bengali-content
+Total Tokens   : 808
+-------------------------------
+
+Route Name     : vermor-10-injection
+Language       : bengali-content
+Total Tokens   : 858
+-------------------------------
+
+Route Name     : vermor-10-injection
+Language       : bengali-content
+Total Tokens   : 767
+-------------------------------
+
+Route Name     : vermor-10-injection
+Language       : bengali-content
+Total Tokens   : 893
+-------------------------------
+
+Route Name     : vermor-10-injection
+Language       : bengali-content
+Total Tokens   : 817
+-------------------------------
+
+Route Name     : vermor-10-injection
+Language       : bengali-content
+Total Tokens   : 1397
+-------------------------------
+
+Route Name     : vermor-10-injection
+Language       : bengali-content
+Total Tokens   : 2065
+-------------------------------
+
+Route Name     : met-xl-trio-50-tablet-er-15s
+Language       : bengali-content
+Total Tokens   : 755
+-------------------------------
+
+Route Name     : met-xl-trio-50-tablet-er-15s
+Language       : bengali-content
+Total Tokens   : 778
+-------------------------------
+
+Route Name     : met-xl-trio-50-tablet-er-15s
+Language       : bengali-content
+Total Tokens   : 764
+-------------------------------
+
+Route Name     : met-xl-trio-50-tablet-er-15s
+Language       : bengali-content
+Total Tokens   : 775
+-------------------------------
+
+Route Name     : met-xl-trio-50-tablet-er-15s
+Language       : bengali-content
+Total Tokens   : 779
+-------------------------------
+
+Route Name     : met-xl-trio-50-tablet-er-15s
+Language       : bengali-content
+Total Tokens   : 826
+-------------------------------
+
+Route Name     : met-xl-trio-50-tablet-er-15s
+Language       : bengali-content
+Total Tokens   : 768
+-------------------------------
+
+Route Name     : met-xl-trio-50-tablet-er-15s
+Language       : bengali-content
+Total Tokens   : 942
+-------------------------------
+
+Route Name     : met-xl-trio-50-tablet-er-15s
+Language       : bengali-content
+Total Tokens   : 966
+-------------------------------
+
+Route Name     : met-xl-trio-50-tablet-er-15s
+Language       : bengali-content
+Total Tokens   : 1216
+-------------------------------
+
+Route Name     : met-xl-trio-50-tablet-er-15s
+Language       : bengali-content
+Total Tokens   : 1549
+-------------------------------
+
+Route Name     : met-xl-trio-50-tablet-er-15s
+Language       : bengali-content
+Total Tokens   : 1820
+-------------------------------
+
+Route Name     : rizanet-5-oral-disintegrating-strip-5s
+Language       : bengali-content
+Total Tokens   : 755
+-------------------------------
+
+Route Name     : rizanet-5-oral-disintegrating-strip-5s
+Language       : bengali-content
+Total Tokens   : 790
+-------------------------------
+
+Route Name     : rizanet-5-oral-disintegrating-strip-5s
+Language       : bengali-content
+Total Tokens   : 767
+-------------------------------
+
+Route Name     : rizanet-5-oral-disintegrating-strip-5s
+Language       : bengali-content
+Total Tokens   : 767
+-------------------------------
+
+Route Name     : rizanet-5-oral-disintegrating-strip-5s
+Language       : bengali-content
+Total Tokens   : 868
+-------------------------------
+
+Route Name     : rizanet-5-oral-disintegrating-strip-5s
+Language       : bengali-content
+Total Tokens   : 774
+-------------------------------
+
+Route Name     : rizanet-5-oral-disintegrating-strip-5s
+Language       : bengali-content
+Total Tokens   : 773
+-------------------------------
+
+Route Name     : rizanet-5-oral-disintegrating-strip-5s
+Language       : bengali-content
+Total Tokens   : 974
+-------------------------------
+
+Route Name     : rizanet-5-oral-disintegrating-strip-5s
+Language       : bengali-content
+Total Tokens   : 920
+-------------------------------
+
+Route Name     : rizanet-5-oral-disintegrating-strip-5s
+Language       : bengali-content
+Total Tokens   : 891
+-------------------------------
+
+Route Name     : rizanet-5-oral-disintegrating-strip-5s
+Language       : bengali-content
+Total Tokens   : 2042
+-------------------------------
+
+Route Name     : rizanet-5-oral-disintegrating-strip-5s
+Language       : bengali-content
+Total Tokens   : 1923
+-------------------------------
+
+Route Name     : festive-dee-optic-eyeear-drops-10ml
+Language       : bengali-content
+Total Tokens   : 784
+-------------------------------
+
+Route Name     : festive-dee-optic-eyeear-drops-10ml
+Language       : bengali-content
+Total Tokens   : 867
+-------------------------------
+
+Route Name     : festive-dee-optic-eyeear-drops-10ml
+Language       : bengali-content
+Total Tokens   : 773
+-------------------------------
+
+Route Name     : festive-dee-optic-eyeear-drops-10ml
+Language       : bengali-content
+Total Tokens   : 775
+-------------------------------
+
+Route Name     : festive-dee-optic-eyeear-drops-10ml
+Language       : bengali-content
+Total Tokens   : 773
+-------------------------------
+
+Route Name     : festive-dee-optic-eyeear-drops-10ml
+Language       : bengali-content
+Total Tokens   : 774
+-------------------------------
+
+Route Name     : festive-dee-optic-eyeear-drops-10ml
+Language       : bengali-content
+Total Tokens   : 769
+-------------------------------
+
+Route Name     : festive-dee-optic-eyeear-drops-10ml
+Language       : bengali-content
+Total Tokens   : 853
+-------------------------------
+
+Route Name     : festive-dee-optic-eyeear-drops-10ml
+Language       : bengali-content
+Total Tokens   : 1135
+-------------------------------
+
+Route Name     : festive-dee-optic-eyeear-drops-10ml
+Language       : bengali-content
+Total Tokens   : 988
+-------------------------------
+
+Route Name     : festive-dee-optic-eyeear-drops-10ml
+Language       : bengali-content
+Total Tokens   : 1572
+-------------------------------
+
+Route Name     : migrest-tablet
+Language       : bengali-content
+Total Tokens   : 830
+-------------------------------
+
+Route Name     : migrest-tablet
+Language       : bengali-content
+Total Tokens   : 764
+-------------------------------
+
+Route Name     : migrest-tablet
+Language       : bengali-content
+Total Tokens   : 758
+-------------------------------
+
+Route Name     : migrest-tablet
+Language       : bengali-content
+Total Tokens   : 755
+-------------------------------
+
+Route Name     : migrest-tablet
+Language       : bengali-content
+Total Tokens   : 771
+-------------------------------
+
+Route Name     : migrest-tablet
+Language       : bengali-content
+Total Tokens   : 852
+-------------------------------
+
+Route Name     : migrest-tablet
+Language       : bengali-content
+Total Tokens   : 897
+-------------------------------
+
+Route Name     : migrest-tablet
+Language       : bengali-content
+Total Tokens   : 785
+-------------------------------
+
+Route Name     : migrest-tablet
+Language       : bengali-content
+Total Tokens   : 772
+-------------------------------
+
+Route Name     : migrest-tablet
+Language       : bengali-content
+Total Tokens   : 1262
+-------------------------------
+
+Route Name     : migrest-tablet
+Language       : bengali-content
+Total Tokens   : 1913
+-------------------------------
+
+Route Name     : migrest-tablet
+Language       : bengali-content
+Total Tokens   : 1771
+-------------------------------
+
+Route Name     : sucol-injection
+Language       : bengali-content
+Total Tokens   : 762
+-------------------------------
+
+Route Name     : sucol-injection
+Language       : bengali-content
+Total Tokens   : 766
+-------------------------------
+
+Route Name     : sucol-injection
+Language       : bengali-content
+Total Tokens   : 765
+-------------------------------
+
+Route Name     : sucol-injection
+Language       : bengali-content
+Total Tokens   : 787
+-------------------------------
+
+Route Name     : sucol-injection
+Language       : bengali-content
+Total Tokens   : 798
+-------------------------------
+
+Route Name     : sucol-injection
+Language       : bengali-content
+Total Tokens   : 778
+-------------------------------
+
+Route Name     : sucol-injection
+Language       : bengali-content
+Total Tokens   : 811
+-------------------------------
+
+Route Name     : sucol-injection
+Language       : bengali-content
+Total Tokens   : 768
+-------------------------------
+
+Route Name     : sucol-injection
+Language       : bengali-content
+Total Tokens   : 954
+-------------------------------
+
+Route Name     : sucol-injection
+Language       : bengali-content
+Total Tokens   : 892
+-------------------------------
+
+Route Name     : sucol-injection
+Language       : bengali-content
+Total Tokens   : 1383
+-------------------------------
+
+Route Name     : sucol-injection
+Language       : bengali-content
+Total Tokens   : 1821
+-------------------------------
+
+Route Name     : zostum-o-200mg-tablet-10s
+Language       : bengali-content
+Total Tokens   : 766
+-------------------------------
+
+Route Name     : zostum-o-200mg-tablet-10s
+Language       : bengali-content
+Total Tokens   : 783
+-------------------------------
+
+Route Name     : zostum-o-200mg-tablet-10s
+Language       : bengali-content
+Total Tokens   : 767
+-------------------------------
+
+Route Name     : zostum-o-200mg-tablet-10s
+Language       : bengali-content
+Total Tokens   : 763
+-------------------------------
+
+Route Name     : zostum-o-200mg-tablet-10s
+Language       : bengali-content
+Total Tokens   : 927
+-------------------------------
+
+Route Name     : zostum-o-200mg-tablet-10s
+Language       : bengali-content
+Total Tokens   : 935
+-------------------------------
+
+Route Name     : zostum-o-200mg-tablet-10s
+Language       : bengali-content
+Total Tokens   : 942
+-------------------------------
+
+Route Name     : zostum-o-200mg-tablet-10s
+Language       : bengali-content
+Total Tokens   : 939
+-------------------------------
+
+Route Name     : zostum-o-200mg-tablet-10s
+Language       : bengali-content
+Total Tokens   : 927
+-------------------------------
+
+Route Name     : zostum-o-200mg-tablet-10s
+Language       : bengali-content
+Total Tokens   : 1060
+-------------------------------
+
+Route Name     : zostum-o-200mg-tablet-10s
+Language       : bengali-content
+Total Tokens   : 1010
+-------------------------------
+
+Route Name     : superspas-rf-injection-2ml
+Language       : bengali-content
+Total Tokens   : 773
+-------------------------------
+
+Route Name     : superspas-rf-injection-2ml
+Language       : bengali-content
+Total Tokens   : 770
+-------------------------------
+
+Route Name     : superspas-rf-injection-2ml
+Language       : bengali-content
+Total Tokens   : 783
+-------------------------------
+
+Route Name     : superspas-rf-injection-2ml
+Language       : bengali-content
+Total Tokens   : 788
+-------------------------------
+
+Route Name     : superspas-rf-injection-2ml
+Language       : bengali-content
+Total Tokens   : 825
+-------------------------------
+
+Route Name     : superspas-rf-injection-2ml
+Language       : bengali-content
+Total Tokens   : 780
+-------------------------------
+
+Route Name     : superspas-rf-injection-2ml
+Language       : bengali-content
+Total Tokens   : 822
+-------------------------------
+
+Route Name     : superspas-rf-injection-2ml
+Language       : bengali-content
+Total Tokens   : 905
+-------------------------------
+
+Route Name     : superspas-rf-injection-2ml
+Language       : bengali-content
+Total Tokens   : 1190
+-------------------------------
+
+Route Name     : superspas-rf-injection-2ml
+Language       : bengali-content
+Total Tokens   : 902
+-------------------------------
+
+Route Name     : superspas-rf-injection-2ml
+Language       : bengali-content
+Total Tokens   : 1659
+-------------------------------
+
+Route Name     : superspas-rf-injection-2ml
+Language       : bengali-content
+Total Tokens   : 2013
+-------------------------------
+
+Route Name     : petril-beta-0.25mg20mg-tablet-10s
+Language       : bengali-content
+Total Tokens   : 792
+-------------------------------
+
+Route Name     : petril-beta-0.25mg20mg-tablet-10s
+Language       : bengali-content
+Total Tokens   : 842
+-------------------------------
+
+Route Name     : petril-beta-0.25mg20mg-tablet-10s
+Language       : bengali-content
+Total Tokens   : 809
+-------------------------------
+
+Route Name     : petril-beta-0.25mg20mg-tablet-10s
+Language       : bengali-content
+Total Tokens   : 844
+-------------------------------
+
+Route Name     : petril-beta-0.25mg20mg-tablet-10s
+Language       : bengali-content
+Total Tokens   : 854
+-------------------------------
+
+Route Name     : petril-beta-0.25mg20mg-tablet-10s
+Language       : bengali-content
+Total Tokens   : 804
+-------------------------------
+
+Route Name     : petril-beta-0.25mg20mg-tablet-10s
+Language       : bengali-content
+Total Tokens   : 910
+-------------------------------
+
+Route Name     : petril-beta-0.25mg20mg-tablet-10s
+Language       : bengali-content
+Total Tokens   : 992
+-------------------------------
+
+Route Name     : petril-beta-0.25mg20mg-tablet-10s
+Language       : bengali-content
+Total Tokens   : 1233
+-------------------------------
+
+Route Name     : petril-beta-0.25mg20mg-tablet-10s
+Language       : bengali-content
+Total Tokens   : 1704
+-------------------------------
+
+Route Name     : petril-beta-0.25mg20mg-tablet-10s
+Language       : bengali-content
+Total Tokens   : 2062
+-------------------------------
+
+Route Name     : oflox-d-eye-drop
+Language       : bengali-content
+Total Tokens   : 767
+-------------------------------
+
+Route Name     : oflox-d-eye-drop
+Language       : bengali-content
+Total Tokens   : 772
+-------------------------------
+
+Route Name     : oflox-d-eye-drop
+Language       : bengali-content
+Total Tokens   : 773
+-------------------------------
+
+Route Name     : oflox-d-eye-drop
+Language       : bengali-content
+Total Tokens   : 781
+-------------------------------
+
+Route Name     : oflox-d-eye-drop
+Language       : bengali-content
+Total Tokens   : 831
+-------------------------------
+
+Route Name     : oflox-d-eye-drop
+Language       : bengali-content
+Total Tokens   : 783
+-------------------------------
+
+Route Name     : oflox-d-eye-drop
+Language       : bengali-content
+Total Tokens   : 878
+-------------------------------
+
+Route Name     : oflox-d-eye-drop
+Language       : bengali-content
+Total Tokens   : 778
+-------------------------------
+
+Route Name     : oflox-d-eye-drop
+Language       : bengali-content
+Total Tokens   : 1050
+-------------------------------
+
+Route Name     : oflox-d-eye-drop
+Language       : bengali-content
+Total Tokens   : 1002
+-------------------------------
+
+Route Name     : oflox-d-eye-drop
+Language       : bengali-content
+Total Tokens   : 1454
+-------------------------------
+
+Route Name     : cifran-oz-tablet-10s
+Language       : bengali-content
+Total Tokens   : 767
+-------------------------------
+
+Route Name     : cifran-oz-tablet-10s
+Language       : bengali-content
+Total Tokens   : 755
+-------------------------------
+
+Route Name     : cifran-oz-tablet-10s
+Language       : bengali-content
+Total Tokens   : 765
+-------------------------------
+
+Route Name     : cifran-oz-tablet-10s
+Language       : bengali-content
+Total Tokens   : 843
+-------------------------------
+
+Route Name     : cifran-oz-tablet-10s
+Language       : bengali-content
+Total Tokens   : 909
+-------------------------------
+
+Route Name     : cifran-oz-tablet-10s
+Language       : bengali-content
+Total Tokens   : 769
+-------------------------------
+
+Route Name     : cifran-oz-tablet-10s
+Language       : bengali-content
+Total Tokens   : 805
+-------------------------------
+
+Route Name     : cifran-oz-tablet-10s
+Language       : bengali-content
+Total Tokens   : 772
+-------------------------------
+
+Route Name     : cifran-oz-tablet-10s
+Language       : bengali-content
+Total Tokens   : 1019
+-------------------------------
+
+Route Name     : cifran-oz-tablet-10s
+Language       : bengali-content
+Total Tokens   : 1007
+-------------------------------
+
+Route Name     : cifran-oz-tablet-10s
+Language       : bengali-content
+Total Tokens   : 1954
+-------------------------------
+
+Route Name     : cifran-oz-tablet-10s
+Language       : bengali-content
+Total Tokens   : 1924
+-------------------------------
