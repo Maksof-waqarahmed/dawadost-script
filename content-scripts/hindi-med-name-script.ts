@@ -1,6 +1,6 @@
 import path from "path";
 import fs from "fs";
-import { csvBufferToJson, createOrAppendFile } from "../lib";
+import { csvBufferToJson, createOrAppendFile, validateFormat } from "../lib";
 import { client } from '../db/db'
 import axios from "axios";
 import dotenv from 'dotenv';
@@ -92,32 +92,53 @@ async function englishToHindhiConvert() {
                 continue;
             }
 
-            const { rows: hindi_data } = await client.query(
-                `SELECT introduction, how_to_use, how_it_works, benefits, side_effects, disease_explanation 
-                 FROM medicines_details 
-                 WHERE route_name = $1 AND language = 'hindi'`,
-                [routeName]
-            );
-            const hindiData = hindi_data[0];
-            if (hindiData?.introduction && hindiData?.how_to_use && hindiData?.how_it_works &&
-                hindiData?.benefits && hindiData?.side_effects && hindiData?.disease_explanation) {
-                console.log("Hindi content already exists for:", routeName);
-                continue;
-            }
+            // const { rows: hindi_data } = await client.query(
+            //     `SELECT introduction, how_to_use, how_it_works, benefits, side_effects, disease_explanation 
+            //      FROM medicines_details 
+            //      WHERE route_name = $1 AND language = 'hindi'`,
+            //     [routeName]
+            // );
+            // const hindiData = hindi_data[0];
+            // if (hindiData?.introduction && hindiData?.how_to_use && hindiData?.how_it_works &&
+            //     hindiData?.benefits && hindiData?.side_effects && hindiData?.disease_explanation) {
+            //     console.log("Hindi content already exists for:", routeName);
+            //     continue;
+            // }
 
             const medicineData = rows[0];
             const keyword = keywordRows[0]?.meta_keywords;
             const arr = Object.entries(medicineData);
 
-            const translatedData = await Promise.all(
-                arr.map(async ([key, value]) => {
-                    if (value === null) return [key, value];
-                    return [
-                        key,
-                        await translateToHindi(value as string, keyword, routeName),
-                    ];
-                })
-            );
+            // 🧠 Full translation wrapped in try-catch so if one key fails, entire medicine is skipped
+            const translatedData: [string, any][] = [];
+
+            for (const [key, value] of arr) {
+                if (value === null) {
+                    translatedData.push([key, null]);
+                    continue;
+                }
+
+                try {
+                    const translated = await translateToHindi(value as string, keyword, routeName);
+                    const isValid = validateFormat(value, translated);
+
+                    if (!isValid) throw new Error(`Format mismatch for key: ${key}`);
+
+                    translatedData.push([key, translated]);
+                } catch (innerErr: any) {
+                    console.error(`[Key Error] ${key} for route: ${routeName} — ${innerErr.message}`);
+
+                    // 🚫 Log full medicine routeName and skip this entire medicine
+                    await createOrAppendFile({
+                        language: "invalid-format",
+                        rName: routeName,
+                        tToken: 0,
+                    });
+
+                    throw new Error(`Skipping entire medicine due to key failure`);
+                }
+            }
+
             const translatedObject = Object.fromEntries(translatedData);
 
             const updateQuery = `
@@ -178,7 +199,8 @@ async function englishToHindhiConvert() {
             await client.query(updateQuery, values);
             console.log(`${i++}) ${routeName} content updated successfully.`);
         } catch (error: any) {
-            console.error(`Error processing ${routeName}:`, error.message);
+            console.error(`❌ Skipped medicine: ${routeName} — ${error.message}`);
+            continue;
         }
     }
 }

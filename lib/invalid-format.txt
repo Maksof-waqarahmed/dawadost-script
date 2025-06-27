@@ -1,0 +1,259 @@
+Route Name     : healflam-sp-tablet-10s
+Language       : invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : y-tamin-tablet-10s
+Language       : invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : easy-fiber-powder-sf-150gm
+Language       : invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : hairvita-tablet-10s
+Language       : invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : omegadol-tablet-15s
+Language       : invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : sitahenz-dm-1000-tablet-10s
+Language       : invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : y-tamin-tablet-10s
+Language       : invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : telcure-trio-40mg10mg6.25mg-tablet-10s
+Language       : invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : xyline-kid-nasal-drop-10ml
+Language       : invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : ferradol-health-supplement-paste-200gm
+Language       : invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : cricodage-plus-tablet-10s
+Language       : invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : larmist-ff-nasal-spray-6gm
+Language       : invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : esokem-it-capsule-10s
+Language       : invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : tinytret-20mg-tablet-10s
+Language       : invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : womancal-tablet-30s
+Language       : invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : tamcool-0.4mg-tablet-mr-15s
+Language       : invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : esiloc-40mg-tablet-15s
+Language       : invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : freeflex-emulgel-50gm
+Language       : invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : eshmyco-250mg-tablet-10s
+Language       : invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : luxol-plus-suspension-100ml
+Language       : invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : pregabanyl-nt-75mg10mg-tablet-10s
+Language       : invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : veloz-d-capsule-sr-10s
+Language       : invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : abevia-200mg-tablet-sr-10s
+Language       : invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : zentokast-fx-120mg10mg-tablet-10s
+Language       : invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : eshfero-200mg-tablet-6s
+Language       : invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : memin-p-75mg1500mcg-tablet-15s
+Language       : invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : miecold-tablet-10s
+Language       : invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : dabur-hajmola-regular-sachet-jar-170s
+Language       : invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : p-ppi-l-75mg20mg-capsule-sr-15s
+Language       : invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : p-ppi-l-75mg20mg-capsule-sr-15s
+Language       : invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : ab-phylline-100mg-capsule-15s
+Language       : invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : naturmeds-hand-sanitizer-refreshing-lemon-spray-50ml
+Language       : invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : naturmeds-hand-sanitizer-refreshing-lemon-spray-30ml
+Language       : invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : godrej-no.1-lime-aloe-soap-100gm-41
+Language       : invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : levisri-500mg-tablet-10s
+Language       : invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : flu-ocd-100mg-tablet-10s
+Language       : invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : ebast-m-tablet-15s
+Language       : invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : new-coldact-8mg20mg-capsule-sr-20s
+Language       : invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : cel-d3-60k-capsule-4s
+Language       : invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : orgipam-10mg-tablet-10s
+Language       : invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : blucob-mnt-1500mcg10mg75mg-tablet-10s
+Language       : invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : patanjali-moisturizer-cream-50gm
+Language       : invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : wincit-m-5mg10mg-tablet-10s
+Language       : invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : typlet-375mg-tablet-10s
+Language       : invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : silotime-d-8mg0.5mg-capsule-15s
+Language       : invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : daophage-g-2mg500mg-tablet-15s
+Language       : invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : aktilor-10mg-tablet-10s
+Language       : invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : coxiblu-th-60mg4mg-tablet-10s
+Language       : invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : rocloc-20mg-tablet-10s
+Language       : invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : baidyanath-gandhak-rasayan-tablet-40s
+Language       : invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : whisper-choice-night-xxl-6s
+Language       : invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : halox-0.05wv-cream-30gm
+Language       : invalid-format
+Total Tokens   : 0
+-------------------------------

@@ -1,11 +1,11 @@
 import path from "path";
 import fs from "fs";
-import { csvBufferToJson, createOrAppendFile, extractRouteName } from "../lib";
+import { csvBufferToJson, createOrAppendFile, validateFormat } from "../lib";
 import { client } from '../db/db'
 import axios from "axios";
 import dotenv from 'dotenv';
 dotenv.config({ path: '../.env' });
-import { generateMetaKeywords } from "../keyword-scripts/hindi-keyword-generate";
+import { generateMetaKeywords } from "../keyword-scripts/bengali-keyword-generate";
 
 const file = fs.readFileSync(path.join(__dirname, "../files/medicines.csv"))
 const medicines = csvBufferToJson(file);
@@ -13,27 +13,39 @@ const medicines = csvBufferToJson(file);
 async function englishToHindhiConvert() {
     let i = 1;
 
-    for (const { route_name } of medicines) {
-        const routeName = route_name;
+    const codes = medicines.map(m => m.dd_item_code).filter(Boolean);
+    if (codes.length === 0) {
+        console.log("No dd_item_code found.");
+        return;
+    }
+
+    const { rows: routeRows } = await client.query(
+        `SELECT pos_item_code, route_name FROM medicines WHERE pos_item_code = ANY($1::text[])`,
+        [codes]
+    );
+    const routeMap = Object.fromEntries(routeRows.map(r => [r.pos_item_code, r.route_name]));
+
+    for (const { dd_item_code } of medicines) {
+        const routeName = routeMap[dd_item_code];
 
         if (!routeName) {
-            console.log("Route name not found for:", routeName);
+            console.log("Route name not found for:", dd_item_code);
             continue;
         }
 
         try {
             let { rows: keywordRows } = await client.query(
                 `SELECT meta_keywords FROM medicines_details WHERE route_name = $1 AND language = $2`,
-                [routeName, 'hindi']
+                [routeName, 'bengali']
             );
 
             if (!keywordRows[0]?.meta_keywords) {
                 try {
-                    await generateMetaKeywords('hindi', routeName);
-
+                    await generateMetaKeywords('bengali', routeName);
+                    // re-fetch after generation
                     const { rows: updatedKeywords } = await client.query(
                         `SELECT meta_keywords FROM medicines_details WHERE route_name = $1 AND language = $2`,
-                        [routeName, 'hindi']
+                        [routeName, 'bengali']
                     );
                     keywordRows = updatedKeywords;
                 } catch (error: any) {
@@ -97,17 +109,36 @@ async function englishToHindhiConvert() {
             const keyword = keywordRows[0]?.meta_keywords;
             const arr = Object.entries(medicineData);
 
-            const translatedData = await Promise.all(
-                arr.map(async ([key, value]) => {
-                    if (value === null) return [key, value];
-                    const arr = [
-                        key,
-                        await translateToHindi(value as string, keyword, routeName),
-                    ];
-                    console.log(arr)
-                    return arr;
-                })
-            );
+            // 🧠 Full translation wrapped in try-catch so if one key fails, entire medicine is skipped
+            const translatedData: [string, any][] = [];
+
+            for (const [key, value] of arr) {
+                if (value === null) {
+                    translatedData.push([key, null]);
+                    continue;
+                }
+
+                try {
+                    const translated = await translateToHindi(value as string, keyword, routeName);
+                    const isValid = validateFormat(value, translated);
+
+                    if (!isValid) throw new Error(`Format mismatch for key: ${key}`);
+
+                    translatedData.push([key, translated]);
+                } catch (innerErr: any) {
+                    console.error(`[Key Error] ${key} for route: ${routeName} — ${innerErr.message}`);
+
+                    // 🚫 Log full medicine routeName and skip this entire medicine
+                    await createOrAppendFile({
+                        language: "invalid-format-bengali",
+                        rName: routeName,
+                        tToken: 0,
+                    });
+
+                    throw new Error(`Skipping entire medicine due to key failure`);
+                }
+            }
+
             const translatedObject = Object.fromEntries(translatedData);
 
             const updateQuery = `
@@ -123,7 +154,7 @@ async function englishToHindhiConvert() {
                     dosage = $31, synopsis = $32,
                     gpt_introduction = $33, gpt_how_to_use = $34, gpt_how_it_works = $35,
                     gpt_safety_advice = $36
-                WHERE route_name = $1 AND language = 'hindi';
+                WHERE route_name = $1 AND language = 'bengali';
             `;
 
             const values = [
@@ -165,10 +196,11 @@ async function englishToHindhiConvert() {
                 translatedObject.safety_advice,
             ];
 
-            // await client.query(updateQuery, values);
+            await client.query(updateQuery, values);
             console.log(`${i++}) ${routeName} content updated successfully.`);
         } catch (error: any) {
-            console.error(`Error processing ${routeName}:`, error.message);
+            console.error(`❌ Skipped medicine: ${routeName} — ${error.message}`);
+            continue;
         }
     }
 }
@@ -178,7 +210,7 @@ englishToHindhiConvert()
 async function translateToHindi(text: string, keywords: any, routeName: string) {
 
     if (!text || !keywords) return "";
-    const prompt = `Translate the given English content into Hindi (use simple and commonly understandable words in regular Hindi script). preserving natural Hindi text flow. Maintain the structure of the original content (if content is in array, return in array; if content is in string, return in string). Do not explain any word, heading, or FAQ, and do not alter the meaning. If a paragraph consists of a single word, translate it directly without adding anything. If the content is related to "safety_advice" and it's in array of object format, do not translate the value of the 'risk' key also do not add any other things after and before it. like (json words etc). Keywords must fit naturally in the translated text without changing the context. Do not translate this prompt itself. ${keywords}. Text to Translate: ${text}. do not add any other words like json or other things like template literals before and after any content.
+    const prompt = `Translate the given English content into Bengali (use simple and commonly understandable words in regular Bengali script). preserving natural Bengali text flow. Maintain the structure of the original content (if content is in array, return in array; if content is in string, return in string). Do not explain any word, heading, or FAQ, and do not alter the meaning. If a paragraph consists of a single word, translate it directly without adding anything. If the content is related to "safety_advice" and it's in array of object format, do not translate the value of the 'risk' key also do not add any other things after and before it. like (json words etc). Keywords must fit naturally in the translated text without changing the context. Do not translate this prompt itself. ${keywords}. Text to Translate: ${text}. do not add any other words like json or other things like template literals before and after any content.
 
 If the content is in an array, return in array.
 If the content is in string, return in string.
@@ -240,7 +272,7 @@ Do not add any other words like JSON or template literals before or after any co
             }
         );
 
-        // await createOrAppendFile({ language: "hindi-content", rName: routeName, tToken: response.data.usage.total_tokens })
+        await createOrAppendFile({ language: "bengali-content", rName: routeName, tToken: response.data.usage.total_tokens })
         return response.data.choices[0]?.message?.content.trim() || "";
     } catch (error: any) {
         console.error("Translation Error:", error.response?.data || error.message);

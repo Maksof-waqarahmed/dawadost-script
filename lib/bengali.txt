@@ -2,3 +2,23 @@ Route Name     : igurati-25mg-tablet-10s
 Language       : bengali
 Total Tokens   : 213
 -------------------------------
+
+Route Name     : utwell-tablet-10s
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+
+Route Name     : verytop-5g-softgel-capsule-10s
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+
+Route Name     : naturmeds-hand-sanitizer-refreshing-lemon-spray-50ml
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+
+Route Name     : vilpower-dm-10mg500mg100mg-tablet-10s
+Language       : bengali
+Total Tokens   : 213
+-------------------------------

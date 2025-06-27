@@ -33,3 +33,33 @@ export function extractRouteName(urls: string): string | null {
     return match ? match[1] : null;
 }
 
+export function validateFormat(original: any, translated: any): boolean {
+    try {
+        // Check type match
+        if (Array.isArray(original)) {
+            if (!Array.isArray(translated)) return false;
+
+            // Further check: if array of objects
+            if (typeof original[0] === "object" && original[0] !== null) {
+                if (typeof translated[0] !== "object") return false;
+
+                // Special: for safety_advice, check `risk` key is preserved as-is
+                if (original[0].risk && translated[0].risk !== original[0].risk) return false;
+            }
+        } else if (typeof original === "object") {
+            if (typeof translated !== "object") return false;
+        } else if (typeof original === "string") {
+            if (typeof translated !== "string") return false;
+
+            // Extra check: no wrapping brackets or JSON markers
+            if (/^\s*[\[\{]/.test(translated) && !/^\s*[\[\{]/.test(original)) return false;
+            if (/[\]\}]$/.test(translated) && !/[\]\}]$/.test(original)) return false;
+            if (/json|template/i.test(translated)) return false;
+        }
+
+        return true;
+    } catch (e) {
+        return false;
+    }
+}
+
