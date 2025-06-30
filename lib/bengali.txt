@@ -22,3 +22,228 @@ Route Name     : vilpower-dm-10mg500mg100mg-tablet-10s
 Language       : bengali
 Total Tokens   : 213
 -------------------------------
+
+Route Name     : evofer-xt-tablet-10s
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+
+Route Name     : brillo-ez-180mg10mg-tablet-10s
+Language       : bengali
+Total Tokens   : 219
+-------------------------------
+
+Route Name     : bladmir-s-25mg5mg-tablet-10s
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+
+Route Name     : dapefy-s-5mg50mg-tablet-15s
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+
+Route Name     : prolomet-25-tablet-xl-15s
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+
+Route Name     : zepup-orange-syrup-200ml
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+
+Route Name     : lbvit-capsule-10s
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+
+Route Name     : calpin-nano-shot-solution-5ml
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+
+Route Name     : tancare-spf-50-lotion-50ml
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+
+Route Name     : acna-calm-face-cream-spf-30-20ml
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+
+Route Name     : immulaz-12mg-tablet-10s
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+
+Route Name     : advibe-sachet-5gm
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+
+Route Name     : abpress-pf-eye-drop-10ml
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+
+Route Name     : toras-xt-syrup-200ml
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+
+Route Name     : prilox-25mg25mg-cream-10gm
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+
+Route Name     : calosyn-k5-softgel-capsule-10s
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+
+Route Name     : hftril-50-tablet-14s
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+
+Route Name     : flavosis-200mg-tablet-10s
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+
+Route Name     : apigy-5mg-tablet-10s
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+
+Route Name     : rozucor-f-5mg160mg-tablet-15s
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+
+Route Name     : uprise-d3-1000iu-capsule-15s
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+
+Route Name     : thromboxan-2.5mg-tablet-10s
+Language       : bengali
+Total Tokens   : 219
+-------------------------------
+
+Route Name     : devpan-40mg-tablet-10s
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+
+Route Name     : sitahenz-dm-10mg500mg100mg-tablet-er-10s
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+
+Route Name     : xglar-100iu-refil-cartridge-injection-3ml-x5s
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+
+Route Name     : bilasure-m-kid-orodispersible-tablet-10s
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+
+Route Name     : zepkon-plus-0.25mg10mg-tablet-10s
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+
+Route Name     : levisri-500mg-tablet-10s
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+
+Route Name     : esomifor-40mg-tablet
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+
+Route Name     : onpical-maxx-softgel-capsule-10s
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+
+Route Name     : pioz-v-15mg50mg-tablet-15s
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+
+Route Name     : calaqua-neo-tablet-15s
+Language       : bengali
+Total Tokens   : 219
+-------------------------------
+
+Route Name     : d-wash-moisturising-facial-wash-dry-skin-70ml
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+
+Route Name     : ab-flo-100mg-capsule-15s
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+
+Route Name     : camed-z-capsule-10s
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+
+Route Name     : ssz-ds-1000mg-tablet-10s
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+
+Route Name     : voglistar-plus-0.2mg500mg-tablet-15s
+Language       : bengali
+Total Tokens   : 219
+-------------------------------
+
+Route Name     : b-n-c-capsule-15s
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+
+Route Name     : new-coldact-8mg20mg-capsule-sr-20s
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+
+Route Name     : ecosprin-av-150mg20mg-capsule-15s
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+
+Route Name     : cel-d3-60k-capsule-4s
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+
+Route Name     : glycetrate-6.4-tablet-30s
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+
+Route Name     : carnigain-tablet-10s
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+
+Route Name     : himalaya-men-power-glow-licorice-face-wash-50ml
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+
+Route Name     : mysore-soap-sandal-150gm-pack-of-3
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
