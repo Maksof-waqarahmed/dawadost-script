@@ -13,3 +13,63 @@ Route Name     : patanjali-divya-madhunashini-vati-extra-power-120s
 Language       : invalid-format-bengali
 Total Tokens   : 0
 -------------------------------
+
+Route Name     : telvas-80mg-tablet-15s
+Language       : invalid-format-bengali
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : cinthol-men-deo-stick-long-lasting-3x-rush-40gm
+Language       : invalid-format-bengali
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : azoran-50mg-tablet-20s
+Language       : invalid-format-bengali
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : b-gap-tablet-1s
+Language       : invalid-format-bengali
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : cozyrich-q10-tablet-10s
+Language       : invalid-format-bengali
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : fine-nerve-ntp-tablet-10s
+Language       : invalid-format-bengali
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : nepcinac-eye-drop
+Language       : invalid-format-bengali
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : nistami-110mcg50mcg-rotacap-30s
+Language       : invalid-format-bengali
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : lubrifresh-eye-drop-10ml
+Language       : invalid-format-bengali
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : neosporin-skin-ointment-10gm
+Language       : invalid-format-bengali
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : besicor-5mg-tablet-15s
+Language       : invalid-format-bengali
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : ketocip-2-cream-15gm
+Language       : invalid-format-bengali
+Total Tokens   : 0
+-------------------------------

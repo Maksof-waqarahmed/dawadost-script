@@ -477,3 +477,238 @@ Route Name     : etotrax-90mg-tablet-10s
 Language       : invalid-format
 Total Tokens   : 0
 -------------------------------
+
+Route Name     : vicks-medicated-throat-lozenges-orange-menthol-8s
+Language       : invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : ketof-10mgtablet-dt-10s
+Language       : invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : athrovas-asp-10mg75mg-capsule-10s
+Language       : invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : unika-lc-10mg5mg-tablet-10s
+Language       : invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : vertin-od-24mg-tablet-sr-15s
+Language       : invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : dapamac-v-10mg100mg-tablet-sr-10s
+Language       : invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : arbitel-ct-40mg12.5mg-tablet-15s
+Language       : invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : coltro-as-10mg75mg-capsule-10s
+Language       : invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : hungree-syrup-elaichi-flavour-200ml
+Language       : invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : hungree-syrup-pineapple-200ml
+Language       : invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : nepatop-free-eye-drop
+Language       : invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : cheerfol-tablet-10s
+Language       : invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : trichodensse-hair-serum-60ml
+Language       : invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : crystal-care-latex-powdered-medical-examination-gloves-m-100s
+Language       : invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : vertin-od-48mg-tablet-sr-15s
+Language       : invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : uns-d3-nano-60k-oral-solution-sf-5ml
+Language       : invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : nacpol-sp-100mg325mg15mg-tablet-10s
+Language       : invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : mist-f-nasal-spray-120mdi
+Language       : invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : caziq-buccal-paste-7.5gm
+Language       : invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : hungree-syrup-orang-flavour-200ml
+Language       : invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : zolfresh-10mg-tablet-odt-15s
+Language       : invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : mpower-f-solution-60ml
+Language       : invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : kemfix-of-tablet-10s
+Language       : invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : tradafert-men-tablet-10s
+Language       : invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : aarcox-t-60mg4mg-tablet-10s
+Language       : invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : natocare-powder-dutch-chocolate-200gm
+Language       : invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : eustozyme-syrup-200ml
+Language       : invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : gb-12-sublingual-vanilla-flavour-tablet-30s
+Language       : invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : oxifate-o-syrup
+Language       : invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : pro-cas-d-powder-chocolate-flavour-200gm
+Language       : invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : healace-gel-7.5gm
+Language       : invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : gabalox-mnt-tablet-10s
+Language       : invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : mcalzi-ct-capsule-10s
+Language       : invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : protodom-10mg20mg-capsule
+Language       : invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : event-m-tablet-10s
+Language       : invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : nitogem-2.6mg-tablet-30s
+Language       : invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : lozyne-600mg-tablet-6s
+Language       : invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : uriliser-oral-solution-raspberry-flavour-sugar-free-200ml
+Language       : invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : tolpan-d-30mg40mg-capsule-sr-10s
+Language       : invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : dapavel-s-1050-tablet-10s
+Language       : invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : rabovic-it-capsule-10s
+Language       : invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : dvx-1000mg-tablet-er-10s
+Language       : invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : arnisac-100mg-tablet-14s
+Language       : invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : laxolite-oral-liquid-sf-500ml
+Language       : invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : montvil-lc-syrup-60ml
+Language       : invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : azee-xl-200mg-liquid-30ml
+Language       : invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : m-pro-dha-powder-sf-200gm
+Language       : invalid-format
+Total Tokens   : 0
+-------------------------------
