@@ -712,3 +712,43 @@ Route Name     : m-pro-dha-powder-sf-200gm
 Language       : invalid-format
 Total Tokens   : 0
 -------------------------------
+
+Route Name     : essegas-dsr-capsule-10s
+Language       : invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : v-m-nu-syrup-200ml
+Language       : invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : cervifert-tablet-10s
+Language       : invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : lupivon-20mg-tablet-10s
+Language       : invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : zucapride-5mg-tablet-10s
+Language       : invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : aristomol-m-oral-suspension-60ml
+Language       : invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : bisojoy-am-5mg5mg-tablet-10s
+Language       : invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : pantocaf-dsr-capsule-10s
+Language       : invalid-format
+Total Tokens   : 0
+-------------------------------
