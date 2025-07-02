@@ -245,5 +245,3 @@ Do not add any other words like JSON or template literals before or after any co
         return text;
     }
 }
-
-lt --port 3000 --subdomain rana-classroom-app

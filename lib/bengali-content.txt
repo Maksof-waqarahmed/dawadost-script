@@ -108883,3 +108883,28 @@ Route Name     : tenepure-20mg-tablet-15s
 Language       : bengali-content
 Total Tokens   : 1169
 -------------------------------
+
+Route Name     : tenepure-20mg-tablet-15s
+Language       : bengali-content
+Total Tokens   : 864
+-------------------------------
+
+Route Name     : tenepure-20mg-tablet-15s
+Language       : bengali-content
+Total Tokens   : 945
+-------------------------------
+
+Route Name     : tenepure-20mg-tablet-15s
+Language       : bengali-content
+Total Tokens   : 910
+-------------------------------
+
+Route Name     : tenepure-20mg-tablet-15s
+Language       : bengali-content
+Total Tokens   : 860
+-------------------------------
+
+Route Name     : tenepure-20mg-tablet-15s
+Language       : bengali-content
+Total Tokens   : 1688
+-------------------------------
