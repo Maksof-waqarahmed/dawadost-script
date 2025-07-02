@@ -73,3 +73,33 @@ Route Name     : ketocip-2-cream-15gm
 Language       : invalid-format-bengali
 Total Tokens   : 0
 -------------------------------
+
+Route Name     : ceftum-500mg-tablet-4s
+Language       : invalid-format-bengali
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : pantocid-d-30mg40mg-capsule-sr-15s
+Language       : invalid-format-bengali
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : baidyanath-bhringrajasava-syrup-450ml
+Language       : invalid-format-bengali
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : pyrofast-tablet-10s
+Language       : invalid-format-bengali
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : mesagran-od-1200mg-tablet-10s
+Language       : invalid-format-bengali
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : telvilite-h-40mg12.5mg-tablet-10s
+Language       : invalid-format-bengali
+Total Tokens   : 0
+-------------------------------
