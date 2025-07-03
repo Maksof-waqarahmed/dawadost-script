@@ -5,7 +5,7 @@ import { client } from '../db/db'
 import axios from "axios";
 import dotenv from 'dotenv';
 dotenv.config({ path: '../.env' });
-import { generateMetaKeywords } from "../keyword-scripts/bengali-keyword-generate";
+import { generateMetaKeywords } from "../keyword-scripts/gujrati-keyword-generate";
 
 const file = fs.readFileSync(path.join(__dirname, "../files/medicines.csv"))
 const medicines = csvBufferToJson(file);
@@ -17,23 +17,23 @@ async function englishToHindhiConvert() {
         const routeName = extractRouteName(route_name);
 
         if (!routeName) {
-            console.log("Route name not found for:", route_name);
+            console.log("Route name not found for:", routeName);
             continue;
         }
 
         try {
             let { rows: keywordRows } = await client.query(
                 `SELECT meta_keywords FROM medicines_details WHERE route_name = $1 AND language = $2`,
-                [routeName, 'bengali']
+                [routeName, 'gujrati']
             );
 
             if (!keywordRows[0]?.meta_keywords) {
                 try {
-                    await generateMetaKeywords('bengali', routeName);
+                    await generateMetaKeywords('gujrati', routeName);
                     // re-fetch after generation
                     const { rows: updatedKeywords } = await client.query(
                         `SELECT meta_keywords FROM medicines_details WHERE route_name = $1 AND language = $2`,
-                        [routeName, 'bengali']
+                        [routeName, 'gujrati']
                     );
                     keywordRows = updatedKeywords;
                 } catch (error: any) {
@@ -80,18 +80,18 @@ async function englishToHindhiConvert() {
                 continue;
             }
 
-            // const { rows: hindi_data } = await client.query(
-            //     `SELECT introduction, how_to_use, how_it_works, benefits, side_effects, disease_explanation 
-            //      FROM medicines_details 
-            //      WHERE route_name = $1 AND language = 'hindi'`,
-            //     [routeName]
-            // );
-            // const hindiData = hindi_data[0];
-            // if (hindiData?.introduction && hindiData?.how_to_use && hindiData?.how_it_works &&
-            //     hindiData?.benefits && hindiData?.side_effects && hindiData?.disease_explanation) {
-            //     console.log("Hindi content already exists for:", routeName);
-            //     continue;
-            // }
+            const { rows: gujrati_data } = await client.query(
+                `SELECT introduction, how_to_use, how_it_works, benefits, side_effects, disease_explanation 
+                 FROM medicines_details 
+                 WHERE route_name = $1 AND language = 'gujrati'`,
+                [routeName]
+            );
+            const gujratiData = gujrati_data[0];
+            if (gujratiData?.introduction && gujratiData?.how_to_use && gujratiData?.how_it_works &&
+                gujratiData?.benefits && gujratiData?.side_effects && gujratiData?.disease_explanation) {
+                console.log("gujrati content already exists for:", routeName);
+                continue;
+            }
 
             const medicineData = rows[0];
             const keyword = keywordRows[0]?.meta_keywords;
@@ -118,7 +118,7 @@ async function englishToHindhiConvert() {
 
                     // 🚫 Log full medicine routeName and skip this entire medicine
                     await createOrAppendFile({
-                        language: "invalid-format-bengali",
+                        language: "invalid-format",
                         rName: routeName,
                         tToken: 0,
                     });
@@ -142,7 +142,7 @@ async function englishToHindhiConvert() {
                     dosage = $31, synopsis = $32,
                     gpt_introduction = $33, gpt_how_to_use = $34, gpt_how_it_works = $35,
                     gpt_safety_advice = $36
-                WHERE route_name = $1 AND language = 'bengali';
+                WHERE route_name = $1 AND language = 'gujrati';
             `;
 
             const values = [
@@ -198,7 +198,7 @@ englishToHindhiConvert()
 async function translateToHindi(text: string, keywords: any, routeName: string) {
 
     if (!text || !keywords) return "";
-    const prompt = `Translate the given English content into Bengali (use simple and commonly understandable words in regular Bengali script). preserving natural Bengali text flow. Maintain the structure of the original content (if content is in array, return in array; if content is in string, return in string). Do not explain any word, heading, or FAQ, and do not alter the meaning. If a paragraph consists of a single word, translate it directly without adding anything. If the content is related to "safety_advice" and it's in array of object format, do not translate the value of the 'risk' key also do not add any other things after and before it. like (json words etc). Keywords must fit naturally in the translated text without changing the context. Do not translate this prompt itself. ${keywords}. Text to Translate: ${text}. do not add any other words like json or other things like template literals before and after any content.
+    const prompt = `Translate the given English content into gujrati (use simple and commonly understandable words in regular gujrati script). preserving natural gujrati text flow. Maintain the structure of the original content (if content is in array, return in array; if content is in string, return in string). Do not explain any word, heading, or FAQ, and do not alter the meaning. If a paragraph consists of a single word, translate it directly without adding anything. If the content is related to "safety_advice" and it's in array of object format, do not translate the value of the 'risk' key also do not add any other things after and before it. like (json words etc). Keywords must fit naturally in the translated text without changing the context. Do not translate this prompt itself. ${keywords}. Text to Translate: ${text}. do not add any other words like json or other things like template literals before and after any content.
 
 If the content is in an array, return in array.
 If the content is in string, return in string.
@@ -260,7 +260,7 @@ Do not add any other words like JSON or template literals before or after any co
             }
         );
 
-        await createOrAppendFile({ language: "bengali-content", rName: routeName, tToken: response.data.usage.total_tokens })
+        await createOrAppendFile({ language: "gujrati-content", rName: routeName, tToken: response.data.usage.total_tokens })
         return response.data.choices[0]?.message?.content.trim() || "";
     } catch (error: any) {
         console.error("Translation Error:", error.response?.data || error.message);

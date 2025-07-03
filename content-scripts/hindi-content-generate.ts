@@ -1,6 +1,6 @@
 import path from "path";
 import fs from "fs";
-import { csvBufferToJson, createOrAppendFile, extractRouteName } from "../lib";
+import { csvBufferToJson, createOrAppendFile, validateFormat, extractRouteName } from "../lib";
 import { client } from '../db/db'
 import axios from "axios";
 import dotenv from 'dotenv';
@@ -14,7 +14,7 @@ async function englishToHindhiConvert() {
     let i = 1;
 
     for (const { route_name } of medicines) {
-        const routeName = route_name;
+        const routeName = extractRouteName(route_name);
 
         if (!routeName) {
             console.log("Route name not found for:", routeName);
@@ -30,7 +30,7 @@ async function englishToHindhiConvert() {
             if (!keywordRows[0]?.meta_keywords) {
                 try {
                     await generateMetaKeywords('hindi', routeName);
-
+                    // re-fetch after generation
                     const { rows: updatedKeywords } = await client.query(
                         `SELECT meta_keywords FROM medicines_details WHERE route_name = $1 AND language = $2`,
                         [routeName, 'hindi']
@@ -97,17 +97,36 @@ async function englishToHindhiConvert() {
             const keyword = keywordRows[0]?.meta_keywords;
             const arr = Object.entries(medicineData);
 
-            const translatedData = await Promise.all(
-                arr.map(async ([key, value]) => {
-                    if (value === null) return [key, value];
-                    const arr = [
-                        key,
-                        await translateToHindi(value as string, keyword, routeName),
-                    ];
-                    console.log(arr)
-                    return arr;
-                })
-            );
+            // 🧠 Full translation wrapped in try-catch so if one key fails, entire medicine is skipped
+            const translatedData: [string, any][] = [];
+
+            for (const [key, value] of arr) {
+                if (value === null) {
+                    translatedData.push([key, null]);
+                    continue;
+                }
+
+                try {
+                    const translated = await translateToHindi(value as string, keyword, routeName);
+                    const isValid = validateFormat(value, translated);
+
+                    if (!isValid) throw new Error(`Format mismatch for key: ${key}`);
+
+                    translatedData.push([key, translated]);
+                } catch (innerErr: any) {
+                    console.error(`[Key Error] ${key} for route: ${routeName} — ${innerErr.message}`);
+
+                    // 🚫 Log full medicine routeName and skip this entire medicine
+                    await createOrAppendFile({
+                        language: "invalid-format",
+                        rName: routeName,
+                        tToken: 0,
+                    });
+
+                    throw new Error(`Skipping entire medicine due to key failure`);
+                }
+            }
+
             const translatedObject = Object.fromEntries(translatedData);
 
             const updateQuery = `
@@ -165,10 +184,11 @@ async function englishToHindhiConvert() {
                 translatedObject.safety_advice,
             ];
 
-            // await client.query(updateQuery, values);
+            await client.query(updateQuery, values);
             console.log(`${i++}) ${routeName} content updated successfully.`);
         } catch (error: any) {
-            console.error(`Error processing ${routeName}:`, error.message);
+            console.error(`❌ Skipped medicine: ${routeName} — ${error.message}`);
+            continue;
         }
     }
 }
@@ -240,7 +260,7 @@ Do not add any other words like JSON or template literals before or after any co
             }
         );
 
-        // await createOrAppendFile({ language: "hindi-content", rName: routeName, tToken: response.data.usage.total_tokens })
+        await createOrAppendFile({ language: "hindi-content", rName: routeName, tToken: response.data.usage.total_tokens })
         return response.data.choices[0]?.message?.content.trim() || "";
     } catch (error: any) {
         console.error("Translation Error:", error.response?.data || error.message);

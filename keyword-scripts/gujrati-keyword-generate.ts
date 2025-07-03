@@ -52,34 +52,67 @@ export async function generateKeyWords(data: { name: string, route_name: string,
 }
 
 let i = 1;
-export async function generateMetaKeywords(language: string) {
-    for (let medicineRoute of medicines) {
-        try {
-            const { rows: medicineName } = await client.query(`SELECT name FROM medicines_details WHERE route_name = $1 AND language = $2`, [medicineRoute.route_name, language]);
+// export async function generateMetaKeywords(language: string) {
+//     for (let medicineRoute of medicines) {
+//         try {
+//             const { rows: medicineName } = await client.query(`SELECT name FROM medicines_details WHERE route_name = $1 AND language = $2`, [medicineRoute.route_name, language]);
 
-            let keyWords: any = await generateKeyWords({ language: language, name: medicineName[0].name, route_name: medicineRoute.route_name });
+//             let keyWords: any = await generateKeyWords({ language: language, name: medicineName[0].name, route_name: medicineRoute.route_name });
 
-            if (typeof keyWords === "string") {
-                keyWords = JSON.parse(keyWords);
-            }
+//             if (typeof keyWords === "string") {
+//                 keyWords = JSON.parse(keyWords);
+//             }
 
-            const setQuery = `UPDATE medicines_details SET meta_keywords = $1 WHERE route_name = $2 AND language = $3`;
+//             const setQuery = `UPDATE medicines_details SET meta_keywords = $1 WHERE route_name = $2 AND language = $3`;
 
-            await client.query(setQuery, [
-                JSON.stringify({
-                    primary: keyWords.primary_keywords?.gujrati,
-                    secondary: keyWords.secondary_keywords?.gujrati,
-                    mostly_searched: keyWords.mostly_searched_words?.gujrati,
-                }),
-                medicineRoute.route_name,
-                language,
-            ]);
+//             await client.query(setQuery, [
+//                 JSON.stringify({
+//                     primary: keyWords.primary_keywords?.gujrati,
+//                     secondary: keyWords.secondary_keywords?.gujrati,
+//                     mostly_searched: keyWords.mostly_searched_words?.gujrati,
+//                 }),
+//                 medicineRoute.route_name,
+//                 language,
+//             ]);
 
-            console.log(i++ + ") " + medicineRoute.route_name + " updated!");
-        } catch (error: any) {
-            console.error("Database Error:", error.message);
+//             console.log(i++ + ") " + medicineRoute.route_name + " updated!");
+//         } catch (error: any) {
+//             console.error("Database Error:", error.message);
+//         }
+//     }
+// }
+
+// generateMetaKeywords("gujrati");
+
+export async function generateMetaKeywords(language: string, routeName: string) {
+    try {
+        const { rows: medicineName } = await client.query(`SELECT name FROM medicines_details WHERE route_name = $1 AND language = $2`, [routeName, language]);
+
+        if (medicineName.length === 0) {
+            console.log(`No medicine found for route: ${routeName} in language: ${language}`);
+            return;
         }
+
+        let keyWords: any = await generateKeyWords({ language: language, name: medicineName[0].name, route_name: routeName });
+
+        if (typeof keyWords === "string") {
+            keyWords = JSON.parse(keyWords);
+        }
+
+        const setQuery = `UPDATE medicines_details SET meta_keywords = $1 WHERE route_name = $2 AND language = $3`;
+
+        await client.query(setQuery, [
+            JSON.stringify({
+                primary: keyWords.primary_keywords?.gujrati,
+                secondary: keyWords.secondary_keywords?.gujrati,
+                mostly_searched: keyWords.mostly_searched_words?.gujrati,
+            }),
+            routeName,
+            language,
+        ]);
+
+        console.log(i++ + ") " + routeName + " Keywords updated!");
+    } catch (error: any) {
+        console.error("Database Error:", error.message);
     }
 }
-
-generateMetaKeywords("gujrati");
