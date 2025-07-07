@@ -92607,3 +92607,143 @@ Route Name     : esgipyrin-a-tablet-15s
 Language       : urdu-content
 Total Tokens   : 1371
 -------------------------------
+
+Route Name     : esgipyrin-a-tablet-15s
+Language       : urdu-content
+Total Tokens   : 751
+-------------------------------
+
+Route Name     : esgipyrin-a-tablet-15s
+Language       : urdu-content
+Total Tokens   : 928
+-------------------------------
+
+Route Name     : esgipyrin-a-tablet-15s
+Language       : urdu-content
+Total Tokens   : 1038
+-------------------------------
+
+Route Name     : esgipyrin-a-tablet-15s
+Language       : urdu-content
+Total Tokens   : 750
+-------------------------------
+
+Route Name     : esgipyrin-a-tablet-15s
+Language       : urdu-content
+Total Tokens   : 828
+-------------------------------
+
+Route Name     : esgipyrin-a-tablet-15s
+Language       : urdu-content
+Total Tokens   : 1897
+-------------------------------
+
+Route Name     : esgipyrin-a-tablet-15s
+Language       : urdu-content
+Total Tokens   : 815
+-------------------------------
+
+Route Name     : esgipyrin-a-tablet-15s
+Language       : urdu-content
+Total Tokens   : 782
+-------------------------------
+
+Route Name     : esgipyrin-a-tablet-15s
+Language       : urdu-content
+Total Tokens   : 775
+-------------------------------
+
+Route Name     : esgipyrin-a-tablet-15s
+Language       : urdu-content
+Total Tokens   : 909
+-------------------------------
+
+Route Name     : esgipyrin-a-tablet-15s
+Language       : urdu-content
+Total Tokens   : 940
+-------------------------------
+
+Route Name     : esgipyrin-a-tablet-15s
+Language       : urdu-content
+Total Tokens   : 797
+-------------------------------
+
+Route Name     : esgipyrin-a-tablet-15s
+Language       : urdu-content
+Total Tokens   : 808
+-------------------------------
+
+Route Name     : esgipyrin-a-tablet-15s
+Language       : urdu-content
+Total Tokens   : 879
+-------------------------------
+
+Route Name     : sofinox-cream
+Language       : urdu-content
+Total Tokens   : 761
+-------------------------------
+
+Route Name     : sofinox-cream
+Language       : urdu-content
+Total Tokens   : 764
+-------------------------------
+
+Route Name     : sofinox-cream
+Language       : urdu-content
+Total Tokens   : 774
+-------------------------------
+
+Route Name     : sofinox-cream
+Language       : urdu-content
+Total Tokens   : 762
+-------------------------------
+
+Route Name     : sofinox-cream
+Language       : urdu-content
+Total Tokens   : 1420
+-------------------------------
+
+Route Name     : sofinox-cream
+Language       : urdu-content
+Total Tokens   : 952
+-------------------------------
+
+Route Name     : sofinox-cream
+Language       : urdu-content
+Total Tokens   : 1078
+-------------------------------
+
+Route Name     : sofinox-cream
+Language       : urdu-content
+Total Tokens   : 883
+-------------------------------
+
+Route Name     : sofinox-cream
+Language       : urdu-content
+Total Tokens   : 819
+-------------------------------
+
+Route Name     : sofinox-cream
+Language       : urdu-content
+Total Tokens   : 1169
+-------------------------------
+
+Route Name     : sofinox-cream
+Language       : urdu-content
+Total Tokens   : 923
+-------------------------------
+
+Route Name     : sofinox-cream
+Language       : urdu-content
+Total Tokens   : 978
+-------------------------------
+
+Route Name     : sofinox-cream
+Language       : urdu-content
+Total Tokens   : 980
+-------------------------------
+
+Route Name     : sofinox-cream
+Language       : urdu-content
+Total Tokens   : 755
+-------------------------------

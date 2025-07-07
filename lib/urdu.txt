@@ -6657,3 +6657,8 @@ Route Name     : esgipyrin-a-tablet-15s
 Language       : urdu
 Total Tokens   : 200
 -------------------------------
+
+Route Name     : sofinox-cream
+Language       : urdu
+Total Tokens   : 202
+-------------------------------

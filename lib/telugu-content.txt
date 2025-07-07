@@ -39263,3 +39263,3978 @@ Route Name     : ceflox-eyeear-drops-10s
 Language       : telugu-content
 Total Tokens   : 878
 -------------------------------
+
+Route Name     : s-mucolite-syrup-100ml
+Language       : telugu-content
+Total Tokens   : 796
+-------------------------------
+
+Route Name     : s-mucolite-syrup-100ml
+Language       : telugu-content
+Total Tokens   : 793
+-------------------------------
+
+Route Name     : s-mucolite-syrup-100ml
+Language       : telugu-content
+Total Tokens   : 904
+-------------------------------
+
+Route Name     : s-mucolite-syrup-100ml
+Language       : telugu-content
+Total Tokens   : 785
+-------------------------------
+
+Route Name     : s-mucolite-syrup-100ml
+Language       : telugu-content
+Total Tokens   : 1054
+-------------------------------
+
+Route Name     : s-mucolite-syrup-100ml
+Language       : telugu-content
+Total Tokens   : 897
+-------------------------------
+
+Route Name     : s-mucolite-syrup-100ml
+Language       : telugu-content
+Total Tokens   : 1083
+-------------------------------
+
+Route Name     : s-mucolite-syrup-100ml
+Language       : telugu-content
+Total Tokens   : 1323
+-------------------------------
+
+Route Name     : s-mucolite-syrup-100ml
+Language       : telugu-content
+Total Tokens   : 874
+-------------------------------
+
+Route Name     : s-mucolite-syrup-100ml
+Language       : telugu-content
+Total Tokens   : 1530
+-------------------------------
+
+Route Name     : s-mucolite-syrup-100ml
+Language       : telugu-content
+Total Tokens   : 993
+-------------------------------
+
+Route Name     : s-mucolite-syrup-100ml
+Language       : telugu-content
+Total Tokens   : 894
+-------------------------------
+
+Route Name     : s-mucolite-syrup-100ml
+Language       : telugu-content
+Total Tokens   : 951
+-------------------------------
+
+Route Name     : s-mucolite-syrup-100ml
+Language       : telugu-content
+Total Tokens   : 792
+-------------------------------
+
+Route Name     : s-mucolite-syrup-100ml
+Language       : telugu-content
+Total Tokens   : 873
+-------------------------------
+
+Route Name     : s-mucolite-syrup-100ml
+Language       : telugu-content
+Total Tokens   : 935
+-------------------------------
+
+Route Name     : s-mucolite-syrup-100ml
+Language       : telugu-content
+Total Tokens   : 842
+-------------------------------
+
+Route Name     : hepakind-300mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 797
+-------------------------------
+
+Route Name     : hepakind-300mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 775
+-------------------------------
+
+Route Name     : hepakind-300mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 818
+-------------------------------
+
+Route Name     : hepakind-300mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 778
+-------------------------------
+
+Route Name     : hepakind-300mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 1585
+-------------------------------
+
+Route Name     : hepakind-300mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 962
+-------------------------------
+
+Route Name     : hepakind-300mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 970
+-------------------------------
+
+Route Name     : hepakind-300mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 953
+-------------------------------
+
+Route Name     : hepakind-300mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 778
+-------------------------------
+
+Route Name     : hepakind-300mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 970
+-------------------------------
+
+Route Name     : hepakind-300mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 1511
+-------------------------------
+
+Route Name     : hepakind-300mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 960
+-------------------------------
+
+Route Name     : hepakind-300mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 951
+-------------------------------
+
+Route Name     : hepakind-300mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 1062
+-------------------------------
+
+Route Name     : hepakind-300mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 856
+-------------------------------
+
+Route Name     : hepakind-300mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 807
+-------------------------------
+
+Route Name     : hepakind-300mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 1017
+-------------------------------
+
+Route Name     : hepakind-300mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 954
+-------------------------------
+
+Route Name     : hepakind-300mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 990
+-------------------------------
+
+Route Name     : hepakind-300mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 927
+-------------------------------
+
+Route Name     : erytop-gel-20gm
+Language       : telugu-content
+Total Tokens   : 783
+-------------------------------
+
+Route Name     : erytop-gel-20gm
+Language       : telugu-content
+Total Tokens   : 776
+-------------------------------
+
+Route Name     : erytop-gel-20gm
+Language       : telugu-content
+Total Tokens   : 793
+-------------------------------
+
+Route Name     : erytop-gel-20gm
+Language       : telugu-content
+Total Tokens   : 787
+-------------------------------
+
+Route Name     : erytop-gel-20gm
+Language       : telugu-content
+Total Tokens   : 1015
+-------------------------------
+
+Route Name     : erytop-gel-20gm
+Language       : telugu-content
+Total Tokens   : 906
+-------------------------------
+
+Route Name     : erytop-gel-20gm
+Language       : telugu-content
+Total Tokens   : 1003
+-------------------------------
+
+Route Name     : erytop-gel-20gm
+Language       : telugu-content
+Total Tokens   : 960
+-------------------------------
+
+Route Name     : erytop-gel-20gm
+Language       : telugu-content
+Total Tokens   : 864
+-------------------------------
+
+Route Name     : erytop-gel-20gm
+Language       : telugu-content
+Total Tokens   : 1414
+-------------------------------
+
+Route Name     : erytop-gel-20gm
+Language       : telugu-content
+Total Tokens   : 1031
+-------------------------------
+
+Route Name     : erytop-gel-20gm
+Language       : telugu-content
+Total Tokens   : 986
+-------------------------------
+
+Route Name     : erytop-gel-20gm
+Language       : telugu-content
+Total Tokens   : 800
+-------------------------------
+
+Route Name     : erytop-gel-20gm
+Language       : telugu-content
+Total Tokens   : 773
+-------------------------------
+
+Route Name     : erytop-gel-20gm
+Language       : telugu-content
+Total Tokens   : 969
+-------------------------------
+
+Route Name     : erytop-gel-20gm
+Language       : telugu-content
+Total Tokens   : 1143
+-------------------------------
+
+Route Name     : erytop-gel-20gm
+Language       : telugu-content
+Total Tokens   : 782
+-------------------------------
+
+Route Name     : erytop-gel-20gm
+Language       : telugu-content
+Total Tokens   : 839
+-------------------------------
+
+Route Name     : erytop-gel-20gm
+Language       : telugu-content
+Total Tokens   : 907
+-------------------------------
+
+Route Name     : clonate-f-cream-20gm
+Language       : telugu-content
+Total Tokens   : 785
+-------------------------------
+
+Route Name     : clonate-f-cream-20gm
+Language       : telugu-content
+Total Tokens   : 800
+-------------------------------
+
+Route Name     : clonate-f-cream-20gm
+Language       : telugu-content
+Total Tokens   : 835
+-------------------------------
+
+Route Name     : clonate-f-cream-20gm
+Language       : telugu-content
+Total Tokens   : 782
+-------------------------------
+
+Route Name     : clonate-f-cream-20gm
+Language       : telugu-content
+Total Tokens   : 937
+-------------------------------
+
+Route Name     : clonate-f-cream-20gm
+Language       : telugu-content
+Total Tokens   : 990
+-------------------------------
+
+Route Name     : clonate-f-cream-20gm
+Language       : telugu-content
+Total Tokens   : 976
+-------------------------------
+
+Route Name     : clonate-f-cream-20gm
+Language       : telugu-content
+Total Tokens   : 984
+-------------------------------
+
+Route Name     : clonate-f-cream-20gm
+Language       : telugu-content
+Total Tokens   : 929
+-------------------------------
+
+Route Name     : clonate-f-cream-20gm
+Language       : telugu-content
+Total Tokens   : 1004
+-------------------------------
+
+Route Name     : clonate-f-cream-20gm
+Language       : telugu-content
+Total Tokens   : 926
+-------------------------------
+
+Route Name     : greyex-solution-30ml
+Language       : telugu-content
+Total Tokens   : 780
+-------------------------------
+
+Route Name     : greyex-solution-30ml
+Language       : telugu-content
+Total Tokens   : 775
+-------------------------------
+
+Route Name     : greyex-solution-30ml
+Language       : telugu-content
+Total Tokens   : 763
+-------------------------------
+
+Route Name     : greyex-solution-30ml
+Language       : telugu-content
+Total Tokens   : 778
+-------------------------------
+
+Route Name     : greyex-solution-30ml
+Language       : telugu-content
+Total Tokens   : 984
+-------------------------------
+
+Route Name     : greyex-solution-30ml
+Language       : telugu-content
+Total Tokens   : 880
+-------------------------------
+
+Route Name     : greyex-solution-30ml
+Language       : telugu-content
+Total Tokens   : 876
+-------------------------------
+
+Route Name     : greyex-solution-30ml
+Language       : telugu-content
+Total Tokens   : 1008
+-------------------------------
+
+Route Name     : greyex-solution-30ml
+Language       : telugu-content
+Total Tokens   : 903
+-------------------------------
+
+Route Name     : greyex-solution-30ml
+Language       : telugu-content
+Total Tokens   : 911
+-------------------------------
+
+Route Name     : greyex-solution-30ml
+Language       : telugu-content
+Total Tokens   : 997
+-------------------------------
+
+Route Name     : calaptin-40-tablet-30s
+Language       : telugu-content
+Total Tokens   : 795
+-------------------------------
+
+Route Name     : calaptin-40-tablet-30s
+Language       : telugu-content
+Total Tokens   : 767
+-------------------------------
+
+Route Name     : calaptin-40-tablet-30s
+Language       : telugu-content
+Total Tokens   : 783
+-------------------------------
+
+Route Name     : calaptin-40-tablet-30s
+Language       : telugu-content
+Total Tokens   : 780
+-------------------------------
+
+Route Name     : calaptin-40-tablet-30s
+Language       : telugu-content
+Total Tokens   : 951
+-------------------------------
+
+Route Name     : calaptin-40-tablet-30s
+Language       : telugu-content
+Total Tokens   : 957
+-------------------------------
+
+Route Name     : calaptin-40-tablet-30s
+Language       : telugu-content
+Total Tokens   : 955
+-------------------------------
+
+Route Name     : calaptin-40-tablet-30s
+Language       : telugu-content
+Total Tokens   : 911
+-------------------------------
+
+Route Name     : calaptin-40-tablet-30s
+Language       : telugu-content
+Total Tokens   : 1007
+-------------------------------
+
+Route Name     : calaptin-40-tablet-30s
+Language       : telugu-content
+Total Tokens   : 1009
+-------------------------------
+
+Route Name     : calaptin-40-tablet-30s
+Language       : telugu-content
+Total Tokens   : 810
+-------------------------------
+
+Route Name     : calaptin-40-tablet-30s
+Language       : telugu-content
+Total Tokens   : 1047
+-------------------------------
+
+Route Name     : meftagesic-ds-suspension-100ml
+Language       : telugu-content
+Total Tokens   : 805
+-------------------------------
+
+Route Name     : meftagesic-ds-suspension-100ml
+Language       : telugu-content
+Total Tokens   : 797
+-------------------------------
+
+Route Name     : meftagesic-ds-suspension-100ml
+Language       : telugu-content
+Total Tokens   : 871
+-------------------------------
+
+Route Name     : meftagesic-ds-suspension-100ml
+Language       : telugu-content
+Total Tokens   : 800
+-------------------------------
+
+Route Name     : meftagesic-ds-suspension-100ml
+Language       : telugu-content
+Total Tokens   : 962
+-------------------------------
+
+Route Name     : meftagesic-ds-suspension-100ml
+Language       : telugu-content
+Total Tokens   : 937
+-------------------------------
+
+Route Name     : meftagesic-ds-suspension-100ml
+Language       : telugu-content
+Total Tokens   : 920
+-------------------------------
+
+Route Name     : meftagesic-ds-suspension-100ml
+Language       : telugu-content
+Total Tokens   : 942
+-------------------------------
+
+Route Name     : meftagesic-ds-suspension-100ml
+Language       : telugu-content
+Total Tokens   : 934
+-------------------------------
+
+Route Name     : meftagesic-ds-suspension-100ml
+Language       : telugu-content
+Total Tokens   : 970
+-------------------------------
+
+Route Name     : meftagesic-ds-suspension-100ml
+Language       : telugu-content
+Total Tokens   : 1008
+-------------------------------
+
+Route Name     : clopilet-a-75mg75mg-capsule-15s
+Language       : telugu-content
+Total Tokens   : 813
+-------------------------------
+
+Route Name     : clopilet-a-75mg75mg-capsule-15s
+Language       : telugu-content
+Total Tokens   : 777
+-------------------------------
+
+Route Name     : clopilet-a-75mg75mg-capsule-15s
+Language       : telugu-content
+Total Tokens   : 832
+-------------------------------
+
+Route Name     : clopilet-a-75mg75mg-capsule-15s
+Language       : telugu-content
+Total Tokens   : 785
+-------------------------------
+
+Route Name     : clopilet-a-75mg75mg-capsule-15s
+Language       : telugu-content
+Total Tokens   : 2678
+-------------------------------
+
+Route Name     : clopilet-a-75mg75mg-capsule-15s
+Language       : telugu-content
+Total Tokens   : 858
+-------------------------------
+
+Route Name     : clopilet-a-75mg75mg-capsule-15s
+Language       : telugu-content
+Total Tokens   : 980
+-------------------------------
+
+Route Name     : clopilet-a-75mg75mg-capsule-15s
+Language       : telugu-content
+Total Tokens   : 1029
+-------------------------------
+
+Route Name     : clopilet-a-75mg75mg-capsule-15s
+Language       : telugu-content
+Total Tokens   : 909
+-------------------------------
+
+Route Name     : clopilet-a-75mg75mg-capsule-15s
+Language       : telugu-content
+Total Tokens   : 1489
+-------------------------------
+
+Route Name     : clopilet-a-75mg75mg-capsule-15s
+Language       : telugu-content
+Total Tokens   : 895
+-------------------------------
+
+Route Name     : clopilet-a-75mg75mg-capsule-15s
+Language       : telugu-content
+Total Tokens   : 1249
+-------------------------------
+
+Route Name     : clopilet-a-75mg75mg-capsule-15s
+Language       : telugu-content
+Total Tokens   : 964
+-------------------------------
+
+Route Name     : clopilet-a-75mg75mg-capsule-15s
+Language       : telugu-content
+Total Tokens   : 1108
+-------------------------------
+
+Route Name     : clopilet-a-75mg75mg-capsule-15s
+Language       : telugu-content
+Total Tokens   : 945
+-------------------------------
+
+Route Name     : clopilet-a-75mg75mg-capsule-15s
+Language       : telugu-content
+Total Tokens   : 1017
+-------------------------------
+
+Route Name     : clopilet-a-75mg75mg-capsule-15s
+Language       : telugu-content
+Total Tokens   : 958
+-------------------------------
+
+Route Name     : diprobate-plus-lotion-50ml
+Language       : telugu-content
+Total Tokens   : 795
+-------------------------------
+
+Route Name     : diprobate-plus-lotion-50ml
+Language       : telugu-content
+Total Tokens   : 782
+-------------------------------
+
+Route Name     : diprobate-plus-lotion-50ml
+Language       : telugu-content
+Total Tokens   : 847
+-------------------------------
+
+Route Name     : diprobate-plus-lotion-50ml
+Language       : telugu-content
+Total Tokens   : 785
+-------------------------------
+
+Route Name     : diprobate-plus-lotion-50ml
+Language       : telugu-content
+Total Tokens   : 1108
+-------------------------------
+
+Route Name     : diprobate-plus-lotion-50ml
+Language       : telugu-content
+Total Tokens   : 832
+-------------------------------
+
+Route Name     : diprobate-plus-lotion-50ml
+Language       : telugu-content
+Total Tokens   : 877
+-------------------------------
+
+Route Name     : diprobate-plus-lotion-50ml
+Language       : telugu-content
+Total Tokens   : 1028
+-------------------------------
+
+Route Name     : diprobate-plus-lotion-50ml
+Language       : telugu-content
+Total Tokens   : 794
+-------------------------------
+
+Route Name     : diprobate-plus-lotion-50ml
+Language       : telugu-content
+Total Tokens   : 823
+-------------------------------
+
+Route Name     : diprobate-plus-lotion-50ml
+Language       : telugu-content
+Total Tokens   : 1357
+-------------------------------
+
+Route Name     : influenza-injection
+Language       : telugu-content
+Total Tokens   : 786
+-------------------------------
+
+Route Name     : influenza-injection
+Language       : telugu-content
+Total Tokens   : 794
+-------------------------------
+
+Route Name     : influenza-injection
+Language       : telugu-content
+Total Tokens   : 802
+-------------------------------
+
+Route Name     : influenza-injection
+Language       : telugu-content
+Total Tokens   : 784
+-------------------------------
+
+Route Name     : influenza-injection
+Language       : telugu-content
+Total Tokens   : 868
+-------------------------------
+
+Route Name     : influenza-injection
+Language       : telugu-content
+Total Tokens   : 885
+-------------------------------
+
+Route Name     : influenza-injection
+Language       : telugu-content
+Total Tokens   : 837
+-------------------------------
+
+Route Name     : influenza-injection
+Language       : telugu-content
+Total Tokens   : 882
+-------------------------------
+
+Route Name     : influenza-injection
+Language       : telugu-content
+Total Tokens   : 794
+-------------------------------
+
+Route Name     : influenza-injection
+Language       : telugu-content
+Total Tokens   : 841
+-------------------------------
+
+Route Name     : influenza-injection
+Language       : telugu-content
+Total Tokens   : 1326
+-------------------------------
+
+Route Name     : influenza-injection
+Language       : telugu-content
+Total Tokens   : 820
+-------------------------------
+
+Route Name     : influenza-injection
+Language       : telugu-content
+Total Tokens   : 840
+-------------------------------
+
+Route Name     : influenza-injection
+Language       : telugu-content
+Total Tokens   : 995
+-------------------------------
+
+Route Name     : influenza-injection
+Language       : telugu-content
+Total Tokens   : 786
+-------------------------------
+
+Route Name     : influenza-injection
+Language       : telugu-content
+Total Tokens   : 872
+-------------------------------
+
+Route Name     : influenza-injection
+Language       : telugu-content
+Total Tokens   : 854
+-------------------------------
+
+Route Name     : mesacol-od-tablet-pr-10s
+Language       : telugu-content
+Total Tokens   : 787
+-------------------------------
+
+Route Name     : mesacol-od-tablet-pr-10s
+Language       : telugu-content
+Total Tokens   : 789
+-------------------------------
+
+Route Name     : mesacol-od-tablet-pr-10s
+Language       : telugu-content
+Total Tokens   : 786
+-------------------------------
+
+Route Name     : mesacol-od-tablet-pr-10s
+Language       : telugu-content
+Total Tokens   : 786
+-------------------------------
+
+Route Name     : mesacol-od-tablet-pr-10s
+Language       : telugu-content
+Total Tokens   : 990
+-------------------------------
+
+Route Name     : mesacol-od-tablet-pr-10s
+Language       : telugu-content
+Total Tokens   : 982
+-------------------------------
+
+Route Name     : mesacol-od-tablet-pr-10s
+Language       : telugu-content
+Total Tokens   : 987
+-------------------------------
+
+Route Name     : mesacol-od-tablet-pr-10s
+Language       : telugu-content
+Total Tokens   : 974
+-------------------------------
+
+Route Name     : mesacol-od-tablet-pr-10s
+Language       : telugu-content
+Total Tokens   : 949
+-------------------------------
+
+Route Name     : mesacol-od-tablet-pr-10s
+Language       : telugu-content
+Total Tokens   : 1003
+-------------------------------
+
+Route Name     : mesacol-od-tablet-pr-10s
+Language       : telugu-content
+Total Tokens   : 975
+-------------------------------
+
+Route Name     : methergin-0.125mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 800
+-------------------------------
+
+Route Name     : methergin-0.125mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 776
+-------------------------------
+
+Route Name     : methergin-0.125mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 798
+-------------------------------
+
+Route Name     : methergin-0.125mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 781
+-------------------------------
+
+Route Name     : methergin-0.125mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 1044
+-------------------------------
+
+Route Name     : methergin-0.125mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 888
+-------------------------------
+
+Route Name     : methergin-0.125mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 946
+-------------------------------
+
+Route Name     : methergin-0.125mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 938
+-------------------------------
+
+Route Name     : methergin-0.125mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 804
+-------------------------------
+
+Route Name     : methergin-0.125mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 842
+-------------------------------
+
+Route Name     : methergin-0.125mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 1359
+-------------------------------
+
+Route Name     : methergin-0.125mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 799
+-------------------------------
+
+Route Name     : methergin-0.125mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 1062
+-------------------------------
+
+Route Name     : methergin-0.125mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 901
+-------------------------------
+
+Route Name     : methergin-0.125mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 834
+-------------------------------
+
+Route Name     : methergin-0.125mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 774
+-------------------------------
+
+Route Name     : methergin-0.125mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 1032
+-------------------------------
+
+Route Name     : methergin-0.125mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 1037
+-------------------------------
+
+Route Name     : methergin-0.125mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 1375
+-------------------------------
+
+Route Name     : methergin-0.125mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 879
+-------------------------------
+
+Route Name     : lipicard-160-tablet-10s
+Language       : telugu-content
+Total Tokens   : 795
+-------------------------------
+
+Route Name     : lipicard-160-tablet-10s
+Language       : telugu-content
+Total Tokens   : 776
+-------------------------------
+
+Route Name     : lipicard-160-tablet-10s
+Language       : telugu-content
+Total Tokens   : 785
+-------------------------------
+
+Route Name     : lipicard-160-tablet-10s
+Language       : telugu-content
+Total Tokens   : 781
+-------------------------------
+
+Route Name     : lipicard-160-tablet-10s
+Language       : telugu-content
+Total Tokens   : 951
+-------------------------------
+
+Route Name     : lipicard-160-tablet-10s
+Language       : telugu-content
+Total Tokens   : 922
+-------------------------------
+
+Route Name     : lipicard-160-tablet-10s
+Language       : telugu-content
+Total Tokens   : 916
+-------------------------------
+
+Route Name     : lipicard-160-tablet-10s
+Language       : telugu-content
+Total Tokens   : 1017
+-------------------------------
+
+Route Name     : lipicard-160-tablet-10s
+Language       : telugu-content
+Total Tokens   : 961
+-------------------------------
+
+Route Name     : lipicard-160-tablet-10s
+Language       : telugu-content
+Total Tokens   : 1426
+-------------------------------
+
+Route Name     : lipicard-160-tablet-10s
+Language       : telugu-content
+Total Tokens   : 1027
+-------------------------------
+
+Route Name     : lipicard-160-tablet-10s
+Language       : telugu-content
+Total Tokens   : 978
+-------------------------------
+
+Route Name     : lipicard-160-tablet-10s
+Language       : telugu-content
+Total Tokens   : 937
+-------------------------------
+
+Route Name     : lipicard-160-tablet-10s
+Language       : telugu-content
+Total Tokens   : 1006
+-------------------------------
+
+Route Name     : lipicard-160-tablet-10s
+Language       : telugu-content
+Total Tokens   : 1098
+-------------------------------
+
+Route Name     : lipicard-160-tablet-10s
+Language       : telugu-content
+Total Tokens   : 888
+-------------------------------
+
+Route Name     : amifru-40mg5mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 803
+-------------------------------
+
+Route Name     : amifru-40mg5mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 770
+-------------------------------
+
+Route Name     : amifru-40mg5mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 810
+-------------------------------
+
+Route Name     : amifru-40mg5mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 778
+-------------------------------
+
+Route Name     : amifru-40mg5mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 1516
+-------------------------------
+
+Route Name     : amifru-40mg5mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 783
+-------------------------------
+
+Route Name     : amifru-40mg5mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 961
+-------------------------------
+
+Route Name     : amifru-40mg5mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 948
+-------------------------------
+
+Route Name     : amifru-40mg5mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 773
+-------------------------------
+
+Route Name     : amifru-40mg5mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 963
+-------------------------------
+
+Route Name     : amifru-40mg5mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 1900
+-------------------------------
+
+Route Name     : glocin-gel
+Language       : telugu-content
+Total Tokens   : 773
+-------------------------------
+
+Route Name     : glocin-gel
+Language       : telugu-content
+Total Tokens   : 787
+-------------------------------
+
+Route Name     : glocin-gel
+Language       : telugu-content
+Total Tokens   : 823
+-------------------------------
+
+Route Name     : glocin-gel
+Language       : telugu-content
+Total Tokens   : 785
+-------------------------------
+
+Route Name     : glocin-gel
+Language       : telugu-content
+Total Tokens   : 1093
+-------------------------------
+
+Route Name     : glocin-gel
+Language       : telugu-content
+Total Tokens   : 851
+-------------------------------
+
+Route Name     : glocin-gel
+Language       : telugu-content
+Total Tokens   : 920
+-------------------------------
+
+Route Name     : glocin-gel
+Language       : telugu-content
+Total Tokens   : 1047
+-------------------------------
+
+Route Name     : glocin-gel
+Language       : telugu-content
+Total Tokens   : 779
+-------------------------------
+
+Route Name     : glocin-gel
+Language       : telugu-content
+Total Tokens   : 841
+-------------------------------
+
+Route Name     : glocin-gel
+Language       : telugu-content
+Total Tokens   : 1240
+-------------------------------
+
+Route Name     : glocin-gel
+Language       : telugu-content
+Total Tokens   : 871
+-------------------------------
+
+Route Name     : glocin-gel
+Language       : telugu-content
+Total Tokens   : 820
+-------------------------------
+
+Route Name     : glocin-gel
+Language       : telugu-content
+Total Tokens   : 1018
+-------------------------------
+
+Route Name     : glocin-gel
+Language       : telugu-content
+Total Tokens   : 986
+-------------------------------
+
+Route Name     : heptral-400mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 798
+-------------------------------
+
+Route Name     : heptral-400mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 768
+-------------------------------
+
+Route Name     : heptral-400mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 810
+-------------------------------
+
+Route Name     : heptral-400mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 780
+-------------------------------
+
+Route Name     : heptral-400mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 1194
+-------------------------------
+
+Route Name     : heptral-400mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 901
+-------------------------------
+
+Route Name     : heptral-400mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 946
+-------------------------------
+
+Route Name     : heptral-400mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 979
+-------------------------------
+
+Route Name     : heptral-400mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 828
+-------------------------------
+
+Route Name     : heptral-400mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 823
+-------------------------------
+
+Route Name     : heptral-400mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 1356
+-------------------------------
+
+Route Name     : heptral-400mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 945
+-------------------------------
+
+Route Name     : heptral-400mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 912
+-------------------------------
+
+Route Name     : heptral-400mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 967
+-------------------------------
+
+Route Name     : heptral-400mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 821
+-------------------------------
+
+Route Name     : heptral-400mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 793
+-------------------------------
+
+Route Name     : heptral-400mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 1138
+-------------------------------
+
+Route Name     : heptral-400mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 1767
+-------------------------------
+
+Route Name     : heptral-400mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 991
+-------------------------------
+
+Route Name     : oflox-oz-200mg500mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 805
+-------------------------------
+
+Route Name     : oflox-oz-200mg500mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 778
+-------------------------------
+
+Route Name     : oflox-oz-200mg500mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 815
+-------------------------------
+
+Route Name     : oflox-oz-200mg500mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 783
+-------------------------------
+
+Route Name     : oflox-oz-200mg500mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 1746
+-------------------------------
+
+Route Name     : oflox-oz-200mg500mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 883
+-------------------------------
+
+Route Name     : oflox-oz-200mg500mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 956
+-------------------------------
+
+Route Name     : oflox-oz-200mg500mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 930
+-------------------------------
+
+Route Name     : oflox-oz-200mg500mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 853
+-------------------------------
+
+Route Name     : oflox-oz-200mg500mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 1589
+-------------------------------
+
+Route Name     : oflox-oz-200mg500mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 1015
+-------------------------------
+
+Route Name     : oflox-oz-200mg500mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 1046
+-------------------------------
+
+Route Name     : oflox-oz-200mg500mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 1094
+-------------------------------
+
+Route Name     : oflox-oz-200mg500mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 860
+-------------------------------
+
+Route Name     : oflox-oz-200mg500mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 864
+-------------------------------
+
+Route Name     : cidmus-50mg-tablet-14s
+Language       : telugu-content
+Total Tokens   : 793
+-------------------------------
+
+Route Name     : cidmus-50mg-tablet-14s
+Language       : telugu-content
+Total Tokens   : 771
+-------------------------------
+
+Route Name     : cidmus-50mg-tablet-14s
+Language       : telugu-content
+Total Tokens   : 810
+-------------------------------
+
+Route Name     : cidmus-50mg-tablet-14s
+Language       : telugu-content
+Total Tokens   : 778
+-------------------------------
+
+Route Name     : cidmus-50mg-tablet-14s
+Language       : telugu-content
+Total Tokens   : 1501
+-------------------------------
+
+Route Name     : cidmus-50mg-tablet-14s
+Language       : telugu-content
+Total Tokens   : 1107
+-------------------------------
+
+Route Name     : cidmus-50mg-tablet-14s
+Language       : telugu-content
+Total Tokens   : 1000
+-------------------------------
+
+Route Name     : cidmus-50mg-tablet-14s
+Language       : telugu-content
+Total Tokens   : 1285
+-------------------------------
+
+Route Name     : cidmus-50mg-tablet-14s
+Language       : telugu-content
+Total Tokens   : 843
+-------------------------------
+
+Route Name     : cidmus-50mg-tablet-14s
+Language       : telugu-content
+Total Tokens   : 1757
+-------------------------------
+
+Route Name     : cidmus-50mg-tablet-14s
+Language       : telugu-content
+Total Tokens   : 1033
+-------------------------------
+
+Route Name     : cidmus-50mg-tablet-14s
+Language       : telugu-content
+Total Tokens   : 981
+-------------------------------
+
+Route Name     : cidmus-50mg-tablet-14s
+Language       : telugu-content
+Total Tokens   : 908
+-------------------------------
+
+Route Name     : cidmus-50mg-tablet-14s
+Language       : telugu-content
+Total Tokens   : 796
+-------------------------------
+
+Route Name     : cidmus-50mg-tablet-14s
+Language       : telugu-content
+Total Tokens   : 932
+-------------------------------
+
+Route Name     : cidmus-50mg-tablet-14s
+Language       : telugu-content
+Total Tokens   : 1002
+-------------------------------
+
+Route Name     : cidmus-50mg-tablet-14s
+Language       : telugu-content
+Total Tokens   : 898
+-------------------------------
+
+Route Name     : cidmus-50mg-tablet-14s
+Language       : telugu-content
+Total Tokens   : 1072
+-------------------------------
+
+Route Name     : cidmus-50mg-tablet-14s
+Language       : telugu-content
+Total Tokens   : 911
+-------------------------------
+
+Route Name     : cidmus-50mg-tablet-14s
+Language       : telugu-content
+Total Tokens   : 785
+-------------------------------
+
+Route Name     : cidmus-50mg-tablet-14s
+Language       : telugu-content
+Total Tokens   : 1007
+-------------------------------
+
+Route Name     : lanoxin-0.25mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 798
+-------------------------------
+
+Route Name     : lanoxin-0.25mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 795
+-------------------------------
+
+Route Name     : lanoxin-0.25mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 791
+-------------------------------
+
+Route Name     : lanoxin-0.25mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 783
+-------------------------------
+
+Route Name     : lanoxin-0.25mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 866
+-------------------------------
+
+Route Name     : lanoxin-0.25mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 844
+-------------------------------
+
+Route Name     : lanoxin-0.25mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 857
+-------------------------------
+
+Route Name     : lanoxin-0.25mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 971
+-------------------------------
+
+Route Name     : lanoxin-0.25mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 794
+-------------------------------
+
+Route Name     : lanoxin-0.25mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 882
+-------------------------------
+
+Route Name     : lanoxin-0.25mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 1985
+-------------------------------
+
+Route Name     : lanoxin-0.25mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 821
+-------------------------------
+
+Route Name     : lanoxin-0.25mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 854
+-------------------------------
+
+Route Name     : lanoxin-0.25mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 984
+-------------------------------
+
+Route Name     : lanoxin-0.25mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 807
+-------------------------------
+
+Route Name     : lanoxin-0.25mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 812
+-------------------------------
+
+Route Name     : lanoxin-0.25mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 825
+-------------------------------
+
+Route Name     : lanoxin-0.25mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 857
+-------------------------------
+
+Route Name     : eyemist-eye-drop-10ml
+Language       : telugu-content
+Total Tokens   : 786
+-------------------------------
+
+Route Name     : eyemist-eye-drop-10ml
+Language       : telugu-content
+Total Tokens   : 789
+-------------------------------
+
+Route Name     : eyemist-eye-drop-10ml
+Language       : telugu-content
+Total Tokens   : 813
+-------------------------------
+
+Route Name     : eyemist-eye-drop-10ml
+Language       : telugu-content
+Total Tokens   : 798
+-------------------------------
+
+Route Name     : eyemist-eye-drop-10ml
+Language       : telugu-content
+Total Tokens   : 951
+-------------------------------
+
+Route Name     : eyemist-eye-drop-10ml
+Language       : telugu-content
+Total Tokens   : 964
+-------------------------------
+
+Route Name     : eyemist-eye-drop-10ml
+Language       : telugu-content
+Total Tokens   : 1165
+-------------------------------
+
+Route Name     : eyemist-eye-drop-10ml
+Language       : telugu-content
+Total Tokens   : 906
+-------------------------------
+
+Route Name     : eyemist-eye-drop-10ml
+Language       : telugu-content
+Total Tokens   : 774
+-------------------------------
+
+Route Name     : eyemist-eye-drop-10ml
+Language       : telugu-content
+Total Tokens   : 933
+-------------------------------
+
+Route Name     : eyemist-eye-drop-10ml
+Language       : telugu-content
+Total Tokens   : 1399
+-------------------------------
+
+Route Name     : eyemist-eye-drop-10ml
+Language       : telugu-content
+Total Tokens   : 1062
+-------------------------------
+
+Route Name     : eyemist-eye-drop-10ml
+Language       : telugu-content
+Total Tokens   : 1056
+-------------------------------
+
+Route Name     : tonact-40mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 794
+-------------------------------
+
+Route Name     : tonact-40mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 771
+-------------------------------
+
+Route Name     : tonact-40mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 790
+-------------------------------
+
+Route Name     : tonact-40mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 779
+-------------------------------
+
+Route Name     : tonact-40mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 1114
+-------------------------------
+
+Route Name     : tonact-40mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 851
+-------------------------------
+
+Route Name     : tonact-40mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 914
+-------------------------------
+
+Route Name     : tonact-40mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 971
+-------------------------------
+
+Route Name     : tonact-40mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 937
+-------------------------------
+
+Route Name     : tonact-40mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 1643
+-------------------------------
+
+Route Name     : tonact-40mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 1068
+-------------------------------
+
+Route Name     : tonact-40mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 975
+-------------------------------
+
+Route Name     : tonact-40mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 795
+-------------------------------
+
+Route Name     : tonact-40mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 803
+-------------------------------
+
+Route Name     : tonact-40mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 1053
+-------------------------------
+
+Route Name     : tonact-40mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 924
+-------------------------------
+
+Route Name     : gerbisa-tablet-10s
+Language       : telugu-content
+Total Tokens   : 790
+-------------------------------
+
+Route Name     : gerbisa-tablet-10s
+Language       : telugu-content
+Total Tokens   : 777
+-------------------------------
+
+Route Name     : gerbisa-tablet-10s
+Language       : telugu-content
+Total Tokens   : 790
+-------------------------------
+
+Route Name     : gerbisa-tablet-10s
+Language       : telugu-content
+Total Tokens   : 782
+-------------------------------
+
+Route Name     : gerbisa-tablet-10s
+Language       : telugu-content
+Total Tokens   : 921
+-------------------------------
+
+Route Name     : gerbisa-tablet-10s
+Language       : telugu-content
+Total Tokens   : 866
+-------------------------------
+
+Route Name     : gerbisa-tablet-10s
+Language       : telugu-content
+Total Tokens   : 915
+-------------------------------
+
+Route Name     : gerbisa-tablet-10s
+Language       : telugu-content
+Total Tokens   : 897
+-------------------------------
+
+Route Name     : gerbisa-tablet-10s
+Language       : telugu-content
+Total Tokens   : 828
+-------------------------------
+
+Route Name     : gerbisa-tablet-10s
+Language       : telugu-content
+Total Tokens   : 1443
+-------------------------------
+
+Route Name     : gerbisa-tablet-10s
+Language       : telugu-content
+Total Tokens   : 925
+-------------------------------
+
+Route Name     : gerbisa-tablet-10s
+Language       : telugu-content
+Total Tokens   : 977
+-------------------------------
+
+Route Name     : gerbisa-tablet-10s
+Language       : telugu-content
+Total Tokens   : 794
+-------------------------------
+
+Route Name     : gerbisa-tablet-10s
+Language       : telugu-content
+Total Tokens   : 801
+-------------------------------
+
+Route Name     : gerbisa-tablet-10s
+Language       : telugu-content
+Total Tokens   : 990
+-------------------------------
+
+Route Name     : gerbisa-tablet-10s
+Language       : telugu-content
+Total Tokens   : 1009
+-------------------------------
+
+Route Name     : gerbisa-tablet-10s
+Language       : telugu-content
+Total Tokens   : 882
+-------------------------------
+
+Route Name     : gerbisa-tablet-10s
+Language       : telugu-content
+Total Tokens   : 817
+-------------------------------
+
+Route Name     : gerbisa-tablet-10s
+Language       : telugu-content
+Total Tokens   : 918
+-------------------------------
+
+Route Name     : orni-o-tablet
+Language       : telugu-content
+Total Tokens   : 783
+-------------------------------
+
+Route Name     : orni-o-tablet
+Language       : telugu-content
+Total Tokens   : 774
+-------------------------------
+
+Route Name     : orni-o-tablet
+Language       : telugu-content
+Total Tokens   : 809
+-------------------------------
+
+Route Name     : orni-o-tablet
+Language       : telugu-content
+Total Tokens   : 779
+-------------------------------
+
+Route Name     : orni-o-tablet
+Language       : telugu-content
+Total Tokens   : 1720
+-------------------------------
+
+Route Name     : orni-o-tablet
+Language       : telugu-content
+Total Tokens   : 893
+-------------------------------
+
+Route Name     : orni-o-tablet
+Language       : telugu-content
+Total Tokens   : 946
+-------------------------------
+
+Route Name     : orni-o-tablet
+Language       : telugu-content
+Total Tokens   : 910
+-------------------------------
+
+Route Name     : orni-o-tablet
+Language       : telugu-content
+Total Tokens   : 846
+-------------------------------
+
+Route Name     : orni-o-tablet
+Language       : telugu-content
+Total Tokens   : 1582
+-------------------------------
+
+Route Name     : orni-o-tablet
+Language       : telugu-content
+Total Tokens   : 1015
+-------------------------------
+
+Route Name     : orni-o-tablet
+Language       : telugu-content
+Total Tokens   : 1047
+-------------------------------
+
+Route Name     : orni-o-tablet
+Language       : telugu-content
+Total Tokens   : 1087
+-------------------------------
+
+Route Name     : orni-o-tablet
+Language       : telugu-content
+Total Tokens   : 867
+-------------------------------
+
+Route Name     : orni-o-tablet
+Language       : telugu-content
+Total Tokens   : 861
+-------------------------------
+
+Route Name     : cotaryl-cream-50gm
+Language       : telugu-content
+Total Tokens   : 816
+-------------------------------
+
+Route Name     : cotaryl-cream-50gm
+Language       : telugu-content
+Total Tokens   : 806
+-------------------------------
+
+Route Name     : cotaryl-cream-50gm
+Language       : telugu-content
+Total Tokens   : 1043
+-------------------------------
+
+Route Name     : cotaryl-cream-50gm
+Language       : telugu-content
+Total Tokens   : 822
+-------------------------------
+
+Route Name     : cotaryl-cream-50gm
+Language       : telugu-content
+Total Tokens   : 1115
+-------------------------------
+
+Route Name     : cotaryl-cream-50gm
+Language       : telugu-content
+Total Tokens   : 922
+-------------------------------
+
+Route Name     : cotaryl-cream-50gm
+Language       : telugu-content
+Total Tokens   : 897
+-------------------------------
+
+Route Name     : cotaryl-cream-50gm
+Language       : telugu-content
+Total Tokens   : 1104
+-------------------------------
+
+Route Name     : cotaryl-cream-50gm
+Language       : telugu-content
+Total Tokens   : 810
+-------------------------------
+
+Route Name     : cotaryl-cream-50gm
+Language       : telugu-content
+Total Tokens   : 934
+-------------------------------
+
+Route Name     : cotaryl-cream-50gm
+Language       : telugu-content
+Total Tokens   : 963
+-------------------------------
+
+Route Name     : cotaryl-cream-50gm
+Language       : telugu-content
+Total Tokens   : 1083
+-------------------------------
+
+Route Name     : cotaryl-cream-75gm
+Language       : telugu-content
+Total Tokens   : 783
+-------------------------------
+
+Route Name     : cotaryl-cream-75gm
+Language       : telugu-content
+Total Tokens   : 776
+-------------------------------
+
+Route Name     : cotaryl-cream-75gm
+Language       : telugu-content
+Total Tokens   : 924
+-------------------------------
+
+Route Name     : cotaryl-cream-75gm
+Language       : telugu-content
+Total Tokens   : 784
+-------------------------------
+
+Route Name     : cotaryl-cream-75gm
+Language       : telugu-content
+Total Tokens   : 1088
+-------------------------------
+
+Route Name     : cotaryl-cream-75gm
+Language       : telugu-content
+Total Tokens   : 886
+-------------------------------
+
+Route Name     : cotaryl-cream-75gm
+Language       : telugu-content
+Total Tokens   : 874
+-------------------------------
+
+Route Name     : cotaryl-cream-75gm
+Language       : telugu-content
+Total Tokens   : 1170
+-------------------------------
+
+Route Name     : cotaryl-cream-75gm
+Language       : telugu-content
+Total Tokens   : 834
+-------------------------------
+
+Route Name     : cotaryl-cream-75gm
+Language       : telugu-content
+Total Tokens   : 874
+-------------------------------
+
+Route Name     : cotaryl-cream-75gm
+Language       : telugu-content
+Total Tokens   : 1356
+-------------------------------
+
+Route Name     : cotaryl-cream-75gm
+Language       : telugu-content
+Total Tokens   : 856
+-------------------------------
+
+Route Name     : cotaryl-cream-75gm
+Language       : telugu-content
+Total Tokens   : 1186
+-------------------------------
+
+Route Name     : nicip-cold-flu-tablet-10s
+Language       : telugu-content
+Total Tokens   : 789
+-------------------------------
+
+Route Name     : nicip-cold-flu-tablet-10s
+Language       : telugu-content
+Total Tokens   : 774
+-------------------------------
+
+Route Name     : nicip-cold-flu-tablet-10s
+Language       : telugu-content
+Total Tokens   : 914
+-------------------------------
+
+Route Name     : nicip-cold-flu-tablet-10s
+Language       : telugu-content
+Total Tokens   : 776
+-------------------------------
+
+Route Name     : nicip-cold-flu-tablet-10s
+Language       : telugu-content
+Total Tokens   : 2233
+-------------------------------
+
+Route Name     : nicip-cold-flu-tablet-10s
+Language       : telugu-content
+Total Tokens   : 932
+-------------------------------
+
+Route Name     : nicip-cold-flu-tablet-10s
+Language       : telugu-content
+Total Tokens   : 970
+-------------------------------
+
+Route Name     : nicip-cold-flu-tablet-10s
+Language       : telugu-content
+Total Tokens   : 1239
+-------------------------------
+
+Route Name     : nicip-cold-flu-tablet-10s
+Language       : telugu-content
+Total Tokens   : 914
+-------------------------------
+
+Route Name     : nicip-cold-flu-tablet-10s
+Language       : telugu-content
+Total Tokens   : 1354
+-------------------------------
+
+Route Name     : nicip-cold-flu-tablet-10s
+Language       : telugu-content
+Total Tokens   : 992
+-------------------------------
+
+Route Name     : nicip-cold-flu-tablet-10s
+Language       : telugu-content
+Total Tokens   : 942
+-------------------------------
+
+Route Name     : nicip-cold-flu-tablet-10s
+Language       : telugu-content
+Total Tokens   : 864
+-------------------------------
+
+Route Name     : nicip-cold-flu-tablet-10s
+Language       : telugu-content
+Total Tokens   : 778
+-------------------------------
+
+Route Name     : nicip-cold-flu-tablet-10s
+Language       : telugu-content
+Total Tokens   : 768
+-------------------------------
+
+Route Name     : nicip-cold-flu-tablet-10s
+Language       : telugu-content
+Total Tokens   : 771
+-------------------------------
+
+Route Name     : mycoderm-c-dusting-powder
+Language       : telugu-content
+Total Tokens   : 788
+-------------------------------
+
+Route Name     : mycoderm-c-dusting-powder
+Language       : telugu-content
+Total Tokens   : 778
+-------------------------------
+
+Route Name     : mycoderm-c-dusting-powder
+Language       : telugu-content
+Total Tokens   : 790
+-------------------------------
+
+Route Name     : mycoderm-c-dusting-powder
+Language       : telugu-content
+Total Tokens   : 789
+-------------------------------
+
+Route Name     : mycoderm-c-dusting-powder
+Language       : telugu-content
+Total Tokens   : 1081
+-------------------------------
+
+Route Name     : mycoderm-c-dusting-powder
+Language       : telugu-content
+Total Tokens   : 998
+-------------------------------
+
+Route Name     : mycoderm-c-dusting-powder
+Language       : telugu-content
+Total Tokens   : 957
+-------------------------------
+
+Route Name     : mycoderm-c-dusting-powder
+Language       : telugu-content
+Total Tokens   : 994
+-------------------------------
+
+Route Name     : mycoderm-c-dusting-powder
+Language       : telugu-content
+Total Tokens   : 911
+-------------------------------
+
+Route Name     : mycoderm-c-dusting-powder
+Language       : telugu-content
+Total Tokens   : 1416
+-------------------------------
+
+Route Name     : mycoderm-c-dusting-powder
+Language       : telugu-content
+Total Tokens   : 841
+-------------------------------
+
+Route Name     : mycoderm-c-dusting-powder
+Language       : telugu-content
+Total Tokens   : 976
+-------------------------------
+
+Route Name     : mycoderm-c-dusting-powder
+Language       : telugu-content
+Total Tokens   : 848
+-------------------------------
+
+Route Name     : mycoderm-c-dusting-powder
+Language       : telugu-content
+Total Tokens   : 790
+-------------------------------
+
+Route Name     : mycoderm-c-dusting-powder
+Language       : telugu-content
+Total Tokens   : 781
+-------------------------------
+
+Route Name     : mycoderm-c-dusting-powder
+Language       : telugu-content
+Total Tokens   : 885
+-------------------------------
+
+Route Name     : mycoderm-c-dusting-powder
+Language       : telugu-content
+Total Tokens   : 867
+-------------------------------
+
+Route Name     : meconerv-forte-capsule-15s
+Language       : telugu-content
+Total Tokens   : 787
+-------------------------------
+
+Route Name     : meconerv-forte-capsule-15s
+Language       : telugu-content
+Total Tokens   : 768
+-------------------------------
+
+Route Name     : meconerv-forte-capsule-15s
+Language       : telugu-content
+Total Tokens   : 945
+-------------------------------
+
+Route Name     : meconerv-forte-capsule-15s
+Language       : telugu-content
+Total Tokens   : 779
+-------------------------------
+
+Route Name     : meconerv-forte-capsule-15s
+Language       : telugu-content
+Total Tokens   : 991
+-------------------------------
+
+Route Name     : meconerv-forte-capsule-15s
+Language       : telugu-content
+Total Tokens   : 871
+-------------------------------
+
+Route Name     : meconerv-forte-capsule-15s
+Language       : telugu-content
+Total Tokens   : 845
+-------------------------------
+
+Route Name     : meconerv-forte-capsule-15s
+Language       : telugu-content
+Total Tokens   : 1010
+-------------------------------
+
+Route Name     : meconerv-forte-capsule-15s
+Language       : telugu-content
+Total Tokens   : 857
+-------------------------------
+
+Route Name     : meconerv-forte-capsule-15s
+Language       : telugu-content
+Total Tokens   : 887
+-------------------------------
+
+Route Name     : meconerv-forte-capsule-15s
+Language       : telugu-content
+Total Tokens   : 1099
+-------------------------------
+
+Route Name     : meconerv-forte-capsule-15s
+Language       : telugu-content
+Total Tokens   : 940
+-------------------------------
+
+Route Name     : dolowin-plus-tablet-10s
+Language       : telugu-content
+Total Tokens   : 796
+-------------------------------
+
+Route Name     : dolowin-plus-tablet-10s
+Language       : telugu-content
+Total Tokens   : 783
+-------------------------------
+
+Route Name     : dolowin-plus-tablet-10s
+Language       : telugu-content
+Total Tokens   : 827
+-------------------------------
+
+Route Name     : dolowin-plus-tablet-10s
+Language       : telugu-content
+Total Tokens   : 784
+-------------------------------
+
+Route Name     : dolowin-plus-tablet-10s
+Language       : telugu-content
+Total Tokens   : 1086
+-------------------------------
+
+Route Name     : dolowin-plus-tablet-10s
+Language       : telugu-content
+Total Tokens   : 885
+-------------------------------
+
+Route Name     : dolowin-plus-tablet-10s
+Language       : telugu-content
+Total Tokens   : 924
+-------------------------------
+
+Route Name     : dolowin-plus-tablet-10s
+Language       : telugu-content
+Total Tokens   : 925
+-------------------------------
+
+Route Name     : dolowin-plus-tablet-10s
+Language       : telugu-content
+Total Tokens   : 778
+-------------------------------
+
+Route Name     : dolowin-plus-tablet-10s
+Language       : telugu-content
+Total Tokens   : 942
+-------------------------------
+
+Route Name     : dolowin-plus-tablet-10s
+Language       : telugu-content
+Total Tokens   : 1677
+-------------------------------
+
+Route Name     : dolowin-plus-tablet-10s
+Language       : telugu-content
+Total Tokens   : 951
+-------------------------------
+
+Route Name     : dolowin-plus-tablet-10s
+Language       : telugu-content
+Total Tokens   : 978
+-------------------------------
+
+Route Name     : dermi-5-cream-15gm
+Language       : telugu-content
+Total Tokens   : 823
+-------------------------------
+
+Route Name     : dermi-5-cream-15gm
+Language       : telugu-content
+Total Tokens   : 812
+-------------------------------
+
+Route Name     : dermi-5-cream-15gm
+Language       : telugu-content
+Total Tokens   : 1010
+-------------------------------
+
+Route Name     : dermi-5-cream-15gm
+Language       : telugu-content
+Total Tokens   : 817
+-------------------------------
+
+Route Name     : dermi-5-cream-15gm
+Language       : telugu-content
+Total Tokens   : 1036
+-------------------------------
+
+Route Name     : dermi-5-cream-15gm
+Language       : telugu-content
+Total Tokens   : 1028
+-------------------------------
+
+Route Name     : dermi-5-cream-15gm
+Language       : telugu-content
+Total Tokens   : 1023
+-------------------------------
+
+Route Name     : dermi-5-cream-15gm
+Language       : telugu-content
+Total Tokens   : 809
+-------------------------------
+
+Route Name     : dermi-5-cream-15gm
+Language       : telugu-content
+Total Tokens   : 980
+-------------------------------
+
+Route Name     : dermi-5-cream-15gm
+Language       : telugu-content
+Total Tokens   : 1517
+-------------------------------
+
+Route Name     : dermi-5-cream-15gm
+Language       : telugu-content
+Total Tokens   : 1035
+-------------------------------
+
+Route Name     : dermi-5-cream-15gm
+Language       : telugu-content
+Total Tokens   : 1094
+-------------------------------
+
+Route Name     : fertisure-f-tablet
+Language       : telugu-content
+Total Tokens   : 780
+-------------------------------
+
+Route Name     : fertisure-f-tablet
+Language       : telugu-content
+Total Tokens   : 787
+-------------------------------
+
+Route Name     : fertisure-f-tablet
+Language       : telugu-content
+Total Tokens   : 812
+-------------------------------
+
+Route Name     : fertisure-f-tablet
+Language       : telugu-content
+Total Tokens   : 778
+-------------------------------
+
+Route Name     : fertisure-f-tablet
+Language       : telugu-content
+Total Tokens   : 1096
+-------------------------------
+
+Route Name     : fertisure-f-tablet
+Language       : telugu-content
+Total Tokens   : 964
+-------------------------------
+
+Route Name     : fertisure-f-tablet
+Language       : telugu-content
+Total Tokens   : 904
+-------------------------------
+
+Route Name     : fertisure-f-tablet
+Language       : telugu-content
+Total Tokens   : 1258
+-------------------------------
+
+Route Name     : fertisure-f-tablet
+Language       : telugu-content
+Total Tokens   : 863
+-------------------------------
+
+Route Name     : fertisure-f-tablet
+Language       : telugu-content
+Total Tokens   : 915
+-------------------------------
+
+Route Name     : fertisure-f-tablet
+Language       : telugu-content
+Total Tokens   : 1168
+-------------------------------
+
+Route Name     : fertisure-f-tablet
+Language       : telugu-content
+Total Tokens   : 989
+-------------------------------
+
+Route Name     : fertisure-f-tablet
+Language       : telugu-content
+Total Tokens   : 1094
+-------------------------------
+
+Route Name     : metrohex-plus-gel-20gm
+Language       : telugu-content
+Total Tokens   : 783
+-------------------------------
+
+Route Name     : metrohex-plus-gel-20gm
+Language       : telugu-content
+Total Tokens   : 781
+-------------------------------
+
+Route Name     : metrohex-plus-gel-20gm
+Language       : telugu-content
+Total Tokens   : 837
+-------------------------------
+
+Route Name     : metrohex-plus-gel-20gm
+Language       : telugu-content
+Total Tokens   : 790
+-------------------------------
+
+Route Name     : metrohex-plus-gel-20gm
+Language       : telugu-content
+Total Tokens   : 1935
+-------------------------------
+
+Route Name     : metrohex-plus-gel-20gm
+Language       : telugu-content
+Total Tokens   : 802
+-------------------------------
+
+Route Name     : metrohex-plus-gel-20gm
+Language       : telugu-content
+Total Tokens   : 973
+-------------------------------
+
+Route Name     : metrohex-plus-gel-20gm
+Language       : telugu-content
+Total Tokens   : 1157
+-------------------------------
+
+Route Name     : metrohex-plus-gel-20gm
+Language       : telugu-content
+Total Tokens   : 810
+-------------------------------
+
+Route Name     : metrohex-plus-gel-20gm
+Language       : telugu-content
+Total Tokens   : 1269
+-------------------------------
+
+Route Name     : metrohex-plus-gel-20gm
+Language       : telugu-content
+Total Tokens   : 971
+-------------------------------
+
+Route Name     : metrohex-plus-gel-20gm
+Language       : telugu-content
+Total Tokens   : 921
+-------------------------------
+
+Route Name     : metrohex-plus-gel-20gm
+Language       : telugu-content
+Total Tokens   : 876
+-------------------------------
+
+Route Name     : metrohex-plus-gel-20gm
+Language       : telugu-content
+Total Tokens   : 800
+-------------------------------
+
+Route Name     : metrohex-plus-gel-20gm
+Language       : telugu-content
+Total Tokens   : 905
+-------------------------------
+
+Route Name     : metrohex-plus-gel-20gm
+Language       : telugu-content
+Total Tokens   : 884
+-------------------------------
+
+Route Name     : almox-cv-625-tablet-10s
+Language       : telugu-content
+Total Tokens   : 795
+-------------------------------
+
+Route Name     : almox-cv-625-tablet-10s
+Language       : telugu-content
+Total Tokens   : 786
+-------------------------------
+
+Route Name     : almox-cv-625-tablet-10s
+Language       : telugu-content
+Total Tokens   : 819
+-------------------------------
+
+Route Name     : almox-cv-625-tablet-10s
+Language       : telugu-content
+Total Tokens   : 778
+-------------------------------
+
+Route Name     : almox-cv-625-tablet-10s
+Language       : telugu-content
+Total Tokens   : 1096
+-------------------------------
+
+Route Name     : almox-cv-625-tablet-10s
+Language       : telugu-content
+Total Tokens   : 911
+-------------------------------
+
+Route Name     : almox-cv-625-tablet-10s
+Language       : telugu-content
+Total Tokens   : 980
+-------------------------------
+
+Route Name     : almox-cv-625-tablet-10s
+Language       : telugu-content
+Total Tokens   : 1081
+-------------------------------
+
+Route Name     : almox-cv-625-tablet-10s
+Language       : telugu-content
+Total Tokens   : 790
+-------------------------------
+
+Route Name     : almox-cv-625-tablet-10s
+Language       : telugu-content
+Total Tokens   : 844
+-------------------------------
+
+Route Name     : almox-cv-625-tablet-10s
+Language       : telugu-content
+Total Tokens   : 1590
+-------------------------------
+
+Route Name     : almox-cv-625-tablet-10s
+Language       : telugu-content
+Total Tokens   : 795
+-------------------------------
+
+Route Name     : almox-cv-625-tablet-10s
+Language       : telugu-content
+Total Tokens   : 979
+-------------------------------
+
+Route Name     : almox-cv-625-tablet-10s
+Language       : telugu-content
+Total Tokens   : 994
+-------------------------------
+
+Route Name     : almox-cv-625-tablet-10s
+Language       : telugu-content
+Total Tokens   : 955
+-------------------------------
+
+Route Name     : almox-cv-625-tablet-10s
+Language       : telugu-content
+Total Tokens   : 788
+-------------------------------
+
+Route Name     : almox-cv-625-tablet-10s
+Language       : telugu-content
+Total Tokens   : 994
+-------------------------------
+
+Route Name     : almox-cv-625-tablet-10s
+Language       : telugu-content
+Total Tokens   : 874
+-------------------------------
+
+Route Name     : almox-cv-625-tablet-10s
+Language       : telugu-content
+Total Tokens   : 930
+-------------------------------
+
+Route Name     : maxtra-gargle-120ml
+Language       : telugu-content
+Total Tokens   : 786
+-------------------------------
+
+Route Name     : maxtra-gargle-120ml
+Language       : telugu-content
+Total Tokens   : 787
+-------------------------------
+
+Route Name     : maxtra-gargle-120ml
+Language       : telugu-content
+Total Tokens   : 796
+-------------------------------
+
+Route Name     : maxtra-gargle-120ml
+Language       : telugu-content
+Total Tokens   : 794
+-------------------------------
+
+Route Name     : maxtra-gargle-120ml
+Language       : telugu-content
+Total Tokens   : 2080
+-------------------------------
+
+Route Name     : maxtra-gargle-120ml
+Language       : telugu-content
+Total Tokens   : 891
+-------------------------------
+
+Route Name     : maxtra-gargle-120ml
+Language       : telugu-content
+Total Tokens   : 920
+-------------------------------
+
+Route Name     : maxtra-gargle-120ml
+Language       : telugu-content
+Total Tokens   : 1223
+-------------------------------
+
+Route Name     : maxtra-gargle-120ml
+Language       : telugu-content
+Total Tokens   : 844
+-------------------------------
+
+Route Name     : maxtra-gargle-120ml
+Language       : telugu-content
+Total Tokens   : 1277
+-------------------------------
+
+Route Name     : maxtra-gargle-120ml
+Language       : telugu-content
+Total Tokens   : 865
+-------------------------------
+
+Route Name     : maxtra-gargle-120ml
+Language       : telugu-content
+Total Tokens   : 1163
+-------------------------------
+
+Route Name     : maxtra-gargle-120ml
+Language       : telugu-content
+Total Tokens   : 948
+-------------------------------
+
+Route Name     : maxtra-gargle-120ml
+Language       : telugu-content
+Total Tokens   : 1184
+-------------------------------
+
+Route Name     : maxtra-gargle-120ml
+Language       : telugu-content
+Total Tokens   : 895
+-------------------------------
+
+Route Name     : maxtra-gargle-120ml
+Language       : telugu-content
+Total Tokens   : 1003
+-------------------------------
+
+Route Name     : maxtra-gargle-120ml
+Language       : telugu-content
+Total Tokens   : 840
+-------------------------------
+
+Route Name     : scarend-gel-15gm
+Language       : telugu-content
+Total Tokens   : 790
+-------------------------------
+
+Route Name     : scarend-gel-15gm
+Language       : telugu-content
+Total Tokens   : 775
+-------------------------------
+
+Route Name     : scarend-gel-15gm
+Language       : telugu-content
+Total Tokens   : 766
+-------------------------------
+
+Route Name     : scarend-gel-15gm
+Language       : telugu-content
+Total Tokens   : 784
+-------------------------------
+
+Route Name     : scarend-gel-15gm
+Language       : telugu-content
+Total Tokens   : 1006
+-------------------------------
+
+Route Name     : scarend-gel-15gm
+Language       : telugu-content
+Total Tokens   : 869
+-------------------------------
+
+Route Name     : scarend-gel-15gm
+Language       : telugu-content
+Total Tokens   : 901
+-------------------------------
+
+Route Name     : scarend-gel-15gm
+Language       : telugu-content
+Total Tokens   : 1126
+-------------------------------
+
+Route Name     : scarend-gel-15gm
+Language       : telugu-content
+Total Tokens   : 923
+-------------------------------
+
+Route Name     : scarend-gel-15gm
+Language       : telugu-content
+Total Tokens   : 901
+-------------------------------
+
+Route Name     : scarend-gel-15gm
+Language       : telugu-content
+Total Tokens   : 1061
+-------------------------------
+
+Route Name     : omez-20mg-capsule-20s
+Language       : telugu-content
+Total Tokens   : 790
+-------------------------------
+
+Route Name     : omez-20mg-capsule-20s
+Language       : telugu-content
+Total Tokens   : 793
+-------------------------------
+
+Route Name     : omez-20mg-capsule-20s
+Language       : telugu-content
+Total Tokens   : 792
+-------------------------------
+
+Route Name     : omez-20mg-capsule-20s
+Language       : telugu-content
+Total Tokens   : 783
+-------------------------------
+
+Route Name     : omez-20mg-capsule-20s
+Language       : telugu-content
+Total Tokens   : 1289
+-------------------------------
+
+Route Name     : omez-20mg-capsule-20s
+Language       : telugu-content
+Total Tokens   : 1080
+-------------------------------
+
+Route Name     : omez-20mg-capsule-20s
+Language       : telugu-content
+Total Tokens   : 977
+-------------------------------
+
+Route Name     : omez-20mg-capsule-20s
+Language       : telugu-content
+Total Tokens   : 946
+-------------------------------
+
+Route Name     : omez-20mg-capsule-20s
+Language       : telugu-content
+Total Tokens   : 869
+-------------------------------
+
+Route Name     : omez-20mg-capsule-20s
+Language       : telugu-content
+Total Tokens   : 1019
+-------------------------------
+
+Route Name     : omez-20mg-capsule-20s
+Language       : telugu-content
+Total Tokens   : 1764
+-------------------------------
+
+Route Name     : omez-20mg-capsule-20s
+Language       : telugu-content
+Total Tokens   : 968
+-------------------------------
+
+Route Name     : omez-20mg-capsule-20s
+Language       : telugu-content
+Total Tokens   : 1171
+-------------------------------
+
+Route Name     : omez-20mg-capsule-20s
+Language       : telugu-content
+Total Tokens   : 1071
+-------------------------------
+
+Route Name     : omez-20mg-capsule-20s
+Language       : telugu-content
+Total Tokens   : 948
+-------------------------------
+
+Route Name     : omez-20mg-capsule-20s
+Language       : telugu-content
+Total Tokens   : 819
+-------------------------------
+
+Route Name     : omez-20mg-capsule-20s
+Language       : telugu-content
+Total Tokens   : 950
+-------------------------------
+
+Route Name     : omez-20mg-capsule-20s
+Language       : telugu-content
+Total Tokens   : 992
+-------------------------------
+
+Route Name     : omez-20mg-capsule-20s
+Language       : telugu-content
+Total Tokens   : 1143
+-------------------------------
+
+Route Name     : omez-20mg-capsule-20s
+Language       : telugu-content
+Total Tokens   : 962
+-------------------------------
+
+Route Name     : omez-20mg-capsule-20s
+Language       : telugu-content
+Total Tokens   : 1020
+-------------------------------
+
+Route Name     : omez-20mg-capsule-20s
+Language       : telugu-content
+Total Tokens   : 1049
+-------------------------------
+
+Route Name     : omez-20mg-capsule-20s
+Language       : telugu-content
+Total Tokens   : 888
+-------------------------------
+
+Route Name     : omez-20mg-capsule-20s
+Language       : telugu-content
+Total Tokens   : 1020
+-------------------------------
+
+Route Name     : diclowin-plus-5mg325mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 809
+-------------------------------
+
+Route Name     : diclowin-plus-5mg325mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 781
+-------------------------------
+
+Route Name     : diclowin-plus-5mg325mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 832
+-------------------------------
+
+Route Name     : diclowin-plus-5mg325mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 780
+-------------------------------
+
+Route Name     : diclowin-plus-5mg325mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 1304
+-------------------------------
+
+Route Name     : diclowin-plus-5mg325mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 947
+-------------------------------
+
+Route Name     : diclowin-plus-5mg325mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 1003
+-------------------------------
+
+Route Name     : diclowin-plus-5mg325mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 1006
+-------------------------------
+
+Route Name     : diclowin-plus-5mg325mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 777
+-------------------------------
+
+Route Name     : diclowin-plus-5mg325mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 946
+-------------------------------
+
+Route Name     : diclowin-plus-5mg325mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 1648
+-------------------------------
+
+Route Name     : diclowin-plus-5mg325mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 995
+-------------------------------
+
+Route Name     : diclowin-plus-5mg325mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 936
+-------------------------------
+
+Route Name     : diclowin-plus-5mg325mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 1022
+-------------------------------
+
+Route Name     : diclowin-plus-5mg325mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 832
+-------------------------------
+
+Route Name     : diclowin-plus-5mg325mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 852
+-------------------------------
+
+Route Name     : diclowin-plus-5mg325mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 1186
+-------------------------------
+
+Route Name     : diclowin-plus-5mg325mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 1018
+-------------------------------
+
+Route Name     : diclowin-plus-5mg325mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 1264
+-------------------------------
+
+Route Name     : diclowin-plus-5mg325mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 843
+-------------------------------
+
+Route Name     : neosporin-eye-ointment-10gm
+Language       : telugu-content
+Total Tokens   : 797
+-------------------------------
+
+Route Name     : neosporin-eye-ointment-10gm
+Language       : telugu-content
+Total Tokens   : 782
+-------------------------------
+
+Route Name     : neosporin-eye-ointment-10gm
+Language       : telugu-content
+Total Tokens   : 841
+-------------------------------
+
+Route Name     : neosporin-eye-ointment-10gm
+Language       : telugu-content
+Total Tokens   : 786
+-------------------------------
+
+Route Name     : neosporin-eye-ointment-10gm
+Language       : telugu-content
+Total Tokens   : 1625
+-------------------------------
+
+Route Name     : neosporin-eye-ointment-10gm
+Language       : telugu-content
+Total Tokens   : 788
+-------------------------------
+
+Route Name     : neosporin-eye-ointment-10gm
+Language       : telugu-content
+Total Tokens   : 1143
+-------------------------------
+
+Route Name     : neosporin-eye-ointment-10gm
+Language       : telugu-content
+Total Tokens   : 1273
+-------------------------------
+
+Route Name     : neosporin-eye-ointment-10gm
+Language       : telugu-content
+Total Tokens   : 853
+-------------------------------
+
+Route Name     : neosporin-eye-ointment-10gm
+Language       : telugu-content
+Total Tokens   : 1033
+-------------------------------
+
+Route Name     : montina-fx-10mg120mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 805
+-------------------------------
+
+Route Name     : montina-fx-10mg120mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 793
+-------------------------------
+
+Route Name     : montina-fx-10mg120mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 811
+-------------------------------
+
+Route Name     : montina-fx-10mg120mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 783
+-------------------------------
+
+Route Name     : montina-fx-10mg120mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 920
+-------------------------------
+
+Route Name     : montina-fx-10mg120mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 886
+-------------------------------
+
+Route Name     : montina-fx-10mg120mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 852
+-------------------------------
+
+Route Name     : montina-fx-10mg120mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 997
+-------------------------------
+
+Route Name     : montina-fx-10mg120mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 827
+-------------------------------
+
+Route Name     : montina-fx-10mg120mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 1334
+-------------------------------
+
+Route Name     : montina-fx-10mg120mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 818
+-------------------------------
+
+Route Name     : montina-fx-10mg120mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 842
+-------------------------------
+
+Route Name     : montina-fx-10mg120mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 993
+-------------------------------
+
+Route Name     : montina-fx-10mg120mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 819
+-------------------------------
+
+Route Name     : montina-fx-10mg120mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 920
+-------------------------------
+
+Route Name     : montina-fx-10mg120mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 851
+-------------------------------
+
+Route Name     : vomistop-10mg-tablet
+Language       : telugu-content
+Total Tokens   : 784
+-------------------------------
+
+Route Name     : vomistop-10mg-tablet
+Language       : telugu-content
+Total Tokens   : 771
+-------------------------------
+
+Route Name     : vomistop-10mg-tablet
+Language       : telugu-content
+Total Tokens   : 789
+-------------------------------
+
+Route Name     : vomistop-10mg-tablet
+Language       : telugu-content
+Total Tokens   : 780
+-------------------------------
+
+Route Name     : vomistop-10mg-tablet
+Language       : telugu-content
+Total Tokens   : 936
+-------------------------------
+
+Route Name     : vomistop-10mg-tablet
+Language       : telugu-content
+Total Tokens   : 847
+-------------------------------
+
+Route Name     : vomistop-10mg-tablet
+Language       : telugu-content
+Total Tokens   : 974
+-------------------------------
+
+Route Name     : vomistop-10mg-tablet
+Language       : telugu-content
+Total Tokens   : 918
+-------------------------------
+
+Route Name     : vomistop-10mg-tablet
+Language       : telugu-content
+Total Tokens   : 874
+-------------------------------
+
+Route Name     : vomistop-10mg-tablet
+Language       : telugu-content
+Total Tokens   : 1632
+-------------------------------
+
+Route Name     : vomistop-10mg-tablet
+Language       : telugu-content
+Total Tokens   : 885
+-------------------------------
+
+Route Name     : vomistop-10mg-tablet
+Language       : telugu-content
+Total Tokens   : 979
+-------------------------------
+
+Route Name     : vomistop-10mg-tablet
+Language       : telugu-content
+Total Tokens   : 1591
+-------------------------------
+
+Route Name     : vomistop-10mg-tablet
+Language       : telugu-content
+Total Tokens   : 800
+-------------------------------
+
+Route Name     : vomistop-10mg-tablet
+Language       : telugu-content
+Total Tokens   : 1031
+-------------------------------
+
+Route Name     : vomistop-10mg-tablet
+Language       : telugu-content
+Total Tokens   : 908
+-------------------------------
+
+Route Name     : nurokind-syrup-210ml
+Language       : telugu-content
+Total Tokens   : 791
+-------------------------------
+
+Route Name     : nurokind-syrup-210ml
+Language       : telugu-content
+Total Tokens   : 775
+-------------------------------
+
+Route Name     : nurokind-syrup-210ml
+Language       : telugu-content
+Total Tokens   : 815
+-------------------------------
+
+Route Name     : nurokind-syrup-210ml
+Language       : telugu-content
+Total Tokens   : 788
+-------------------------------
+
+Route Name     : nurokind-syrup-210ml
+Language       : telugu-content
+Total Tokens   : 995
+-------------------------------
+
+Route Name     : nurokind-syrup-210ml
+Language       : telugu-content
+Total Tokens   : 950
+-------------------------------
+
+Route Name     : nurokind-syrup-210ml
+Language       : telugu-content
+Total Tokens   : 895
+-------------------------------
+
+Route Name     : nurokind-syrup-210ml
+Language       : telugu-content
+Total Tokens   : 1080
+-------------------------------
+
+Route Name     : nurokind-syrup-210ml
+Language       : telugu-content
+Total Tokens   : 864
+-------------------------------
+
+Route Name     : nurokind-syrup-210ml
+Language       : telugu-content
+Total Tokens   : 865
+-------------------------------
+
+Route Name     : nurokind-syrup-210ml
+Language       : telugu-content
+Total Tokens   : 1172
+-------------------------------
+
+Route Name     : nurokind-syrup-210ml
+Language       : telugu-content
+Total Tokens   : 957
+-------------------------------
+
+Route Name     : nurokind-syrup-210ml
+Language       : telugu-content
+Total Tokens   : 994
+-------------------------------
+
+Route Name     : gemsel-ct-capsule-10s
+Language       : telugu-content
+Total Tokens   : 784
+-------------------------------
+
+Route Name     : gemsel-ct-capsule-10s
+Language       : telugu-content
+Total Tokens   : 782
+-------------------------------
+
+Route Name     : gemsel-ct-capsule-10s
+Language       : telugu-content
+Total Tokens   : 861
+-------------------------------
+
+Route Name     : gemsel-ct-capsule-10s
+Language       : telugu-content
+Total Tokens   : 783
+-------------------------------
+
+Route Name     : gemsel-ct-capsule-10s
+Language       : telugu-content
+Total Tokens   : 1679
+-------------------------------
+
+Route Name     : gemsel-ct-capsule-10s
+Language       : telugu-content
+Total Tokens   : 839
+-------------------------------
+
+Route Name     : gemsel-ct-capsule-10s
+Language       : telugu-content
+Total Tokens   : 944
+-------------------------------
+
+Route Name     : gemsel-ct-capsule-10s
+Language       : telugu-content
+Total Tokens   : 1200
+-------------------------------
+
+Route Name     : gemsel-ct-capsule-10s
+Language       : telugu-content
+Total Tokens   : 832
+-------------------------------
+
+Route Name     : gemsel-ct-capsule-10s
+Language       : telugu-content
+Total Tokens   : 1488
+-------------------------------
+
+Route Name     : gemsel-ct-capsule-10s
+Language       : telugu-content
+Total Tokens   : 935
+-------------------------------
+
+Route Name     : gemsel-ct-capsule-10s
+Language       : telugu-content
+Total Tokens   : 966
+-------------------------------
+
+Route Name     : gemsel-ct-capsule-10s
+Language       : telugu-content
+Total Tokens   : 928
+-------------------------------
+
+Route Name     : gemsel-ct-capsule-10s
+Language       : telugu-content
+Total Tokens   : 799
+-------------------------------
+
+Route Name     : gemsel-ct-capsule-10s
+Language       : telugu-content
+Total Tokens   : 1306
+-------------------------------
+
+Route Name     : gemsel-ct-capsule-10s
+Language       : telugu-content
+Total Tokens   : 968
+-------------------------------
+
+Route Name     : met-xl-12.5-mg-tablet-er-20s
+Language       : telugu-content
+Total Tokens   : 801
+-------------------------------
+
+Route Name     : met-xl-12.5-mg-tablet-er-20s
+Language       : telugu-content
+Total Tokens   : 784
+-------------------------------
+
+Route Name     : met-xl-12.5-mg-tablet-er-20s
+Language       : telugu-content
+Total Tokens   : 810
+-------------------------------
+
+Route Name     : met-xl-12.5-mg-tablet-er-20s
+Language       : telugu-content
+Total Tokens   : 783
+-------------------------------
+
+Route Name     : met-xl-12.5-mg-tablet-er-20s
+Language       : telugu-content
+Total Tokens   : 1270
+-------------------------------
+
+Route Name     : met-xl-12.5-mg-tablet-er-20s
+Language       : telugu-content
+Total Tokens   : 987
+-------------------------------
+
+Route Name     : met-xl-12.5-mg-tablet-er-20s
+Language       : telugu-content
+Total Tokens   : 999
+-------------------------------
+
+Route Name     : met-xl-12.5-mg-tablet-er-20s
+Language       : telugu-content
+Total Tokens   : 970
+-------------------------------
+
+Route Name     : met-xl-12.5-mg-tablet-er-20s
+Language       : telugu-content
+Total Tokens   : 853
+-------------------------------
+
+Route Name     : met-xl-12.5-mg-tablet-er-20s
+Language       : telugu-content
+Total Tokens   : 990
+-------------------------------
+
+Route Name     : met-xl-12.5-mg-tablet-er-20s
+Language       : telugu-content
+Total Tokens   : 1071
+-------------------------------
+
+Route Name     : met-xl-12.5-mg-tablet-er-20s
+Language       : telugu-content
+Total Tokens   : 840
+-------------------------------
+
+Route Name     : met-xl-12.5-mg-tablet-er-20s
+Language       : telugu-content
+Total Tokens   : 960
+-------------------------------
+
+Route Name     : met-xl-12.5-mg-tablet-er-20s
+Language       : telugu-content
+Total Tokens   : 876
+-------------------------------
+
+Route Name     : met-xl-12.5-mg-tablet-er-20s
+Language       : telugu-content
+Total Tokens   : 829
+-------------------------------
+
+Route Name     : gluconorm-g2-d-tablet-sr
+Language       : telugu-content
+Total Tokens   : 789
+-------------------------------
+
+Route Name     : gluconorm-g2-d-tablet-sr
+Language       : telugu-content
+Total Tokens   : 773
+-------------------------------
+
+Route Name     : gluconorm-g2-d-tablet-sr
+Language       : telugu-content
+Total Tokens   : 841
+-------------------------------
+
+Route Name     : gluconorm-g2-d-tablet-sr
+Language       : telugu-content
+Total Tokens   : 786
+-------------------------------
+
+Route Name     : gluconorm-g2-d-tablet-sr
+Language       : telugu-content
+Total Tokens   : 1695
+-------------------------------
+
+Route Name     : gluconorm-g2-d-tablet-sr
+Language       : telugu-content
+Total Tokens   : 914
+-------------------------------
+
+Route Name     : gluconorm-g2-d-tablet-sr
+Language       : telugu-content
+Total Tokens   : 929
+-------------------------------
+
+Route Name     : gluconorm-g2-d-tablet-sr
+Language       : telugu-content
+Total Tokens   : 1192
+-------------------------------
+
+Route Name     : gluconorm-g2-d-tablet-sr
+Language       : telugu-content
+Total Tokens   : 792
+-------------------------------
+
+Route Name     : gluconorm-g2-d-tablet-sr
+Language       : telugu-content
+Total Tokens   : 898
+-------------------------------
+
+Route Name     : gluconorm-g2-d-tablet-sr
+Language       : telugu-content
+Total Tokens   : 1994
+-------------------------------
+
+Route Name     : gluconorm-g2-d-tablet-sr
+Language       : telugu-content
+Total Tokens   : 781
+-------------------------------
+
+Route Name     : liveril-forte-tablet-15s
+Language       : telugu-content
+Total Tokens   : 788
+-------------------------------
+
+Route Name     : liveril-forte-tablet-15s
+Language       : telugu-content
+Total Tokens   : 785
+-------------------------------
+
+Route Name     : liveril-forte-tablet-15s
+Language       : telugu-content
+Total Tokens   : 767
+-------------------------------
+
+Route Name     : liveril-forte-tablet-15s
+Language       : telugu-content
+Total Tokens   : 779
+-------------------------------
+
+Route Name     : liveril-forte-tablet-15s
+Language       : telugu-content
+Total Tokens   : 1001
+-------------------------------
+
+Route Name     : liveril-forte-tablet-15s
+Language       : telugu-content
+Total Tokens   : 889
+-------------------------------
+
+Route Name     : liveril-forte-tablet-15s
+Language       : telugu-content
+Total Tokens   : 860
+-------------------------------
+
+Route Name     : liveril-forte-tablet-15s
+Language       : telugu-content
+Total Tokens   : 1083
+-------------------------------
+
+Route Name     : liveril-forte-tablet-15s
+Language       : telugu-content
+Total Tokens   : 864
+-------------------------------
+
+Route Name     : liveril-forte-tablet-15s
+Language       : telugu-content
+Total Tokens   : 919
+-------------------------------
+
+Route Name     : liveril-forte-tablet-15s
+Language       : telugu-content
+Total Tokens   : 1105
+-------------------------------
+
+Route Name     : ketofly-shampoo-75ml
+Language       : telugu-content
+Total Tokens   : 805
+-------------------------------
+
+Route Name     : ketofly-shampoo-75ml
+Language       : telugu-content
+Total Tokens   : 800
+-------------------------------
+
+Route Name     : ketofly-shampoo-75ml
+Language       : telugu-content
+Total Tokens   : 815
+-------------------------------
+
+Route Name     : ketofly-shampoo-75ml
+Language       : telugu-content
+Total Tokens   : 811
+-------------------------------
+
+Route Name     : ketofly-shampoo-75ml
+Language       : telugu-content
+Total Tokens   : 1115
+-------------------------------
+
+Route Name     : ketofly-shampoo-75ml
+Language       : telugu-content
+Total Tokens   : 973
+-------------------------------
+
+Route Name     : ketofly-shampoo-75ml
+Language       : telugu-content
+Total Tokens   : 1144
+-------------------------------
+
+Route Name     : ketofly-shampoo-75ml
+Language       : telugu-content
+Total Tokens   : 1018
+-------------------------------
+
+Route Name     : ketofly-shampoo-75ml
+Language       : telugu-content
+Total Tokens   : 805
+-------------------------------
+
+Route Name     : ketofly-shampoo-75ml
+Language       : telugu-content
+Total Tokens   : 837
+-------------------------------
+
+Route Name     : ketofly-shampoo-75ml
+Language       : telugu-content
+Total Tokens   : 1278
+-------------------------------
+
+Route Name     : ketofly-shampoo-75ml
+Language       : telugu-content
+Total Tokens   : 942
+-------------------------------
+
+Route Name     : ketofly-shampoo-75ml
+Language       : telugu-content
+Total Tokens   : 1001
+-------------------------------
+
+Route Name     : ketofly-shampoo-75ml
+Language       : telugu-content
+Total Tokens   : 1061
+-------------------------------
+
+Route Name     : ketofly-shampoo-75ml
+Language       : telugu-content
+Total Tokens   : 1043
+-------------------------------
+
+Route Name     : neptaz-50mg-tablet-14s
+Language       : telugu-content
+Total Tokens   : 800
+-------------------------------
+
+Route Name     : neptaz-50mg-tablet-14s
+Language       : telugu-content
+Total Tokens   : 775
+-------------------------------
+
+Route Name     : neptaz-50mg-tablet-14s
+Language       : telugu-content
+Total Tokens   : 812
+-------------------------------
+
+Route Name     : neptaz-50mg-tablet-14s
+Language       : telugu-content
+Total Tokens   : 780
+-------------------------------
+
+Route Name     : neptaz-50mg-tablet-14s
+Language       : telugu-content
+Total Tokens   : 1352
+-------------------------------
+
+Route Name     : neptaz-50mg-tablet-14s
+Language       : telugu-content
+Total Tokens   : 812
+-------------------------------
+
+Route Name     : neptaz-50mg-tablet-14s
+Language       : telugu-content
+Total Tokens   : 975
+-------------------------------
+
+Route Name     : neptaz-50mg-tablet-14s
+Language       : telugu-content
+Total Tokens   : 1000
+-------------------------------
+
+Route Name     : neptaz-50mg-tablet-14s
+Language       : telugu-content
+Total Tokens   : 866
+-------------------------------
+
+Route Name     : neptaz-50mg-tablet-14s
+Language       : telugu-content
+Total Tokens   : 1891
+-------------------------------
+
+Route Name     : neptaz-50mg-tablet-14s
+Language       : telugu-content
+Total Tokens   : 845
+-------------------------------
+
+Route Name     : neptaz-50mg-tablet-14s
+Language       : telugu-content
+Total Tokens   : 982
+-------------------------------
+
+Route Name     : neptaz-50mg-tablet-14s
+Language       : telugu-content
+Total Tokens   : 823
+-------------------------------
+
+Route Name     : neptaz-50mg-tablet-14s
+Language       : telugu-content
+Total Tokens   : 813
+-------------------------------
+
+Route Name     : neptaz-50mg-tablet-14s
+Language       : telugu-content
+Total Tokens   : 1036
+-------------------------------
+
+Route Name     : neptaz-50mg-tablet-14s
+Language       : telugu-content
+Total Tokens   : 972
+-------------------------------
+
+Route Name     : neptaz-50mg-tablet-14s
+Language       : telugu-content
+Total Tokens   : 848
+-------------------------------
+
+Route Name     : myoril-maxx-4mg100mg325mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 824
+-------------------------------
+
+Route Name     : myoril-maxx-4mg100mg325mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 785
+-------------------------------
+
+Route Name     : myoril-maxx-4mg100mg325mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 850
+-------------------------------
+
+Route Name     : myoril-maxx-4mg100mg325mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 781
+-------------------------------
+
+Route Name     : myoril-maxx-4mg100mg325mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 961
+-------------------------------
+
+Route Name     : myoril-maxx-4mg100mg325mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 932
+-------------------------------
+
+Route Name     : myoril-maxx-4mg100mg325mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 944
+-------------------------------
+
+Route Name     : myoril-maxx-4mg100mg325mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 1033
+-------------------------------
+
+Route Name     : myoril-maxx-4mg100mg325mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 979
+-------------------------------
+
+Route Name     : myoril-maxx-4mg100mg325mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 974
+-------------------------------
+
+Route Name     : myoril-maxx-4mg100mg325mg-tablet-10s
+Language       : telugu-content
+Total Tokens   : 985
+-------------------------------
+
+Route Name     : dolonex-injection-2ml
+Language       : telugu-content
+Total Tokens   : 788
+-------------------------------
+
+Route Name     : dolonex-injection-2ml
+Language       : telugu-content
+Total Tokens   : 775
+-------------------------------
+
+Route Name     : dolonex-injection-2ml
+Language       : telugu-content
+Total Tokens   : 789
+-------------------------------
+
+Route Name     : dolonex-injection-2ml
+Language       : telugu-content
+Total Tokens   : 784
+-------------------------------
+
+Route Name     : dolonex-injection-2ml
+Language       : telugu-content
+Total Tokens   : 968
+-------------------------------
+
+Route Name     : dolonex-injection-2ml
+Language       : telugu-content
+Total Tokens   : 886
+-------------------------------
+
+Route Name     : dolonex-injection-2ml
+Language       : telugu-content
+Total Tokens   : 865
+-------------------------------
+
+Route Name     : dolonex-injection-2ml
+Language       : telugu-content
+Total Tokens   : 968
+-------------------------------
+
+Route Name     : dolonex-injection-2ml
+Language       : telugu-content
+Total Tokens   : 779
+-------------------------------
+
+Route Name     : dolonex-injection-2ml
+Language       : telugu-content
+Total Tokens   : 924
+-------------------------------
+
+Route Name     : dolonex-injection-2ml
+Language       : telugu-content
+Total Tokens   : 1991
+-------------------------------
+
+Route Name     : dolonex-injection-2ml
+Language       : telugu-content
+Total Tokens   : 977
+-------------------------------
+
+Route Name     : dolonex-injection-2ml
+Language       : telugu-content
+Total Tokens   : 937
+-------------------------------
+
+Route Name     : laveta-m-syrup-60ml
+Language       : telugu-content
+Total Tokens   : 793
+-------------------------------
+
+Route Name     : laveta-m-syrup-60ml
+Language       : telugu-content
+Total Tokens   : 792
+-------------------------------
+
+Route Name     : laveta-m-syrup-60ml
+Language       : telugu-content
+Total Tokens   : 845
+-------------------------------
+
+Route Name     : laveta-m-syrup-60ml
+Language       : telugu-content
+Total Tokens   : 785
+-------------------------------
+
+Route Name     : laveta-m-syrup-60ml
+Language       : telugu-content
+Total Tokens   : 1595
+-------------------------------
+
+Route Name     : laveta-m-syrup-60ml
+Language       : telugu-content
+Total Tokens   : 900
+-------------------------------
+
+Route Name     : laveta-m-syrup-60ml
+Language       : telugu-content
+Total Tokens   : 947
+-------------------------------
+
+Route Name     : laveta-m-syrup-60ml
+Language       : telugu-content
+Total Tokens   : 1124
+-------------------------------
+
+Route Name     : laveta-m-syrup-60ml
+Language       : telugu-content
+Total Tokens   : 858
+-------------------------------
+
+Route Name     : laveta-m-syrup-60ml
+Language       : telugu-content
+Total Tokens   : 844
+-------------------------------
+
+Route Name     : laveta-m-syrup-60ml
+Language       : telugu-content
+Total Tokens   : 1159
+-------------------------------
+
+Route Name     : laveta-m-syrup-60ml
+Language       : telugu-content
+Total Tokens   : 830
+-------------------------------
+
+Route Name     : laveta-m-syrup-60ml
+Language       : telugu-content
+Total Tokens   : 877
+-------------------------------
+
+Route Name     : laveta-m-syrup-60ml
+Language       : telugu-content
+Total Tokens   : 905
+-------------------------------
+
+Route Name     : laveta-m-syrup-60ml
+Language       : telugu-content
+Total Tokens   : 985
+-------------------------------
+
+Route Name     : laveta-m-syrup-60ml
+Language       : telugu-content
+Total Tokens   : 964
+-------------------------------
+
+Route Name     : rinifol-capsule-15s
+Language       : telugu-content
+Total Tokens   : 785
+-------------------------------
+
+Route Name     : rinifol-capsule-15s
+Language       : telugu-content
+Total Tokens   : 792
+-------------------------------
+
+Route Name     : rinifol-capsule-15s
+Language       : telugu-content
+Total Tokens   : 1030
+-------------------------------
+
+Route Name     : rinifol-capsule-15s
+Language       : telugu-content
+Total Tokens   : 783
+-------------------------------
+
+Route Name     : rinifol-capsule-15s
+Language       : telugu-content
+Total Tokens   : 1053
+-------------------------------
+
+Route Name     : rinifol-capsule-15s
+Language       : telugu-content
+Total Tokens   : 989
+-------------------------------
+
+Route Name     : rinifol-capsule-15s
+Language       : telugu-content
+Total Tokens   : 885
+-------------------------------
+
+Route Name     : rinifol-capsule-15s
+Language       : telugu-content
+Total Tokens   : 1037
+-------------------------------
+
+Route Name     : rinifol-capsule-15s
+Language       : telugu-content
+Total Tokens   : 868
+-------------------------------
+
+Route Name     : rinifol-capsule-15s
+Language       : telugu-content
+Total Tokens   : 972
+-------------------------------
+
+Route Name     : rinifol-capsule-15s
+Language       : telugu-content
+Total Tokens   : 1006
+-------------------------------
+
+Route Name     : monit-gtn-2.6mg-tablet-cr-60s
+Language       : telugu-content
+Total Tokens   : 807
+-------------------------------
+
+Route Name     : monit-gtn-2.6mg-tablet-cr-60s
+Language       : telugu-content
+Total Tokens   : 787
+-------------------------------
+
+Route Name     : monit-gtn-2.6mg-tablet-cr-60s
+Language       : telugu-content
+Total Tokens   : 822
+-------------------------------
+
+Route Name     : monit-gtn-2.6mg-tablet-cr-60s
+Language       : telugu-content
+Total Tokens   : 786
+-------------------------------
+
+Route Name     : monit-gtn-2.6mg-tablet-cr-60s
+Language       : telugu-content
+Total Tokens   : 1119
+-------------------------------
+
+Route Name     : monit-gtn-2.6mg-tablet-cr-60s
+Language       : telugu-content
+Total Tokens   : 876
+-------------------------------
+
+Route Name     : monit-gtn-2.6mg-tablet-cr-60s
+Language       : telugu-content
+Total Tokens   : 949
+-------------------------------
+
+Route Name     : monit-gtn-2.6mg-tablet-cr-60s
+Language       : telugu-content
+Total Tokens   : 971
+-------------------------------
+
+Route Name     : monit-gtn-2.6mg-tablet-cr-60s
+Language       : telugu-content
+Total Tokens   : 809
+-------------------------------
+
+Route Name     : monit-gtn-2.6mg-tablet-cr-60s
+Language       : telugu-content
+Total Tokens   : 1016
+-------------------------------
+
+Route Name     : apdrops-lp-eye-drop-5ml
+Language       : telugu-content
+Total Tokens   : 794
+-------------------------------
+
+Route Name     : apdrops-lp-eye-drop-5ml
+Language       : telugu-content
+Total Tokens   : 782
+-------------------------------
+
+Route Name     : apdrops-lp-eye-drop-5ml
+Language       : telugu-content
+Total Tokens   : 846
+-------------------------------
+
+Route Name     : apdrops-lp-eye-drop-5ml
+Language       : telugu-content
+Total Tokens   : 791
+-------------------------------
+
+Route Name     : apdrops-lp-eye-drop-5ml
+Language       : telugu-content
+Total Tokens   : 887
+-------------------------------
+
+Route Name     : apdrops-lp-eye-drop-5ml
+Language       : telugu-content
+Total Tokens   : 900
+-------------------------------
+
+Route Name     : apdrops-lp-eye-drop-5ml
+Language       : telugu-content
+Total Tokens   : 843
+-------------------------------
+
+Route Name     : apdrops-lp-eye-drop-5ml
+Language       : telugu-content
+Total Tokens   : 998
+-------------------------------
+
+Route Name     : apdrops-lp-eye-drop-5ml
+Language       : telugu-content
+Total Tokens   : 844
+-------------------------------
+
+Route Name     : apdrops-lp-eye-drop-5ml
+Language       : telugu-content
+Total Tokens   : 1341
+-------------------------------
+
+Route Name     : apdrops-lp-eye-drop-5ml
+Language       : telugu-content
+Total Tokens   : 814
+-------------------------------
+
+Route Name     : apdrops-lp-eye-drop-5ml
+Language       : telugu-content
+Total Tokens   : 834
+-------------------------------
+
+Route Name     : apdrops-lp-eye-drop-5ml
+Language       : telugu-content
+Total Tokens   : 983
+-------------------------------
+
+Route Name     : apdrops-lp-eye-drop-5ml
+Language       : telugu-content
+Total Tokens   : 793
+-------------------------------
+
+Route Name     : apdrops-lp-eye-drop-5ml
+Language       : telugu-content
+Total Tokens   : 910
+-------------------------------
+
+Route Name     : apdrops-lp-eye-drop-5ml
+Language       : telugu-content
+Total Tokens   : 844
+-------------------------------
+
+Route Name     : ovares-plus-capsule-sr-10s
+Language       : telugu-content
+Total Tokens   : 706
+-------------------------------
+
+Route Name     : ovares-plus-capsule-sr-10s
+Language       : telugu-content
+Total Tokens   : 693
+-------------------------------
+
+Route Name     : ovares-plus-capsule-sr-10s
+Language       : telugu-content
+Total Tokens   : 786
+-------------------------------
+
+Route Name     : ovares-plus-capsule-sr-10s
+Language       : telugu-content
+Total Tokens   : 687
+-------------------------------
+
+Route Name     : ovares-plus-capsule-sr-10s
+Language       : telugu-content
+Total Tokens   : 979
+-------------------------------
+
+Route Name     : ovares-plus-capsule-sr-10s
+Language       : telugu-content
+Total Tokens   : 912
+-------------------------------
+
+Route Name     : ovares-plus-capsule-sr-10s
+Language       : telugu-content
+Total Tokens   : 922
+-------------------------------
