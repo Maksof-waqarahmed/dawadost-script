@@ -1,0 +1,124 @@
+Route Name     : fertisure-f-tablet
+Language       : telugu
+Total Tokens   : 216
+-------------------------------
+
+Route Name     : vodacof-tablet-10s
+Language       : telugu
+Total Tokens   : 215
+-------------------------------
+
+Route Name     : tricium-active-tablet-15s
+Language       : telugu
+Total Tokens   : 210
+-------------------------------
+
+Route Name     : new-socril-capsule-15s
+Language       : telugu
+Total Tokens   : 215
+-------------------------------
+
+Route Name     : cosvate-gm-cream-20gm
+Language       : telugu
+Total Tokens   : 215
+-------------------------------
+
+Route Name     : metrogyl-p-210-ointment-20gm
+Language       : telugu
+Total Tokens   : 217
+-------------------------------
+
+Route Name     : ecosprin-gold-40-capsule-15s
+Language       : telugu
+Total Tokens   : 217
+-------------------------------
+
+Route Name     : tamsukem-plus-capsule-pr
+Language       : telugu
+Total Tokens   : 216
+-------------------------------
+
+Route Name     : herpex-5-cream-1s
+Language       : telugu
+Total Tokens   : 217
+-------------------------------
+
+Route Name     : new-geripod-d-capsule
+Language       : telugu
+Total Tokens   : 216
+-------------------------------
+
+Route Name     : orthodex-mr-tablet-10s
+Language       : telugu
+Total Tokens   : 216
+-------------------------------
+
+Route Name     : sederom-tablet-10s
+Language       : telugu
+Total Tokens   : 216
+-------------------------------
+
+Route Name     : cizaspa-x-135mg5mg-tablet-15s
+Language       : telugu
+Total Tokens   : 215
+-------------------------------
+
+Route Name     : ovuloc-ld-tablet
+Language       : telugu
+Total Tokens   : 217
+-------------------------------
+
+Route Name     : lactocip-ds-tablet-15s
+Language       : telugu
+Total Tokens   : 217
+-------------------------------
+
+Route Name     : futop-b-cream-10gm
+Language       : telugu
+Total Tokens   : 216
+-------------------------------
+
+Route Name     : redotil-100mg-capsule
+Language       : telugu
+Total Tokens   : 217
+-------------------------------
+
+Route Name     : otobiotic-ear-drop-5ml
+Language       : telugu
+Total Tokens   : 215
+-------------------------------
+
+Route Name     : bizfer-xt-tablet-10s
+Language       : telugu
+Total Tokens   : 216
+-------------------------------
+
+Route Name     : magrium-tablet-10s
+Language       : telugu
+Total Tokens   : 217
+-------------------------------
+
+Route Name     : mezol-eye-drop-10ml
+Language       : telugu
+Total Tokens   : 217
+-------------------------------
+
+Route Name     : reswas-jr-dry-cough-syrup-120ml
+Language       : telugu
+Total Tokens   : 215
+-------------------------------
+
+Route Name     : cleargel-nico-gel-20gm
+Language       : telugu
+Total Tokens   : 217
+-------------------------------
+
+Route Name     : mylamin-capsule-10s
+Language       : telugu
+Total Tokens   : 217
+-------------------------------
+
+Route Name     : calpol-t-325mg37.5mg-tablet
+Language       : telugu
+Total Tokens   : 215
+-------------------------------

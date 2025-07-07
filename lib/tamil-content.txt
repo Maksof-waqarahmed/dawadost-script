@@ -1,0 +1,129 @@
+Route Name     : vodacof-tablet-10s
+Language       : tamil-content
+Total Tokens   : 795
+-------------------------------
+
+Route Name     : vodacof-tablet-10s
+Language       : tamil-content
+Total Tokens   : 804
+-------------------------------
+
+Route Name     : vodacof-tablet-10s
+Language       : tamil-content
+Total Tokens   : 925
+-------------------------------
+
+Route Name     : vodacof-tablet-10s
+Language       : tamil-content
+Total Tokens   : 788
+-------------------------------
+
+Route Name     : vodacof-tablet-10s
+Language       : tamil-content
+Total Tokens   : 1344
+-------------------------------
+
+Route Name     : vodacof-tablet-10s
+Language       : tamil-content
+Total Tokens   : 953
+-------------------------------
+
+Route Name     : vodacof-tablet-10s
+Language       : tamil-content
+Total Tokens   : 943
+-------------------------------
+
+Route Name     : vodacof-tablet-10s
+Language       : tamil-content
+Total Tokens   : 1253
+-------------------------------
+
+Route Name     : vodacof-tablet-10s
+Language       : tamil-content
+Total Tokens   : 832
+-------------------------------
+
+Route Name     : vodacof-tablet-10s
+Language       : tamil-content
+Total Tokens   : 832
+-------------------------------
+
+Route Name     : vodacof-tablet-10s
+Language       : tamil-content
+Total Tokens   : 810
+-------------------------------
+
+Route Name     : tricium-active-tablet-15s
+Language       : tamil-content
+Total Tokens   : 802
+-------------------------------
+
+Route Name     : tricium-active-tablet-15s
+Language       : tamil-content
+Total Tokens   : 790
+-------------------------------
+
+Route Name     : tricium-active-tablet-15s
+Language       : tamil-content
+Total Tokens   : 982
+-------------------------------
+
+Route Name     : tricium-active-tablet-15s
+Language       : tamil-content
+Total Tokens   : 798
+-------------------------------
+
+Route Name     : tricium-active-tablet-15s
+Language       : tamil-content
+Total Tokens   : 1008
+-------------------------------
+
+Route Name     : tricium-active-tablet-15s
+Language       : tamil-content
+Total Tokens   : 943
+-------------------------------
+
+Route Name     : tricium-active-tablet-15s
+Language       : tamil-content
+Total Tokens   : 985
+-------------------------------
+
+Route Name     : tricium-active-tablet-15s
+Language       : tamil-content
+Total Tokens   : 1192
+-------------------------------
+
+Route Name     : tricium-active-tablet-15s
+Language       : tamil-content
+Total Tokens   : 823
+-------------------------------
+
+Route Name     : tricium-active-tablet-15s
+Language       : tamil-content
+Total Tokens   : 947
+-------------------------------
+
+Route Name     : tricium-active-tablet-15s
+Language       : tamil-content
+Total Tokens   : 1284
+-------------------------------
+
+Route Name     : tricium-active-tablet-15s
+Language       : tamil-content
+Total Tokens   : 1011
+-------------------------------
+
+Route Name     : tricium-active-tablet-15s
+Language       : tamil-content
+Total Tokens   : 1076
+-------------------------------
+
+Route Name     : new-socril-capsule-15s
+Language       : tamil-content
+Total Tokens   : 798
+-------------------------------
+
+Route Name     : new-socril-capsule-15s
+Language       : tamil-content
+Total Tokens   : 805
+-------------------------------

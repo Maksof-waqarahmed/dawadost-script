@@ -1,0 +1,14 @@
+Route Name     : vodacof-tablet-10s
+Language       : tamil
+Total Tokens   : 221
+-------------------------------
+
+Route Name     : tricium-active-tablet-15s
+Language       : tamil
+Total Tokens   : 225
+-------------------------------
+
+Route Name     : new-socril-capsule-15s
+Language       : tamil
+Total Tokens   : 225
+-------------------------------
