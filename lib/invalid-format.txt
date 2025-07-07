@@ -97,3 +97,8 @@ Route Name     : sacuval-50-tablet-10s
 Language       : invalid-format
 Total Tokens   : 0
 -------------------------------
+
+Route Name     : patanjali-divya-madhunashini-vati-extra-power-120s
+Language       : invalid-format
+Total Tokens   : 0
+-------------------------------

@@ -67,3 +67,18 @@ Route Name     : ascoril-plus-expectorant-120ml
 Language       : tamil-invalid-format
 Total Tokens   : 0
 -------------------------------
+
+Route Name     : bonicor-lc-tablet-10s
+Language       : tamil-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : drosis-ds-combipack
+Language       : tamil-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : pregator-capsule-10s
+Language       : tamil-invalid-format
+Total Tokens   : 0
+-------------------------------

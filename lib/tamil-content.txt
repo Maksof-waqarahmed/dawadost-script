@@ -32232,3 +32232,5488 @@ Route Name     : stiffgon-rs-capsule-14s
 Language       : tamil-content
 Total Tokens   : 1335
 -------------------------------
+
+Route Name     : stiffgon-rs-capsule-14s
+Language       : tamil-content
+Total Tokens   : 837
+-------------------------------
+
+Route Name     : stiffgon-rs-capsule-14s
+Language       : tamil-content
+Total Tokens   : 879
+-------------------------------
+
+Route Name     : stiffgon-rs-capsule-14s
+Language       : tamil-content
+Total Tokens   : 1000
+-------------------------------
+
+Route Name     : stiffgon-rs-capsule-14s
+Language       : tamil-content
+Total Tokens   : 956
+-------------------------------
+
+Route Name     : stiffgon-rs-capsule-14s
+Language       : tamil-content
+Total Tokens   : 868
+-------------------------------
+
+Route Name     : eldomac-2mg-capsule
+Language       : tamil-content
+Total Tokens   : 856
+-------------------------------
+
+Route Name     : eldomac-2mg-capsule
+Language       : tamil-content
+Total Tokens   : 846
+-------------------------------
+
+Route Name     : eldomac-2mg-capsule
+Language       : tamil-content
+Total Tokens   : 852
+-------------------------------
+
+Route Name     : eldomac-2mg-capsule
+Language       : tamil-content
+Total Tokens   : 848
+-------------------------------
+
+Route Name     : eldomac-2mg-capsule
+Language       : tamil-content
+Total Tokens   : 1038
+-------------------------------
+
+Route Name     : eldomac-2mg-capsule
+Language       : tamil-content
+Total Tokens   : 942
+-------------------------------
+
+Route Name     : eldomac-2mg-capsule
+Language       : tamil-content
+Total Tokens   : 1180
+-------------------------------
+
+Route Name     : eldomac-2mg-capsule
+Language       : tamil-content
+Total Tokens   : 1058
+-------------------------------
+
+Route Name     : eldomac-2mg-capsule
+Language       : tamil-content
+Total Tokens   : 994
+-------------------------------
+
+Route Name     : eldomac-2mg-capsule
+Language       : tamil-content
+Total Tokens   : 1630
+-------------------------------
+
+Route Name     : eldomac-2mg-capsule
+Language       : tamil-content
+Total Tokens   : 1035
+-------------------------------
+
+Route Name     : eldomac-2mg-capsule
+Language       : tamil-content
+Total Tokens   : 1034
+-------------------------------
+
+Route Name     : eldomac-2mg-capsule
+Language       : tamil-content
+Total Tokens   : 1028
+-------------------------------
+
+Route Name     : eldomac-2mg-capsule
+Language       : tamil-content
+Total Tokens   : 933
+-------------------------------
+
+Route Name     : eldomac-2mg-capsule
+Language       : tamil-content
+Total Tokens   : 837
+-------------------------------
+
+Route Name     : eldomac-2mg-capsule
+Language       : tamil-content
+Total Tokens   : 1119
+-------------------------------
+
+Route Name     : eldomac-2mg-capsule
+Language       : tamil-content
+Total Tokens   : 1069
+-------------------------------
+
+Route Name     : eldomac-2mg-capsule
+Language       : tamil-content
+Total Tokens   : 932
+-------------------------------
+
+Route Name     : eldomac-2mg-capsule
+Language       : tamil-content
+Total Tokens   : 898
+-------------------------------
+
+Route Name     : scaboma-lotion
+Language       : tamil-content
+Total Tokens   : 793
+-------------------------------
+
+Route Name     : scaboma-lotion
+Language       : tamil-content
+Total Tokens   : 808
+-------------------------------
+
+Route Name     : scaboma-lotion
+Language       : tamil-content
+Total Tokens   : 826
+-------------------------------
+
+Route Name     : scaboma-lotion
+Language       : tamil-content
+Total Tokens   : 805
+-------------------------------
+
+Route Name     : scaboma-lotion
+Language       : tamil-content
+Total Tokens   : 959
+-------------------------------
+
+Route Name     : scaboma-lotion
+Language       : tamil-content
+Total Tokens   : 865
+-------------------------------
+
+Route Name     : scaboma-lotion
+Language       : tamil-content
+Total Tokens   : 1151
+-------------------------------
+
+Route Name     : scaboma-lotion
+Language       : tamil-content
+Total Tokens   : 931
+-------------------------------
+
+Route Name     : scaboma-lotion
+Language       : tamil-content
+Total Tokens   : 807
+-------------------------------
+
+Route Name     : scaboma-lotion
+Language       : tamil-content
+Total Tokens   : 977
+-------------------------------
+
+Route Name     : scaboma-lotion
+Language       : tamil-content
+Total Tokens   : 1547
+-------------------------------
+
+Route Name     : scaboma-lotion
+Language       : tamil-content
+Total Tokens   : 938
+-------------------------------
+
+Route Name     : scaboma-lotion
+Language       : tamil-content
+Total Tokens   : 910
+-------------------------------
+
+Route Name     : scaboma-lotion
+Language       : tamil-content
+Total Tokens   : 835
+-------------------------------
+
+Route Name     : scaboma-lotion
+Language       : tamil-content
+Total Tokens   : 1028
+-------------------------------
+
+Route Name     : scaboma-lotion
+Language       : tamil-content
+Total Tokens   : 1053
+-------------------------------
+
+Route Name     : scaboma-lotion
+Language       : tamil-content
+Total Tokens   : 852
+-------------------------------
+
+Route Name     : carmozyme-syrup-400ml
+Language       : tamil-content
+Total Tokens   : 794
+-------------------------------
+
+Route Name     : carmozyme-syrup-400ml
+Language       : tamil-content
+Total Tokens   : 786
+-------------------------------
+
+Route Name     : carmozyme-syrup-400ml
+Language       : tamil-content
+Total Tokens   : 809
+-------------------------------
+
+Route Name     : carmozyme-syrup-400ml
+Language       : tamil-content
+Total Tokens   : 796
+-------------------------------
+
+Route Name     : carmozyme-syrup-400ml
+Language       : tamil-content
+Total Tokens   : 1040
+-------------------------------
+
+Route Name     : carmozyme-syrup-400ml
+Language       : tamil-content
+Total Tokens   : 931
+-------------------------------
+
+Route Name     : carmozyme-syrup-400ml
+Language       : tamil-content
+Total Tokens   : 851
+-------------------------------
+
+Route Name     : carmozyme-syrup-400ml
+Language       : tamil-content
+Total Tokens   : 1038
+-------------------------------
+
+Route Name     : carmozyme-syrup-400ml
+Language       : tamil-content
+Total Tokens   : 908
+-------------------------------
+
+Route Name     : carmozyme-syrup-400ml
+Language       : tamil-content
+Total Tokens   : 892
+-------------------------------
+
+Route Name     : carmozyme-syrup-400ml
+Language       : tamil-content
+Total Tokens   : 1005
+-------------------------------
+
+Route Name     : carmozyme-syrup-400ml
+Language       : tamil-content
+Total Tokens   : 977
+-------------------------------
+
+Route Name     : welpro-it-capsule-10s
+Language       : tamil-content
+Total Tokens   : 845
+-------------------------------
+
+Route Name     : welpro-it-capsule-10s
+Language       : tamil-content
+Total Tokens   : 850
+-------------------------------
+
+Route Name     : welpro-it-capsule-10s
+Language       : tamil-content
+Total Tokens   : 864
+-------------------------------
+
+Route Name     : welpro-it-capsule-10s
+Language       : tamil-content
+Total Tokens   : 835
+-------------------------------
+
+Route Name     : welpro-it-capsule-10s
+Language       : tamil-content
+Total Tokens   : 1065
+-------------------------------
+
+Route Name     : welpro-it-capsule-10s
+Language       : tamil-content
+Total Tokens   : 1004
+-------------------------------
+
+Route Name     : welpro-it-capsule-10s
+Language       : tamil-content
+Total Tokens   : 1000
+-------------------------------
+
+Route Name     : welpro-it-capsule-10s
+Language       : tamil-content
+Total Tokens   : 1056
+-------------------------------
+
+Route Name     : welpro-it-capsule-10s
+Language       : tamil-content
+Total Tokens   : 969
+-------------------------------
+
+Route Name     : welpro-it-capsule-10s
+Language       : tamil-content
+Total Tokens   : 1017
+-------------------------------
+
+Route Name     : welpro-it-capsule-10s
+Language       : tamil-content
+Total Tokens   : 826
+-------------------------------
+
+Route Name     : welpro-it-capsule-10s
+Language       : tamil-content
+Total Tokens   : 1113
+-------------------------------
+
+Route Name     : su-mag-ointment-75gm
+Language       : tamil-content
+Total Tokens   : 800
+-------------------------------
+
+Route Name     : su-mag-ointment-75gm
+Language       : tamil-content
+Total Tokens   : 780
+-------------------------------
+
+Route Name     : su-mag-ointment-75gm
+Language       : tamil-content
+Total Tokens   : 836
+-------------------------------
+
+Route Name     : su-mag-ointment-75gm
+Language       : tamil-content
+Total Tokens   : 795
+-------------------------------
+
+Route Name     : su-mag-ointment-75gm
+Language       : tamil-content
+Total Tokens   : 1798
+-------------------------------
+
+Route Name     : su-mag-ointment-75gm
+Language       : tamil-content
+Total Tokens   : 900
+-------------------------------
+
+Route Name     : su-mag-ointment-75gm
+Language       : tamil-content
+Total Tokens   : 1064
+-------------------------------
+
+Route Name     : su-mag-ointment-75gm
+Language       : tamil-content
+Total Tokens   : 1137
+-------------------------------
+
+Route Name     : su-mag-ointment-75gm
+Language       : tamil-content
+Total Tokens   : 864
+-------------------------------
+
+Route Name     : su-mag-ointment-75gm
+Language       : tamil-content
+Total Tokens   : 1710
+-------------------------------
+
+Route Name     : su-mag-ointment-75gm
+Language       : tamil-content
+Total Tokens   : 964
+-------------------------------
+
+Route Name     : su-mag-ointment-75gm
+Language       : tamil-content
+Total Tokens   : 1208
+-------------------------------
+
+Route Name     : su-mag-ointment-75gm
+Language       : tamil-content
+Total Tokens   : 1126
+-------------------------------
+
+Route Name     : su-mag-ointment-75gm
+Language       : tamil-content
+Total Tokens   : 782
+-------------------------------
+
+Route Name     : bioblack-c-tablet-10s
+Language       : tamil-content
+Total Tokens   : 847
+-------------------------------
+
+Route Name     : bioblack-c-tablet-10s
+Language       : tamil-content
+Total Tokens   : 824
+-------------------------------
+
+Route Name     : bioblack-c-tablet-10s
+Language       : tamil-content
+Total Tokens   : 859
+-------------------------------
+
+Route Name     : bioblack-c-tablet-10s
+Language       : tamil-content
+Total Tokens   : 834
+-------------------------------
+
+Route Name     : bioblack-c-tablet-10s
+Language       : tamil-content
+Total Tokens   : 1029
+-------------------------------
+
+Route Name     : bioblack-c-tablet-10s
+Language       : tamil-content
+Total Tokens   : 920
+-------------------------------
+
+Route Name     : bioblack-c-tablet-10s
+Language       : tamil-content
+Total Tokens   : 910
+-------------------------------
+
+Route Name     : bioblack-c-tablet-10s
+Language       : tamil-content
+Total Tokens   : 1096
+-------------------------------
+
+Route Name     : bioblack-c-tablet-10s
+Language       : tamil-content
+Total Tokens   : 855
+-------------------------------
+
+Route Name     : bioblack-c-tablet-10s
+Language       : tamil-content
+Total Tokens   : 1406
+-------------------------------
+
+Route Name     : bioblack-c-tablet-10s
+Language       : tamil-content
+Total Tokens   : 1070
+-------------------------------
+
+Route Name     : bioblack-c-tablet-10s
+Language       : tamil-content
+Total Tokens   : 903
+-------------------------------
+
+Route Name     : bioblack-c-tablet-10s
+Language       : tamil-content
+Total Tokens   : 828
+-------------------------------
+
+Route Name     : bioblack-c-tablet-10s
+Language       : tamil-content
+Total Tokens   : 826
+-------------------------------
+
+Route Name     : bioblack-c-tablet-10s
+Language       : tamil-content
+Total Tokens   : 967
+-------------------------------
+
+Route Name     : bioblack-c-tablet-10s
+Language       : tamil-content
+Total Tokens   : 1060
+-------------------------------
+
+Route Name     : homin-d3-tablet-10s
+Language       : tamil-content
+Total Tokens   : 808
+-------------------------------
+
+Route Name     : homin-d3-tablet-10s
+Language       : tamil-content
+Total Tokens   : 787
+-------------------------------
+
+Route Name     : homin-d3-tablet-10s
+Language       : tamil-content
+Total Tokens   : 906
+-------------------------------
+
+Route Name     : homin-d3-tablet-10s
+Language       : tamil-content
+Total Tokens   : 799
+-------------------------------
+
+Route Name     : homin-d3-tablet-10s
+Language       : tamil-content
+Total Tokens   : 1090
+-------------------------------
+
+Route Name     : homin-d3-tablet-10s
+Language       : tamil-content
+Total Tokens   : 1040
+-------------------------------
+
+Route Name     : homin-d3-tablet-10s
+Language       : tamil-content
+Total Tokens   : 981
+-------------------------------
+
+Route Name     : homin-d3-tablet-10s
+Language       : tamil-content
+Total Tokens   : 1251
+-------------------------------
+
+Route Name     : homin-d3-tablet-10s
+Language       : tamil-content
+Total Tokens   : 900
+-------------------------------
+
+Route Name     : homin-d3-tablet-10s
+Language       : tamil-content
+Total Tokens   : 1474
+-------------------------------
+
+Route Name     : homin-d3-tablet-10s
+Language       : tamil-content
+Total Tokens   : 967
+-------------------------------
+
+Route Name     : homin-d3-tablet-10s
+Language       : tamil-content
+Total Tokens   : 1032
+-------------------------------
+
+Route Name     : homin-d3-tablet-10s
+Language       : tamil-content
+Total Tokens   : 844
+-------------------------------
+
+Route Name     : homin-d3-tablet-10s
+Language       : tamil-content
+Total Tokens   : 796
+-------------------------------
+
+Route Name     : homin-d3-tablet-10s
+Language       : tamil-content
+Total Tokens   : 1064
+-------------------------------
+
+Route Name     : homin-d3-tablet-10s
+Language       : tamil-content
+Total Tokens   : 1130
+-------------------------------
+
+Route Name     : homin-d3-tablet-10s
+Language       : tamil-content
+Total Tokens   : 842
+-------------------------------
+
+Route Name     : clobenate-gm-cream
+Language       : tamil-content
+Total Tokens   : 804
+-------------------------------
+
+Route Name     : clobenate-gm-cream
+Language       : tamil-content
+Total Tokens   : 798
+-------------------------------
+
+Route Name     : clobenate-gm-cream
+Language       : tamil-content
+Total Tokens   : 887
+-------------------------------
+
+Route Name     : clobenate-gm-cream
+Language       : tamil-content
+Total Tokens   : 793
+-------------------------------
+
+Route Name     : clobenate-gm-cream
+Language       : tamil-content
+Total Tokens   : 1010
+-------------------------------
+
+Route Name     : clobenate-gm-cream
+Language       : tamil-content
+Total Tokens   : 988
+-------------------------------
+
+Route Name     : clobenate-gm-cream
+Language       : tamil-content
+Total Tokens   : 1065
+-------------------------------
+
+Route Name     : clobenate-gm-cream
+Language       : tamil-content
+Total Tokens   : 1038
+-------------------------------
+
+Route Name     : clobenate-gm-cream
+Language       : tamil-content
+Total Tokens   : 982
+-------------------------------
+
+Route Name     : clobenate-gm-cream
+Language       : tamil-content
+Total Tokens   : 1063
+-------------------------------
+
+Route Name     : clobenate-gm-cream
+Language       : tamil-content
+Total Tokens   : 1013
+-------------------------------
+
+Route Name     : neurobion-rf-forte-injection-2ml
+Language       : tamil-content
+Total Tokens   : 806
+-------------------------------
+
+Route Name     : neurobion-rf-forte-injection-2ml
+Language       : tamil-content
+Total Tokens   : 808
+-------------------------------
+
+Route Name     : neurobion-rf-forte-injection-2ml
+Language       : tamil-content
+Total Tokens   : 915
+-------------------------------
+
+Route Name     : neurobion-rf-forte-injection-2ml
+Language       : tamil-content
+Total Tokens   : 804
+-------------------------------
+
+Route Name     : neurobion-rf-forte-injection-2ml
+Language       : tamil-content
+Total Tokens   : 2329
+-------------------------------
+
+Route Name     : neurobion-rf-forte-injection-2ml
+Language       : tamil-content
+Total Tokens   : 963
+-------------------------------
+
+Route Name     : neurobion-rf-forte-injection-2ml
+Language       : tamil-content
+Total Tokens   : 1059
+-------------------------------
+
+Route Name     : neurobion-rf-forte-injection-2ml
+Language       : tamil-content
+Total Tokens   : 980
+-------------------------------
+
+Route Name     : neurobion-rf-forte-injection-2ml
+Language       : tamil-content
+Total Tokens   : 877
+-------------------------------
+
+Route Name     : neurobion-rf-forte-injection-2ml
+Language       : tamil-content
+Total Tokens   : 1588
+-------------------------------
+
+Route Name     : neurobion-rf-forte-injection-2ml
+Language       : tamil-content
+Total Tokens   : 987
+-------------------------------
+
+Route Name     : neurobion-rf-forte-injection-2ml
+Language       : tamil-content
+Total Tokens   : 996
+-------------------------------
+
+Route Name     : neurobion-rf-forte-injection-2ml
+Language       : tamil-content
+Total Tokens   : 1018
+-------------------------------
+
+Route Name     : neurobion-rf-forte-injection-2ml
+Language       : tamil-content
+Total Tokens   : 790
+-------------------------------
+
+Route Name     : travacom-eye-drop
+Language       : tamil-content
+Total Tokens   : 786
+-------------------------------
+
+Route Name     : travacom-eye-drop
+Language       : tamil-content
+Total Tokens   : 778
+-------------------------------
+
+Route Name     : travacom-eye-drop
+Language       : tamil-content
+Total Tokens   : 815
+-------------------------------
+
+Route Name     : travacom-eye-drop
+Language       : tamil-content
+Total Tokens   : 802
+-------------------------------
+
+Route Name     : travacom-eye-drop
+Language       : tamil-content
+Total Tokens   : 938
+-------------------------------
+
+Route Name     : travacom-eye-drop
+Language       : tamil-content
+Total Tokens   : 972
+-------------------------------
+
+Route Name     : travacom-eye-drop
+Language       : tamil-content
+Total Tokens   : 1164
+-------------------------------
+
+Route Name     : travacom-eye-drop
+Language       : tamil-content
+Total Tokens   : 943
+-------------------------------
+
+Route Name     : travacom-eye-drop
+Language       : tamil-content
+Total Tokens   : 805
+-------------------------------
+
+Route Name     : travacom-eye-drop
+Language       : tamil-content
+Total Tokens   : 965
+-------------------------------
+
+Route Name     : travacom-eye-drop
+Language       : tamil-content
+Total Tokens   : 1572
+-------------------------------
+
+Route Name     : travacom-eye-drop
+Language       : tamil-content
+Total Tokens   : 1091
+-------------------------------
+
+Route Name     : travacom-eye-drop
+Language       : tamil-content
+Total Tokens   : 1171
+-------------------------------
+
+Route Name     : benadryl-cr-syrup-100ml
+Language       : tamil-content
+Total Tokens   : 820
+-------------------------------
+
+Route Name     : benadryl-cr-syrup-100ml
+Language       : tamil-content
+Total Tokens   : 790
+-------------------------------
+
+Route Name     : benadryl-cr-syrup-100ml
+Language       : tamil-content
+Total Tokens   : 829
+-------------------------------
+
+Route Name     : benadryl-cr-syrup-100ml
+Language       : tamil-content
+Total Tokens   : 804
+-------------------------------
+
+Route Name     : benadryl-cr-syrup-100ml
+Language       : tamil-content
+Total Tokens   : 1004
+-------------------------------
+
+Route Name     : benadryl-cr-syrup-100ml
+Language       : tamil-content
+Total Tokens   : 955
+-------------------------------
+
+Route Name     : benadryl-cr-syrup-100ml
+Language       : tamil-content
+Total Tokens   : 963
+-------------------------------
+
+Route Name     : benadryl-cr-syrup-100ml
+Language       : tamil-content
+Total Tokens   : 1280
+-------------------------------
+
+Route Name     : benadryl-cr-syrup-100ml
+Language       : tamil-content
+Total Tokens   : 1004
+-------------------------------
+
+Route Name     : benadryl-cr-syrup-100ml
+Language       : tamil-content
+Total Tokens   : 1518
+-------------------------------
+
+Route Name     : benadryl-cr-syrup-100ml
+Language       : tamil-content
+Total Tokens   : 1059
+-------------------------------
+
+Route Name     : benadryl-cr-syrup-100ml
+Language       : tamil-content
+Total Tokens   : 977
+-------------------------------
+
+Route Name     : benadryl-cr-syrup-100ml
+Language       : tamil-content
+Total Tokens   : 876
+-------------------------------
+
+Route Name     : benadryl-cr-syrup-100ml
+Language       : tamil-content
+Total Tokens   : 818
+-------------------------------
+
+Route Name     : benadryl-cr-syrup-100ml
+Language       : tamil-content
+Total Tokens   : 1115
+-------------------------------
+
+Route Name     : benadryl-cr-syrup-100ml
+Language       : tamil-content
+Total Tokens   : 1173
+-------------------------------
+
+Route Name     : domstal-mt-10-tablet-dt-10s
+Language       : tamil-content
+Total Tokens   : 804
+-------------------------------
+
+Route Name     : domstal-mt-10-tablet-dt-10s
+Language       : tamil-content
+Total Tokens   : 773
+-------------------------------
+
+Route Name     : domstal-mt-10-tablet-dt-10s
+Language       : tamil-content
+Total Tokens   : 787
+-------------------------------
+
+Route Name     : domstal-mt-10-tablet-dt-10s
+Language       : tamil-content
+Total Tokens   : 784
+-------------------------------
+
+Route Name     : domstal-mt-10-tablet-dt-10s
+Language       : tamil-content
+Total Tokens   : 960
+-------------------------------
+
+Route Name     : domstal-mt-10-tablet-dt-10s
+Language       : tamil-content
+Total Tokens   : 852
+-------------------------------
+
+Route Name     : domstal-mt-10-tablet-dt-10s
+Language       : tamil-content
+Total Tokens   : 980
+-------------------------------
+
+Route Name     : domstal-mt-10-tablet-dt-10s
+Language       : tamil-content
+Total Tokens   : 922
+-------------------------------
+
+Route Name     : domstal-mt-10-tablet-dt-10s
+Language       : tamil-content
+Total Tokens   : 889
+-------------------------------
+
+Route Name     : domstal-mt-10-tablet-dt-10s
+Language       : tamil-content
+Total Tokens   : 1612
+-------------------------------
+
+Route Name     : domstal-mt-10-tablet-dt-10s
+Language       : tamil-content
+Total Tokens   : 897
+-------------------------------
+
+Route Name     : domstal-mt-10-tablet-dt-10s
+Language       : tamil-content
+Total Tokens   : 977
+-------------------------------
+
+Route Name     : domstal-mt-10-tablet-dt-10s
+Language       : tamil-content
+Total Tokens   : 1595
+-------------------------------
+
+Route Name     : domstal-mt-10-tablet-dt-10s
+Language       : tamil-content
+Total Tokens   : 802
+-------------------------------
+
+Route Name     : domstal-mt-10-tablet-dt-10s
+Language       : tamil-content
+Total Tokens   : 986
+-------------------------------
+
+Route Name     : domstal-mt-10-tablet-dt-10s
+Language       : tamil-content
+Total Tokens   : 900
+-------------------------------
+
+Route Name     : nax-b-gel
+Language       : tamil-content
+Total Tokens   : 794
+-------------------------------
+
+Route Name     : nax-b-gel
+Language       : tamil-content
+Total Tokens   : 793
+-------------------------------
+
+Route Name     : nax-b-gel
+Language       : tamil-content
+Total Tokens   : 848
+-------------------------------
+
+Route Name     : nax-b-gel
+Language       : tamil-content
+Total Tokens   : 798
+-------------------------------
+
+Route Name     : nax-b-gel
+Language       : tamil-content
+Total Tokens   : 967
+-------------------------------
+
+Route Name     : nax-b-gel
+Language       : tamil-content
+Total Tokens   : 896
+-------------------------------
+
+Route Name     : nax-b-gel
+Language       : tamil-content
+Total Tokens   : 1056
+-------------------------------
+
+Route Name     : nax-b-gel
+Language       : tamil-content
+Total Tokens   : 1262
+-------------------------------
+
+Route Name     : nax-b-gel
+Language       : tamil-content
+Total Tokens   : 849
+-------------------------------
+
+Route Name     : nax-b-gel
+Language       : tamil-content
+Total Tokens   : 1305
+-------------------------------
+
+Route Name     : nax-b-gel
+Language       : tamil-content
+Total Tokens   : 1070
+-------------------------------
+
+Route Name     : nax-b-gel
+Language       : tamil-content
+Total Tokens   : 846
+-------------------------------
+
+Route Name     : nax-b-gel
+Language       : tamil-content
+Total Tokens   : 795
+-------------------------------
+
+Route Name     : nax-b-gel
+Language       : tamil-content
+Total Tokens   : 1029
+-------------------------------
+
+Route Name     : nax-b-gel
+Language       : tamil-content
+Total Tokens   : 984
+-------------------------------
+
+Route Name     : zoxan-d-0.30.1-wv-eyeear-drops-5ml
+Language       : tamil-content
+Total Tokens   : 857
+-------------------------------
+
+Route Name     : zoxan-d-0.30.1-wv-eyeear-drops-5ml
+Language       : tamil-content
+Total Tokens   : 789
+-------------------------------
+
+Route Name     : zoxan-d-0.30.1-wv-eyeear-drops-5ml
+Language       : tamil-content
+Total Tokens   : 851
+-------------------------------
+
+Route Name     : zoxan-d-0.30.1-wv-eyeear-drops-5ml
+Language       : tamil-content
+Total Tokens   : 811
+-------------------------------
+
+Route Name     : zoxan-d-0.30.1-wv-eyeear-drops-5ml
+Language       : tamil-content
+Total Tokens   : 904
+-------------------------------
+
+Route Name     : zoxan-d-0.30.1-wv-eyeear-drops-5ml
+Language       : tamil-content
+Total Tokens   : 869
+-------------------------------
+
+Route Name     : zoxan-d-0.30.1-wv-eyeear-drops-5ml
+Language       : tamil-content
+Total Tokens   : 851
+-------------------------------
+
+Route Name     : zoxan-d-0.30.1-wv-eyeear-drops-5ml
+Language       : tamil-content
+Total Tokens   : 1035
+-------------------------------
+
+Route Name     : zoxan-d-0.30.1-wv-eyeear-drops-5ml
+Language       : tamil-content
+Total Tokens   : 823
+-------------------------------
+
+Route Name     : zoxan-d-0.30.1-wv-eyeear-drops-5ml
+Language       : tamil-content
+Total Tokens   : 1379
+-------------------------------
+
+Route Name     : zoxan-d-0.30.1-wv-eyeear-drops-5ml
+Language       : tamil-content
+Total Tokens   : 839
+-------------------------------
+
+Route Name     : zoxan-d-0.30.1-wv-eyeear-drops-5ml
+Language       : tamil-content
+Total Tokens   : 859
+-------------------------------
+
+Route Name     : zoxan-d-0.30.1-wv-eyeear-drops-5ml
+Language       : tamil-content
+Total Tokens   : 999
+-------------------------------
+
+Route Name     : zoxan-d-0.30.1-wv-eyeear-drops-5ml
+Language       : tamil-content
+Total Tokens   : 841
+-------------------------------
+
+Route Name     : zoxan-d-0.30.1-wv-eyeear-drops-5ml
+Language       : tamil-content
+Total Tokens   : 819
+-------------------------------
+
+Route Name     : zoxan-d-0.30.1-wv-eyeear-drops-5ml
+Language       : tamil-content
+Total Tokens   : 911
+-------------------------------
+
+Route Name     : zoxan-d-0.30.1-wv-eyeear-drops-5ml
+Language       : tamil-content
+Total Tokens   : 860
+-------------------------------
+
+Route Name     : cret-low-tablet-10s
+Language       : tamil-content
+Total Tokens   : 805
+-------------------------------
+
+Route Name     : cret-low-tablet-10s
+Language       : tamil-content
+Total Tokens   : 790
+-------------------------------
+
+Route Name     : cret-low-tablet-10s
+Language       : tamil-content
+Total Tokens   : 901
+-------------------------------
+
+Route Name     : cret-low-tablet-10s
+Language       : tamil-content
+Total Tokens   : 793
+-------------------------------
+
+Route Name     : cret-low-tablet-10s
+Language       : tamil-content
+Total Tokens   : 1990
+-------------------------------
+
+Route Name     : cret-low-tablet-10s
+Language       : tamil-content
+Total Tokens   : 859
+-------------------------------
+
+Route Name     : cret-low-tablet-10s
+Language       : tamil-content
+Total Tokens   : 1000
+-------------------------------
+
+Route Name     : cret-low-tablet-10s
+Language       : tamil-content
+Total Tokens   : 1245
+-------------------------------
+
+Route Name     : cret-low-tablet-10s
+Language       : tamil-content
+Total Tokens   : 812
+-------------------------------
+
+Route Name     : cret-low-tablet-10s
+Language       : tamil-content
+Total Tokens   : 1318
+-------------------------------
+
+Route Name     : cret-low-tablet-10s
+Language       : tamil-content
+Total Tokens   : 965
+-------------------------------
+
+Route Name     : cret-low-tablet-10s
+Language       : tamil-content
+Total Tokens   : 1018
+-------------------------------
+
+Route Name     : cret-low-tablet-10s
+Language       : tamil-content
+Total Tokens   : 933
+-------------------------------
+
+Route Name     : cret-low-tablet-10s
+Language       : tamil-content
+Total Tokens   : 796
+-------------------------------
+
+Route Name     : cret-low-tablet-10s
+Language       : tamil-content
+Total Tokens   : 844
+-------------------------------
+
+Route Name     : cret-low-tablet-10s
+Language       : tamil-content
+Total Tokens   : 892
+-------------------------------
+
+Route Name     : telvas-beta-25-tablet-er
+Language       : tamil-content
+Total Tokens   : 795
+-------------------------------
+
+Route Name     : telvas-beta-25-tablet-er
+Language       : tamil-content
+Total Tokens   : 785
+-------------------------------
+
+Route Name     : telvas-beta-25-tablet-er
+Language       : tamil-content
+Total Tokens   : 834
+-------------------------------
+
+Route Name     : telvas-beta-25-tablet-er
+Language       : tamil-content
+Total Tokens   : 793
+-------------------------------
+
+Route Name     : telvas-beta-25-tablet-er
+Language       : tamil-content
+Total Tokens   : 964
+-------------------------------
+
+Route Name     : telvas-beta-25-tablet-er
+Language       : tamil-content
+Total Tokens   : 932
+-------------------------------
+
+Route Name     : telvas-beta-25-tablet-er
+Language       : tamil-content
+Total Tokens   : 945
+-------------------------------
+
+Route Name     : telvas-beta-25-tablet-er
+Language       : tamil-content
+Total Tokens   : 961
+-------------------------------
+
+Route Name     : telvas-beta-25-tablet-er
+Language       : tamil-content
+Total Tokens   : 903
+-------------------------------
+
+Route Name     : telvas-beta-25-tablet-er
+Language       : tamil-content
+Total Tokens   : 1372
+-------------------------------
+
+Route Name     : telvas-beta-25-tablet-er
+Language       : tamil-content
+Total Tokens   : 920
+-------------------------------
+
+Route Name     : telvas-beta-25-tablet-er
+Language       : tamil-content
+Total Tokens   : 972
+-------------------------------
+
+Route Name     : telvas-beta-25-tablet-er
+Language       : tamil-content
+Total Tokens   : 823
+-------------------------------
+
+Route Name     : telvas-beta-25-tablet-er
+Language       : tamil-content
+Total Tokens   : 985
+-------------------------------
+
+Route Name     : telvas-beta-25-tablet-er
+Language       : tamil-content
+Total Tokens   : 1065
+-------------------------------
+
+Route Name     : telvas-beta-25-tablet-er
+Language       : tamil-content
+Total Tokens   : 853
+-------------------------------
+
+Route Name     : kesol-20-syrup-200ml
+Language       : tamil-content
+Total Tokens   : 797
+-------------------------------
+
+Route Name     : kesol-20-syrup-200ml
+Language       : tamil-content
+Total Tokens   : 786
+-------------------------------
+
+Route Name     : kesol-20-syrup-200ml
+Language       : tamil-content
+Total Tokens   : 804
+-------------------------------
+
+Route Name     : kesol-20-syrup-200ml
+Language       : tamil-content
+Total Tokens   : 798
+-------------------------------
+
+Route Name     : kesol-20-syrup-200ml
+Language       : tamil-content
+Total Tokens   : 1025
+-------------------------------
+
+Route Name     : kesol-20-syrup-200ml
+Language       : tamil-content
+Total Tokens   : 878
+-------------------------------
+
+Route Name     : kesol-20-syrup-200ml
+Language       : tamil-content
+Total Tokens   : 935
+-------------------------------
+
+Route Name     : kesol-20-syrup-200ml
+Language       : tamil-content
+Total Tokens   : 999
+-------------------------------
+
+Route Name     : kesol-20-syrup-200ml
+Language       : tamil-content
+Total Tokens   : 873
+-------------------------------
+
+Route Name     : kesol-20-syrup-200ml
+Language       : tamil-content
+Total Tokens   : 1515
+-------------------------------
+
+Route Name     : kesol-20-syrup-200ml
+Language       : tamil-content
+Total Tokens   : 951
+-------------------------------
+
+Route Name     : kesol-20-syrup-200ml
+Language       : tamil-content
+Total Tokens   : 1040
+-------------------------------
+
+Route Name     : kesol-20-syrup-200ml
+Language       : tamil-content
+Total Tokens   : 890
+-------------------------------
+
+Route Name     : kesol-20-syrup-200ml
+Language       : tamil-content
+Total Tokens   : 833
+-------------------------------
+
+Route Name     : kesol-20-syrup-200ml
+Language       : tamil-content
+Total Tokens   : 1036
+-------------------------------
+
+Route Name     : kesol-20-syrup-200ml
+Language       : tamil-content
+Total Tokens   : 921
+-------------------------------
+
+Route Name     : nindanib-150-soft-gelatin-capsule-10s
+Language       : tamil-content
+Total Tokens   : 812
+-------------------------------
+
+Route Name     : nindanib-150-soft-gelatin-capsule-10s
+Language       : tamil-content
+Total Tokens   : 781
+-------------------------------
+
+Route Name     : nindanib-150-soft-gelatin-capsule-10s
+Language       : tamil-content
+Total Tokens   : 793
+-------------------------------
+
+Route Name     : nindanib-150-soft-gelatin-capsule-10s
+Language       : tamil-content
+Total Tokens   : 799
+-------------------------------
+
+Route Name     : nindanib-150-soft-gelatin-capsule-10s
+Language       : tamil-content
+Total Tokens   : 950
+-------------------------------
+
+Route Name     : nindanib-150-soft-gelatin-capsule-10s
+Language       : tamil-content
+Total Tokens   : 948
+-------------------------------
+
+Route Name     : nindanib-150-soft-gelatin-capsule-10s
+Language       : tamil-content
+Total Tokens   : 960
+-------------------------------
+
+Route Name     : nindanib-150-soft-gelatin-capsule-10s
+Language       : tamil-content
+Total Tokens   : 933
+-------------------------------
+
+Route Name     : nindanib-150-soft-gelatin-capsule-10s
+Language       : tamil-content
+Total Tokens   : 802
+-------------------------------
+
+Route Name     : nindanib-150-soft-gelatin-capsule-10s
+Language       : tamil-content
+Total Tokens   : 961
+-------------------------------
+
+Route Name     : nindanib-150-soft-gelatin-capsule-10s
+Language       : tamil-content
+Total Tokens   : 2099
+-------------------------------
+
+Route Name     : nindanib-150-soft-gelatin-capsule-10s
+Language       : tamil-content
+Total Tokens   : 1005
+-------------------------------
+
+Route Name     : nindanib-150-soft-gelatin-capsule-10s
+Language       : tamil-content
+Total Tokens   : 1047
+-------------------------------
+
+Route Name     : otobiotic-plus-ear-drop
+Language       : tamil-content
+Total Tokens   : 799
+-------------------------------
+
+Route Name     : otobiotic-plus-ear-drop
+Language       : tamil-content
+Total Tokens   : 793
+-------------------------------
+
+Route Name     : otobiotic-plus-ear-drop
+Language       : tamil-content
+Total Tokens   : 905
+-------------------------------
+
+Route Name     : otobiotic-plus-ear-drop
+Language       : tamil-content
+Total Tokens   : 791
+-------------------------------
+
+Route Name     : otobiotic-plus-ear-drop
+Language       : tamil-content
+Total Tokens   : 984
+-------------------------------
+
+Route Name     : otobiotic-plus-ear-drop
+Language       : tamil-content
+Total Tokens   : 803
+-------------------------------
+
+Route Name     : otobiotic-plus-ear-drop
+Language       : tamil-content
+Total Tokens   : 974
+-------------------------------
+
+Route Name     : otobiotic-plus-ear-drop
+Language       : tamil-content
+Total Tokens   : 1292
+-------------------------------
+
+Route Name     : otobiotic-plus-ear-drop
+Language       : tamil-content
+Total Tokens   : 778
+-------------------------------
+
+Route Name     : otobiotic-plus-ear-drop
+Language       : tamil-content
+Total Tokens   : 862
+-------------------------------
+
+Route Name     : otobiotic-plus-ear-drop
+Language       : tamil-content
+Total Tokens   : 1553
+-------------------------------
+
+Route Name     : otobiotic-plus-ear-drop
+Language       : tamil-content
+Total Tokens   : 969
+-------------------------------
+
+Route Name     : otobiotic-plus-ear-drop
+Language       : tamil-content
+Total Tokens   : 977
+-------------------------------
+
+Route Name     : otobiotic-plus-ear-drop
+Language       : tamil-content
+Total Tokens   : 988
+-------------------------------
+
+Route Name     : otobiotic-plus-ear-drop
+Language       : tamil-content
+Total Tokens   : 877
+-------------------------------
+
+Route Name     : otobiotic-plus-ear-drop
+Language       : tamil-content
+Total Tokens   : 847
+-------------------------------
+
+Route Name     : otobiotic-plus-ear-drop
+Language       : tamil-content
+Total Tokens   : 912
+-------------------------------
+
+Route Name     : darolac-capsule-10s
+Language       : tamil-content
+Total Tokens   : 784
+-------------------------------
+
+Route Name     : darolac-capsule-10s
+Language       : tamil-content
+Total Tokens   : 796
+-------------------------------
+
+Route Name     : darolac-capsule-10s
+Language       : tamil-content
+Total Tokens   : 791
+-------------------------------
+
+Route Name     : darolac-capsule-10s
+Language       : tamil-content
+Total Tokens   : 785
+-------------------------------
+
+Route Name     : darolac-capsule-10s
+Language       : tamil-content
+Total Tokens   : 1072
+-------------------------------
+
+Route Name     : darolac-capsule-10s
+Language       : tamil-content
+Total Tokens   : 934
+-------------------------------
+
+Route Name     : darolac-capsule-10s
+Language       : tamil-content
+Total Tokens   : 951
+-------------------------------
+
+Route Name     : darolac-capsule-10s
+Language       : tamil-content
+Total Tokens   : 1178
+-------------------------------
+
+Route Name     : darolac-capsule-10s
+Language       : tamil-content
+Total Tokens   : 917
+-------------------------------
+
+Route Name     : darolac-capsule-10s
+Language       : tamil-content
+Total Tokens   : 988
+-------------------------------
+
+Route Name     : darolac-capsule-10s
+Language       : tamil-content
+Total Tokens   : 1117
+-------------------------------
+
+Route Name     : sumo-spray-55gm
+Language       : tamil-content
+Total Tokens   : 801
+-------------------------------
+
+Route Name     : sumo-spray-55gm
+Language       : tamil-content
+Total Tokens   : 801
+-------------------------------
+
+Route Name     : sumo-spray-55gm
+Language       : tamil-content
+Total Tokens   : 904
+-------------------------------
+
+Route Name     : sumo-spray-55gm
+Language       : tamil-content
+Total Tokens   : 805
+-------------------------------
+
+Route Name     : sumo-spray-55gm
+Language       : tamil-content
+Total Tokens   : 982
+-------------------------------
+
+Route Name     : sumo-spray-55gm
+Language       : tamil-content
+Total Tokens   : 940
+-------------------------------
+
+Route Name     : sumo-spray-55gm
+Language       : tamil-content
+Total Tokens   : 1055
+-------------------------------
+
+Route Name     : sumo-spray-55gm
+Language       : tamil-content
+Total Tokens   : 1315
+-------------------------------
+
+Route Name     : sumo-spray-55gm
+Language       : tamil-content
+Total Tokens   : 892
+-------------------------------
+
+Route Name     : sumo-spray-55gm
+Language       : tamil-content
+Total Tokens   : 894
+-------------------------------
+
+Route Name     : sumo-spray-55gm
+Language       : tamil-content
+Total Tokens   : 1494
+-------------------------------
+
+Route Name     : sumo-spray-55gm
+Language       : tamil-content
+Total Tokens   : 863
+-------------------------------
+
+Route Name     : sumo-spray-55gm
+Language       : tamil-content
+Total Tokens   : 1122
+-------------------------------
+
+Route Name     : sumo-spray-55gm
+Language       : tamil-content
+Total Tokens   : 843
+-------------------------------
+
+Route Name     : sumo-spray-55gm
+Language       : tamil-content
+Total Tokens   : 790
+-------------------------------
+
+Route Name     : sumo-spray-55gm
+Language       : tamil-content
+Total Tokens   : 789
+-------------------------------
+
+Route Name     : sumo-spray-55gm
+Language       : tamil-content
+Total Tokens   : 899
+-------------------------------
+
+Route Name     : sumo-spray-55gm
+Language       : tamil-content
+Total Tokens   : 1090
+-------------------------------
+
+Route Name     : sumo-spray-55gm
+Language       : tamil-content
+Total Tokens   : 795
+-------------------------------
+
+Route Name     : pantocid-it-capsule-sr-10s
+Language       : tamil-content
+Total Tokens   : 796
+-------------------------------
+
+Route Name     : pantocid-it-capsule-sr-10s
+Language       : tamil-content
+Total Tokens   : 782
+-------------------------------
+
+Route Name     : pantocid-it-capsule-sr-10s
+Language       : tamil-content
+Total Tokens   : 823
+-------------------------------
+
+Route Name     : pantocid-it-capsule-sr-10s
+Language       : tamil-content
+Total Tokens   : 791
+-------------------------------
+
+Route Name     : pantocid-it-capsule-sr-10s
+Language       : tamil-content
+Total Tokens   : 912
+-------------------------------
+
+Route Name     : pantocid-it-capsule-sr-10s
+Language       : tamil-content
+Total Tokens   : 945
+-------------------------------
+
+Route Name     : pantocid-it-capsule-sr-10s
+Language       : tamil-content
+Total Tokens   : 2271
+-------------------------------
+
+Route Name     : pantocid-it-capsule-sr-10s
+Language       : tamil-content
+Total Tokens   : 1044
+-------------------------------
+
+Route Name     : pantocid-it-capsule-sr-10s
+Language       : tamil-content
+Total Tokens   : 901
+-------------------------------
+
+Route Name     : pantocid-it-capsule-sr-10s
+Language       : tamil-content
+Total Tokens   : 1570
+-------------------------------
+
+Route Name     : pantocid-it-capsule-sr-10s
+Language       : tamil-content
+Total Tokens   : 1003
+-------------------------------
+
+Route Name     : pantocid-it-capsule-sr-10s
+Language       : tamil-content
+Total Tokens   : 1015
+-------------------------------
+
+Route Name     : pantocid-it-capsule-sr-10s
+Language       : tamil-content
+Total Tokens   : 796
+-------------------------------
+
+Route Name     : pantocid-it-capsule-sr-10s
+Language       : tamil-content
+Total Tokens   : 794
+-------------------------------
+
+Route Name     : pantocid-it-capsule-sr-10s
+Language       : tamil-content
+Total Tokens   : 985
+-------------------------------
+
+Route Name     : pantocid-it-capsule-sr-10s
+Language       : tamil-content
+Total Tokens   : 1005
+-------------------------------
+
+Route Name     : pantocid-it-capsule-sr-10s
+Language       : tamil-content
+Total Tokens   : 941
+-------------------------------
+
+Route Name     : nurokind-d3-tablet-10s
+Language       : tamil-content
+Total Tokens   : 809
+-------------------------------
+
+Route Name     : nurokind-d3-tablet-10s
+Language       : tamil-content
+Total Tokens   : 790
+-------------------------------
+
+Route Name     : nurokind-d3-tablet-10s
+Language       : tamil-content
+Total Tokens   : 924
+-------------------------------
+
+Route Name     : nurokind-d3-tablet-10s
+Language       : tamil-content
+Total Tokens   : 798
+-------------------------------
+
+Route Name     : nurokind-d3-tablet-10s
+Language       : tamil-content
+Total Tokens   : 1038
+-------------------------------
+
+Route Name     : nurokind-d3-tablet-10s
+Language       : tamil-content
+Total Tokens   : 892
+-------------------------------
+
+Route Name     : nurokind-d3-tablet-10s
+Language       : tamil-content
+Total Tokens   : 918
+-------------------------------
+
+Route Name     : nurokind-d3-tablet-10s
+Language       : tamil-content
+Total Tokens   : 1204
+-------------------------------
+
+Route Name     : nurokind-d3-tablet-10s
+Language       : tamil-content
+Total Tokens   : 815
+-------------------------------
+
+Route Name     : nurokind-d3-tablet-10s
+Language       : tamil-content
+Total Tokens   : 925
+-------------------------------
+
+Route Name     : nurokind-d3-tablet-10s
+Language       : tamil-content
+Total Tokens   : 1650
+-------------------------------
+
+Route Name     : nurokind-d3-tablet-10s
+Language       : tamil-content
+Total Tokens   : 932
+-------------------------------
+
+Route Name     : nurokind-d3-tablet-10s
+Language       : tamil-content
+Total Tokens   : 1102
+-------------------------------
+
+Route Name     : betamox-l-capsule
+Language       : tamil-content
+Total Tokens   : 800
+-------------------------------
+
+Route Name     : betamox-l-capsule
+Language       : tamil-content
+Total Tokens   : 797
+-------------------------------
+
+Route Name     : betamox-l-capsule
+Language       : tamil-content
+Total Tokens   : 859
+-------------------------------
+
+Route Name     : betamox-l-capsule
+Language       : tamil-content
+Total Tokens   : 797
+-------------------------------
+
+Route Name     : betamox-l-capsule
+Language       : tamil-content
+Total Tokens   : 975
+-------------------------------
+
+Route Name     : betamox-l-capsule
+Language       : tamil-content
+Total Tokens   : 874
+-------------------------------
+
+Route Name     : betamox-l-capsule
+Language       : tamil-content
+Total Tokens   : 875
+-------------------------------
+
+Route Name     : betamox-l-capsule
+Language       : tamil-content
+Total Tokens   : 938
+-------------------------------
+
+Route Name     : betamox-l-capsule
+Language       : tamil-content
+Total Tokens   : 852
+-------------------------------
+
+Route Name     : betamox-l-capsule
+Language       : tamil-content
+Total Tokens   : 1270
+-------------------------------
+
+Route Name     : betamox-l-capsule
+Language       : tamil-content
+Total Tokens   : 940
+-------------------------------
+
+Route Name     : betamox-l-capsule
+Language       : tamil-content
+Total Tokens   : 1018
+-------------------------------
+
+Route Name     : betamox-l-capsule
+Language       : tamil-content
+Total Tokens   : 858
+-------------------------------
+
+Route Name     : betamox-l-capsule
+Language       : tamil-content
+Total Tokens   : 797
+-------------------------------
+
+Route Name     : betamox-l-capsule
+Language       : tamil-content
+Total Tokens   : 1040
+-------------------------------
+
+Route Name     : betamox-l-capsule
+Language       : tamil-content
+Total Tokens   : 915
+-------------------------------
+
+Route Name     : betamox-l-capsule
+Language       : tamil-content
+Total Tokens   : 829
+-------------------------------
+
+Route Name     : freebowl-plus-laxative-170ml
+Language       : tamil-content
+Total Tokens   : 849
+-------------------------------
+
+Route Name     : freebowl-plus-laxative-170ml
+Language       : tamil-content
+Total Tokens   : 844
+-------------------------------
+
+Route Name     : freebowl-plus-laxative-170ml
+Language       : tamil-content
+Total Tokens   : 948
+-------------------------------
+
+Route Name     : freebowl-plus-laxative-170ml
+Language       : tamil-content
+Total Tokens   : 844
+-------------------------------
+
+Route Name     : freebowl-plus-laxative-170ml
+Language       : tamil-content
+Total Tokens   : 1012
+-------------------------------
+
+Route Name     : freebowl-plus-laxative-170ml
+Language       : tamil-content
+Total Tokens   : 1027
+-------------------------------
+
+Route Name     : freebowl-plus-laxative-170ml
+Language       : tamil-content
+Total Tokens   : 1019
+-------------------------------
+
+Route Name     : freebowl-plus-laxative-170ml
+Language       : tamil-content
+Total Tokens   : 1298
+-------------------------------
+
+Route Name     : freebowl-plus-laxative-170ml
+Language       : tamil-content
+Total Tokens   : 835
+-------------------------------
+
+Route Name     : freebowl-plus-laxative-170ml
+Language       : tamil-content
+Total Tokens   : 978
+-------------------------------
+
+Route Name     : freebowl-plus-laxative-170ml
+Language       : tamil-content
+Total Tokens   : 1501
+-------------------------------
+
+Route Name     : freebowl-plus-laxative-170ml
+Language       : tamil-content
+Total Tokens   : 851
+-------------------------------
+
+Route Name     : freebowl-plus-laxative-170ml
+Language       : tamil-content
+Total Tokens   : 1241
+-------------------------------
+
+Route Name     : freebowl-plus-laxative-170ml
+Language       : tamil-content
+Total Tokens   : 1106
+-------------------------------
+
+Route Name     : freebowl-plus-laxative-170ml
+Language       : tamil-content
+Total Tokens   : 858
+-------------------------------
+
+Route Name     : freebowl-plus-laxative-170ml
+Language       : tamil-content
+Total Tokens   : 853
+-------------------------------
+
+Route Name     : freebowl-plus-laxative-170ml
+Language       : tamil-content
+Total Tokens   : 945
+-------------------------------
+
+Route Name     : freebowl-plus-laxative-170ml
+Language       : tamil-content
+Total Tokens   : 1026
+-------------------------------
+
+Route Name     : freebowl-plus-laxative-170ml
+Language       : tamil-content
+Total Tokens   : 969
+-------------------------------
+
+Route Name     : ng-glow-cream-10gm
+Language       : tamil-content
+Total Tokens   : 784
+-------------------------------
+
+Route Name     : ng-glow-cream-10gm
+Language       : tamil-content
+Total Tokens   : 800
+-------------------------------
+
+Route Name     : ng-glow-cream-10gm
+Language       : tamil-content
+Total Tokens   : 794
+-------------------------------
+
+Route Name     : ng-glow-cream-10gm
+Language       : tamil-content
+Total Tokens   : 787
+-------------------------------
+
+Route Name     : ng-glow-cream-10gm
+Language       : tamil-content
+Total Tokens   : 983
+-------------------------------
+
+Route Name     : ng-glow-cream-10gm
+Language       : tamil-content
+Total Tokens   : 967
+-------------------------------
+
+Route Name     : ng-glow-cream-10gm
+Language       : tamil-content
+Total Tokens   : 907
+-------------------------------
+
+Route Name     : ng-glow-cream-10gm
+Language       : tamil-content
+Total Tokens   : 1083
+-------------------------------
+
+Route Name     : ng-glow-cream-10gm
+Language       : tamil-content
+Total Tokens   : 965
+-------------------------------
+
+Route Name     : ng-glow-cream-10gm
+Language       : tamil-content
+Total Tokens   : 904
+-------------------------------
+
+Route Name     : ng-glow-cream-10gm
+Language       : tamil-content
+Total Tokens   : 1036
+-------------------------------
+
+Route Name     : r.b-tone-xt-tablet
+Language       : tamil-content
+Total Tokens   : 799
+-------------------------------
+
+Route Name     : r.b-tone-xt-tablet
+Language       : tamil-content
+Total Tokens   : 794
+-------------------------------
+
+Route Name     : r.b-tone-xt-tablet
+Language       : tamil-content
+Total Tokens   : 878
+-------------------------------
+
+Route Name     : r.b-tone-xt-tablet
+Language       : tamil-content
+Total Tokens   : 791
+-------------------------------
+
+Route Name     : r.b-tone-xt-tablet
+Language       : tamil-content
+Total Tokens   : 1030
+-------------------------------
+
+Route Name     : r.b-tone-xt-tablet
+Language       : tamil-content
+Total Tokens   : 860
+-------------------------------
+
+Route Name     : r.b-tone-xt-tablet
+Language       : tamil-content
+Total Tokens   : 965
+-------------------------------
+
+Route Name     : r.b-tone-xt-tablet
+Language       : tamil-content
+Total Tokens   : 1252
+-------------------------------
+
+Route Name     : r.b-tone-xt-tablet
+Language       : tamil-content
+Total Tokens   : 853
+-------------------------------
+
+Route Name     : r.b-tone-xt-tablet
+Language       : tamil-content
+Total Tokens   : 864
+-------------------------------
+
+Route Name     : r.b-tone-xt-tablet
+Language       : tamil-content
+Total Tokens   : 918
+-------------------------------
+
+Route Name     : r.b-tone-xt-tablet
+Language       : tamil-content
+Total Tokens   : 788
+-------------------------------
+
+Route Name     : r.b-tone-xt-tablet
+Language       : tamil-content
+Total Tokens   : 782
+-------------------------------
+
+Route Name     : r.b-tone-xt-tablet
+Language       : tamil-content
+Total Tokens   : 1252
+-------------------------------
+
+Route Name     : r.b-tone-xt-tablet
+Language       : tamil-content
+Total Tokens   : 1032
+-------------------------------
+
+Route Name     : etobee-mr-tablet-10s
+Language       : tamil-content
+Total Tokens   : 794
+-------------------------------
+
+Route Name     : etobee-mr-tablet-10s
+Language       : tamil-content
+Total Tokens   : 779
+-------------------------------
+
+Route Name     : etobee-mr-tablet-10s
+Language       : tamil-content
+Total Tokens   : 841
+-------------------------------
+
+Route Name     : etobee-mr-tablet-10s
+Language       : tamil-content
+Total Tokens   : 791
+-------------------------------
+
+Route Name     : etobee-mr-tablet-10s
+Language       : tamil-content
+Total Tokens   : 958
+-------------------------------
+
+Route Name     : etobee-mr-tablet-10s
+Language       : tamil-content
+Total Tokens   : 882
+-------------------------------
+
+Route Name     : etobee-mr-tablet-10s
+Language       : tamil-content
+Total Tokens   : 930
+-------------------------------
+
+Route Name     : etobee-mr-tablet-10s
+Language       : tamil-content
+Total Tokens   : 936
+-------------------------------
+
+Route Name     : etobee-mr-tablet-10s
+Language       : tamil-content
+Total Tokens   : 902
+-------------------------------
+
+Route Name     : etobee-mr-tablet-10s
+Language       : tamil-content
+Total Tokens   : 1068
+-------------------------------
+
+Route Name     : etobee-mr-tablet-10s
+Language       : tamil-content
+Total Tokens   : 968
+-------------------------------
+
+Route Name     : vantej-aqua-mouthwash-100ml
+Language       : tamil-content
+Total Tokens   : 806
+-------------------------------
+
+Route Name     : vantej-aqua-mouthwash-100ml
+Language       : tamil-content
+Total Tokens   : 812
+-------------------------------
+
+Route Name     : vantej-aqua-mouthwash-100ml
+Language       : tamil-content
+Total Tokens   : 783
+-------------------------------
+
+Route Name     : vantej-aqua-mouthwash-100ml
+Language       : tamil-content
+Total Tokens   : 805
+-------------------------------
+
+Route Name     : vantej-aqua-mouthwash-100ml
+Language       : tamil-content
+Total Tokens   : 1099
+-------------------------------
+
+Route Name     : vantej-aqua-mouthwash-100ml
+Language       : tamil-content
+Total Tokens   : 915
+-------------------------------
+
+Route Name     : vantej-aqua-mouthwash-100ml
+Language       : tamil-content
+Total Tokens   : 999
+-------------------------------
+
+Route Name     : vantej-aqua-mouthwash-100ml
+Language       : tamil-content
+Total Tokens   : 1245
+-------------------------------
+
+Route Name     : vantej-aqua-mouthwash-100ml
+Language       : tamil-content
+Total Tokens   : 949
+-------------------------------
+
+Route Name     : vantej-aqua-mouthwash-100ml
+Language       : tamil-content
+Total Tokens   : 1480
+-------------------------------
+
+Route Name     : vantej-aqua-mouthwash-100ml
+Language       : tamil-content
+Total Tokens   : 967
+-------------------------------
+
+Route Name     : vantej-aqua-mouthwash-100ml
+Language       : tamil-content
+Total Tokens   : 927
+-------------------------------
+
+Route Name     : vantej-aqua-mouthwash-100ml
+Language       : tamil-content
+Total Tokens   : 812
+-------------------------------
+
+Route Name     : vantej-aqua-mouthwash-100ml
+Language       : tamil-content
+Total Tokens   : 1080
+-------------------------------
+
+Route Name     : vantej-aqua-mouthwash-100ml
+Language       : tamil-content
+Total Tokens   : 1292
+-------------------------------
+
+Route Name     : vantej-aqua-mouthwash-100ml
+Language       : tamil-content
+Total Tokens   : 870
+-------------------------------
+
+Route Name     : vantej-aqua-mouthwash-100ml
+Language       : tamil-content
+Total Tokens   : 951
+-------------------------------
+
+Route Name     : vantej-aqua-mouthwash-100ml
+Language       : tamil-content
+Total Tokens   : 919
+-------------------------------
+
+Route Name     : vantej-aqua-mouthwash-100ml
+Language       : tamil-content
+Total Tokens   : 1153
+-------------------------------
+
+Route Name     : clobate-gm-cream
+Language       : tamil-content
+Total Tokens   : 788
+-------------------------------
+
+Route Name     : clobate-gm-cream
+Language       : tamil-content
+Total Tokens   : 787
+-------------------------------
+
+Route Name     : clobate-gm-cream
+Language       : tamil-content
+Total Tokens   : 884
+-------------------------------
+
+Route Name     : clobate-gm-cream
+Language       : tamil-content
+Total Tokens   : 794
+-------------------------------
+
+Route Name     : clobate-gm-cream
+Language       : tamil-content
+Total Tokens   : 941
+-------------------------------
+
+Route Name     : clobate-gm-cream
+Language       : tamil-content
+Total Tokens   : 849
+-------------------------------
+
+Route Name     : clobate-gm-cream
+Language       : tamil-content
+Total Tokens   : 1010
+-------------------------------
+
+Route Name     : clobate-gm-cream
+Language       : tamil-content
+Total Tokens   : 1205
+-------------------------------
+
+Route Name     : clobate-gm-cream
+Language       : tamil-content
+Total Tokens   : 834
+-------------------------------
+
+Route Name     : clobate-gm-cream
+Language       : tamil-content
+Total Tokens   : 1356
+-------------------------------
+
+Route Name     : clobate-gm-cream
+Language       : tamil-content
+Total Tokens   : 929
+-------------------------------
+
+Route Name     : clobate-gm-cream
+Language       : tamil-content
+Total Tokens   : 993
+-------------------------------
+
+Route Name     : clobate-gm-cream
+Language       : tamil-content
+Total Tokens   : 794
+-------------------------------
+
+Route Name     : clobate-gm-cream
+Language       : tamil-content
+Total Tokens   : 794
+-------------------------------
+
+Route Name     : clobate-gm-cream
+Language       : tamil-content
+Total Tokens   : 943
+-------------------------------
+
+Route Name     : clobate-gm-cream
+Language       : tamil-content
+Total Tokens   : 933
+-------------------------------
+
+Route Name     : clobate-gm-cream
+Language       : tamil-content
+Total Tokens   : 841
+-------------------------------
+
+Route Name     : clobate-gm-cream
+Language       : tamil-content
+Total Tokens   : 836
+-------------------------------
+
+Route Name     : clobate-gm-cream
+Language       : tamil-content
+Total Tokens   : 1517
+-------------------------------
+
+Route Name     : atarax-cream-100gm
+Language       : tamil-content
+Total Tokens   : 801
+-------------------------------
+
+Route Name     : atarax-cream-100gm
+Language       : tamil-content
+Total Tokens   : 803
+-------------------------------
+
+Route Name     : atarax-cream-100gm
+Language       : tamil-content
+Total Tokens   : 776
+-------------------------------
+
+Route Name     : atarax-cream-100gm
+Language       : tamil-content
+Total Tokens   : 792
+-------------------------------
+
+Route Name     : atarax-cream-100gm
+Language       : tamil-content
+Total Tokens   : 1000
+-------------------------------
+
+Route Name     : atarax-cream-100gm
+Language       : tamil-content
+Total Tokens   : 904
+-------------------------------
+
+Route Name     : atarax-cream-100gm
+Language       : tamil-content
+Total Tokens   : 908
+-------------------------------
+
+Route Name     : atarax-cream-100gm
+Language       : tamil-content
+Total Tokens   : 998
+-------------------------------
+
+Route Name     : atarax-cream-100gm
+Language       : tamil-content
+Total Tokens   : 914
+-------------------------------
+
+Route Name     : atarax-cream-100gm
+Language       : tamil-content
+Total Tokens   : 923
+-------------------------------
+
+Route Name     : atarax-cream-100gm
+Language       : tamil-content
+Total Tokens   : 1011
+-------------------------------
+
+Route Name     : atarax-cream-100gm
+Language       : tamil-content
+Total Tokens   : 1152
+-------------------------------
+
+Route Name     : cb-max-injection-2ml
+Language       : tamil-content
+Total Tokens   : 839
+-------------------------------
+
+Route Name     : cb-max-injection-2ml
+Language       : tamil-content
+Total Tokens   : 821
+-------------------------------
+
+Route Name     : cb-max-injection-2ml
+Language       : tamil-content
+Total Tokens   : 868
+-------------------------------
+
+Route Name     : cb-max-injection-2ml
+Language       : tamil-content
+Total Tokens   : 829
+-------------------------------
+
+Route Name     : cb-max-injection-2ml
+Language       : tamil-content
+Total Tokens   : 1379
+-------------------------------
+
+Route Name     : cb-max-injection-2ml
+Language       : tamil-content
+Total Tokens   : 889
+-------------------------------
+
+Route Name     : cb-max-injection-2ml
+Language       : tamil-content
+Total Tokens   : 1019
+-------------------------------
+
+Route Name     : cb-max-injection-2ml
+Language       : tamil-content
+Total Tokens   : 1119
+-------------------------------
+
+Route Name     : cb-max-injection-2ml
+Language       : tamil-content
+Total Tokens   : 853
+-------------------------------
+
+Route Name     : cb-max-injection-2ml
+Language       : tamil-content
+Total Tokens   : 1507
+-------------------------------
+
+Route Name     : cb-max-injection-2ml
+Language       : tamil-content
+Total Tokens   : 1026
+-------------------------------
+
+Route Name     : cb-max-injection-2ml
+Language       : tamil-content
+Total Tokens   : 1011
+-------------------------------
+
+Route Name     : cb-max-injection-2ml
+Language       : tamil-content
+Total Tokens   : 918
+-------------------------------
+
+Route Name     : cb-max-injection-2ml
+Language       : tamil-content
+Total Tokens   : 859
+-------------------------------
+
+Route Name     : cb-max-injection-2ml
+Language       : tamil-content
+Total Tokens   : 816
+-------------------------------
+
+Route Name     : cb-max-injection-2ml
+Language       : tamil-content
+Total Tokens   : 1046
+-------------------------------
+
+Route Name     : cb-max-injection-2ml
+Language       : tamil-content
+Total Tokens   : 1001
+-------------------------------
+
+Route Name     : cb-max-injection-2ml
+Language       : tamil-content
+Total Tokens   : 843
+-------------------------------
+
+Route Name     : meconerv-forte-capsule-10s
+Language       : tamil-content
+Total Tokens   : 800
+-------------------------------
+
+Route Name     : meconerv-forte-capsule-10s
+Language       : tamil-content
+Total Tokens   : 782
+-------------------------------
+
+Route Name     : meconerv-forte-capsule-10s
+Language       : tamil-content
+Total Tokens   : 953
+-------------------------------
+
+Route Name     : meconerv-forte-capsule-10s
+Language       : tamil-content
+Total Tokens   : 784
+-------------------------------
+
+Route Name     : meconerv-forte-capsule-10s
+Language       : tamil-content
+Total Tokens   : 1068
+-------------------------------
+
+Route Name     : meconerv-forte-capsule-10s
+Language       : tamil-content
+Total Tokens   : 926
+-------------------------------
+
+Route Name     : meconerv-forte-capsule-10s
+Language       : tamil-content
+Total Tokens   : 957
+-------------------------------
+
+Route Name     : meconerv-forte-capsule-10s
+Language       : tamil-content
+Total Tokens   : 1287
+-------------------------------
+
+Route Name     : meconerv-forte-capsule-10s
+Language       : tamil-content
+Total Tokens   : 810
+-------------------------------
+
+Route Name     : meconerv-forte-capsule-10s
+Language       : tamil-content
+Total Tokens   : 938
+-------------------------------
+
+Route Name     : meconerv-forte-capsule-10s
+Language       : tamil-content
+Total Tokens   : 1226
+-------------------------------
+
+Route Name     : meconerv-forte-capsule-10s
+Language       : tamil-content
+Total Tokens   : 985
+-------------------------------
+
+Route Name     : meconerv-forte-capsule-10s
+Language       : tamil-content
+Total Tokens   : 1110
+-------------------------------
+
+Route Name     : m-cobaren-forte-capsule
+Language       : tamil-content
+Total Tokens   : 784
+-------------------------------
+
+Route Name     : m-cobaren-forte-capsule
+Language       : tamil-content
+Total Tokens   : 783
+-------------------------------
+
+Route Name     : m-cobaren-forte-capsule
+Language       : tamil-content
+Total Tokens   : 998
+-------------------------------
+
+Route Name     : m-cobaren-forte-capsule
+Language       : tamil-content
+Total Tokens   : 784
+-------------------------------
+
+Route Name     : m-cobaren-forte-capsule
+Language       : tamil-content
+Total Tokens   : 961
+-------------------------------
+
+Route Name     : m-cobaren-forte-capsule
+Language       : tamil-content
+Total Tokens   : 872
+-------------------------------
+
+Route Name     : m-cobaren-forte-capsule
+Language       : tamil-content
+Total Tokens   : 848
+-------------------------------
+
+Route Name     : m-cobaren-forte-capsule
+Language       : tamil-content
+Total Tokens   : 1580
+-------------------------------
+
+Route Name     : m-cobaren-forte-capsule
+Language       : tamil-content
+Total Tokens   : 897
+-------------------------------
+
+Route Name     : m-cobaren-forte-capsule
+Language       : tamil-content
+Total Tokens   : 1044
+-------------------------------
+
+Route Name     : m-cobaren-forte-capsule
+Language       : tamil-content
+Total Tokens   : 1132
+-------------------------------
+
+Route Name     : m-cobaren-forte-capsule
+Language       : tamil-content
+Total Tokens   : 901
+-------------------------------
+
+Route Name     : m-cobaren-forte-capsule
+Language       : tamil-content
+Total Tokens   : 776
+-------------------------------
+
+Route Name     : m-cobaren-forte-capsule
+Language       : tamil-content
+Total Tokens   : 777
+-------------------------------
+
+Route Name     : m-cobaren-forte-capsule
+Language       : tamil-content
+Total Tokens   : 996
+-------------------------------
+
+Route Name     : m-cobaren-forte-capsule
+Language       : tamil-content
+Total Tokens   : 970
+-------------------------------
+
+Route Name     : telvas-am-tablet-15s
+Language       : tamil-content
+Total Tokens   : 790
+-------------------------------
+
+Route Name     : telvas-am-tablet-15s
+Language       : tamil-content
+Total Tokens   : 796
+-------------------------------
+
+Route Name     : telvas-am-tablet-15s
+Language       : tamil-content
+Total Tokens   : 818
+-------------------------------
+
+Route Name     : telvas-am-tablet-15s
+Language       : tamil-content
+Total Tokens   : 781
+-------------------------------
+
+Route Name     : telvas-am-tablet-15s
+Language       : tamil-content
+Total Tokens   : 1087
+-------------------------------
+
+Route Name     : telvas-am-tablet-15s
+Language       : tamil-content
+Total Tokens   : 881
+-------------------------------
+
+Route Name     : telvas-am-tablet-15s
+Language       : tamil-content
+Total Tokens   : 950
+-------------------------------
+
+Route Name     : telvas-am-tablet-15s
+Language       : tamil-content
+Total Tokens   : 997
+-------------------------------
+
+Route Name     : telvas-am-tablet-15s
+Language       : tamil-content
+Total Tokens   : 789
+-------------------------------
+
+Route Name     : telvas-am-tablet-15s
+Language       : tamil-content
+Total Tokens   : 906
+-------------------------------
+
+Route Name     : telvas-am-tablet-15s
+Language       : tamil-content
+Total Tokens   : 1581
+-------------------------------
+
+Route Name     : telvas-am-tablet-15s
+Language       : tamil-content
+Total Tokens   : 949
+-------------------------------
+
+Route Name     : telvas-am-tablet-15s
+Language       : tamil-content
+Total Tokens   : 1061
+-------------------------------
+
+Route Name     : telvas-am-tablet-15s
+Language       : tamil-content
+Total Tokens   : 876
+-------------------------------
+
+Route Name     : telvas-am-tablet-15s
+Language       : tamil-content
+Total Tokens   : 844
+-------------------------------
+
+Route Name     : telvas-am-tablet-15s
+Language       : tamil-content
+Total Tokens   : 777
+-------------------------------
+
+Route Name     : telvas-am-tablet-15s
+Language       : tamil-content
+Total Tokens   : 965
+-------------------------------
+
+Route Name     : telvas-am-tablet-15s
+Language       : tamil-content
+Total Tokens   : 1045
+-------------------------------
+
+Route Name     : telvas-am-tablet-15s
+Language       : tamil-content
+Total Tokens   : 1039
+-------------------------------
+
+Route Name     : telvas-am-tablet-15s
+Language       : tamil-content
+Total Tokens   : 876
+-------------------------------
+
+Route Name     : follihair-a-tablet
+Language       : tamil-content
+Total Tokens   : 787
+-------------------------------
+
+Route Name     : follihair-a-tablet
+Language       : tamil-content
+Total Tokens   : 772
+-------------------------------
+
+Route Name     : follihair-a-tablet
+Language       : tamil-content
+Total Tokens   : 979
+-------------------------------
+
+Route Name     : follihair-a-tablet
+Language       : tamil-content
+Total Tokens   : 788
+-------------------------------
+
+Route Name     : follihair-a-tablet
+Language       : tamil-content
+Total Tokens   : 1011
+-------------------------------
+
+Route Name     : follihair-a-tablet
+Language       : tamil-content
+Total Tokens   : 874
+-------------------------------
+
+Route Name     : follihair-a-tablet
+Language       : tamil-content
+Total Tokens   : 866
+-------------------------------
+
+Route Name     : follihair-a-tablet
+Language       : tamil-content
+Total Tokens   : 1180
+-------------------------------
+
+Route Name     : follihair-a-tablet
+Language       : tamil-content
+Total Tokens   : 887
+-------------------------------
+
+Route Name     : follihair-a-tablet
+Language       : tamil-content
+Total Tokens   : 953
+-------------------------------
+
+Route Name     : follihair-a-tablet
+Language       : tamil-content
+Total Tokens   : 1051
+-------------------------------
+
+Route Name     : omee-tab-150mg-tablet-30s
+Language       : tamil-content
+Total Tokens   : 811
+-------------------------------
+
+Route Name     : omee-tab-150mg-tablet-30s
+Language       : tamil-content
+Total Tokens   : 797
+-------------------------------
+
+Route Name     : omee-tab-150mg-tablet-30s
+Language       : tamil-content
+Total Tokens   : 792
+-------------------------------
+
+Route Name     : omee-tab-150mg-tablet-30s
+Language       : tamil-content
+Total Tokens   : 795
+-------------------------------
+
+Route Name     : omee-tab-150mg-tablet-30s
+Language       : tamil-content
+Total Tokens   : 1040
+-------------------------------
+
+Route Name     : omee-tab-150mg-tablet-30s
+Language       : tamil-content
+Total Tokens   : 892
+-------------------------------
+
+Route Name     : omee-tab-150mg-tablet-30s
+Language       : tamil-content
+Total Tokens   : 999
+-------------------------------
+
+Route Name     : omee-tab-150mg-tablet-30s
+Language       : tamil-content
+Total Tokens   : 900
+-------------------------------
+
+Route Name     : omee-tab-150mg-tablet-30s
+Language       : tamil-content
+Total Tokens   : 817
+-------------------------------
+
+Route Name     : omee-tab-150mg-tablet-30s
+Language       : tamil-content
+Total Tokens   : 1461
+-------------------------------
+
+Route Name     : omee-tab-150mg-tablet-30s
+Language       : tamil-content
+Total Tokens   : 977
+-------------------------------
+
+Route Name     : omee-tab-150mg-tablet-30s
+Language       : tamil-content
+Total Tokens   : 994
+-------------------------------
+
+Route Name     : omee-tab-150mg-tablet-30s
+Language       : tamil-content
+Total Tokens   : 841
+-------------------------------
+
+Route Name     : omee-tab-150mg-tablet-30s
+Language       : tamil-content
+Total Tokens   : 792
+-------------------------------
+
+Route Name     : omee-tab-150mg-tablet-30s
+Language       : tamil-content
+Total Tokens   : 922
+-------------------------------
+
+Route Name     : omee-tab-150mg-tablet-30s
+Language       : tamil-content
+Total Tokens   : 929
+-------------------------------
+
+Route Name     : omee-tab-150mg-tablet-30s
+Language       : tamil-content
+Total Tokens   : 879
+-------------------------------
+
+Route Name     : folicure-5mg-tablet-10s
+Language       : tamil-content
+Total Tokens   : 805
+-------------------------------
+
+Route Name     : folicure-5mg-tablet-10s
+Language       : tamil-content
+Total Tokens   : 784
+-------------------------------
+
+Route Name     : folicure-5mg-tablet-10s
+Language       : tamil-content
+Total Tokens   : 795
+-------------------------------
+
+Route Name     : folicure-5mg-tablet-10s
+Language       : tamil-content
+Total Tokens   : 790
+-------------------------------
+
+Route Name     : folicure-5mg-tablet-10s
+Language       : tamil-content
+Total Tokens   : 1073
+-------------------------------
+
+Route Name     : folicure-5mg-tablet-10s
+Language       : tamil-content
+Total Tokens   : 1006
+-------------------------------
+
+Route Name     : folicure-5mg-tablet-10s
+Language       : tamil-content
+Total Tokens   : 881
+-------------------------------
+
+Route Name     : folicure-5mg-tablet-10s
+Language       : tamil-content
+Total Tokens   : 1006
+-------------------------------
+
+Route Name     : folicure-5mg-tablet-10s
+Language       : tamil-content
+Total Tokens   : 814
+-------------------------------
+
+Route Name     : folicure-5mg-tablet-10s
+Language       : tamil-content
+Total Tokens   : 869
+-------------------------------
+
+Route Name     : folicure-5mg-tablet-10s
+Language       : tamil-content
+Total Tokens   : 1230
+-------------------------------
+
+Route Name     : folicure-5mg-tablet-10s
+Language       : tamil-content
+Total Tokens   : 799
+-------------------------------
+
+Route Name     : folicure-5mg-tablet-10s
+Language       : tamil-content
+Total Tokens   : 1041
+-------------------------------
+
+Route Name     : folicure-5mg-tablet-10s
+Language       : tamil-content
+Total Tokens   : 886
+-------------------------------
+
+Route Name     : folicure-5mg-tablet-10s
+Language       : tamil-content
+Total Tokens   : 855
+-------------------------------
+
+Route Name     : folicure-5mg-tablet-10s
+Language       : tamil-content
+Total Tokens   : 782
+-------------------------------
+
+Route Name     : folicure-5mg-tablet-10s
+Language       : tamil-content
+Total Tokens   : 1038
+-------------------------------
+
+Route Name     : folicure-5mg-tablet-10s
+Language       : tamil-content
+Total Tokens   : 1152
+-------------------------------
+
+Route Name     : folicure-5mg-tablet-10s
+Language       : tamil-content
+Total Tokens   : 850
+-------------------------------
+
+Route Name     : styptin-10mg-tablet-cr-10s
+Language       : tamil-content
+Total Tokens   : 804
+-------------------------------
+
+Route Name     : styptin-10mg-tablet-cr-10s
+Language       : tamil-content
+Total Tokens   : 781
+-------------------------------
+
+Route Name     : styptin-10mg-tablet-cr-10s
+Language       : tamil-content
+Total Tokens   : 794
+-------------------------------
+
+Route Name     : styptin-10mg-tablet-cr-10s
+Language       : tamil-content
+Total Tokens   : 785
+-------------------------------
+
+Route Name     : styptin-10mg-tablet-cr-10s
+Language       : tamil-content
+Total Tokens   : 1001
+-------------------------------
+
+Route Name     : styptin-10mg-tablet-cr-10s
+Language       : tamil-content
+Total Tokens   : 968
+-------------------------------
+
+Route Name     : styptin-10mg-tablet-cr-10s
+Language       : tamil-content
+Total Tokens   : 949
+-------------------------------
+
+Route Name     : styptin-10mg-tablet-cr-10s
+Language       : tamil-content
+Total Tokens   : 941
+-------------------------------
+
+Route Name     : styptin-10mg-tablet-cr-10s
+Language       : tamil-content
+Total Tokens   : 870
+-------------------------------
+
+Route Name     : styptin-10mg-tablet-cr-10s
+Language       : tamil-content
+Total Tokens   : 1551
+-------------------------------
+
+Route Name     : styptin-10mg-tablet-cr-10s
+Language       : tamil-content
+Total Tokens   : 914
+-------------------------------
+
+Route Name     : styptin-10mg-tablet-cr-10s
+Language       : tamil-content
+Total Tokens   : 987
+-------------------------------
+
+Route Name     : styptin-10mg-tablet-cr-10s
+Language       : tamil-content
+Total Tokens   : 869
+-------------------------------
+
+Route Name     : styptin-10mg-tablet-cr-10s
+Language       : tamil-content
+Total Tokens   : 808
+-------------------------------
+
+Route Name     : styptin-10mg-tablet-cr-10s
+Language       : tamil-content
+Total Tokens   : 991
+-------------------------------
+
+Route Name     : styptin-10mg-tablet-cr-10s
+Language       : tamil-content
+Total Tokens   : 936
+-------------------------------
+
+Route Name     : dologesic-sp-tablet-10s
+Language       : tamil-content
+Total Tokens   : 801
+-------------------------------
+
+Route Name     : dologesic-sp-tablet-10s
+Language       : tamil-content
+Total Tokens   : 775
+-------------------------------
+
+Route Name     : dologesic-sp-tablet-10s
+Language       : tamil-content
+Total Tokens   : 885
+-------------------------------
+
+Route Name     : dologesic-sp-tablet-10s
+Language       : tamil-content
+Total Tokens   : 786
+-------------------------------
+
+Route Name     : dologesic-sp-tablet-10s
+Language       : tamil-content
+Total Tokens   : 951
+-------------------------------
+
+Route Name     : dologesic-sp-tablet-10s
+Language       : tamil-content
+Total Tokens   : 919
+-------------------------------
+
+Route Name     : dologesic-sp-tablet-10s
+Language       : tamil-content
+Total Tokens   : 893
+-------------------------------
+
+Route Name     : dologesic-sp-tablet-10s
+Language       : tamil-content
+Total Tokens   : 1024
+-------------------------------
+
+Route Name     : dologesic-sp-tablet-10s
+Language       : tamil-content
+Total Tokens   : 956
+-------------------------------
+
+Route Name     : dologesic-sp-tablet-10s
+Language       : tamil-content
+Total Tokens   : 1440
+-------------------------------
+
+Route Name     : dologesic-sp-tablet-10s
+Language       : tamil-content
+Total Tokens   : 984
+-------------------------------
+
+Route Name     : dologesic-sp-tablet-10s
+Language       : tamil-content
+Total Tokens   : 1493
+-------------------------------
+
+Route Name     : dologesic-sp-tablet-10s
+Language       : tamil-content
+Total Tokens   : 997
+-------------------------------
+
+Route Name     : dologesic-sp-tablet-10s
+Language       : tamil-content
+Total Tokens   : 1036
+-------------------------------
+
+Route Name     : dologesic-sp-tablet-10s
+Language       : tamil-content
+Total Tokens   : 823
+-------------------------------
+
+Route Name     : dologesic-sp-tablet-10s
+Language       : tamil-content
+Total Tokens   : 964
+-------------------------------
+
+Route Name     : dologesic-sp-tablet-10s
+Language       : tamil-content
+Total Tokens   : 836
+-------------------------------
+
+Route Name     : dologesic-sp-tablet-10s
+Language       : tamil-content
+Total Tokens   : 825
+-------------------------------
+
+Route Name     : biogene-tablet-mint
+Language       : tamil-content
+Total Tokens   : 784
+-------------------------------
+
+Route Name     : biogene-tablet-mint
+Language       : tamil-content
+Total Tokens   : 789
+-------------------------------
+
+Route Name     : biogene-tablet-mint
+Language       : tamil-content
+Total Tokens   : 907
+-------------------------------
+
+Route Name     : biogene-tablet-mint
+Language       : tamil-content
+Total Tokens   : 786
+-------------------------------
+
+Route Name     : biogene-tablet-mint
+Language       : tamil-content
+Total Tokens   : 982
+-------------------------------
+
+Route Name     : biogene-tablet-mint
+Language       : tamil-content
+Total Tokens   : 868
+-------------------------------
+
+Route Name     : biogene-tablet-mint
+Language       : tamil-content
+Total Tokens   : 994
+-------------------------------
+
+Route Name     : biogene-tablet-mint
+Language       : tamil-content
+Total Tokens   : 1202
+-------------------------------
+
+Route Name     : biogene-tablet-mint
+Language       : tamil-content
+Total Tokens   : 821
+-------------------------------
+
+Route Name     : biogene-tablet-mint
+Language       : tamil-content
+Total Tokens   : 1448
+-------------------------------
+
+Route Name     : biogene-tablet-mint
+Language       : tamil-content
+Total Tokens   : 1028
+-------------------------------
+
+Route Name     : biogene-tablet-mint
+Language       : tamil-content
+Total Tokens   : 971
+-------------------------------
+
+Route Name     : biogene-tablet-mint
+Language       : tamil-content
+Total Tokens   : 851
+-------------------------------
+
+Route Name     : biogene-tablet-mint
+Language       : tamil-content
+Total Tokens   : 980
+-------------------------------
+
+Route Name     : biogene-tablet-mint
+Language       : tamil-content
+Total Tokens   : 995
+-------------------------------
+
+Route Name     : prazopress-xl-5mg-tablet-30s
+Language       : tamil-content
+Total Tokens   : 805
+-------------------------------
+
+Route Name     : prazopress-xl-5mg-tablet-30s
+Language       : tamil-content
+Total Tokens   : 793
+-------------------------------
+
+Route Name     : prazopress-xl-5mg-tablet-30s
+Language       : tamil-content
+Total Tokens   : 788
+-------------------------------
+
+Route Name     : prazopress-xl-5mg-tablet-30s
+Language       : tamil-content
+Total Tokens   : 785
+-------------------------------
+
+Route Name     : prazopress-xl-5mg-tablet-30s
+Language       : tamil-content
+Total Tokens   : 1399
+-------------------------------
+
+Route Name     : prazopress-xl-5mg-tablet-30s
+Language       : tamil-content
+Total Tokens   : 929
+-------------------------------
+
+Route Name     : prazopress-xl-5mg-tablet-30s
+Language       : tamil-content
+Total Tokens   : 1019
+-------------------------------
+
+Route Name     : prazopress-xl-5mg-tablet-30s
+Language       : tamil-content
+Total Tokens   : 1092
+-------------------------------
+
+Route Name     : prazopress-xl-5mg-tablet-30s
+Language       : tamil-content
+Total Tokens   : 794
+-------------------------------
+
+Route Name     : prazopress-xl-5mg-tablet-30s
+Language       : tamil-content
+Total Tokens   : 874
+-------------------------------
+
+Route Name     : prazopress-xl-5mg-tablet-30s
+Language       : tamil-content
+Total Tokens   : 1531
+-------------------------------
+
+Route Name     : prazopress-xl-5mg-tablet-30s
+Language       : tamil-content
+Total Tokens   : 807
+-------------------------------
+
+Route Name     : prazopress-xl-5mg-tablet-30s
+Language       : tamil-content
+Total Tokens   : 975
+-------------------------------
+
+Route Name     : prazopress-xl-5mg-tablet-30s
+Language       : tamil-content
+Total Tokens   : 938
+-------------------------------
+
+Route Name     : prazopress-xl-5mg-tablet-30s
+Language       : tamil-content
+Total Tokens   : 905
+-------------------------------
+
+Route Name     : prazopress-xl-5mg-tablet-30s
+Language       : tamil-content
+Total Tokens   : 818
+-------------------------------
+
+Route Name     : prazopress-xl-5mg-tablet-30s
+Language       : tamil-content
+Total Tokens   : 1074
+-------------------------------
+
+Route Name     : prazopress-xl-5mg-tablet-30s
+Language       : tamil-content
+Total Tokens   : 944
+-------------------------------
+
+Route Name     : prazopress-xl-5mg-tablet-30s
+Language       : tamil-content
+Total Tokens   : 956
+-------------------------------
+
+Route Name     : prazopress-xl-5mg-tablet-30s
+Language       : tamil-content
+Total Tokens   : 966
+-------------------------------
+
+Route Name     : prazopress-xl-5mg-tablet-30s
+Language       : tamil-content
+Total Tokens   : 1006
+-------------------------------
+
+Route Name     : prazopress-xl-5mg-tablet-30s
+Language       : tamil-content
+Total Tokens   : 921
+-------------------------------
+
+Route Name     : prazopress-xl-5mg-tablet-30s
+Language       : tamil-content
+Total Tokens   : 978
+-------------------------------
+
+Route Name     : prazopress-xl-5mg-tablet-30s
+Language       : tamil-content
+Total Tokens   : 1026
+-------------------------------
+
+Route Name     : relief-mr-tablet
+Language       : tamil-content
+Total Tokens   : 782
+-------------------------------
+
+Route Name     : relief-mr-tablet
+Language       : tamil-content
+Total Tokens   : 788
+-------------------------------
+
+Route Name     : relief-mr-tablet
+Language       : tamil-content
+Total Tokens   : 890
+-------------------------------
+
+Route Name     : relief-mr-tablet
+Language       : tamil-content
+Total Tokens   : 791
+-------------------------------
+
+Route Name     : relief-mr-tablet
+Language       : tamil-content
+Total Tokens   : 1123
+-------------------------------
+
+Route Name     : relief-mr-tablet
+Language       : tamil-content
+Total Tokens   : 873
+-------------------------------
+
+Route Name     : relief-mr-tablet
+Language       : tamil-content
+Total Tokens   : 1095
+-------------------------------
+
+Route Name     : relief-mr-tablet
+Language       : tamil-content
+Total Tokens   : 1202
+-------------------------------
+
+Route Name     : relief-mr-tablet
+Language       : tamil-content
+Total Tokens   : 846
+-------------------------------
+
+Route Name     : relief-mr-tablet
+Language       : tamil-content
+Total Tokens   : 986
+-------------------------------
+
+Route Name     : relief-mr-tablet
+Language       : tamil-content
+Total Tokens   : 1550
+-------------------------------
+
+Route Name     : relief-mr-tablet
+Language       : tamil-content
+Total Tokens   : 882
+-------------------------------
+
+Route Name     : relief-mr-tablet
+Language       : tamil-content
+Total Tokens   : 1130
+-------------------------------
+
+Route Name     : relief-mr-tablet
+Language       : tamil-content
+Total Tokens   : 1063
+-------------------------------
+
+Route Name     : relief-mr-tablet
+Language       : tamil-content
+Total Tokens   : 842
+-------------------------------
+
+Route Name     : relief-mr-tablet
+Language       : tamil-content
+Total Tokens   : 797
+-------------------------------
+
+Route Name     : relief-mr-tablet
+Language       : tamil-content
+Total Tokens   : 1039
+-------------------------------
+
+Route Name     : relief-mr-tablet
+Language       : tamil-content
+Total Tokens   : 1045
+-------------------------------
+
+Route Name     : relief-mr-tablet
+Language       : tamil-content
+Total Tokens   : 885
+-------------------------------
+
+Route Name     : nurokind-forte-z-tablet-15s
+Language       : tamil-content
+Total Tokens   : 792
+-------------------------------
+
+Route Name     : nurokind-forte-z-tablet-15s
+Language       : tamil-content
+Total Tokens   : 778
+-------------------------------
+
+Route Name     : nurokind-forte-z-tablet-15s
+Language       : tamil-content
+Total Tokens   : 983
+-------------------------------
+
+Route Name     : nurokind-forte-z-tablet-15s
+Language       : tamil-content
+Total Tokens   : 785
+-------------------------------
+
+Route Name     : nurokind-forte-z-tablet-15s
+Language       : tamil-content
+Total Tokens   : 1064
+-------------------------------
+
+Route Name     : nurokind-forte-z-tablet-15s
+Language       : tamil-content
+Total Tokens   : 914
+-------------------------------
+
+Route Name     : nurokind-forte-z-tablet-15s
+Language       : tamil-content
+Total Tokens   : 907
+-------------------------------
+
+Route Name     : nurokind-forte-z-tablet-15s
+Language       : tamil-content
+Total Tokens   : 1151
+-------------------------------
+
+Route Name     : nurokind-forte-z-tablet-15s
+Language       : tamil-content
+Total Tokens   : 786
+-------------------------------
+
+Route Name     : nurokind-forte-z-tablet-15s
+Language       : tamil-content
+Total Tokens   : 936
+-------------------------------
+
+Route Name     : nurokind-forte-z-tablet-15s
+Language       : tamil-content
+Total Tokens   : 1315
+-------------------------------
+
+Route Name     : nurokind-forte-z-tablet-15s
+Language       : tamil-content
+Total Tokens   : 988
+-------------------------------
+
+Route Name     : nurokind-forte-z-tablet-15s
+Language       : tamil-content
+Total Tokens   : 1089
+-------------------------------
+
+Route Name     : perikine-tablet-10s
+Language       : tamil-content
+Total Tokens   : 790
+-------------------------------
+
+Route Name     : perikine-tablet-10s
+Language       : tamil-content
+Total Tokens   : 779
+-------------------------------
+
+Route Name     : perikine-tablet-10s
+Language       : tamil-content
+Total Tokens   : 790
+-------------------------------
+
+Route Name     : perikine-tablet-10s
+Language       : tamil-content
+Total Tokens   : 783
+-------------------------------
+
+Route Name     : perikine-tablet-10s
+Language       : tamil-content
+Total Tokens   : 936
+-------------------------------
+
+Route Name     : perikine-tablet-10s
+Language       : tamil-content
+Total Tokens   : 870
+-------------------------------
+
+Route Name     : perikine-tablet-10s
+Language       : tamil-content
+Total Tokens   : 877
+-------------------------------
+
+Route Name     : perikine-tablet-10s
+Language       : tamil-content
+Total Tokens   : 895
+-------------------------------
+
+Route Name     : perikine-tablet-10s
+Language       : tamil-content
+Total Tokens   : 800
+-------------------------------
+
+Route Name     : perikine-tablet-10s
+Language       : tamil-content
+Total Tokens   : 843
+-------------------------------
+
+Route Name     : perikine-tablet-10s
+Language       : tamil-content
+Total Tokens   : 1273
+-------------------------------
+
+Route Name     : perikine-tablet-10s
+Language       : tamil-content
+Total Tokens   : 956
+-------------------------------
+
+Route Name     : perikine-tablet-10s
+Language       : tamil-content
+Total Tokens   : 839
+-------------------------------
+
+Route Name     : perikine-tablet-10s
+Language       : tamil-content
+Total Tokens   : 772
+-------------------------------
+
+Route Name     : perikine-tablet-10s
+Language       : tamil-content
+Total Tokens   : 862
+-------------------------------
+
+Route Name     : perikine-tablet-10s
+Language       : tamil-content
+Total Tokens   : 957
+-------------------------------
+
+Route Name     : lobetron-0.5mg-tablet-10s
+Language       : tamil-content
+Total Tokens   : 810
+-------------------------------
+
+Route Name     : lobetron-0.5mg-tablet-10s
+Language       : tamil-content
+Total Tokens   : 794
+-------------------------------
+
+Route Name     : lobetron-0.5mg-tablet-10s
+Language       : tamil-content
+Total Tokens   : 810
+-------------------------------
+
+Route Name     : lobetron-0.5mg-tablet-10s
+Language       : tamil-content
+Total Tokens   : 792
+-------------------------------
+
+Route Name     : lobetron-0.5mg-tablet-10s
+Language       : tamil-content
+Total Tokens   : 975
+-------------------------------
+
+Route Name     : lobetron-0.5mg-tablet-10s
+Language       : tamil-content
+Total Tokens   : 923
+-------------------------------
+
+Route Name     : lobetron-0.5mg-tablet-10s
+Language       : tamil-content
+Total Tokens   : 942
+-------------------------------
+
+Route Name     : lobetron-0.5mg-tablet-10s
+Language       : tamil-content
+Total Tokens   : 954
+-------------------------------
+
+Route Name     : lobetron-0.5mg-tablet-10s
+Language       : tamil-content
+Total Tokens   : 938
+-------------------------------
+
+Route Name     : lobetron-0.5mg-tablet-10s
+Language       : tamil-content
+Total Tokens   : 977
+-------------------------------
+
+Route Name     : lobetron-0.5mg-tablet-10s
+Language       : tamil-content
+Total Tokens   : 1022
+-------------------------------
+
+Route Name     : bonicor-lc-tablet-10s
+Language       : tamil-content
+Total Tokens   : 860
+-------------------------------
+
+Route Name     : bonicor-lc-tablet-10s
+Language       : tamil-content
+Total Tokens   : 858
+-------------------------------
+
+Route Name     : bonicor-lc-tablet-10s
+Language       : tamil-content
+Total Tokens   : 916
+-------------------------------
+
+Route Name     : bonicor-lc-tablet-10s
+Language       : tamil-content
+Total Tokens   : 855
+-------------------------------
+
+Route Name     : bonicor-lc-tablet-10s
+Language       : tamil-content
+Total Tokens   : 1027
+-------------------------------
+
+Route Name     : bonicor-lc-tablet-10s
+Language       : tamil-content
+Total Tokens   : 963
+-------------------------------
+
+Route Name     : bonicor-lc-tablet-10s
+Language       : tamil-content
+Total Tokens   : 959
+-------------------------------
+
+Route Name     : bonicor-lc-tablet-10s
+Language       : tamil-content
+Total Tokens   : 1102
+-------------------------------
+
+Route Name     : bonicor-lc-tablet-10s
+Language       : tamil-content
+Total Tokens   : 990
+-------------------------------
+
+Route Name     : bonicor-lc-tablet-10s
+Language       : tamil-content
+Total Tokens   : 1012
+-------------------------------
+
+Route Name     : bonicor-lc-tablet-10s
+Language       : tamil-content
+Total Tokens   : 935
+-------------------------------
+
+Route Name     : sporlac-eva-capsule-10s
+Language       : tamil-content
+Total Tokens   : 806
+-------------------------------
+
+Route Name     : sporlac-eva-capsule-10s
+Language       : tamil-content
+Total Tokens   : 816
+-------------------------------
+
+Route Name     : sporlac-eva-capsule-10s
+Language       : tamil-content
+Total Tokens   : 798
+-------------------------------
+
+Route Name     : sporlac-eva-capsule-10s
+Language       : tamil-content
+Total Tokens   : 803
+-------------------------------
+
+Route Name     : sporlac-eva-capsule-10s
+Language       : tamil-content
+Total Tokens   : 1205
+-------------------------------
+
+Route Name     : sporlac-eva-capsule-10s
+Language       : tamil-content
+Total Tokens   : 962
+-------------------------------
+
+Route Name     : sporlac-eva-capsule-10s
+Language       : tamil-content
+Total Tokens   : 981
+-------------------------------
+
+Route Name     : sporlac-eva-capsule-10s
+Language       : tamil-content
+Total Tokens   : 1138
+-------------------------------
+
+Route Name     : sporlac-eva-capsule-10s
+Language       : tamil-content
+Total Tokens   : 806
+-------------------------------
+
+Route Name     : sporlac-eva-capsule-10s
+Language       : tamil-content
+Total Tokens   : 871
+-------------------------------
+
+Route Name     : sporlac-eva-capsule-10s
+Language       : tamil-content
+Total Tokens   : 1370
+-------------------------------
+
+Route Name     : sporlac-eva-capsule-10s
+Language       : tamil-content
+Total Tokens   : 907
+-------------------------------
+
+Route Name     : sporlac-eva-capsule-10s
+Language       : tamil-content
+Total Tokens   : 942
+-------------------------------
+
+Route Name     : sporlac-eva-capsule-10s
+Language       : tamil-content
+Total Tokens   : 954
+-------------------------------
+
+Route Name     : sporlac-eva-capsule-10s
+Language       : tamil-content
+Total Tokens   : 886
+-------------------------------
+
+Route Name     : sporlac-eva-capsule-10s
+Language       : tamil-content
+Total Tokens   : 855
+-------------------------------
+
+Route Name     : sporlac-eva-capsule-10s
+Language       : tamil-content
+Total Tokens   : 1110
+-------------------------------
+
+Route Name     : sporlac-eva-capsule-10s
+Language       : tamil-content
+Total Tokens   : 1076
+-------------------------------
+
+Route Name     : sporlac-eva-capsule-10s
+Language       : tamil-content
+Total Tokens   : 896
+-------------------------------
+
+Route Name     : sporlac-eva-capsule-10s
+Language       : tamil-content
+Total Tokens   : 1732
+-------------------------------
+
+Route Name     : sporlac-eva-capsule-10s
+Language       : tamil-content
+Total Tokens   : 932
+-------------------------------
+
+Route Name     : sporlac-eva-capsule-10s
+Language       : tamil-content
+Total Tokens   : 949
+-------------------------------
+
+Route Name     : sporlac-eva-capsule-10s
+Language       : tamil-content
+Total Tokens   : 1142
+-------------------------------
+
+Route Name     : clindac-a-1wv-solution-25ml
+Language       : tamil-content
+Total Tokens   : 823
+-------------------------------
+
+Route Name     : clindac-a-1wv-solution-25ml
+Language       : tamil-content
+Total Tokens   : 802
+-------------------------------
+
+Route Name     : clindac-a-1wv-solution-25ml
+Language       : tamil-content
+Total Tokens   : 810
+-------------------------------
+
+Route Name     : clindac-a-1wv-solution-25ml
+Language       : tamil-content
+Total Tokens   : 799
+-------------------------------
+
+Route Name     : clindac-a-1wv-solution-25ml
+Language       : tamil-content
+Total Tokens   : 1642
+-------------------------------
+
+Route Name     : clindac-a-1wv-solution-25ml
+Language       : tamil-content
+Total Tokens   : 1100
+-------------------------------
+
+Route Name     : clindac-a-1wv-solution-25ml
+Language       : tamil-content
+Total Tokens   : 863
+-------------------------------
+
+Route Name     : clindac-a-1wv-solution-25ml
+Language       : tamil-content
+Total Tokens   : 938
+-------------------------------
+
+Route Name     : clindac-a-1wv-solution-25ml
+Language       : tamil-content
+Total Tokens   : 791
+-------------------------------
+
+Route Name     : clindac-a-1wv-solution-25ml
+Language       : tamil-content
+Total Tokens   : 848
+-------------------------------
+
+Route Name     : clindac-a-1wv-solution-25ml
+Language       : tamil-content
+Total Tokens   : 1468
+-------------------------------
+
+Route Name     : t3-lc-soft-gelatin-capsule-10s
+Language       : tamil-content
+Total Tokens   : 849
+-------------------------------
+
+Route Name     : t3-lc-soft-gelatin-capsule-10s
+Language       : tamil-content
+Total Tokens   : 829
+-------------------------------
+
+Route Name     : t3-lc-soft-gelatin-capsule-10s
+Language       : tamil-content
+Total Tokens   : 839
+-------------------------------
+
+Route Name     : t3-lc-soft-gelatin-capsule-10s
+Language       : tamil-content
+Total Tokens   : 829
+-------------------------------
+
+Route Name     : t3-lc-soft-gelatin-capsule-10s
+Language       : tamil-content
+Total Tokens   : 1024
+-------------------------------
+
+Route Name     : t3-lc-soft-gelatin-capsule-10s
+Language       : tamil-content
+Total Tokens   : 933
+-------------------------------
+
+Route Name     : t3-lc-soft-gelatin-capsule-10s
+Language       : tamil-content
+Total Tokens   : 961
+-------------------------------
+
+Route Name     : t3-lc-soft-gelatin-capsule-10s
+Language       : tamil-content
+Total Tokens   : 1116
+-------------------------------
+
+Route Name     : t3-lc-soft-gelatin-capsule-10s
+Language       : tamil-content
+Total Tokens   : 829
+-------------------------------
+
+Route Name     : t3-lc-soft-gelatin-capsule-10s
+Language       : tamil-content
+Total Tokens   : 923
+-------------------------------
+
+Route Name     : t3-lc-soft-gelatin-capsule-10s
+Language       : tamil-content
+Total Tokens   : 1696
+-------------------------------
+
+Route Name     : t3-lc-soft-gelatin-capsule-10s
+Language       : tamil-content
+Total Tokens   : 955
+-------------------------------
+
+Route Name     : t3-lc-soft-gelatin-capsule-10s
+Language       : tamil-content
+Total Tokens   : 1092
+-------------------------------
+
+Route Name     : cobalife-xt-capsule-15s
+Language       : tamil-content
+Total Tokens   : 802
+-------------------------------
+
+Route Name     : cobalife-xt-capsule-15s
+Language       : tamil-content
+Total Tokens   : 805
+-------------------------------
+
+Route Name     : cobalife-xt-capsule-15s
+Language       : tamil-content
+Total Tokens   : 962
+-------------------------------
+
+Route Name     : cobalife-xt-capsule-15s
+Language       : tamil-content
+Total Tokens   : 793
+-------------------------------
+
+Route Name     : cobalife-xt-capsule-15s
+Language       : tamil-content
+Total Tokens   : 1128
+-------------------------------
+
+Route Name     : cobalife-xt-capsule-15s
+Language       : tamil-content
+Total Tokens   : 961
+-------------------------------
+
+Route Name     : cobalife-xt-capsule-15s
+Language       : tamil-content
+Total Tokens   : 901
+-------------------------------
+
+Route Name     : cobalife-xt-capsule-15s
+Language       : tamil-content
+Total Tokens   : 1262
+-------------------------------
+
+Route Name     : cobalife-xt-capsule-15s
+Language       : tamil-content
+Total Tokens   : 916
+-------------------------------
+
+Route Name     : cobalife-xt-capsule-15s
+Language       : tamil-content
+Total Tokens   : 946
+-------------------------------
+
+Route Name     : cobalife-xt-capsule-15s
+Language       : tamil-content
+Total Tokens   : 804
+-------------------------------
+
+Route Name     : cobalife-xt-capsule-15s
+Language       : tamil-content
+Total Tokens   : 982
+-------------------------------
+
+Route Name     : cozymin-l-syrup-100ml
+Language       : tamil-content
+Total Tokens   : 905
+-------------------------------
+
+Route Name     : cozymin-l-syrup-100ml
+Language       : tamil-content
+Total Tokens   : 889
+-------------------------------
+
+Route Name     : cozymin-l-syrup-100ml
+Language       : tamil-content
+Total Tokens   : 902
+-------------------------------
+
+Route Name     : cozymin-l-syrup-100ml
+Language       : tamil-content
+Total Tokens   : 899
+-------------------------------
+
+Route Name     : cozymin-l-syrup-100ml
+Language       : tamil-content
+Total Tokens   : 1066
+-------------------------------
+
+Route Name     : cozymin-l-syrup-100ml
+Language       : tamil-content
+Total Tokens   : 1022
+-------------------------------
+
+Route Name     : cozymin-l-syrup-100ml
+Language       : tamil-content
+Total Tokens   : 1110
+-------------------------------
+
+Route Name     : cozymin-l-syrup-100ml
+Language       : tamil-content
+Total Tokens   : 1126
+-------------------------------
+
+Route Name     : cozymin-l-syrup-100ml
+Language       : tamil-content
+Total Tokens   : 1007
+-------------------------------
+
+Route Name     : cozymin-l-syrup-100ml
+Language       : tamil-content
+Total Tokens   : 1101
+-------------------------------
+
+Route Name     : cozymin-l-syrup-100ml
+Language       : tamil-content
+Total Tokens   : 1119
+-------------------------------
+
+Route Name     : sucol-injection
+Language       : tamil-content
+Total Tokens   : 800
+-------------------------------
+
+Route Name     : sucol-injection
+Language       : tamil-content
+Total Tokens   : 791
+-------------------------------
+
+Route Name     : sucol-injection
+Language       : tamil-content
+Total Tokens   : 814
+-------------------------------
+
+Route Name     : sucol-injection
+Language       : tamil-content
+Total Tokens   : 798
+-------------------------------
+
+Route Name     : sucol-injection
+Language       : tamil-content
+Total Tokens   : 1433
+-------------------------------
+
+Route Name     : sucol-injection
+Language       : tamil-content
+Total Tokens   : 987
+-------------------------------
+
+Route Name     : sucol-injection
+Language       : tamil-content
+Total Tokens   : 842
+-------------------------------
+
+Route Name     : sucol-injection
+Language       : tamil-content
+Total Tokens   : 824
+-------------------------------
+
+Route Name     : sucol-injection
+Language       : tamil-content
+Total Tokens   : 809
+-------------------------------
+
+Route Name     : sucol-injection
+Language       : tamil-content
+Total Tokens   : 918
+-------------------------------
+
+Route Name     : sucol-injection
+Language       : tamil-content
+Total Tokens   : 1920
+-------------------------------
+
+Route Name     : sucol-injection
+Language       : tamil-content
+Total Tokens   : 816
+-------------------------------
+
+Route Name     : becadexamin-capsule-30s
+Language       : tamil-content
+Total Tokens   : 803
+-------------------------------
+
+Route Name     : becadexamin-capsule-30s
+Language       : tamil-content
+Total Tokens   : 799
+-------------------------------
+
+Route Name     : becadexamin-capsule-30s
+Language       : tamil-content
+Total Tokens   : 1322
+-------------------------------
+
+Route Name     : becadexamin-capsule-30s
+Language       : tamil-content
+Total Tokens   : 800
+-------------------------------
+
+Route Name     : becadexamin-capsule-30s
+Language       : tamil-content
+Total Tokens   : 1312
+-------------------------------
+
+Route Name     : becadexamin-capsule-30s
+Language       : tamil-content
+Total Tokens   : 1028
+-------------------------------
+
+Route Name     : becadexamin-capsule-30s
+Language       : tamil-content
+Total Tokens   : 931
+-------------------------------
+
+Route Name     : becadexamin-capsule-30s
+Language       : tamil-content
+Total Tokens   : 1173
+-------------------------------
+
+Route Name     : becadexamin-capsule-30s
+Language       : tamil-content
+Total Tokens   : 821
+-------------------------------
+
+Route Name     : becadexamin-capsule-30s
+Language       : tamil-content
+Total Tokens   : 912
+-------------------------------
+
+Route Name     : becadexamin-capsule-30s
+Language       : tamil-content
+Total Tokens   : 1920
+-------------------------------
+
+Route Name     : becadexamin-capsule-30s
+Language       : tamil-content
+Total Tokens   : 944
+-------------------------------
+
+Route Name     : becadexamin-capsule-30s
+Language       : tamil-content
+Total Tokens   : 986
+-------------------------------
+
+Route Name     : becadexamin-capsule-30s
+Language       : tamil-content
+Total Tokens   : 841
+-------------------------------
+
+Route Name     : becadexamin-capsule-30s
+Language       : tamil-content
+Total Tokens   : 917
+-------------------------------
+
+Route Name     : becadexamin-capsule-30s
+Language       : tamil-content
+Total Tokens   : 1071
+-------------------------------
+
+Route Name     : becadexamin-capsule-30s
+Language       : tamil-content
+Total Tokens   : 956
+-------------------------------
+
+Route Name     : becadexamin-capsule-30s
+Language       : tamil-content
+Total Tokens   : 1021
+-------------------------------
+
+Route Name     : becadexamin-capsule-30s
+Language       : tamil-content
+Total Tokens   : 970
+-------------------------------
+
+Route Name     : becadexamin-capsule-30s
+Language       : tamil-content
+Total Tokens   : 930
+-------------------------------
+
+Route Name     : becadexamin-capsule-30s
+Language       : tamil-content
+Total Tokens   : 1075
+-------------------------------
+
+Route Name     : drosis-ds-combipack
+Language       : tamil-content
+Total Tokens   : 854
+-------------------------------
+
+Route Name     : drosis-ds-combipack
+Language       : tamil-content
+Total Tokens   : 850
+-------------------------------
+
+Route Name     : drosis-ds-combipack
+Language       : tamil-content
+Total Tokens   : 853
+-------------------------------
+
+Route Name     : drosis-ds-combipack
+Language       : tamil-content
+Total Tokens   : 852
+-------------------------------
+
+Route Name     : drosis-ds-combipack
+Language       : tamil-content
+Total Tokens   : 899
+-------------------------------
+
+Route Name     : drosis-ds-combipack
+Language       : tamil-content
+Total Tokens   : 932
+-------------------------------
+
+Route Name     : drosis-ds-combipack
+Language       : tamil-content
+Total Tokens   : 985
+-------------------------------
+
+Route Name     : drosis-ds-combipack
+Language       : tamil-content
+Total Tokens   : 855
+-------------------------------
+
+Route Name     : drosis-ds-combipack
+Language       : tamil-content
+Total Tokens   : 861
+-------------------------------
+
+Route Name     : drosis-ds-combipack
+Language       : tamil-content
+Total Tokens   : 957
+-------------------------------
+
+Route Name     : drosis-ds-combipack
+Language       : tamil-content
+Total Tokens   : 884
+-------------------------------
+
+Route Name     : drosis-ds-combipack
+Language       : tamil-content
+Total Tokens   : 841
+-------------------------------
+
+Route Name     : drosis-ds-combipack
+Language       : tamil-content
+Total Tokens   : 841
+-------------------------------
+
+Route Name     : drosis-ds-combipack
+Language       : tamil-content
+Total Tokens   : 841
+-------------------------------
+
+Route Name     : drosis-ds-combipack
+Language       : tamil-content
+Total Tokens   : 841
+-------------------------------
+
+Route Name     : drosis-ds-combipack
+Language       : tamil-content
+Total Tokens   : 935
+-------------------------------
+
+Route Name     : glymax-soap-75gm
+Language       : tamil-content
+Total Tokens   : 789
+-------------------------------
+
+Route Name     : glymax-soap-75gm
+Language       : tamil-content
+Total Tokens   : 794
+-------------------------------
+
+Route Name     : glymax-soap-75gm
+Language       : tamil-content
+Total Tokens   : 793
+-------------------------------
+
+Route Name     : glymax-soap-75gm
+Language       : tamil-content
+Total Tokens   : 791
+-------------------------------
+
+Route Name     : glymax-soap-75gm
+Language       : tamil-content
+Total Tokens   : 1068
+-------------------------------
+
+Route Name     : glymax-soap-75gm
+Language       : tamil-content
+Total Tokens   : 946
+-------------------------------
+
+Route Name     : glymax-soap-75gm
+Language       : tamil-content
+Total Tokens   : 1000
+-------------------------------
+
+Route Name     : glymax-soap-75gm
+Language       : tamil-content
+Total Tokens   : 999
+-------------------------------
+
+Route Name     : glymax-soap-75gm
+Language       : tamil-content
+Total Tokens   : 908
+-------------------------------
+
+Route Name     : glymax-soap-75gm
+Language       : tamil-content
+Total Tokens   : 1038
+-------------------------------
+
+Route Name     : glymax-soap-75gm
+Language       : tamil-content
+Total Tokens   : 906
+-------------------------------
+
+Route Name     : glymax-soap-75gm
+Language       : tamil-content
+Total Tokens   : 907
+-------------------------------
+
+Route Name     : glymax-soap-75gm
+Language       : tamil-content
+Total Tokens   : 789
+-------------------------------
+
+Route Name     : glymax-soap-75gm
+Language       : tamil-content
+Total Tokens   : 941
+-------------------------------
+
+Route Name     : glymax-soap-75gm
+Language       : tamil-content
+Total Tokens   : 920
+-------------------------------
+
+Route Name     : glymax-soap-75gm
+Language       : tamil-content
+Total Tokens   : 802
+-------------------------------
+
+Route Name     : gynaset-10mg-tablet-cr-10s
+Language       : tamil-content
+Total Tokens   : 820
+-------------------------------
+
+Route Name     : gynaset-10mg-tablet-cr-10s
+Language       : tamil-content
+Total Tokens   : 790
+-------------------------------
+
+Route Name     : gynaset-10mg-tablet-cr-10s
+Language       : tamil-content
+Total Tokens   : 810
+-------------------------------
+
+Route Name     : gynaset-10mg-tablet-cr-10s
+Language       : tamil-content
+Total Tokens   : 795
+-------------------------------
+
+Route Name     : gynaset-10mg-tablet-cr-10s
+Language       : tamil-content
+Total Tokens   : 1011
+-------------------------------
+
+Route Name     : gynaset-10mg-tablet-cr-10s
+Language       : tamil-content
+Total Tokens   : 970
+-------------------------------
+
+Route Name     : gynaset-10mg-tablet-cr-10s
+Language       : tamil-content
+Total Tokens   : 962
+-------------------------------
+
+Route Name     : gynaset-10mg-tablet-cr-10s
+Language       : tamil-content
+Total Tokens   : 938
+-------------------------------
+
+Route Name     : gynaset-10mg-tablet-cr-10s
+Language       : tamil-content
+Total Tokens   : 876
+-------------------------------
+
+Route Name     : gynaset-10mg-tablet-cr-10s
+Language       : tamil-content
+Total Tokens   : 1551
+-------------------------------
+
+Route Name     : gynaset-10mg-tablet-cr-10s
+Language       : tamil-content
+Total Tokens   : 924
+-------------------------------
+
+Route Name     : gynaset-10mg-tablet-cr-10s
+Language       : tamil-content
+Total Tokens   : 991
+-------------------------------
+
+Route Name     : gynaset-10mg-tablet-cr-10s
+Language       : tamil-content
+Total Tokens   : 881
+-------------------------------
+
+Route Name     : gynaset-10mg-tablet-cr-10s
+Language       : tamil-content
+Total Tokens   : 813
+-------------------------------
+
+Route Name     : gynaset-10mg-tablet-cr-10s
+Language       : tamil-content
+Total Tokens   : 1005
+-------------------------------
+
+Route Name     : gynaset-10mg-tablet-cr-10s
+Language       : tamil-content
+Total Tokens   : 943
+-------------------------------
+
+Route Name     : aristozyme-liquid-pineapple-200ml
+Language       : tamil-content
+Total Tokens   : 809
+-------------------------------
+
+Route Name     : aristozyme-liquid-pineapple-200ml
+Language       : tamil-content
+Total Tokens   : 785
+-------------------------------
+
+Route Name     : aristozyme-liquid-pineapple-200ml
+Language       : tamil-content
+Total Tokens   : 818
+-------------------------------
+
+Route Name     : aristozyme-liquid-pineapple-200ml
+Language       : tamil-content
+Total Tokens   : 791
+-------------------------------
+
+Route Name     : aristozyme-liquid-pineapple-200ml
+Language       : tamil-content
+Total Tokens   : 1126
+-------------------------------
+
+Route Name     : aristozyme-liquid-pineapple-200ml
+Language       : tamil-content
+Total Tokens   : 1010
+-------------------------------
+
+Route Name     : aristozyme-liquid-pineapple-200ml
+Language       : tamil-content
+Total Tokens   : 1127
+-------------------------------
+
+Route Name     : aristozyme-liquid-pineapple-200ml
+Language       : tamil-content
+Total Tokens   : 981
+-------------------------------
+
+Route Name     : aristozyme-liquid-pineapple-200ml
+Language       : tamil-content
+Total Tokens   : 896
+-------------------------------
+
+Route Name     : aristozyme-liquid-pineapple-200ml
+Language       : tamil-content
+Total Tokens   : 1679
+-------------------------------
+
+Route Name     : aristozyme-liquid-pineapple-200ml
+Language       : tamil-content
+Total Tokens   : 1020
+-------------------------------
+
+Route Name     : aristozyme-liquid-pineapple-200ml
+Language       : tamil-content
+Total Tokens   : 1007
+-------------------------------
+
+Route Name     : aristozyme-liquid-pineapple-200ml
+Language       : tamil-content
+Total Tokens   : 1030
+-------------------------------
+
+Route Name     : aristozyme-liquid-pineapple-200ml
+Language       : tamil-content
+Total Tokens   : 781
+-------------------------------
+
+Route Name     : aristozyme-liquid-pineapple-200ml
+Language       : tamil-content
+Total Tokens   : 1023
+-------------------------------
+
+Route Name     : aristozyme-liquid-pineapple-200ml
+Language       : tamil-content
+Total Tokens   : 1056
+-------------------------------
+
+Route Name     : aristozyme-liquid-pineapple-200ml
+Language       : tamil-content
+Total Tokens   : 862
+-------------------------------
+
+Route Name     : aristozyme-liquid-pineapple-200ml
+Language       : tamil-content
+Total Tokens   : 848
+-------------------------------
+
+Route Name     : aristozyme-liquid-pineapple-200ml
+Language       : tamil-content
+Total Tokens   : 894
+-------------------------------
+
+Route Name     : aristozyme-liquid-pineapple-200ml
+Language       : tamil-content
+Total Tokens   : 907
+-------------------------------
+
+Route Name     : aristozyme-liquid-pineapple-200ml
+Language       : tamil-content
+Total Tokens   : 1236
+-------------------------------
+
+Route Name     : aristozyme-liquid-pineapple-200ml
+Language       : tamil-content
+Total Tokens   : 979
+-------------------------------
+
+Route Name     : aristozyme-liquid-pineapple-200ml
+Language       : tamil-content
+Total Tokens   : 889
+-------------------------------
+
+Route Name     : aristozyme-liquid-pineapple-200ml
+Language       : tamil-content
+Total Tokens   : 1076
+-------------------------------
+
+Route Name     : potklor-200ml-syrup-1s
+Language       : tamil-content
+Total Tokens   : 832
+-------------------------------
+
+Route Name     : potklor-200ml-syrup-1s
+Language       : tamil-content
+Total Tokens   : 792
+-------------------------------
+
+Route Name     : potklor-200ml-syrup-1s
+Language       : tamil-content
+Total Tokens   : 810
+-------------------------------
+
+Route Name     : potklor-200ml-syrup-1s
+Language       : tamil-content
+Total Tokens   : 802
+-------------------------------
+
+Route Name     : potklor-200ml-syrup-1s
+Language       : tamil-content
+Total Tokens   : 953
+-------------------------------
+
+Route Name     : potklor-200ml-syrup-1s
+Language       : tamil-content
+Total Tokens   : 908
+-------------------------------
+
+Route Name     : potklor-200ml-syrup-1s
+Language       : tamil-content
+Total Tokens   : 913
+-------------------------------
+
+Route Name     : potklor-200ml-syrup-1s
+Language       : tamil-content
+Total Tokens   : 910
+-------------------------------
+
+Route Name     : potklor-200ml-syrup-1s
+Language       : tamil-content
+Total Tokens   : 946
+-------------------------------
+
+Route Name     : potklor-200ml-syrup-1s
+Language       : tamil-content
+Total Tokens   : 992
+-------------------------------
+
+Route Name     : potklor-200ml-syrup-1s
+Language       : tamil-content
+Total Tokens   : 974
+-------------------------------
+
+Route Name     : clobeta-gm-cream-10gm
+Language       : tamil-content
+Total Tokens   : 893
+-------------------------------
+
+Route Name     : clobeta-gm-cream-10gm
+Language       : tamil-content
+Total Tokens   : 873
+-------------------------------
+
+Route Name     : clobeta-gm-cream-10gm
+Language       : tamil-content
+Total Tokens   : 973
+-------------------------------
+
+Route Name     : clobeta-gm-cream-10gm
+Language       : tamil-content
+Total Tokens   : 880
+-------------------------------
+
+Route Name     : clobeta-gm-cream-10gm
+Language       : tamil-content
+Total Tokens   : 1023
+-------------------------------
+
+Route Name     : clobeta-gm-cream-10gm
+Language       : tamil-content
+Total Tokens   : 934
+-------------------------------
+
+Route Name     : clobeta-gm-cream-10gm
+Language       : tamil-content
+Total Tokens   : 1089
+-------------------------------
+
+Route Name     : clobeta-gm-cream-10gm
+Language       : tamil-content
+Total Tokens   : 1306
+-------------------------------
+
+Route Name     : clobeta-gm-cream-10gm
+Language       : tamil-content
+Total Tokens   : 913
+-------------------------------
+
+Route Name     : clobeta-gm-cream-10gm
+Language       : tamil-content
+Total Tokens   : 1437
+-------------------------------
+
+Route Name     : clobeta-gm-cream-10gm
+Language       : tamil-content
+Total Tokens   : 1016
+-------------------------------
+
+Route Name     : clobeta-gm-cream-10gm
+Language       : tamil-content
+Total Tokens   : 1069
+-------------------------------
+
+Route Name     : clobeta-gm-cream-10gm
+Language       : tamil-content
+Total Tokens   : 886
+-------------------------------
+
+Route Name     : clobeta-gm-cream-10gm
+Language       : tamil-content
+Total Tokens   : 879
+-------------------------------
+
+Route Name     : clobeta-gm-cream-10gm
+Language       : tamil-content
+Total Tokens   : 1026
+-------------------------------
+
+Route Name     : clobeta-gm-cream-10gm
+Language       : tamil-content
+Total Tokens   : 1026
+-------------------------------
+
+Route Name     : clobeta-gm-cream-10gm
+Language       : tamil-content
+Total Tokens   : 924
+-------------------------------
+
+Route Name     : clobeta-gm-cream-10gm
+Language       : tamil-content
+Total Tokens   : 941
+-------------------------------
+
+Route Name     : clobeta-gm-cream-10gm
+Language       : tamil-content
+Total Tokens   : 1660
+-------------------------------
+
+Route Name     : asthalin-dx-syrup-100ml
+Language       : tamil-content
+Total Tokens   : 804
+-------------------------------
+
+Route Name     : asthalin-dx-syrup-100ml
+Language       : tamil-content
+Total Tokens   : 792
+-------------------------------
+
+Route Name     : asthalin-dx-syrup-100ml
+Language       : tamil-content
+Total Tokens   : 901
+-------------------------------
+
+Route Name     : asthalin-dx-syrup-100ml
+Language       : tamil-content
+Total Tokens   : 805
+-------------------------------
+
+Route Name     : asthalin-dx-syrup-100ml
+Language       : tamil-content
+Total Tokens   : 1028
+-------------------------------
+
+Route Name     : asthalin-dx-syrup-100ml
+Language       : tamil-content
+Total Tokens   : 847
+-------------------------------
+
+Route Name     : asthalin-dx-syrup-100ml
+Language       : tamil-content
+Total Tokens   : 1047
+-------------------------------
+
+Route Name     : asthalin-dx-syrup-100ml
+Language       : tamil-content
+Total Tokens   : 1361
+-------------------------------
+
+Route Name     : asthalin-dx-syrup-100ml
+Language       : tamil-content
+Total Tokens   : 862
+-------------------------------
+
+Route Name     : asthalin-dx-syrup-100ml
+Language       : tamil-content
+Total Tokens   : 1445
+-------------------------------
+
+Route Name     : asthalin-dx-syrup-100ml
+Language       : tamil-content
+Total Tokens   : 993
+-------------------------------
+
+Route Name     : asthalin-dx-syrup-100ml
+Language       : tamil-content
+Total Tokens   : 977
+-------------------------------
+
+Route Name     : asthalin-dx-syrup-100ml
+Language       : tamil-content
+Total Tokens   : 972
+-------------------------------
+
+Route Name     : asthalin-dx-syrup-100ml
+Language       : tamil-content
+Total Tokens   : 789
+-------------------------------
+
+Route Name     : asthalin-dx-syrup-100ml
+Language       : tamil-content
+Total Tokens   : 931
+-------------------------------
+
+Route Name     : asthalin-dx-syrup-100ml
+Language       : tamil-content
+Total Tokens   : 947
+-------------------------------
+
+Route Name     : carbamyl-forte-150-mg2.5-mg-tablet
+Language       : tamil-content
+Total Tokens   : 834
+-------------------------------
+
+Route Name     : carbamyl-forte-150-mg2.5-mg-tablet
+Language       : tamil-content
+Total Tokens   : 789
+-------------------------------
+
+Route Name     : carbamyl-forte-150-mg2.5-mg-tablet
+Language       : tamil-content
+Total Tokens   : 833
+-------------------------------
+
+Route Name     : carbamyl-forte-150-mg2.5-mg-tablet
+Language       : tamil-content
+Total Tokens   : 791
+-------------------------------
+
+Route Name     : carbamyl-forte-150-mg2.5-mg-tablet
+Language       : tamil-content
+Total Tokens   : 1145
+-------------------------------
+
+Route Name     : carbamyl-forte-150-mg2.5-mg-tablet
+Language       : tamil-content
+Total Tokens   : 915
+-------------------------------
+
+Route Name     : carbamyl-forte-150-mg2.5-mg-tablet
+Language       : tamil-content
+Total Tokens   : 1104
+-------------------------------
+
+Route Name     : carbamyl-forte-150-mg2.5-mg-tablet
+Language       : tamil-content
+Total Tokens   : 1157
+-------------------------------
+
+Route Name     : carbamyl-forte-150-mg2.5-mg-tablet
+Language       : tamil-content
+Total Tokens   : 787
+-------------------------------
+
+Route Name     : carbamyl-forte-150-mg2.5-mg-tablet
+Language       : tamil-content
+Total Tokens   : 836
+-------------------------------
+
+Route Name     : carbamyl-forte-150-mg2.5-mg-tablet
+Language       : tamil-content
+Total Tokens   : 1496
+-------------------------------
+
+Route Name     : carbamyl-forte-150-mg2.5-mg-tablet
+Language       : tamil-content
+Total Tokens   : 954
+-------------------------------
+
+Route Name     : carbamyl-forte-150-mg2.5-mg-tablet
+Language       : tamil-content
+Total Tokens   : 1016
+-------------------------------
+
+Route Name     : carbamyl-forte-150-mg2.5-mg-tablet
+Language       : tamil-content
+Total Tokens   : 844
+-------------------------------
+
+Route Name     : carbamyl-forte-150-mg2.5-mg-tablet
+Language       : tamil-content
+Total Tokens   : 981
+-------------------------------
+
+Route Name     : carbamyl-forte-150-mg2.5-mg-tablet
+Language       : tamil-content
+Total Tokens   : 1010
+-------------------------------
+
+Route Name     : bonetia-plus-tablet
+Language       : tamil-content
+Total Tokens   : 861
+-------------------------------
+
+Route Name     : bonetia-plus-tablet
+Language       : tamil-content
+Total Tokens   : 855
+-------------------------------
+
+Route Name     : bonetia-plus-tablet
+Language       : tamil-content
+Total Tokens   : 865
+-------------------------------
+
+Route Name     : bonetia-plus-tablet
+Language       : tamil-content
+Total Tokens   : 854
+-------------------------------
+
+Route Name     : bonetia-plus-tablet
+Language       : tamil-content
+Total Tokens   : 1058
+-------------------------------
+
+Route Name     : bonetia-plus-tablet
+Language       : tamil-content
+Total Tokens   : 1023
+-------------------------------
+
+Route Name     : bonetia-plus-tablet
+Language       : tamil-content
+Total Tokens   : 945
+-------------------------------
+
+Route Name     : bonetia-plus-tablet
+Language       : tamil-content
+Total Tokens   : 1162
+-------------------------------
+
+Route Name     : bonetia-plus-tablet
+Language       : tamil-content
+Total Tokens   : 954
+-------------------------------
+
+Route Name     : bonetia-plus-tablet
+Language       : tamil-content
+Total Tokens   : 987
+-------------------------------
+
+Route Name     : bonetia-plus-tablet
+Language       : tamil-content
+Total Tokens   : 860
+-------------------------------
+
+Route Name     : bonetia-plus-tablet
+Language       : tamil-content
+Total Tokens   : 1052
+-------------------------------
+
+Route Name     : kinetozyme-d-tablet-10s
+Language       : tamil-content
+Total Tokens   : 814
+-------------------------------
+
+Route Name     : kinetozyme-d-tablet-10s
+Language       : tamil-content
+Total Tokens   : 796
+-------------------------------
+
+Route Name     : kinetozyme-d-tablet-10s
+Language       : tamil-content
+Total Tokens   : 889
+-------------------------------
+
+Route Name     : kinetozyme-d-tablet-10s
+Language       : tamil-content
+Total Tokens   : 799
+-------------------------------
+
+Route Name     : kinetozyme-d-tablet-10s
+Language       : tamil-content
+Total Tokens   : 1012
+-------------------------------
+
+Route Name     : kinetozyme-d-tablet-10s
+Language       : tamil-content
+Total Tokens   : 854
+-------------------------------
+
+Route Name     : kinetozyme-d-tablet-10s
+Language       : tamil-content
+Total Tokens   : 962
+-------------------------------
+
+Route Name     : kinetozyme-d-tablet-10s
+Language       : tamil-content
+Total Tokens   : 1177
+-------------------------------
+
+Route Name     : kinetozyme-d-tablet-10s
+Language       : tamil-content
+Total Tokens   : 856
+-------------------------------
+
+Route Name     : kinetozyme-d-tablet-10s
+Language       : tamil-content
+Total Tokens   : 1482
+-------------------------------
+
+Route Name     : kinetozyme-d-tablet-10s
+Language       : tamil-content
+Total Tokens   : 973
+-------------------------------
+
+Route Name     : kinetozyme-d-tablet-10s
+Language       : tamil-content
+Total Tokens   : 927
+-------------------------------
+
+Route Name     : kinetozyme-d-tablet-10s
+Language       : tamil-content
+Total Tokens   : 962
+-------------------------------
+
+Route Name     : kinetozyme-d-tablet-10s
+Language       : tamil-content
+Total Tokens   : 807
+-------------------------------
+
+Route Name     : kinetozyme-d-tablet-10s
+Language       : tamil-content
+Total Tokens   : 1206
+-------------------------------
+
+Route Name     : kinetozyme-d-tablet-10s
+Language       : tamil-content
+Total Tokens   : 1036
+-------------------------------
+
+Route Name     : kinetozyme-d-tablet-10s
+Language       : tamil-content
+Total Tokens   : 876
+-------------------------------
+
+Route Name     : nise-ap-100mg325mg-tablet-10s
+Language       : tamil-content
+Total Tokens   : 809
+-------------------------------
+
+Route Name     : nise-ap-100mg325mg-tablet-10s
+Language       : tamil-content
+Total Tokens   : 787
+-------------------------------
+
+Route Name     : nise-ap-100mg325mg-tablet-10s
+Language       : tamil-content
+Total Tokens   : 815
+-------------------------------
+
+Route Name     : nise-ap-100mg325mg-tablet-10s
+Language       : tamil-content
+Total Tokens   : 788
+-------------------------------
+
+Route Name     : nise-ap-100mg325mg-tablet-10s
+Language       : tamil-content
+Total Tokens   : 1445
+-------------------------------
+
+Route Name     : nise-ap-100mg325mg-tablet-10s
+Language       : tamil-content
+Total Tokens   : 784
+-------------------------------
+
+Route Name     : nise-ap-100mg325mg-tablet-10s
+Language       : tamil-content
+Total Tokens   : 966
+-------------------------------
+
+Route Name     : nise-ap-100mg325mg-tablet-10s
+Language       : tamil-content
+Total Tokens   : 1098
+-------------------------------
+
+Route Name     : nise-ap-100mg325mg-tablet-10s
+Language       : tamil-content
+Total Tokens   : 784
+-------------------------------
+
+Route Name     : nise-ap-100mg325mg-tablet-10s
+Language       : tamil-content
+Total Tokens   : 874
+-------------------------------
+
+Route Name     : nise-ap-100mg325mg-tablet-10s
+Language       : tamil-content
+Total Tokens   : 1919
+-------------------------------
+
+Route Name     : nise-ap-100mg325mg-tablet-10s
+Language       : tamil-content
+Total Tokens   : 862
+-------------------------------
+
+Route Name     : nise-ap-100mg325mg-tablet-10s
+Language       : tamil-content
+Total Tokens   : 820
+-------------------------------
+
+Route Name     : nise-ap-100mg325mg-tablet-10s
+Language       : tamil-content
+Total Tokens   : 814
+-------------------------------
+
+Route Name     : nise-ap-100mg325mg-tablet-10s
+Language       : tamil-content
+Total Tokens   : 969
+-------------------------------
+
+Route Name     : nise-ap-100mg325mg-tablet-10s
+Language       : tamil-content
+Total Tokens   : 992
+-------------------------------
+
+Route Name     : nise-ap-100mg325mg-tablet-10s
+Language       : tamil-content
+Total Tokens   : 834
+-------------------------------
+
+Route Name     : nise-ap-100mg325mg-tablet-10s
+Language       : tamil-content
+Total Tokens   : 857
+-------------------------------
+
+Route Name     : nise-ap-100mg325mg-tablet-10s
+Language       : tamil-content
+Total Tokens   : 939
+-------------------------------
+
+Route Name     : dulcoflex-5mg-tablet-10s
+Language       : tamil-content
+Total Tokens   : 812
+-------------------------------
+
+Route Name     : dulcoflex-5mg-tablet-10s
+Language       : tamil-content
+Total Tokens   : 792
+-------------------------------
+
+Route Name     : dulcoflex-5mg-tablet-10s
+Language       : tamil-content
+Total Tokens   : 803
+-------------------------------
+
+Route Name     : dulcoflex-5mg-tablet-10s
+Language       : tamil-content
+Total Tokens   : 798
+-------------------------------
+
+Route Name     : dulcoflex-5mg-tablet-10s
+Language       : tamil-content
+Total Tokens   : 997
+-------------------------------
+
+Route Name     : dulcoflex-5mg-tablet-10s
+Language       : tamil-content
+Total Tokens   : 1018
+-------------------------------
+
+Route Name     : dulcoflex-5mg-tablet-10s
+Language       : tamil-content
+Total Tokens   : 1229
+-------------------------------
+
+Route Name     : dulcoflex-5mg-tablet-10s
+Language       : tamil-content
+Total Tokens   : 1070
+-------------------------------
+
+Route Name     : dulcoflex-5mg-tablet-10s
+Language       : tamil-content
+Total Tokens   : 947
+-------------------------------
+
+Route Name     : dulcoflex-5mg-tablet-10s
+Language       : tamil-content
+Total Tokens   : 1447
+-------------------------------
+
+Route Name     : dulcoflex-5mg-tablet-10s
+Language       : tamil-content
+Total Tokens   : 1167
+-------------------------------
+
+Route Name     : dulcoflex-5mg-tablet-10s
+Language       : tamil-content
+Total Tokens   : 1032
+-------------------------------
+
+Route Name     : dulcoflex-5mg-tablet-10s
+Language       : tamil-content
+Total Tokens   : 957
+-------------------------------
+
+Route Name     : dulcoflex-5mg-tablet-10s
+Language       : tamil-content
+Total Tokens   : 911
+-------------------------------
+
+Route Name     : dulcoflex-5mg-tablet-10s
+Language       : tamil-content
+Total Tokens   : 974
+-------------------------------
+
+Route Name     : dulcoflex-5mg-tablet-10s
+Language       : tamil-content
+Total Tokens   : 1005
+-------------------------------
+
+Route Name     : dulcoflex-5mg-tablet-10s
+Language       : tamil-content
+Total Tokens   : 903
+-------------------------------
+
+Route Name     : dulcoflex-5mg-tablet-10s
+Language       : tamil-content
+Total Tokens   : 843
+-------------------------------
+
+Route Name     : dulcoflex-5mg-tablet-10s
+Language       : tamil-content
+Total Tokens   : 942
+-------------------------------
+
+Route Name     : dulcoflex-5mg-tablet-10s
+Language       : tamil-content
+Total Tokens   : 999
+-------------------------------
+
+Route Name     : dulcoflex-5mg-tablet-10s
+Language       : tamil-content
+Total Tokens   : 1052
+-------------------------------
+
+Route Name     : dulcoflex-5mg-tablet-10s
+Language       : tamil-content
+Total Tokens   : 967
+-------------------------------
+
+Route Name     : dulcoflex-5mg-tablet-10s
+Language       : tamil-content
+Total Tokens   : 1086
+-------------------------------
+
+Route Name     : dulcoflex-5mg-tablet-10s
+Language       : tamil-content
+Total Tokens   : 1133
+-------------------------------
+
+Route Name     : deviry-10mg-tablet-10s
+Language       : tamil-content
+Total Tokens   : 808
+-------------------------------
+
+Route Name     : deviry-10mg-tablet-10s
+Language       : tamil-content
+Total Tokens   : 779
+-------------------------------
+
+Route Name     : deviry-10mg-tablet-10s
+Language       : tamil-content
+Total Tokens   : 820
+-------------------------------
+
+Route Name     : deviry-10mg-tablet-10s
+Language       : tamil-content
+Total Tokens   : 789
+-------------------------------
+
+Route Name     : deviry-10mg-tablet-10s
+Language       : tamil-content
+Total Tokens   : 1452
+-------------------------------
+
+Route Name     : deviry-10mg-tablet-10s
+Language       : tamil-content
+Total Tokens   : 939
+-------------------------------
+
+Route Name     : deviry-10mg-tablet-10s
+Language       : tamil-content
+Total Tokens   : 1065
+-------------------------------
+
+Route Name     : deviry-10mg-tablet-10s
+Language       : tamil-content
+Total Tokens   : 1011
+-------------------------------
+
+Route Name     : deviry-10mg-tablet-10s
+Language       : tamil-content
+Total Tokens   : 848
+-------------------------------
+
+Route Name     : deviry-10mg-tablet-10s
+Language       : tamil-content
+Total Tokens   : 1310
+-------------------------------
+
+Route Name     : deviry-10mg-tablet-10s
+Language       : tamil-content
+Total Tokens   : 1009
+-------------------------------
+
+Route Name     : deviry-10mg-tablet-10s
+Language       : tamil-content
+Total Tokens   : 1015
+-------------------------------
+
+Route Name     : deviry-10mg-tablet-10s
+Language       : tamil-content
+Total Tokens   : 1033
+-------------------------------
+
+Route Name     : deviry-10mg-tablet-10s
+Language       : tamil-content
+Total Tokens   : 779
+-------------------------------
+
+Route Name     : nimodol-100mg-tablet
+Language       : tamil-content
+Total Tokens   : 792
+-------------------------------
+
+Route Name     : nimodol-100mg-tablet
+Language       : tamil-content
+Total Tokens   : 785
+-------------------------------
+
+Route Name     : nimodol-100mg-tablet
+Language       : tamil-content
+Total Tokens   : 834
+-------------------------------
+
+Route Name     : nimodol-100mg-tablet
+Language       : tamil-content
+Total Tokens   : 790
+-------------------------------
+
+Route Name     : nimodol-100mg-tablet
+Language       : tamil-content
+Total Tokens   : 1055
+-------------------------------
+
+Route Name     : nimodol-100mg-tablet
+Language       : tamil-content
+Total Tokens   : 907
+-------------------------------
+
+Route Name     : nimodol-100mg-tablet
+Language       : tamil-content
+Total Tokens   : 888
+-------------------------------
+
+Route Name     : nimodol-100mg-tablet
+Language       : tamil-content
+Total Tokens   : 954
+-------------------------------
+
+Route Name     : nimodol-100mg-tablet
+Language       : tamil-content
+Total Tokens   : 855
+-------------------------------
+
+Route Name     : nimodol-100mg-tablet
+Language       : tamil-content
+Total Tokens   : 1392
+-------------------------------
+
+Route Name     : nimodol-100mg-tablet
+Language       : tamil-content
+Total Tokens   : 902
+-------------------------------
+
+Route Name     : nimodol-100mg-tablet
+Language       : tamil-content
+Total Tokens   : 1003
+-------------------------------
+
+Route Name     : nimodol-100mg-tablet
+Language       : tamil-content
+Total Tokens   : 1343
+-------------------------------
+
+Route Name     : nimodol-100mg-tablet
+Language       : tamil-content
+Total Tokens   : 853
+-------------------------------
+
+Route Name     : nimodol-100mg-tablet
+Language       : tamil-content
+Total Tokens   : 1325
+-------------------------------
+
+Route Name     : nimodol-100mg-tablet
+Language       : tamil-content
+Total Tokens   : 906
+-------------------------------
+
+Route Name     : nimodol-100mg-tablet
+Language       : tamil-content
+Total Tokens   : 831
+-------------------------------
+
+Route Name     : nimodol-100mg-tablet
+Language       : tamil-content
+Total Tokens   : 925
+-------------------------------
+
+Route Name     : pregator-capsule-10s
+Language       : tamil-content
+Total Tokens   : 822
+-------------------------------
+
+Route Name     : pregator-capsule-10s
+Language       : tamil-content
+Total Tokens   : 906
+-------------------------------
+
+Route Name     : gentacort-d-eye-drop
+Language       : tamil-content
+Total Tokens   : 793
+-------------------------------
+
+Route Name     : gentacort-d-eye-drop
+Language       : tamil-content
+Total Tokens   : 796
+-------------------------------
+
+Route Name     : gentacort-d-eye-drop
+Language       : tamil-content
+Total Tokens   : 821
+-------------------------------
+
+Route Name     : gentacort-d-eye-drop
+Language       : tamil-content
+Total Tokens   : 793
+-------------------------------
+
+Route Name     : gentacort-d-eye-drop
+Language       : tamil-content
+Total Tokens   : 1975
+-------------------------------
+
+Route Name     : gentacort-d-eye-drop
+Language       : tamil-content
+Total Tokens   : 927
+-------------------------------
+
+Route Name     : gentacort-d-eye-drop
+Language       : tamil-content
+Total Tokens   : 929
+-------------------------------
+
+Route Name     : gentacort-d-eye-drop
+Language       : tamil-content
+Total Tokens   : 1196
+-------------------------------
+
+Route Name     : gentacort-d-eye-drop
+Language       : tamil-content
+Total Tokens   : 925
+-------------------------------
+
+Route Name     : gentacort-d-eye-drop
+Language       : tamil-content
+Total Tokens   : 1342
+-------------------------------
+
+Route Name     : gentacort-d-eye-drop
+Language       : tamil-content
+Total Tokens   : 979
+-------------------------------
+
+Route Name     : gentacort-d-eye-drop
+Language       : tamil-content
+Total Tokens   : 1044
+-------------------------------
+
+Route Name     : gentacort-d-eye-drop
+Language       : tamil-content
+Total Tokens   : 843
+-------------------------------
+
+Route Name     : gentacort-d-eye-drop
+Language       : tamil-content
+Total Tokens   : 811
+-------------------------------
+
+Route Name     : gentacort-d-eye-drop
+Language       : tamil-content
+Total Tokens   : 781
+-------------------------------
+
+Route Name     : gentacort-d-eye-drop
+Language       : tamil-content
+Total Tokens   : 1012
+-------------------------------
+
+Route Name     : redenser-revitalises-hair-growth-serum-spray-60ml
+Language       : tamil-content
+Total Tokens   : 809
+-------------------------------
+
+Route Name     : redenser-revitalises-hair-growth-serum-spray-60ml
+Language       : tamil-content
+Total Tokens   : 797
+-------------------------------
+
+Route Name     : redenser-revitalises-hair-growth-serum-spray-60ml
+Language       : tamil-content
+Total Tokens   : 796
+-------------------------------
+
+Route Name     : redenser-revitalises-hair-growth-serum-spray-60ml
+Language       : tamil-content
+Total Tokens   : 793
+-------------------------------
+
+Route Name     : redenser-revitalises-hair-growth-serum-spray-60ml
+Language       : tamil-content
+Total Tokens   : 1011
+-------------------------------
+
+Route Name     : redenser-revitalises-hair-growth-serum-spray-60ml
+Language       : tamil-content
+Total Tokens   : 900
+-------------------------------
