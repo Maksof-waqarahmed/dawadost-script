@@ -57,3 +57,13 @@ Route Name     : olypon-syrup-mixed-fruit-sugar-free
 Language       : tamil-invalid-format
 Total Tokens   : 0
 -------------------------------
+
+Route Name     : prorac-plus-cream-20gm
+Language       : tamil-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : ascoril-plus-expectorant-120ml
+Language       : tamil-invalid-format
+Total Tokens   : 0
+-------------------------------

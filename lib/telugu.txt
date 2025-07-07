@@ -1942,3 +1942,158 @@ Route Name     : novobiotic-capsule-10s
 Language       : telugu
 Total Tokens   : 216
 -------------------------------
+
+Route Name     : phlebotroy-qps-topical-solution
+Language       : telugu
+Total Tokens   : 213
+-------------------------------
+
+Route Name     : veltam-dfz-capsule-10s
+Language       : telugu
+Total Tokens   : 213
+-------------------------------
+
+Route Name     : urikind-km-syrup-100ml
+Language       : telugu
+Total Tokens   : 216
+-------------------------------
+
+Route Name     : zerodol-pg-20075-tablet-sr
+Language       : telugu
+Total Tokens   : 213
+-------------------------------
+
+Route Name     : clobetol-gm-cream-10gm
+Language       : telugu
+Total Tokens   : 215
+-------------------------------
+
+Route Name     : cal-123-total-tablet-15s
+Language       : telugu
+Total Tokens   : 213
+-------------------------------
+
+Route Name     : vovilup-hot-gel-10gm
+Language       : telugu
+Total Tokens   : 217
+-------------------------------
+
+Route Name     : beplex-czs-tablet-15s
+Language       : telugu
+Total Tokens   : 213
+-------------------------------
+
+Route Name     : doxil-100mg-tablet-8s
+Language       : telugu
+Total Tokens   : 217
+-------------------------------
+
+Route Name     : ursoford-300-tablet
+Language       : telugu
+Total Tokens   : 217
+-------------------------------
+
+Route Name     : fc-antiacne-face-wash-100ml
+Language       : telugu
+Total Tokens   : 217
+-------------------------------
+
+Route Name     : femilon-tablet
+Language       : telugu
+Total Tokens   : 217
+-------------------------------
+
+Route Name     : mebgen-c-tablet-10s
+Language       : telugu
+Total Tokens   : 217
+-------------------------------
+
+Route Name     : alphacept-d-8-combipack
+Language       : telugu
+Total Tokens   : 217
+-------------------------------
+
+Route Name     : rizanet-5-oral-disintegrating-strip-5s
+Language       : telugu
+Total Tokens   : 213
+-------------------------------
+
+Route Name     : freelex-tablet
+Language       : telugu
+Total Tokens   : 213
+-------------------------------
+
+Route Name     : ascodex-plus-syrup-100ml
+Language       : telugu
+Total Tokens   : 217
+-------------------------------
+
+Route Name     : anti-thyrox-10mg-tablet-100s
+Language       : telugu
+Total Tokens   : 214
+-------------------------------
+
+Route Name     : clavam-625mg-tablet-10s
+Language       : telugu
+Total Tokens   : 217
+-------------------------------
+
+Route Name     : grilinctus-dx-syrup-100ml
+Language       : telugu
+Total Tokens   : 215
+-------------------------------
+
+Route Name     : aldigesic-p-100mg325mg-tablet-15s
+Language       : telugu
+Total Tokens   : 217
+-------------------------------
+
+Route Name     : amoxycillin-500mg-capsule
+Language       : telugu
+Total Tokens   : 217
+-------------------------------
+
+Route Name     : mycoderm-powder-150gm
+Language       : telugu
+Total Tokens   : 217
+-------------------------------
+
+Route Name     : sumo-spray-30gm
+Language       : telugu
+Total Tokens   : 217
+-------------------------------
+
+Route Name     : levoflox-500mg-tablet-10s
+Language       : telugu
+Total Tokens   : 213
+-------------------------------
+
+Route Name     : eldoper-2mg-capsule-15s
+Language       : telugu
+Total Tokens   : 216
+-------------------------------
+
+Route Name     : tyrodin-cream-20gm
+Language       : telugu
+Total Tokens   : 216
+-------------------------------
+
+Route Name     : mucopain-gel-15gm
+Language       : telugu
+Total Tokens   : 216
+-------------------------------
+
+Route Name     : tendocare-forte-tablet-15s
+Language       : telugu
+Total Tokens   : 210
+-------------------------------
+
+Route Name     : meftal-forte-tablet-10s
+Language       : telugu
+Total Tokens   : 217
+-------------------------------
+
+Route Name     : rablet-d-30mg20mg-capsule-sr-15s
+Language       : telugu
+Total Tokens   : 217
+-------------------------------

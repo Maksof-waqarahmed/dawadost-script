@@ -1517,3 +1517,128 @@ Route Name     : sporidex-500-capsule
 Language       : tamil
 Total Tokens   : 215
 -------------------------------
+
+Route Name     : nextgear-lc-tablet-10s
+Language       : tamil
+Total Tokens   : 221
+-------------------------------
+
+Route Name     : urimax-d-0.4mg0.5mg-tablet-mr-15s
+Language       : tamil
+Total Tokens   : 225
+-------------------------------
+
+Route Name     : aquim-pf-eye-drop
+Language       : tamil
+Total Tokens   : 225
+-------------------------------
+
+Route Name     : arnx-50-tablet-10s
+Language       : tamil
+Total Tokens   : 226
+-------------------------------
+
+Route Name     : sildoo-d8-combi-pack
+Language       : tamil
+Total Tokens   : 225
+-------------------------------
+
+Route Name     : cyfolac-forte-capsule-10s
+Language       : tamil
+Total Tokens   : 218
+-------------------------------
+
+Route Name     : augmentin-dds-suspension-30ml
+Language       : tamil
+Total Tokens   : 220
+-------------------------------
+
+Route Name     : vizylac-capsule-15s
+Language       : tamil
+Total Tokens   : 217
+-------------------------------
+
+Route Name     : ccb-nfr-20mg-tablet-10s
+Language       : tamil
+Total Tokens   : 225
+-------------------------------
+
+Route Name     : myelin-forte-tablet-10s
+Language       : tamil
+Total Tokens   : 226
+-------------------------------
+
+Route Name     : ascoril-plus-expectorant-120ml
+Language       : tamil
+Total Tokens   : 221
+-------------------------------
+
+Route Name     : nefcm-500mg-injection-10ml
+Language       : tamil
+Total Tokens   : 219
+-------------------------------
+
+Route Name     : reswas-syrup-120ml
+Language       : tamil
+Total Tokens   : 221
+-------------------------------
+
+Route Name     : oflotas-oz-tablet
+Language       : tamil
+Total Tokens   : 219
+-------------------------------
+
+Route Name     : powergesic-mr-tablet-10s
+Language       : tamil
+Total Tokens   : 225
+-------------------------------
+
+Route Name     : zyclin-nano-gel-15gm
+Language       : tamil
+Total Tokens   : 225
+-------------------------------
+
+Route Name     : topisal-3-ointment
+Language       : tamil
+Total Tokens   : 219
+-------------------------------
+
+Route Name     : gatilox-dm-sterile-eye-drops-10ml
+Language       : tamil
+Total Tokens   : 226
+-------------------------------
+
+Route Name     : moxicip-kt-eye-drop
+Language       : tamil
+Total Tokens   : 219
+-------------------------------
+
+Route Name     : d-frag-tablet-10s
+Language       : tamil
+Total Tokens   : 220
+-------------------------------
+
+Route Name     : paraxin-suspension
+Language       : tamil
+Total Tokens   : 219
+-------------------------------
+
+Route Name     : nobel-cold-rub-ointment-20gm
+Language       : tamil
+Total Tokens   : 220
+-------------------------------
+
+Route Name     : bifilac-hp-capsule-10s
+Language       : tamil
+Total Tokens   : 220
+-------------------------------
+
+Route Name     : aurhair-tablet-10s
+Language       : tamil
+Total Tokens   : 225
+-------------------------------
+
+Route Name     : stiffgon-rs-capsule-14s
+Language       : tamil
+Total Tokens   : 225
+-------------------------------
