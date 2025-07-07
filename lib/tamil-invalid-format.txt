@@ -52,3 +52,8 @@ Route Name     : sultroz-lotion-50ml
 Language       : tamil-invalid-format
 Total Tokens   : 0
 -------------------------------
+
+Route Name     : olypon-syrup-mixed-fruit-sugar-free
+Language       : tamil-invalid-format
+Total Tokens   : 0
+-------------------------------

@@ -5432,3 +5432,398 @@ Route Name     : cilaheart-t-10mg40mg-tablet-15s
 Language       : urdu
 Total Tokens   : 202
 -------------------------------
+
+Route Name     : ambrolite-syrup
+Language       : urdu
+Total Tokens   : 200
+-------------------------------
+
+Route Name     : o2-derm-cream-15gm
+Language       : urdu
+Total Tokens   : 202
+-------------------------------
+
+Route Name     : azee-200mg-dry-syrup-15ml
+Language       : urdu
+Total Tokens   : 200
+-------------------------------
+
+Route Name     : atonide-cream-20gm
+Language       : urdu
+Total Tokens   : 199
+-------------------------------
+
+Route Name     : planokuf-syrup-100ml
+Language       : urdu
+Total Tokens   : 200
+-------------------------------
+
+Route Name     : folinext-d-capsule-15s
+Language       : urdu
+Total Tokens   : 199
+-------------------------------
+
+Route Name     : betacard-am-5mg50mg-tablet-15s
+Language       : urdu
+Total Tokens   : 202
+-------------------------------
+
+Route Name     : soventus-syrup-100ml
+Language       : urdu
+Total Tokens   : 200
+-------------------------------
+
+Route Name     : betacard-am-5mg50mg-tablet-10s
+Language       : urdu
+Total Tokens   : 200
+-------------------------------
+
+Route Name     : telmiride-40-tablet-10s
+Language       : urdu
+Total Tokens   : 200
+-------------------------------
+
+Route Name     : mokcan-cv-200mg28.5mg-tablet-dt
+Language       : urdu
+Total Tokens   : 202
+-------------------------------
+
+Route Name     : fdson-mp-forte-tablet-10s
+Language       : urdu
+Total Tokens   : 201
+-------------------------------
+
+Route Name     : amroid-tablet-30s
+Language       : urdu
+Total Tokens   : 200
+-------------------------------
+
+Route Name     : eslo-2.5mg-tablet-15s
+Language       : urdu
+Total Tokens   : 257
+-------------------------------
+
+Route Name     : torib-90mg-tablet-15s
+Language       : urdu
+Total Tokens   : 200
+-------------------------------
+
+Route Name     : actis-c2-forte-tablet-10s
+Language       : urdu
+Total Tokens   : 202
+-------------------------------
+
+Route Name     : repace-25mg-tablet-10s
+Language       : urdu
+Total Tokens   : 199
+-------------------------------
+
+Route Name     : sorbitrate-5mg-tablet-50s
+Language       : urdu
+Total Tokens   : 202
+-------------------------------
+
+Route Name     : amlokind-at-tablet-10s
+Language       : urdu
+Total Tokens   : 235
+-------------------------------
+
+Route Name     : macsart-am-40mg5mg-tablet-10s
+Language       : urdu
+Total Tokens   : 202
+-------------------------------
+
+Route Name     : aristozyme-drops
+Language       : urdu
+Total Tokens   : 200
+-------------------------------
+
+Route Name     : telvas-beta-50-tablet-er
+Language       : urdu
+Total Tokens   : 199
+-------------------------------
+
+Route Name     : cipzen-d-50mg10mg-tablet-10s
+Language       : urdu
+Total Tokens   : 199
+-------------------------------
+
+Route Name     : chymotas-forte-tablet-20s
+Language       : urdu
+Total Tokens   : 202
+-------------------------------
+
+Route Name     : epiduo-forte-gel-30gm
+Language       : urdu
+Total Tokens   : 200
+-------------------------------
+
+Route Name     : ondem-injection-4ml
+Language       : urdu
+Total Tokens   : 200
+-------------------------------
+
+Route Name     : overzyme-syrup-200ml
+Language       : urdu
+Total Tokens   : 202
+-------------------------------
+
+Route Name     : naxdom-250mg10mg-tablet-10s
+Language       : urdu
+Total Tokens   : 200
+-------------------------------
+
+Route Name     : seradic-p-tablet-10s
+Language       : urdu
+Total Tokens   : 200
+-------------------------------
+
+Route Name     : my-pill-2mg0.035mg-tablet-21s
+Language       : urdu
+Total Tokens   : 200
+-------------------------------
+
+Route Name     : nervite-plus-tablet-10s
+Language       : urdu
+Total Tokens   : 200
+-------------------------------
+
+Route Name     : reactin-plus-50mg325mg-tablet-10s
+Language       : urdu
+Total Tokens   : 199
+-------------------------------
+
+Route Name     : polybion-czs-tablet-30s
+Language       : urdu
+Total Tokens   : 199
+-------------------------------
+
+Route Name     : glycolate-1mg-tablet-10s
+Language       : urdu
+Total Tokens   : 202
+-------------------------------
+
+Route Name     : tofe-5mg-tablet-10s
+Language       : urdu
+Total Tokens   : 199
+-------------------------------
+
+Route Name     : dynaglipt-20mg-tablet
+Language       : urdu
+Total Tokens   : 276
+-------------------------------
+
+Route Name     : hifenac-sp-tablet-10s
+Language       : urdu
+Total Tokens   : 200
+-------------------------------
+
+Route Name     : teczine-m-syrup-60ml
+Language       : urdu
+Total Tokens   : 200
+-------------------------------
+
+Route Name     : rozucor-asp-20mg75mg-capsule
+Language       : urdu
+Total Tokens   : 199
+-------------------------------
+
+Route Name     : newtel-am-tablet-10s
+Language       : urdu
+Total Tokens   : 199
+-------------------------------
+
+Route Name     : l-montus-suspension-60ml
+Language       : urdu
+Total Tokens   : 202
+-------------------------------
+
+Route Name     : levipil-injection-5ml
+Language       : urdu
+Total Tokens   : 199
+-------------------------------
+
+Route Name     : zincolife-syrup-50ml
+Language       : urdu
+Total Tokens   : 202
+-------------------------------
+
+Route Name     : teczine-syrup-60ml
+Language       : urdu
+Total Tokens   : 199
+-------------------------------
+
+Route Name     : tiger-king-cream-xxl-30gm
+Language       : urdu
+Total Tokens   : 200
+-------------------------------
+
+Route Name     : dexolac-2-infant-formula-milk-powder-1.2kg
+Language       : urdu
+Total Tokens   : 202
+-------------------------------
+
+Route Name     : torsid-plus-1050-tablet
+Language       : urdu
+Total Tokens   : 200
+-------------------------------
+
+Route Name     : p-250mg-suspension-60ml
+Language       : urdu
+Total Tokens   : 241
+-------------------------------
+
+Route Name     : betoact-eye-drops-5ml
+Language       : urdu
+Total Tokens   : 199
+-------------------------------
+
+Route Name     : fusigen-ointment-5gm
+Language       : urdu
+Total Tokens   : 200
+-------------------------------
+
+Route Name     : flur-eye-drop-10ml
+Language       : urdu
+Total Tokens   : 200
+-------------------------------
+
+Route Name     : moistane-eye-drop
+Language       : urdu
+Total Tokens   : 202
+-------------------------------
+
+Route Name     : choliv-syrup
+Language       : urdu
+Total Tokens   : 200
+-------------------------------
+
+Route Name     : risdone-plus-tablet-10s
+Language       : urdu
+Total Tokens   : 199
+-------------------------------
+
+Route Name     : benalgis-100mg-tablet-10s
+Language       : urdu
+Total Tokens   : 200
+-------------------------------
+
+Route Name     : satrogyl-o-dry-syrup
+Language       : urdu
+Total Tokens   : 200
+-------------------------------
+
+Route Name     : new-powergyl-syrup-30ml
+Language       : urdu
+Total Tokens   : 202
+-------------------------------
+
+Route Name     : mirbeg-50mg-tablet-er-10s
+Language       : urdu
+Total Tokens   : 200
+-------------------------------
+
+Route Name     : montek-ab-10mg200mg-tablet-sr-10s
+Language       : urdu
+Total Tokens   : 199
+-------------------------------
+
+Route Name     : movexx-plus-tablet-10s
+Language       : urdu
+Total Tokens   : 199
+-------------------------------
+
+Route Name     : sevista-60mg-tablet-15s
+Language       : urdu
+Total Tokens   : 199
+-------------------------------
+
+Route Name     : entroflora-drops-10ml
+Language       : urdu
+Total Tokens   : 199
+-------------------------------
+
+Route Name     : cuticans-cream-100gm
+Language       : urdu
+Total Tokens   : 199
+-------------------------------
+
+Route Name     : xenadom-500-tablet-10s
+Language       : urdu
+Total Tokens   : 199
+-------------------------------
+
+Route Name     : ursolid-300mg-tablet
+Language       : urdu
+Total Tokens   : 199
+-------------------------------
+
+Route Name     : lacryl-ultra-eye-drop-10ml
+Language       : urdu
+Total Tokens   : 199
+-------------------------------
+
+Route Name     : vomikind-injection
+Language       : urdu
+Total Tokens   : 199
+-------------------------------
+
+Route Name     : tribet-2-tablet-er
+Language       : urdu
+Total Tokens   : 199
+-------------------------------
+
+Route Name     : castor-nf-cream-15gm
+Language       : urdu
+Total Tokens   : 202
+-------------------------------
+
+Route Name     : dronis-30-tablet
+Language       : urdu
+Total Tokens   : 199
+-------------------------------
+
+Route Name     : tribet-2-tablet-er-15s
+Language       : urdu
+Total Tokens   : 233
+-------------------------------
+
+Route Name     : clopitab-150mg-tablet-10s
+Language       : urdu
+Total Tokens   : 199
+-------------------------------
+
+Route Name     : lubistar-0.5-eye-drop-10ml
+Language       : urdu
+Total Tokens   : 199
+-------------------------------
+
+Route Name     : zorbax-500mg-tablet-10s
+Language       : urdu
+Total Tokens   : 199
+-------------------------------
+
+Route Name     : polybion-capsule-20s
+Language       : urdu
+Total Tokens   : 200
+-------------------------------
+
+Route Name     : vasograin-tablet-20s
+Language       : urdu
+Total Tokens   : 199
+-------------------------------
+
+Route Name     : nobel-plus-tablet-10s
+Language       : urdu
+Total Tokens   : 199
+-------------------------------
+
+Route Name     : meconerv-plus-capsule-10s
+Language       : urdu
+Total Tokens   : 202
+-------------------------------
+
+Route Name     : himalaya-purifying-neem-face-pack
+Language       : urdu
+Total Tokens   : 199
+-------------------------------

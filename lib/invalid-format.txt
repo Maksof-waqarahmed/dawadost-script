@@ -87,3 +87,8 @@ Route Name     : nebistar-2.5mg-tablet-15s
 Language       : invalid-format
 Total Tokens   : 0
 -------------------------------
+
+Route Name     : new-powergyl-syrup-30ml
+Language       : invalid-format
+Total Tokens   : 0
+-------------------------------

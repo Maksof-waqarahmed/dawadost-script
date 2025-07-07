@@ -75507,3 +75507,5953 @@ Route Name     : cital-uti-oral-suspension-sugar-free-100ml
 Language       : urdu-content
 Total Tokens   : 959
 -------------------------------
+
+Route Name     : cilaheart-t-10mg40mg-tablet-15s
+Language       : urdu-content
+Total Tokens   : 785
+-------------------------------
+
+Route Name     : cilaheart-t-10mg40mg-tablet-15s
+Language       : urdu-content
+Total Tokens   : 754
+-------------------------------
+
+Route Name     : cilaheart-t-10mg40mg-tablet-15s
+Language       : urdu-content
+Total Tokens   : 792
+-------------------------------
+
+Route Name     : cilaheart-t-10mg40mg-tablet-15s
+Language       : urdu-content
+Total Tokens   : 760
+-------------------------------
+
+Route Name     : cilaheart-t-10mg40mg-tablet-15s
+Language       : urdu-content
+Total Tokens   : 899
+-------------------------------
+
+Route Name     : cilaheart-t-10mg40mg-tablet-15s
+Language       : urdu-content
+Total Tokens   : 864
+-------------------------------
+
+Route Name     : cilaheart-t-10mg40mg-tablet-15s
+Language       : urdu-content
+Total Tokens   : 836
+-------------------------------
+
+Route Name     : cilaheart-t-10mg40mg-tablet-15s
+Language       : urdu-content
+Total Tokens   : 939
+-------------------------------
+
+Route Name     : cilaheart-t-10mg40mg-tablet-15s
+Language       : urdu-content
+Total Tokens   : 779
+-------------------------------
+
+Route Name     : cilaheart-t-10mg40mg-tablet-15s
+Language       : urdu-content
+Total Tokens   : 1329
+-------------------------------
+
+Route Name     : cilaheart-t-10mg40mg-tablet-15s
+Language       : urdu-content
+Total Tokens   : 793
+-------------------------------
+
+Route Name     : cilaheart-t-10mg40mg-tablet-15s
+Language       : urdu-content
+Total Tokens   : 816
+-------------------------------
+
+Route Name     : cilaheart-t-10mg40mg-tablet-15s
+Language       : urdu-content
+Total Tokens   : 958
+-------------------------------
+
+Route Name     : cilaheart-t-10mg40mg-tablet-15s
+Language       : urdu-content
+Total Tokens   : 832
+-------------------------------
+
+Route Name     : cilaheart-t-10mg40mg-tablet-15s
+Language       : urdu-content
+Total Tokens   : 840
+-------------------------------
+
+Route Name     : cilaheart-t-10mg40mg-tablet-15s
+Language       : urdu-content
+Total Tokens   : 844
+-------------------------------
+
+Route Name     : ambrolite-syrup
+Language       : urdu-content
+Total Tokens   : 757
+-------------------------------
+
+Route Name     : ambrolite-syrup
+Language       : urdu-content
+Total Tokens   : 752
+-------------------------------
+
+Route Name     : ambrolite-syrup
+Language       : urdu-content
+Total Tokens   : 763
+-------------------------------
+
+Route Name     : ambrolite-syrup
+Language       : urdu-content
+Total Tokens   : 762
+-------------------------------
+
+Route Name     : ambrolite-syrup
+Language       : urdu-content
+Total Tokens   : 833
+-------------------------------
+
+Route Name     : ambrolite-syrup
+Language       : urdu-content
+Total Tokens   : 931
+-------------------------------
+
+Route Name     : ambrolite-syrup
+Language       : urdu-content
+Total Tokens   : 1042
+-------------------------------
+
+Route Name     : ambrolite-syrup
+Language       : urdu-content
+Total Tokens   : 920
+-------------------------------
+
+Route Name     : ambrolite-syrup
+Language       : urdu-content
+Total Tokens   : 836
+-------------------------------
+
+Route Name     : ambrolite-syrup
+Language       : urdu-content
+Total Tokens   : 1518
+-------------------------------
+
+Route Name     : ambrolite-syrup
+Language       : urdu-content
+Total Tokens   : 876
+-------------------------------
+
+Route Name     : ambrolite-syrup
+Language       : urdu-content
+Total Tokens   : 869
+-------------------------------
+
+Route Name     : ambrolite-syrup
+Language       : urdu-content
+Total Tokens   : 807
+-------------------------------
+
+Route Name     : ambrolite-syrup
+Language       : urdu-content
+Total Tokens   : 752
+-------------------------------
+
+Route Name     : ambrolite-syrup
+Language       : urdu-content
+Total Tokens   : 839
+-------------------------------
+
+Route Name     : ambrolite-syrup
+Language       : urdu-content
+Total Tokens   : 892
+-------------------------------
+
+Route Name     : ambrolite-syrup
+Language       : urdu-content
+Total Tokens   : 772
+-------------------------------
+
+Route Name     : o2-derm-cream-15gm
+Language       : urdu-content
+Total Tokens   : 766
+-------------------------------
+
+Route Name     : o2-derm-cream-15gm
+Language       : urdu-content
+Total Tokens   : 756
+-------------------------------
+
+Route Name     : o2-derm-cream-15gm
+Language       : urdu-content
+Total Tokens   : 873
+-------------------------------
+
+Route Name     : o2-derm-cream-15gm
+Language       : urdu-content
+Total Tokens   : 762
+-------------------------------
+
+Route Name     : o2-derm-cream-15gm
+Language       : urdu-content
+Total Tokens   : 999
+-------------------------------
+
+Route Name     : o2-derm-cream-15gm
+Language       : urdu-content
+Total Tokens   : 971
+-------------------------------
+
+Route Name     : o2-derm-cream-15gm
+Language       : urdu-content
+Total Tokens   : 977
+-------------------------------
+
+Route Name     : o2-derm-cream-15gm
+Language       : urdu-content
+Total Tokens   : 1141
+-------------------------------
+
+Route Name     : o2-derm-cream-15gm
+Language       : urdu-content
+Total Tokens   : 884
+-------------------------------
+
+Route Name     : o2-derm-cream-15gm
+Language       : urdu-content
+Total Tokens   : 1000
+-------------------------------
+
+Route Name     : o2-derm-cream-15gm
+Language       : urdu-content
+Total Tokens   : 1005
+-------------------------------
+
+Route Name     : azee-200mg-dry-syrup-15ml
+Language       : urdu-content
+Total Tokens   : 777
+-------------------------------
+
+Route Name     : azee-200mg-dry-syrup-15ml
+Language       : urdu-content
+Total Tokens   : 748
+-------------------------------
+
+Route Name     : azee-200mg-dry-syrup-15ml
+Language       : urdu-content
+Total Tokens   : 769
+-------------------------------
+
+Route Name     : azee-200mg-dry-syrup-15ml
+Language       : urdu-content
+Total Tokens   : 763
+-------------------------------
+
+Route Name     : azee-200mg-dry-syrup-15ml
+Language       : urdu-content
+Total Tokens   : 1171
+-------------------------------
+
+Route Name     : azee-200mg-dry-syrup-15ml
+Language       : urdu-content
+Total Tokens   : 815
+-------------------------------
+
+Route Name     : azee-200mg-dry-syrup-15ml
+Language       : urdu-content
+Total Tokens   : 950
+-------------------------------
+
+Route Name     : azee-200mg-dry-syrup-15ml
+Language       : urdu-content
+Total Tokens   : 1091
+-------------------------------
+
+Route Name     : azee-200mg-dry-syrup-15ml
+Language       : urdu-content
+Total Tokens   : 793
+-------------------------------
+
+Route Name     : azee-200mg-dry-syrup-15ml
+Language       : urdu-content
+Total Tokens   : 1501
+-------------------------------
+
+Route Name     : azee-200mg-dry-syrup-15ml
+Language       : urdu-content
+Total Tokens   : 879
+-------------------------------
+
+Route Name     : azee-200mg-dry-syrup-15ml
+Language       : urdu-content
+Total Tokens   : 970
+-------------------------------
+
+Route Name     : azee-200mg-dry-syrup-15ml
+Language       : urdu-content
+Total Tokens   : 998
+-------------------------------
+
+Route Name     : azee-200mg-dry-syrup-15ml
+Language       : urdu-content
+Total Tokens   : 878
+-------------------------------
+
+Route Name     : azee-200mg-dry-syrup-15ml
+Language       : urdu-content
+Total Tokens   : 757
+-------------------------------
+
+Route Name     : azee-200mg-dry-syrup-15ml
+Language       : urdu-content
+Total Tokens   : 946
+-------------------------------
+
+Route Name     : azee-200mg-dry-syrup-15ml
+Language       : urdu-content
+Total Tokens   : 830
+-------------------------------
+
+Route Name     : azee-200mg-dry-syrup-15ml
+Language       : urdu-content
+Total Tokens   : 1005
+-------------------------------
+
+Route Name     : atonide-cream-20gm
+Language       : urdu-content
+Total Tokens   : 761
+-------------------------------
+
+Route Name     : atonide-cream-20gm
+Language       : urdu-content
+Total Tokens   : 754
+-------------------------------
+
+Route Name     : atonide-cream-20gm
+Language       : urdu-content
+Total Tokens   : 770
+-------------------------------
+
+Route Name     : atonide-cream-20gm
+Language       : urdu-content
+Total Tokens   : 756
+-------------------------------
+
+Route Name     : atonide-cream-20gm
+Language       : urdu-content
+Total Tokens   : 1265
+-------------------------------
+
+Route Name     : atonide-cream-20gm
+Language       : urdu-content
+Total Tokens   : 872
+-------------------------------
+
+Route Name     : atonide-cream-20gm
+Language       : urdu-content
+Total Tokens   : 926
+-------------------------------
+
+Route Name     : atonide-cream-20gm
+Language       : urdu-content
+Total Tokens   : 878
+-------------------------------
+
+Route Name     : atonide-cream-20gm
+Language       : urdu-content
+Total Tokens   : 766
+-------------------------------
+
+Route Name     : atonide-cream-20gm
+Language       : urdu-content
+Total Tokens   : 795
+-------------------------------
+
+Route Name     : atonide-cream-20gm
+Language       : urdu-content
+Total Tokens   : 1459
+-------------------------------
+
+Route Name     : atonide-cream-20gm
+Language       : urdu-content
+Total Tokens   : 902
+-------------------------------
+
+Route Name     : planokuf-syrup-100ml
+Language       : urdu-content
+Total Tokens   : 766
+-------------------------------
+
+Route Name     : planokuf-syrup-100ml
+Language       : urdu-content
+Total Tokens   : 768
+-------------------------------
+
+Route Name     : planokuf-syrup-100ml
+Language       : urdu-content
+Total Tokens   : 829
+-------------------------------
+
+Route Name     : planokuf-syrup-100ml
+Language       : urdu-content
+Total Tokens   : 761
+-------------------------------
+
+Route Name     : planokuf-syrup-100ml
+Language       : urdu-content
+Total Tokens   : 877
+-------------------------------
+
+Route Name     : planokuf-syrup-100ml
+Language       : urdu-content
+Total Tokens   : 842
+-------------------------------
+
+Route Name     : planokuf-syrup-100ml
+Language       : urdu-content
+Total Tokens   : 916
+-------------------------------
+
+Route Name     : planokuf-syrup-100ml
+Language       : urdu-content
+Total Tokens   : 952
+-------------------------------
+
+Route Name     : planokuf-syrup-100ml
+Language       : urdu-content
+Total Tokens   : 881
+-------------------------------
+
+Route Name     : planokuf-syrup-100ml
+Language       : urdu-content
+Total Tokens   : 928
+-------------------------------
+
+Route Name     : planokuf-syrup-100ml
+Language       : urdu-content
+Total Tokens   : 996
+-------------------------------
+
+Route Name     : folinext-d-capsule-15s
+Language       : urdu-content
+Total Tokens   : 761
+-------------------------------
+
+Route Name     : folinext-d-capsule-15s
+Language       : urdu-content
+Total Tokens   : 751
+-------------------------------
+
+Route Name     : folinext-d-capsule-15s
+Language       : urdu-content
+Total Tokens   : 827
+-------------------------------
+
+Route Name     : folinext-d-capsule-15s
+Language       : urdu-content
+Total Tokens   : 755
+-------------------------------
+
+Route Name     : folinext-d-capsule-15s
+Language       : urdu-content
+Total Tokens   : 936
+-------------------------------
+
+Route Name     : folinext-d-capsule-15s
+Language       : urdu-content
+Total Tokens   : 908
+-------------------------------
+
+Route Name     : folinext-d-capsule-15s
+Language       : urdu-content
+Total Tokens   : 890
+-------------------------------
+
+Route Name     : folinext-d-capsule-15s
+Language       : urdu-content
+Total Tokens   : 1065
+-------------------------------
+
+Route Name     : folinext-d-capsule-15s
+Language       : urdu-content
+Total Tokens   : 839
+-------------------------------
+
+Route Name     : folinext-d-capsule-15s
+Language       : urdu-content
+Total Tokens   : 968
+-------------------------------
+
+Route Name     : folinext-d-capsule-15s
+Language       : urdu-content
+Total Tokens   : 1012
+-------------------------------
+
+Route Name     : betacard-am-5mg50mg-tablet-15s
+Language       : urdu-content
+Total Tokens   : 785
+-------------------------------
+
+Route Name     : betacard-am-5mg50mg-tablet-15s
+Language       : urdu-content
+Total Tokens   : 760
+-------------------------------
+
+Route Name     : betacard-am-5mg50mg-tablet-15s
+Language       : urdu-content
+Total Tokens   : 792
+-------------------------------
+
+Route Name     : betacard-am-5mg50mg-tablet-15s
+Language       : urdu-content
+Total Tokens   : 759
+-------------------------------
+
+Route Name     : betacard-am-5mg50mg-tablet-15s
+Language       : urdu-content
+Total Tokens   : 953
+-------------------------------
+
+Route Name     : betacard-am-5mg50mg-tablet-15s
+Language       : urdu-content
+Total Tokens   : 882
+-------------------------------
+
+Route Name     : betacard-am-5mg50mg-tablet-15s
+Language       : urdu-content
+Total Tokens   : 941
+-------------------------------
+
+Route Name     : betacard-am-5mg50mg-tablet-15s
+Language       : urdu-content
+Total Tokens   : 1115
+-------------------------------
+
+Route Name     : betacard-am-5mg50mg-tablet-15s
+Language       : urdu-content
+Total Tokens   : 802
+-------------------------------
+
+Route Name     : betacard-am-5mg50mg-tablet-15s
+Language       : urdu-content
+Total Tokens   : 1540
+-------------------------------
+
+Route Name     : betacard-am-5mg50mg-tablet-15s
+Language       : urdu-content
+Total Tokens   : 916
+-------------------------------
+
+Route Name     : betacard-am-5mg50mg-tablet-15s
+Language       : urdu-content
+Total Tokens   : 954
+-------------------------------
+
+Route Name     : betacard-am-5mg50mg-tablet-15s
+Language       : urdu-content
+Total Tokens   : 867
+-------------------------------
+
+Route Name     : betacard-am-5mg50mg-tablet-15s
+Language       : urdu-content
+Total Tokens   : 796
+-------------------------------
+
+Route Name     : betacard-am-5mg50mg-tablet-15s
+Language       : urdu-content
+Total Tokens   : 909
+-------------------------------
+
+Route Name     : betacard-am-5mg50mg-tablet-15s
+Language       : urdu-content
+Total Tokens   : 887
+-------------------------------
+
+Route Name     : soventus-syrup-100ml
+Language       : urdu-content
+Total Tokens   : 763
+-------------------------------
+
+Route Name     : soventus-syrup-100ml
+Language       : urdu-content
+Total Tokens   : 753
+-------------------------------
+
+Route Name     : soventus-syrup-100ml
+Language       : urdu-content
+Total Tokens   : 851
+-------------------------------
+
+Route Name     : soventus-syrup-100ml
+Language       : urdu-content
+Total Tokens   : 761
+-------------------------------
+
+Route Name     : soventus-syrup-100ml
+Language       : urdu-content
+Total Tokens   : 913
+-------------------------------
+
+Route Name     : soventus-syrup-100ml
+Language       : urdu-content
+Total Tokens   : 882
+-------------------------------
+
+Route Name     : soventus-syrup-100ml
+Language       : urdu-content
+Total Tokens   : 918
+-------------------------------
+
+Route Name     : soventus-syrup-100ml
+Language       : urdu-content
+Total Tokens   : 1023
+-------------------------------
+
+Route Name     : soventus-syrup-100ml
+Language       : urdu-content
+Total Tokens   : 869
+-------------------------------
+
+Route Name     : soventus-syrup-100ml
+Language       : urdu-content
+Total Tokens   : 969
+-------------------------------
+
+Route Name     : soventus-syrup-100ml
+Language       : urdu-content
+Total Tokens   : 762
+-------------------------------
+
+Route Name     : soventus-syrup-100ml
+Language       : urdu-content
+Total Tokens   : 1010
+-------------------------------
+
+Route Name     : betacard-am-5mg50mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 782
+-------------------------------
+
+Route Name     : betacard-am-5mg50mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 754
+-------------------------------
+
+Route Name     : betacard-am-5mg50mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 788
+-------------------------------
+
+Route Name     : betacard-am-5mg50mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 755
+-------------------------------
+
+Route Name     : betacard-am-5mg50mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 948
+-------------------------------
+
+Route Name     : betacard-am-5mg50mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 875
+-------------------------------
+
+Route Name     : betacard-am-5mg50mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 937
+-------------------------------
+
+Route Name     : betacard-am-5mg50mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 1113
+-------------------------------
+
+Route Name     : betacard-am-5mg50mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 799
+-------------------------------
+
+Route Name     : betacard-am-5mg50mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 1518
+-------------------------------
+
+Route Name     : betacard-am-5mg50mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 907
+-------------------------------
+
+Route Name     : betacard-am-5mg50mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 957
+-------------------------------
+
+Route Name     : betacard-am-5mg50mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 844
+-------------------------------
+
+Route Name     : betacard-am-5mg50mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 795
+-------------------------------
+
+Route Name     : betacard-am-5mg50mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 902
+-------------------------------
+
+Route Name     : betacard-am-5mg50mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 874
+-------------------------------
+
+Route Name     : telmiride-40-tablet-10s
+Language       : urdu-content
+Total Tokens   : 767
+-------------------------------
+
+Route Name     : telmiride-40-tablet-10s
+Language       : urdu-content
+Total Tokens   : 753
+-------------------------------
+
+Route Name     : telmiride-40-tablet-10s
+Language       : urdu-content
+Total Tokens   : 762
+-------------------------------
+
+Route Name     : telmiride-40-tablet-10s
+Language       : urdu-content
+Total Tokens   : 756
+-------------------------------
+
+Route Name     : telmiride-40-tablet-10s
+Language       : urdu-content
+Total Tokens   : 1237
+-------------------------------
+
+Route Name     : telmiride-40-tablet-10s
+Language       : urdu-content
+Total Tokens   : 861
+-------------------------------
+
+Route Name     : telmiride-40-tablet-10s
+Language       : urdu-content
+Total Tokens   : 962
+-------------------------------
+
+Route Name     : telmiride-40-tablet-10s
+Language       : urdu-content
+Total Tokens   : 861
+-------------------------------
+
+Route Name     : telmiride-40-tablet-10s
+Language       : urdu-content
+Total Tokens   : 766
+-------------------------------
+
+Route Name     : telmiride-40-tablet-10s
+Language       : urdu-content
+Total Tokens   : 926
+-------------------------------
+
+Route Name     : telmiride-40-tablet-10s
+Language       : urdu-content
+Total Tokens   : 1698
+-------------------------------
+
+Route Name     : telmiride-40-tablet-10s
+Language       : urdu-content
+Total Tokens   : 893
+-------------------------------
+
+Route Name     : telmiride-40-tablet-10s
+Language       : urdu-content
+Total Tokens   : 944
+-------------------------------
+
+Route Name     : telmiride-40-tablet-10s
+Language       : urdu-content
+Total Tokens   : 827
+-------------------------------
+
+Route Name     : telmiride-40-tablet-10s
+Language       : urdu-content
+Total Tokens   : 815
+-------------------------------
+
+Route Name     : telmiride-40-tablet-10s
+Language       : urdu-content
+Total Tokens   : 799
+-------------------------------
+
+Route Name     : telmiride-40-tablet-10s
+Language       : urdu-content
+Total Tokens   : 878
+-------------------------------
+
+Route Name     : telmiride-40-tablet-10s
+Language       : urdu-content
+Total Tokens   : 945
+-------------------------------
+
+Route Name     : telmiride-40-tablet-10s
+Language       : urdu-content
+Total Tokens   : 806
+-------------------------------
+
+Route Name     : telmiride-40-tablet-10s
+Language       : urdu-content
+Total Tokens   : 853
+-------------------------------
+
+Route Name     : telmiride-40-tablet-10s
+Language       : urdu-content
+Total Tokens   : 883
+-------------------------------
+
+Route Name     : mokcan-cv-200mg28.5mg-tablet-dt
+Language       : urdu-content
+Total Tokens   : 781
+-------------------------------
+
+Route Name     : mokcan-cv-200mg28.5mg-tablet-dt
+Language       : urdu-content
+Total Tokens   : 754
+-------------------------------
+
+Route Name     : mokcan-cv-200mg28.5mg-tablet-dt
+Language       : urdu-content
+Total Tokens   : 802
+-------------------------------
+
+Route Name     : mokcan-cv-200mg28.5mg-tablet-dt
+Language       : urdu-content
+Total Tokens   : 762
+-------------------------------
+
+Route Name     : mokcan-cv-200mg28.5mg-tablet-dt
+Language       : urdu-content
+Total Tokens   : 980
+-------------------------------
+
+Route Name     : mokcan-cv-200mg28.5mg-tablet-dt
+Language       : urdu-content
+Total Tokens   : 875
+-------------------------------
+
+Route Name     : mokcan-cv-200mg28.5mg-tablet-dt
+Language       : urdu-content
+Total Tokens   : 817
+-------------------------------
+
+Route Name     : mokcan-cv-200mg28.5mg-tablet-dt
+Language       : urdu-content
+Total Tokens   : 1062
+-------------------------------
+
+Route Name     : mokcan-cv-200mg28.5mg-tablet-dt
+Language       : urdu-content
+Total Tokens   : 818
+-------------------------------
+
+Route Name     : mokcan-cv-200mg28.5mg-tablet-dt
+Language       : urdu-content
+Total Tokens   : 1536
+-------------------------------
+
+Route Name     : mokcan-cv-200mg28.5mg-tablet-dt
+Language       : urdu-content
+Total Tokens   : 930
+-------------------------------
+
+Route Name     : mokcan-cv-200mg28.5mg-tablet-dt
+Language       : urdu-content
+Total Tokens   : 948
+-------------------------------
+
+Route Name     : mokcan-cv-200mg28.5mg-tablet-dt
+Language       : urdu-content
+Total Tokens   : 858
+-------------------------------
+
+Route Name     : mokcan-cv-200mg28.5mg-tablet-dt
+Language       : urdu-content
+Total Tokens   : 804
+-------------------------------
+
+Route Name     : mokcan-cv-200mg28.5mg-tablet-dt
+Language       : urdu-content
+Total Tokens   : 948
+-------------------------------
+
+Route Name     : mokcan-cv-200mg28.5mg-tablet-dt
+Language       : urdu-content
+Total Tokens   : 837
+-------------------------------
+
+Route Name     : mokcan-cv-200mg28.5mg-tablet-dt
+Language       : urdu-content
+Total Tokens   : 838
+-------------------------------
+
+Route Name     : fdson-mp-forte-tablet-10s
+Language       : urdu-content
+Total Tokens   : 768
+-------------------------------
+
+Route Name     : fdson-mp-forte-tablet-10s
+Language       : urdu-content
+Total Tokens   : 755
+-------------------------------
+
+Route Name     : fdson-mp-forte-tablet-10s
+Language       : urdu-content
+Total Tokens   : 859
+-------------------------------
+
+Route Name     : fdson-mp-forte-tablet-10s
+Language       : urdu-content
+Total Tokens   : 757
+-------------------------------
+
+Route Name     : fdson-mp-forte-tablet-10s
+Language       : urdu-content
+Total Tokens   : 972
+-------------------------------
+
+Route Name     : fdson-mp-forte-tablet-10s
+Language       : urdu-content
+Total Tokens   : 916
+-------------------------------
+
+Route Name     : fdson-mp-forte-tablet-10s
+Language       : urdu-content
+Total Tokens   : 856
+-------------------------------
+
+Route Name     : fdson-mp-forte-tablet-10s
+Language       : urdu-content
+Total Tokens   : 1060
+-------------------------------
+
+Route Name     : fdson-mp-forte-tablet-10s
+Language       : urdu-content
+Total Tokens   : 911
+-------------------------------
+
+Route Name     : fdson-mp-forte-tablet-10s
+Language       : urdu-content
+Total Tokens   : 900
+-------------------------------
+
+Route Name     : fdson-mp-forte-tablet-10s
+Language       : urdu-content
+Total Tokens   : 972
+-------------------------------
+
+Route Name     : amroid-tablet-30s
+Language       : urdu-content
+Total Tokens   : 760
+-------------------------------
+
+Route Name     : amroid-tablet-30s
+Language       : urdu-content
+Total Tokens   : 753
+-------------------------------
+
+Route Name     : amroid-tablet-30s
+Language       : urdu-content
+Total Tokens   : 756
+-------------------------------
+
+Route Name     : amroid-tablet-30s
+Language       : urdu-content
+Total Tokens   : 755
+-------------------------------
+
+Route Name     : amroid-tablet-30s
+Language       : urdu-content
+Total Tokens   : 951
+-------------------------------
+
+Route Name     : amroid-tablet-30s
+Language       : urdu-content
+Total Tokens   : 903
+-------------------------------
+
+Route Name     : amroid-tablet-30s
+Language       : urdu-content
+Total Tokens   : 835
+-------------------------------
+
+Route Name     : amroid-tablet-30s
+Language       : urdu-content
+Total Tokens   : 1008
+-------------------------------
+
+Route Name     : amroid-tablet-30s
+Language       : urdu-content
+Total Tokens   : 873
+-------------------------------
+
+Route Name     : amroid-tablet-30s
+Language       : urdu-content
+Total Tokens   : 893
+-------------------------------
+
+Route Name     : amroid-tablet-30s
+Language       : urdu-content
+Total Tokens   : 979
+-------------------------------
+
+Route Name     : torib-90mg-tablet-15s
+Language       : urdu-content
+Total Tokens   : 767
+-------------------------------
+
+Route Name     : torib-90mg-tablet-15s
+Language       : urdu-content
+Total Tokens   : 763
+-------------------------------
+
+Route Name     : torib-90mg-tablet-15s
+Language       : urdu-content
+Total Tokens   : 760
+-------------------------------
+
+Route Name     : torib-90mg-tablet-15s
+Language       : urdu-content
+Total Tokens   : 757
+-------------------------------
+
+Route Name     : torib-90mg-tablet-15s
+Language       : urdu-content
+Total Tokens   : 1015
+-------------------------------
+
+Route Name     : torib-90mg-tablet-15s
+Language       : urdu-content
+Total Tokens   : 831
+-------------------------------
+
+Route Name     : torib-90mg-tablet-15s
+Language       : urdu-content
+Total Tokens   : 888
+-------------------------------
+
+Route Name     : torib-90mg-tablet-15s
+Language       : urdu-content
+Total Tokens   : 843
+-------------------------------
+
+Route Name     : torib-90mg-tablet-15s
+Language       : urdu-content
+Total Tokens   : 805
+-------------------------------
+
+Route Name     : torib-90mg-tablet-15s
+Language       : urdu-content
+Total Tokens   : 1355
+-------------------------------
+
+Route Name     : torib-90mg-tablet-15s
+Language       : urdu-content
+Total Tokens   : 1027
+-------------------------------
+
+Route Name     : torib-90mg-tablet-15s
+Language       : urdu-content
+Total Tokens   : 872
+-------------------------------
+
+Route Name     : torib-90mg-tablet-15s
+Language       : urdu-content
+Total Tokens   : 846
+-------------------------------
+
+Route Name     : torib-90mg-tablet-15s
+Language       : urdu-content
+Total Tokens   : 767
+-------------------------------
+
+Route Name     : torib-90mg-tablet-15s
+Language       : urdu-content
+Total Tokens   : 930
+-------------------------------
+
+Route Name     : torib-90mg-tablet-15s
+Language       : urdu-content
+Total Tokens   : 1016
+-------------------------------
+
+Route Name     : actis-c2-forte-tablet-10s
+Language       : urdu-content
+Total Tokens   : 771
+-------------------------------
+
+Route Name     : actis-c2-forte-tablet-10s
+Language       : urdu-content
+Total Tokens   : 751
+-------------------------------
+
+Route Name     : actis-c2-forte-tablet-10s
+Language       : urdu-content
+Total Tokens   : 770
+-------------------------------
+
+Route Name     : actis-c2-forte-tablet-10s
+Language       : urdu-content
+Total Tokens   : 759
+-------------------------------
+
+Route Name     : actis-c2-forte-tablet-10s
+Language       : urdu-content
+Total Tokens   : 1558
+-------------------------------
+
+Route Name     : actis-c2-forte-tablet-10s
+Language       : urdu-content
+Total Tokens   : 813
+-------------------------------
+
+Route Name     : actis-c2-forte-tablet-10s
+Language       : urdu-content
+Total Tokens   : 814
+-------------------------------
+
+Route Name     : actis-c2-forte-tablet-10s
+Language       : urdu-content
+Total Tokens   : 958
+-------------------------------
+
+Route Name     : actis-c2-forte-tablet-10s
+Language       : urdu-content
+Total Tokens   : 772
+-------------------------------
+
+Route Name     : actis-c2-forte-tablet-10s
+Language       : urdu-content
+Total Tokens   : 780
+-------------------------------
+
+Route Name     : actis-c2-forte-tablet-10s
+Language       : urdu-content
+Total Tokens   : 1445
+-------------------------------
+
+Route Name     : actis-c2-forte-tablet-10s
+Language       : urdu-content
+Total Tokens   : 806
+-------------------------------
+
+Route Name     : actis-c2-forte-tablet-10s
+Language       : urdu-content
+Total Tokens   : 923
+-------------------------------
+
+Route Name     : actis-c2-forte-tablet-10s
+Language       : urdu-content
+Total Tokens   : 929
+-------------------------------
+
+Route Name     : actis-c2-forte-tablet-10s
+Language       : urdu-content
+Total Tokens   : 788
+-------------------------------
+
+Route Name     : actis-c2-forte-tablet-10s
+Language       : urdu-content
+Total Tokens   : 914
+-------------------------------
+
+Route Name     : actis-c2-forte-tablet-10s
+Language       : urdu-content
+Total Tokens   : 1452
+-------------------------------
+
+Route Name     : actis-c2-forte-tablet-10s
+Language       : urdu-content
+Total Tokens   : 889
+-------------------------------
+
+Route Name     : repace-25mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 765
+-------------------------------
+
+Route Name     : repace-25mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 759
+-------------------------------
+
+Route Name     : repace-25mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 751
+-------------------------------
+
+Route Name     : repace-25mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 753
+-------------------------------
+
+Route Name     : repace-25mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 991
+-------------------------------
+
+Route Name     : repace-25mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 899
+-------------------------------
+
+Route Name     : repace-25mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 889
+-------------------------------
+
+Route Name     : repace-25mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 923
+-------------------------------
+
+Route Name     : repace-25mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 878
+-------------------------------
+
+Route Name     : repace-25mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 1415
+-------------------------------
+
+Route Name     : repace-25mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 898
+-------------------------------
+
+Route Name     : repace-25mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 903
+-------------------------------
+
+Route Name     : repace-25mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 952
+-------------------------------
+
+Route Name     : repace-25mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 869
+-------------------------------
+
+Route Name     : repace-25mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 929
+-------------------------------
+
+Route Name     : repace-25mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 1132
+-------------------------------
+
+Route Name     : repace-25mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 834
+-------------------------------
+
+Route Name     : sorbitrate-5mg-tablet-50s
+Language       : urdu-content
+Total Tokens   : 774
+-------------------------------
+
+Route Name     : sorbitrate-5mg-tablet-50s
+Language       : urdu-content
+Total Tokens   : 746
+-------------------------------
+
+Route Name     : sorbitrate-5mg-tablet-50s
+Language       : urdu-content
+Total Tokens   : 776
+-------------------------------
+
+Route Name     : sorbitrate-5mg-tablet-50s
+Language       : urdu-content
+Total Tokens   : 771
+-------------------------------
+
+Route Name     : sorbitrate-5mg-tablet-50s
+Language       : urdu-content
+Total Tokens   : 913
+-------------------------------
+
+Route Name     : sorbitrate-5mg-tablet-50s
+Language       : urdu-content
+Total Tokens   : 937
+-------------------------------
+
+Route Name     : sorbitrate-5mg-tablet-50s
+Language       : urdu-content
+Total Tokens   : 994
+-------------------------------
+
+Route Name     : sorbitrate-5mg-tablet-50s
+Language       : urdu-content
+Total Tokens   : 914
+-------------------------------
+
+Route Name     : sorbitrate-5mg-tablet-50s
+Language       : urdu-content
+Total Tokens   : 774
+-------------------------------
+
+Route Name     : sorbitrate-5mg-tablet-50s
+Language       : urdu-content
+Total Tokens   : 903
+-------------------------------
+
+Route Name     : sorbitrate-5mg-tablet-50s
+Language       : urdu-content
+Total Tokens   : 1829
+-------------------------------
+
+Route Name     : sorbitrate-5mg-tablet-50s
+Language       : urdu-content
+Total Tokens   : 973
+-------------------------------
+
+Route Name     : sorbitrate-5mg-tablet-50s
+Language       : urdu-content
+Total Tokens   : 942
+-------------------------------
+
+Route Name     : macsart-am-40mg5mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 784
+-------------------------------
+
+Route Name     : macsart-am-40mg5mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 760
+-------------------------------
+
+Route Name     : macsart-am-40mg5mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 794
+-------------------------------
+
+Route Name     : macsart-am-40mg5mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 759
+-------------------------------
+
+Route Name     : macsart-am-40mg5mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 1063
+-------------------------------
+
+Route Name     : macsart-am-40mg5mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 858
+-------------------------------
+
+Route Name     : macsart-am-40mg5mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 905
+-------------------------------
+
+Route Name     : macsart-am-40mg5mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 961
+-------------------------------
+
+Route Name     : macsart-am-40mg5mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 761
+-------------------------------
+
+Route Name     : macsart-am-40mg5mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 879
+-------------------------------
+
+Route Name     : macsart-am-40mg5mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 1432
+-------------------------------
+
+Route Name     : macsart-am-40mg5mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 902
+-------------------------------
+
+Route Name     : macsart-am-40mg5mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 996
+-------------------------------
+
+Route Name     : macsart-am-40mg5mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 846
+-------------------------------
+
+Route Name     : macsart-am-40mg5mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 808
+-------------------------------
+
+Route Name     : macsart-am-40mg5mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 751
+-------------------------------
+
+Route Name     : macsart-am-40mg5mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 927
+-------------------------------
+
+Route Name     : macsart-am-40mg5mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 997
+-------------------------------
+
+Route Name     : macsart-am-40mg5mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 1010
+-------------------------------
+
+Route Name     : macsart-am-40mg5mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 837
+-------------------------------
+
+Route Name     : aristozyme-drops
+Language       : urdu-content
+Total Tokens   : 750
+-------------------------------
+
+Route Name     : aristozyme-drops
+Language       : urdu-content
+Total Tokens   : 753
+-------------------------------
+
+Route Name     : aristozyme-drops
+Language       : urdu-content
+Total Tokens   : 793
+-------------------------------
+
+Route Name     : aristozyme-drops
+Language       : urdu-content
+Total Tokens   : 761
+-------------------------------
+
+Route Name     : aristozyme-drops
+Language       : urdu-content
+Total Tokens   : 914
+-------------------------------
+
+Route Name     : aristozyme-drops
+Language       : urdu-content
+Total Tokens   : 895
+-------------------------------
+
+Route Name     : aristozyme-drops
+Language       : urdu-content
+Total Tokens   : 901
+-------------------------------
+
+Route Name     : aristozyme-drops
+Language       : urdu-content
+Total Tokens   : 926
+-------------------------------
+
+Route Name     : aristozyme-drops
+Language       : urdu-content
+Total Tokens   : 766
+-------------------------------
+
+Route Name     : aristozyme-drops
+Language       : urdu-content
+Total Tokens   : 887
+-------------------------------
+
+Route Name     : aristozyme-drops
+Language       : urdu-content
+Total Tokens   : 1209
+-------------------------------
+
+Route Name     : aristozyme-drops
+Language       : urdu-content
+Total Tokens   : 876
+-------------------------------
+
+Route Name     : aristozyme-drops
+Language       : urdu-content
+Total Tokens   : 884
+-------------------------------
+
+Route Name     : telvas-beta-50-tablet-er
+Language       : urdu-content
+Total Tokens   : 759
+-------------------------------
+
+Route Name     : telvas-beta-50-tablet-er
+Language       : urdu-content
+Total Tokens   : 751
+-------------------------------
+
+Route Name     : telvas-beta-50-tablet-er
+Language       : urdu-content
+Total Tokens   : 787
+-------------------------------
+
+Route Name     : telvas-beta-50-tablet-er
+Language       : urdu-content
+Total Tokens   : 754
+-------------------------------
+
+Route Name     : telvas-beta-50-tablet-er
+Language       : urdu-content
+Total Tokens   : 929
+-------------------------------
+
+Route Name     : telvas-beta-50-tablet-er
+Language       : urdu-content
+Total Tokens   : 890
+-------------------------------
+
+Route Name     : telvas-beta-50-tablet-er
+Language       : urdu-content
+Total Tokens   : 897
+-------------------------------
+
+Route Name     : telvas-beta-50-tablet-er
+Language       : urdu-content
+Total Tokens   : 933
+-------------------------------
+
+Route Name     : telvas-beta-50-tablet-er
+Language       : urdu-content
+Total Tokens   : 859
+-------------------------------
+
+Route Name     : telvas-beta-50-tablet-er
+Language       : urdu-content
+Total Tokens   : 1323
+-------------------------------
+
+Route Name     : telvas-beta-50-tablet-er
+Language       : urdu-content
+Total Tokens   : 877
+-------------------------------
+
+Route Name     : telvas-beta-50-tablet-er
+Language       : urdu-content
+Total Tokens   : 921
+-------------------------------
+
+Route Name     : telvas-beta-50-tablet-er
+Language       : urdu-content
+Total Tokens   : 788
+-------------------------------
+
+Route Name     : telvas-beta-50-tablet-er
+Language       : urdu-content
+Total Tokens   : 937
+-------------------------------
+
+Route Name     : telvas-beta-50-tablet-er
+Language       : urdu-content
+Total Tokens   : 1011
+-------------------------------
+
+Route Name     : telvas-beta-50-tablet-er
+Language       : urdu-content
+Total Tokens   : 822
+-------------------------------
+
+Route Name     : podoxim-200mg-tablet-dt
+Language       : urdu-content
+Total Tokens   : 769
+-------------------------------
+
+Route Name     : podoxim-200mg-tablet-dt
+Language       : urdu-content
+Total Tokens   : 754
+-------------------------------
+
+Route Name     : podoxim-200mg-tablet-dt
+Language       : urdu-content
+Total Tokens   : 778
+-------------------------------
+
+Route Name     : podoxim-200mg-tablet-dt
+Language       : urdu-content
+Total Tokens   : 762
+-------------------------------
+
+Route Name     : podoxim-200mg-tablet-dt
+Language       : urdu-content
+Total Tokens   : 896
+-------------------------------
+
+Route Name     : podoxim-200mg-tablet-dt
+Language       : urdu-content
+Total Tokens   : 900
+-------------------------------
+
+Route Name     : podoxim-200mg-tablet-dt
+Language       : urdu-content
+Total Tokens   : 799
+-------------------------------
+
+Route Name     : podoxim-200mg-tablet-dt
+Language       : urdu-content
+Total Tokens   : 888
+-------------------------------
+
+Route Name     : podoxim-200mg-tablet-dt
+Language       : urdu-content
+Total Tokens   : 805
+-------------------------------
+
+Route Name     : podoxim-200mg-tablet-dt
+Language       : urdu-content
+Total Tokens   : 1138
+-------------------------------
+
+Route Name     : podoxim-200mg-tablet-dt
+Language       : urdu-content
+Total Tokens   : 879
+-------------------------------
+
+Route Name     : podoxim-200mg-tablet-dt
+Language       : urdu-content
+Total Tokens   : 878
+-------------------------------
+
+Route Name     : podoxim-200mg-tablet-dt
+Language       : urdu-content
+Total Tokens   : 879
+-------------------------------
+
+Route Name     : podoxim-200mg-tablet-dt
+Language       : urdu-content
+Total Tokens   : 753
+-------------------------------
+
+Route Name     : podoxim-200mg-tablet-dt
+Language       : urdu-content
+Total Tokens   : 838
+-------------------------------
+
+Route Name     : podoxim-200mg-tablet-dt
+Language       : urdu-content
+Total Tokens   : 988
+-------------------------------
+
+Route Name     : podoxim-200mg-tablet-dt
+Language       : urdu-content
+Total Tokens   : 808
+-------------------------------
+
+Route Name     : cipzen-d-50mg10mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 777
+-------------------------------
+
+Route Name     : cipzen-d-50mg10mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 749
+-------------------------------
+
+Route Name     : cipzen-d-50mg10mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 791
+-------------------------------
+
+Route Name     : cipzen-d-50mg10mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 758
+-------------------------------
+
+Route Name     : cipzen-d-50mg10mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 966
+-------------------------------
+
+Route Name     : cipzen-d-50mg10mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 839
+-------------------------------
+
+Route Name     : cipzen-d-50mg10mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 968
+-------------------------------
+
+Route Name     : cipzen-d-50mg10mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 959
+-------------------------------
+
+Route Name     : cipzen-d-50mg10mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 826
+-------------------------------
+
+Route Name     : cipzen-d-50mg10mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 840
+-------------------------------
+
+Route Name     : cipzen-d-50mg10mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 873
+-------------------------------
+
+Route Name     : cipzen-d-50mg10mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 898
+-------------------------------
+
+Route Name     : cipzen-d-50mg10mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 744
+-------------------------------
+
+Route Name     : cipzen-d-50mg10mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 1132
+-------------------------------
+
+Route Name     : cipzen-d-50mg10mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 965
+-------------------------------
+
+Route Name     : cipzen-d-50mg10mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 839
+-------------------------------
+
+Route Name     : chymotas-forte-tablet-20s
+Language       : urdu-content
+Total Tokens   : 767
+-------------------------------
+
+Route Name     : chymotas-forte-tablet-20s
+Language       : urdu-content
+Total Tokens   : 762
+-------------------------------
+
+Route Name     : chymotas-forte-tablet-20s
+Language       : urdu-content
+Total Tokens   : 783
+-------------------------------
+
+Route Name     : chymotas-forte-tablet-20s
+Language       : urdu-content
+Total Tokens   : 759
+-------------------------------
+
+Route Name     : chymotas-forte-tablet-20s
+Language       : urdu-content
+Total Tokens   : 1466
+-------------------------------
+
+Route Name     : chymotas-forte-tablet-20s
+Language       : urdu-content
+Total Tokens   : 865
+-------------------------------
+
+Route Name     : chymotas-forte-tablet-20s
+Language       : urdu-content
+Total Tokens   : 918
+-------------------------------
+
+Route Name     : chymotas-forte-tablet-20s
+Language       : urdu-content
+Total Tokens   : 918
+-------------------------------
+
+Route Name     : chymotas-forte-tablet-20s
+Language       : urdu-content
+Total Tokens   : 812
+-------------------------------
+
+Route Name     : chymotas-forte-tablet-20s
+Language       : urdu-content
+Total Tokens   : 1528
+-------------------------------
+
+Route Name     : chymotas-forte-tablet-20s
+Language       : urdu-content
+Total Tokens   : 960
+-------------------------------
+
+Route Name     : chymotas-forte-tablet-20s
+Language       : urdu-content
+Total Tokens   : 914
+-------------------------------
+
+Route Name     : chymotas-forte-tablet-20s
+Language       : urdu-content
+Total Tokens   : 1066
+-------------------------------
+
+Route Name     : chymotas-forte-tablet-20s
+Language       : urdu-content
+Total Tokens   : 811
+-------------------------------
+
+Route Name     : chymotas-forte-tablet-20s
+Language       : urdu-content
+Total Tokens   : 1037
+-------------------------------
+
+Route Name     : chymotas-forte-tablet-20s
+Language       : urdu-content
+Total Tokens   : 970
+-------------------------------
+
+Route Name     : epiduo-forte-gel-30gm
+Language       : urdu-content
+Total Tokens   : 763
+-------------------------------
+
+Route Name     : epiduo-forte-gel-30gm
+Language       : urdu-content
+Total Tokens   : 756
+-------------------------------
+
+Route Name     : epiduo-forte-gel-30gm
+Language       : urdu-content
+Total Tokens   : 810
+-------------------------------
+
+Route Name     : epiduo-forte-gel-30gm
+Language       : urdu-content
+Total Tokens   : 758
+-------------------------------
+
+Route Name     : epiduo-forte-gel-30gm
+Language       : urdu-content
+Total Tokens   : 933
+-------------------------------
+
+Route Name     : epiduo-forte-gel-30gm
+Language       : urdu-content
+Total Tokens   : 840
+-------------------------------
+
+Route Name     : epiduo-forte-gel-30gm
+Language       : urdu-content
+Total Tokens   : 999
+-------------------------------
+
+Route Name     : epiduo-forte-gel-30gm
+Language       : urdu-content
+Total Tokens   : 1049
+-------------------------------
+
+Route Name     : epiduo-forte-gel-30gm
+Language       : urdu-content
+Total Tokens   : 828
+-------------------------------
+
+Route Name     : epiduo-forte-gel-30gm
+Language       : urdu-content
+Total Tokens   : 982
+-------------------------------
+
+Route Name     : epiduo-forte-gel-30gm
+Language       : urdu-content
+Total Tokens   : 787
+-------------------------------
+
+Route Name     : epiduo-forte-gel-30gm
+Language       : urdu-content
+Total Tokens   : 967
+-------------------------------
+
+Route Name     : epiduo-forte-gel-30gm
+Language       : urdu-content
+Total Tokens   : 750
+-------------------------------
+
+Route Name     : epiduo-forte-gel-30gm
+Language       : urdu-content
+Total Tokens   : 974
+-------------------------------
+
+Route Name     : epiduo-forte-gel-30gm
+Language       : urdu-content
+Total Tokens   : 937
+-------------------------------
+
+Route Name     : epiduo-forte-gel-30gm
+Language       : urdu-content
+Total Tokens   : 764
+-------------------------------
+
+Route Name     : ondem-injection-4ml
+Language       : urdu-content
+Total Tokens   : 755
+-------------------------------
+
+Route Name     : ondem-injection-4ml
+Language       : urdu-content
+Total Tokens   : 757
+-------------------------------
+
+Route Name     : ondem-injection-4ml
+Language       : urdu-content
+Total Tokens   : 759
+-------------------------------
+
+Route Name     : ondem-injection-4ml
+Language       : urdu-content
+Total Tokens   : 761
+-------------------------------
+
+Route Name     : ondem-injection-4ml
+Language       : urdu-content
+Total Tokens   : 922
+-------------------------------
+
+Route Name     : ondem-injection-4ml
+Language       : urdu-content
+Total Tokens   : 770
+-------------------------------
+
+Route Name     : ondem-injection-4ml
+Language       : urdu-content
+Total Tokens   : 1053
+-------------------------------
+
+Route Name     : ondem-injection-4ml
+Language       : urdu-content
+Total Tokens   : 824
+-------------------------------
+
+Route Name     : ondem-injection-4ml
+Language       : urdu-content
+Total Tokens   : 779
+-------------------------------
+
+Route Name     : ondem-injection-4ml
+Language       : urdu-content
+Total Tokens   : 1313
+-------------------------------
+
+Route Name     : ondem-injection-4ml
+Language       : urdu-content
+Total Tokens   : 805
+-------------------------------
+
+Route Name     : ondem-injection-4ml
+Language       : urdu-content
+Total Tokens   : 861
+-------------------------------
+
+Route Name     : ondem-injection-4ml
+Language       : urdu-content
+Total Tokens   : 781
+-------------------------------
+
+Route Name     : ondem-injection-4ml
+Language       : urdu-content
+Total Tokens   : 764
+-------------------------------
+
+Route Name     : ondem-injection-4ml
+Language       : urdu-content
+Total Tokens   : 830
+-------------------------------
+
+Route Name     : ondem-injection-4ml
+Language       : urdu-content
+Total Tokens   : 949
+-------------------------------
+
+Route Name     : overzyme-syrup-200ml
+Language       : urdu-content
+Total Tokens   : 765
+-------------------------------
+
+Route Name     : overzyme-syrup-200ml
+Language       : urdu-content
+Total Tokens   : 760
+-------------------------------
+
+Route Name     : overzyme-syrup-200ml
+Language       : urdu-content
+Total Tokens   : 745
+-------------------------------
+
+Route Name     : overzyme-syrup-200ml
+Language       : urdu-content
+Total Tokens   : 765
+-------------------------------
+
+Route Name     : overzyme-syrup-200ml
+Language       : urdu-content
+Total Tokens   : 942
+-------------------------------
+
+Route Name     : overzyme-syrup-200ml
+Language       : urdu-content
+Total Tokens   : 925
+-------------------------------
+
+Route Name     : overzyme-syrup-200ml
+Language       : urdu-content
+Total Tokens   : 826
+-------------------------------
+
+Route Name     : overzyme-syrup-200ml
+Language       : urdu-content
+Total Tokens   : 936
+-------------------------------
+
+Route Name     : overzyme-syrup-200ml
+Language       : urdu-content
+Total Tokens   : 855
+-------------------------------
+
+Route Name     : overzyme-syrup-200ml
+Language       : urdu-content
+Total Tokens   : 838
+-------------------------------
+
+Route Name     : overzyme-syrup-200ml
+Language       : urdu-content
+Total Tokens   : 754
+-------------------------------
+
+Route Name     : overzyme-syrup-200ml
+Language       : urdu-content
+Total Tokens   : 951
+-------------------------------
+
+Route Name     : naxdom-250mg10mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 779
+-------------------------------
+
+Route Name     : naxdom-250mg10mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 761
+-------------------------------
+
+Route Name     : naxdom-250mg10mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 784
+-------------------------------
+
+Route Name     : naxdom-250mg10mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 755
+-------------------------------
+
+Route Name     : naxdom-250mg10mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 971
+-------------------------------
+
+Route Name     : naxdom-250mg10mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 853
+-------------------------------
+
+Route Name     : naxdom-250mg10mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 979
+-------------------------------
+
+Route Name     : naxdom-250mg10mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 968
+-------------------------------
+
+Route Name     : naxdom-250mg10mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 760
+-------------------------------
+
+Route Name     : naxdom-250mg10mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 874
+-------------------------------
+
+Route Name     : naxdom-250mg10mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 1505
+-------------------------------
+
+Route Name     : naxdom-250mg10mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 914
+-------------------------------
+
+Route Name     : naxdom-250mg10mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 965
+-------------------------------
+
+Route Name     : naxdom-250mg10mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 1089
+-------------------------------
+
+Route Name     : naxdom-250mg10mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 894
+-------------------------------
+
+Route Name     : naxdom-250mg10mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 769
+-------------------------------
+
+Route Name     : naxdom-250mg10mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 872
+-------------------------------
+
+Route Name     : naxdom-250mg10mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 896
+-------------------------------
+
+Route Name     : naxdom-250mg10mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 837
+-------------------------------
+
+Route Name     : naxdom-250mg10mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 873
+-------------------------------
+
+Route Name     : seradic-p-tablet-10s
+Language       : urdu-content
+Total Tokens   : 760
+-------------------------------
+
+Route Name     : seradic-p-tablet-10s
+Language       : urdu-content
+Total Tokens   : 756
+-------------------------------
+
+Route Name     : seradic-p-tablet-10s
+Language       : urdu-content
+Total Tokens   : 828
+-------------------------------
+
+Route Name     : seradic-p-tablet-10s
+Language       : urdu-content
+Total Tokens   : 758
+-------------------------------
+
+Route Name     : seradic-p-tablet-10s
+Language       : urdu-content
+Total Tokens   : 909
+-------------------------------
+
+Route Name     : seradic-p-tablet-10s
+Language       : urdu-content
+Total Tokens   : 894
+-------------------------------
+
+Route Name     : seradic-p-tablet-10s
+Language       : urdu-content
+Total Tokens   : 854
+-------------------------------
+
+Route Name     : seradic-p-tablet-10s
+Language       : urdu-content
+Total Tokens   : 994
+-------------------------------
+
+Route Name     : seradic-p-tablet-10s
+Language       : urdu-content
+Total Tokens   : 916
+-------------------------------
+
+Route Name     : seradic-p-tablet-10s
+Language       : urdu-content
+Total Tokens   : 1434
+-------------------------------
+
+Route Name     : seradic-p-tablet-10s
+Language       : urdu-content
+Total Tokens   : 928
+-------------------------------
+
+Route Name     : seradic-p-tablet-10s
+Language       : urdu-content
+Total Tokens   : 1403
+-------------------------------
+
+Route Name     : seradic-p-tablet-10s
+Language       : urdu-content
+Total Tokens   : 948
+-------------------------------
+
+Route Name     : seradic-p-tablet-10s
+Language       : urdu-content
+Total Tokens   : 965
+-------------------------------
+
+Route Name     : seradic-p-tablet-10s
+Language       : urdu-content
+Total Tokens   : 789
+-------------------------------
+
+Route Name     : seradic-p-tablet-10s
+Language       : urdu-content
+Total Tokens   : 918
+-------------------------------
+
+Route Name     : seradic-p-tablet-10s
+Language       : urdu-content
+Total Tokens   : 798
+-------------------------------
+
+Route Name     : seradic-p-tablet-10s
+Language       : urdu-content
+Total Tokens   : 794
+-------------------------------
+
+Route Name     : my-pill-2mg0.035mg-tablet-21s
+Language       : urdu-content
+Total Tokens   : 788
+-------------------------------
+
+Route Name     : my-pill-2mg0.035mg-tablet-21s
+Language       : urdu-content
+Total Tokens   : 753
+-------------------------------
+
+Route Name     : my-pill-2mg0.035mg-tablet-21s
+Language       : urdu-content
+Total Tokens   : 800
+-------------------------------
+
+Route Name     : my-pill-2mg0.035mg-tablet-21s
+Language       : urdu-content
+Total Tokens   : 755
+-------------------------------
+
+Route Name     : my-pill-2mg0.035mg-tablet-21s
+Language       : urdu-content
+Total Tokens   : 928
+-------------------------------
+
+Route Name     : my-pill-2mg0.035mg-tablet-21s
+Language       : urdu-content
+Total Tokens   : 921
+-------------------------------
+
+Route Name     : my-pill-2mg0.035mg-tablet-21s
+Language       : urdu-content
+Total Tokens   : 899
+-------------------------------
+
+Route Name     : my-pill-2mg0.035mg-tablet-21s
+Language       : urdu-content
+Total Tokens   : 1011
+-------------------------------
+
+Route Name     : my-pill-2mg0.035mg-tablet-21s
+Language       : urdu-content
+Total Tokens   : 932
+-------------------------------
+
+Route Name     : my-pill-2mg0.035mg-tablet-21s
+Language       : urdu-content
+Total Tokens   : 980
+-------------------------------
+
+Route Name     : my-pill-2mg0.035mg-tablet-21s
+Language       : urdu-content
+Total Tokens   : 990
+-------------------------------
+
+Route Name     : nervite-plus-tablet-10s
+Language       : urdu-content
+Total Tokens   : 763
+-------------------------------
+
+Route Name     : nervite-plus-tablet-10s
+Language       : urdu-content
+Total Tokens   : 756
+-------------------------------
+
+Route Name     : nervite-plus-tablet-10s
+Language       : urdu-content
+Total Tokens   : 823
+-------------------------------
+
+Route Name     : nervite-plus-tablet-10s
+Language       : urdu-content
+Total Tokens   : 756
+-------------------------------
+
+Route Name     : nervite-plus-tablet-10s
+Language       : urdu-content
+Total Tokens   : 907
+-------------------------------
+
+Route Name     : nervite-plus-tablet-10s
+Language       : urdu-content
+Total Tokens   : 848
+-------------------------------
+
+Route Name     : nervite-plus-tablet-10s
+Language       : urdu-content
+Total Tokens   : 884
+-------------------------------
+
+Route Name     : nervite-plus-tablet-10s
+Language       : urdu-content
+Total Tokens   : 897
+-------------------------------
+
+Route Name     : nervite-plus-tablet-10s
+Language       : urdu-content
+Total Tokens   : 779
+-------------------------------
+
+Route Name     : nervite-plus-tablet-10s
+Language       : urdu-content
+Total Tokens   : 1332
+-------------------------------
+
+Route Name     : nervite-plus-tablet-10s
+Language       : urdu-content
+Total Tokens   : 823
+-------------------------------
+
+Route Name     : nervite-plus-tablet-10s
+Language       : urdu-content
+Total Tokens   : 853
+-------------------------------
+
+Route Name     : nervite-plus-tablet-10s
+Language       : urdu-content
+Total Tokens   : 775
+-------------------------------
+
+Route Name     : nervite-plus-tablet-10s
+Language       : urdu-content
+Total Tokens   : 896
+-------------------------------
+
+Route Name     : nervite-plus-tablet-10s
+Language       : urdu-content
+Total Tokens   : 1002
+-------------------------------
+
+Route Name     : nervite-plus-tablet-10s
+Language       : urdu-content
+Total Tokens   : 879
+-------------------------------
+
+Route Name     : reactin-plus-50mg325mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 778
+-------------------------------
+
+Route Name     : reactin-plus-50mg325mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 749
+-------------------------------
+
+Route Name     : reactin-plus-50mg325mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 797
+-------------------------------
+
+Route Name     : reactin-plus-50mg325mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 754
+-------------------------------
+
+Route Name     : reactin-plus-50mg325mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 1266
+-------------------------------
+
+Route Name     : reactin-plus-50mg325mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 901
+-------------------------------
+
+Route Name     : reactin-plus-50mg325mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 975
+-------------------------------
+
+Route Name     : reactin-plus-50mg325mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 956
+-------------------------------
+
+Route Name     : reactin-plus-50mg325mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 749
+-------------------------------
+
+Route Name     : reactin-plus-50mg325mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 901
+-------------------------------
+
+Route Name     : reactin-plus-50mg325mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 1580
+-------------------------------
+
+Route Name     : reactin-plus-50mg325mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 949
+-------------------------------
+
+Route Name     : reactin-plus-50mg325mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 889
+-------------------------------
+
+Route Name     : reactin-plus-50mg325mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 977
+-------------------------------
+
+Route Name     : reactin-plus-50mg325mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 800
+-------------------------------
+
+Route Name     : reactin-plus-50mg325mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 809
+-------------------------------
+
+Route Name     : reactin-plus-50mg325mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 1128
+-------------------------------
+
+Route Name     : reactin-plus-50mg325mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 954
+-------------------------------
+
+Route Name     : reactin-plus-50mg325mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 1239
+-------------------------------
+
+Route Name     : reactin-plus-50mg325mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 810
+-------------------------------
+
+Route Name     : polybion-czs-tablet-30s
+Language       : urdu-content
+Total Tokens   : 764
+-------------------------------
+
+Route Name     : polybion-czs-tablet-30s
+Language       : urdu-content
+Total Tokens   : 745
+-------------------------------
+
+Route Name     : polybion-czs-tablet-30s
+Language       : urdu-content
+Total Tokens   : 762
+-------------------------------
+
+Route Name     : polybion-czs-tablet-30s
+Language       : urdu-content
+Total Tokens   : 753
+-------------------------------
+
+Route Name     : polybion-czs-tablet-30s
+Language       : urdu-content
+Total Tokens   : 1520
+-------------------------------
+
+Route Name     : polybion-czs-tablet-30s
+Language       : urdu-content
+Total Tokens   : 807
+-------------------------------
+
+Route Name     : polybion-czs-tablet-30s
+Language       : urdu-content
+Total Tokens   : 805
+-------------------------------
+
+Route Name     : polybion-czs-tablet-30s
+Language       : urdu-content
+Total Tokens   : 928
+-------------------------------
+
+Route Name     : polybion-czs-tablet-30s
+Language       : urdu-content
+Total Tokens   : 767
+-------------------------------
+
+Route Name     : polybion-czs-tablet-30s
+Language       : urdu-content
+Total Tokens   : 775
+-------------------------------
+
+Route Name     : polybion-czs-tablet-30s
+Language       : urdu-content
+Total Tokens   : 803
+-------------------------------
+
+Route Name     : polybion-czs-tablet-30s
+Language       : urdu-content
+Total Tokens   : 922
+-------------------------------
+
+Route Name     : polybion-czs-tablet-30s
+Language       : urdu-content
+Total Tokens   : 925
+-------------------------------
+
+Route Name     : polybion-czs-tablet-30s
+Language       : urdu-content
+Total Tokens   : 908
+-------------------------------
+
+Route Name     : polybion-czs-tablet-30s
+Language       : urdu-content
+Total Tokens   : 885
+-------------------------------
+
+Route Name     : glycolate-1mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 774
+-------------------------------
+
+Route Name     : glycolate-1mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 762
+-------------------------------
+
+Route Name     : glycolate-1mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 771
+-------------------------------
+
+Route Name     : glycolate-1mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 764
+-------------------------------
+
+Route Name     : glycolate-1mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 945
+-------------------------------
+
+Route Name     : glycolate-1mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 874
+-------------------------------
+
+Route Name     : glycolate-1mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 894
+-------------------------------
+
+Route Name     : glycolate-1mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 885
+-------------------------------
+
+Route Name     : glycolate-1mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 891
+-------------------------------
+
+Route Name     : glycolate-1mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 958
+-------------------------------
+
+Route Name     : glycolate-1mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 926
+-------------------------------
+
+Route Name     : tofe-5mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 766
+-------------------------------
+
+Route Name     : tofe-5mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 748
+-------------------------------
+
+Route Name     : tofe-5mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 763
+-------------------------------
+
+Route Name     : tofe-5mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 754
+-------------------------------
+
+Route Name     : tofe-5mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 828
+-------------------------------
+
+Route Name     : tofe-5mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 771
+-------------------------------
+
+Route Name     : tofe-5mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 790
+-------------------------------
+
+Route Name     : tofe-5mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 901
+-------------------------------
+
+Route Name     : tofe-5mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 796
+-------------------------------
+
+Route Name     : tofe-5mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 1104
+-------------------------------
+
+Route Name     : tofe-5mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 817
+-------------------------------
+
+Route Name     : tofe-5mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 834
+-------------------------------
+
+Route Name     : tofe-5mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 840
+-------------------------------
+
+Route Name     : tofe-5mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 755
+-------------------------------
+
+Route Name     : tofe-5mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 922
+-------------------------------
+
+Route Name     : tofe-5mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 875
+-------------------------------
+
+Route Name     : tofe-5mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 802
+-------------------------------
+
+Route Name     : hifenac-sp-tablet-10s
+Language       : urdu-content
+Total Tokens   : 766
+-------------------------------
+
+Route Name     : hifenac-sp-tablet-10s
+Language       : urdu-content
+Total Tokens   : 758
+-------------------------------
+
+Route Name     : hifenac-sp-tablet-10s
+Language       : urdu-content
+Total Tokens   : 818
+-------------------------------
+
+Route Name     : hifenac-sp-tablet-10s
+Language       : urdu-content
+Total Tokens   : 755
+-------------------------------
+
+Route Name     : hifenac-sp-tablet-10s
+Language       : urdu-content
+Total Tokens   : 977
+-------------------------------
+
+Route Name     : hifenac-sp-tablet-10s
+Language       : urdu-content
+Total Tokens   : 872
+-------------------------------
+
+Route Name     : hifenac-sp-tablet-10s
+Language       : urdu-content
+Total Tokens   : 867
+-------------------------------
+
+Route Name     : hifenac-sp-tablet-10s
+Language       : urdu-content
+Total Tokens   : 1026
+-------------------------------
+
+Route Name     : hifenac-sp-tablet-10s
+Language       : urdu-content
+Total Tokens   : 847
+-------------------------------
+
+Route Name     : hifenac-sp-tablet-10s
+Language       : urdu-content
+Total Tokens   : 1335
+-------------------------------
+
+Route Name     : hifenac-sp-tablet-10s
+Language       : urdu-content
+Total Tokens   : 894
+-------------------------------
+
+Route Name     : hifenac-sp-tablet-10s
+Language       : urdu-content
+Total Tokens   : 957
+-------------------------------
+
+Route Name     : hifenac-sp-tablet-10s
+Language       : urdu-content
+Total Tokens   : 908
+-------------------------------
+
+Route Name     : hifenac-sp-tablet-10s
+Language       : urdu-content
+Total Tokens   : 746
+-------------------------------
+
+Route Name     : hifenac-sp-tablet-10s
+Language       : urdu-content
+Total Tokens   : 871
+-------------------------------
+
+Route Name     : hifenac-sp-tablet-10s
+Language       : urdu-content
+Total Tokens   : 927
+-------------------------------
+
+Route Name     : hifenac-sp-tablet-10s
+Language       : urdu-content
+Total Tokens   : 821
+-------------------------------
+
+Route Name     : teczine-m-syrup-60ml
+Language       : urdu-content
+Total Tokens   : 764
+-------------------------------
+
+Route Name     : teczine-m-syrup-60ml
+Language       : urdu-content
+Total Tokens   : 759
+-------------------------------
+
+Route Name     : teczine-m-syrup-60ml
+Language       : urdu-content
+Total Tokens   : 816
+-------------------------------
+
+Route Name     : teczine-m-syrup-60ml
+Language       : urdu-content
+Total Tokens   : 762
+-------------------------------
+
+Route Name     : teczine-m-syrup-60ml
+Language       : urdu-content
+Total Tokens   : 1060
+-------------------------------
+
+Route Name     : teczine-m-syrup-60ml
+Language       : urdu-content
+Total Tokens   : 853
+-------------------------------
+
+Route Name     : teczine-m-syrup-60ml
+Language       : urdu-content
+Total Tokens   : 914
+-------------------------------
+
+Route Name     : teczine-m-syrup-60ml
+Language       : urdu-content
+Total Tokens   : 1044
+-------------------------------
+
+Route Name     : teczine-m-syrup-60ml
+Language       : urdu-content
+Total Tokens   : 806
+-------------------------------
+
+Route Name     : teczine-m-syrup-60ml
+Language       : urdu-content
+Total Tokens   : 1364
+-------------------------------
+
+Route Name     : teczine-m-syrup-60ml
+Language       : urdu-content
+Total Tokens   : 808
+-------------------------------
+
+Route Name     : teczine-m-syrup-60ml
+Language       : urdu-content
+Total Tokens   : 843
+-------------------------------
+
+Route Name     : teczine-m-syrup-60ml
+Language       : urdu-content
+Total Tokens   : 876
+-------------------------------
+
+Route Name     : teczine-m-syrup-60ml
+Language       : urdu-content
+Total Tokens   : 843
+-------------------------------
+
+Route Name     : teczine-m-syrup-60ml
+Language       : urdu-content
+Total Tokens   : 747
+-------------------------------
+
+Route Name     : teczine-m-syrup-60ml
+Language       : urdu-content
+Total Tokens   : 936
+-------------------------------
+
+Route Name     : teczine-m-syrup-60ml
+Language       : urdu-content
+Total Tokens   : 895
+-------------------------------
+
+Route Name     : teczine-m-syrup-60ml
+Language       : urdu-content
+Total Tokens   : 836
+-------------------------------
+
+Route Name     : rozucor-asp-20mg75mg-capsule
+Language       : urdu-content
+Total Tokens   : 780
+-------------------------------
+
+Route Name     : rozucor-asp-20mg75mg-capsule
+Language       : urdu-content
+Total Tokens   : 745
+-------------------------------
+
+Route Name     : rozucor-asp-20mg75mg-capsule
+Language       : urdu-content
+Total Tokens   : 804
+-------------------------------
+
+Route Name     : rozucor-asp-20mg75mg-capsule
+Language       : urdu-content
+Total Tokens   : 753
+-------------------------------
+
+Route Name     : rozucor-asp-20mg75mg-capsule
+Language       : urdu-content
+Total Tokens   : 920
+-------------------------------
+
+Route Name     : rozucor-asp-20mg75mg-capsule
+Language       : urdu-content
+Total Tokens   : 857
+-------------------------------
+
+Route Name     : rozucor-asp-20mg75mg-capsule
+Language       : urdu-content
+Total Tokens   : 833
+-------------------------------
+
+Route Name     : rozucor-asp-20mg75mg-capsule
+Language       : urdu-content
+Total Tokens   : 1111
+-------------------------------
+
+Route Name     : rozucor-asp-20mg75mg-capsule
+Language       : urdu-content
+Total Tokens   : 798
+-------------------------------
+
+Route Name     : rozucor-asp-20mg75mg-capsule
+Language       : urdu-content
+Total Tokens   : 1589
+-------------------------------
+
+Route Name     : rozucor-asp-20mg75mg-capsule
+Language       : urdu-content
+Total Tokens   : 936
+-------------------------------
+
+Route Name     : rozucor-asp-20mg75mg-capsule
+Language       : urdu-content
+Total Tokens   : 954
+-------------------------------
+
+Route Name     : rozucor-asp-20mg75mg-capsule
+Language       : urdu-content
+Total Tokens   : 826
+-------------------------------
+
+Route Name     : rozucor-asp-20mg75mg-capsule
+Language       : urdu-content
+Total Tokens   : 762
+-------------------------------
+
+Route Name     : rozucor-asp-20mg75mg-capsule
+Language       : urdu-content
+Total Tokens   : 1136
+-------------------------------
+
+Route Name     : rozucor-asp-20mg75mg-capsule
+Language       : urdu-content
+Total Tokens   : 881
+-------------------------------
+
+Route Name     : neugaba-mn-tablet-pr-10s
+Language       : urdu-content
+Total Tokens   : 794
+-------------------------------
+
+Route Name     : neugaba-mn-tablet-pr-10s
+Language       : urdu-content
+Total Tokens   : 785
+-------------------------------
+
+Route Name     : neugaba-mn-tablet-pr-10s
+Language       : urdu-content
+Total Tokens   : 859
+-------------------------------
+
+Route Name     : neugaba-mn-tablet-pr-10s
+Language       : urdu-content
+Total Tokens   : 779
+-------------------------------
+
+Route Name     : neugaba-mn-tablet-pr-10s
+Language       : urdu-content
+Total Tokens   : 923
+-------------------------------
+
+Route Name     : neugaba-mn-tablet-pr-10s
+Language       : urdu-content
+Total Tokens   : 900
+-------------------------------
+
+Route Name     : neugaba-mn-tablet-pr-10s
+Language       : urdu-content
+Total Tokens   : 917
+-------------------------------
+
+Route Name     : neugaba-mn-tablet-pr-10s
+Language       : urdu-content
+Total Tokens   : 992
+-------------------------------
+
+Route Name     : neugaba-mn-tablet-pr-10s
+Language       : urdu-content
+Total Tokens   : 878
+-------------------------------
+
+Route Name     : neugaba-mn-tablet-pr-10s
+Language       : urdu-content
+Total Tokens   : 931
+-------------------------------
+
+Route Name     : neugaba-mn-tablet-pr-10s
+Language       : urdu-content
+Total Tokens   : 899
+-------------------------------
+
+Route Name     : newtel-am-tablet-10s
+Language       : urdu-content
+Total Tokens   : 759
+-------------------------------
+
+Route Name     : newtel-am-tablet-10s
+Language       : urdu-content
+Total Tokens   : 754
+-------------------------------
+
+Route Name     : newtel-am-tablet-10s
+Language       : urdu-content
+Total Tokens   : 788
+-------------------------------
+
+Route Name     : newtel-am-tablet-10s
+Language       : urdu-content
+Total Tokens   : 751
+-------------------------------
+
+Route Name     : newtel-am-tablet-10s
+Language       : urdu-content
+Total Tokens   : 1042
+-------------------------------
+
+Route Name     : newtel-am-tablet-10s
+Language       : urdu-content
+Total Tokens   : 852
+-------------------------------
+
+Route Name     : newtel-am-tablet-10s
+Language       : urdu-content
+Total Tokens   : 899
+-------------------------------
+
+Route Name     : newtel-am-tablet-10s
+Language       : urdu-content
+Total Tokens   : 948
+-------------------------------
+
+Route Name     : newtel-am-tablet-10s
+Language       : urdu-content
+Total Tokens   : 755
+-------------------------------
+
+Route Name     : newtel-am-tablet-10s
+Language       : urdu-content
+Total Tokens   : 874
+-------------------------------
+
+Route Name     : newtel-am-tablet-10s
+Language       : urdu-content
+Total Tokens   : 1419
+-------------------------------
+
+Route Name     : newtel-am-tablet-10s
+Language       : urdu-content
+Total Tokens   : 900
+-------------------------------
+
+Route Name     : newtel-am-tablet-10s
+Language       : urdu-content
+Total Tokens   : 987
+-------------------------------
+
+Route Name     : newtel-am-tablet-10s
+Language       : urdu-content
+Total Tokens   : 835
+-------------------------------
+
+Route Name     : newtel-am-tablet-10s
+Language       : urdu-content
+Total Tokens   : 802
+-------------------------------
+
+Route Name     : newtel-am-tablet-10s
+Language       : urdu-content
+Total Tokens   : 744
+-------------------------------
+
+Route Name     : newtel-am-tablet-10s
+Language       : urdu-content
+Total Tokens   : 923
+-------------------------------
+
+Route Name     : newtel-am-tablet-10s
+Language       : urdu-content
+Total Tokens   : 998
+-------------------------------
+
+Route Name     : newtel-am-tablet-10s
+Language       : urdu-content
+Total Tokens   : 1007
+-------------------------------
+
+Route Name     : newtel-am-tablet-10s
+Language       : urdu-content
+Total Tokens   : 842
+-------------------------------
+
+Route Name     : l-montus-suspension-60ml
+Language       : urdu-content
+Total Tokens   : 765
+-------------------------------
+
+Route Name     : l-montus-suspension-60ml
+Language       : urdu-content
+Total Tokens   : 772
+-------------------------------
+
+Route Name     : l-montus-suspension-60ml
+Language       : urdu-content
+Total Tokens   : 824
+-------------------------------
+
+Route Name     : l-montus-suspension-60ml
+Language       : urdu-content
+Total Tokens   : 764
+-------------------------------
+
+Route Name     : l-montus-suspension-60ml
+Language       : urdu-content
+Total Tokens   : 1065
+-------------------------------
+
+Route Name     : l-montus-suspension-60ml
+Language       : urdu-content
+Total Tokens   : 858
+-------------------------------
+
+Route Name     : l-montus-suspension-60ml
+Language       : urdu-content
+Total Tokens   : 917
+-------------------------------
+
+Route Name     : l-montus-suspension-60ml
+Language       : urdu-content
+Total Tokens   : 1060
+-------------------------------
+
+Route Name     : l-montus-suspension-60ml
+Language       : urdu-content
+Total Tokens   : 809
+-------------------------------
+
+Route Name     : l-montus-suspension-60ml
+Language       : urdu-content
+Total Tokens   : 1403
+-------------------------------
+
+Route Name     : l-montus-suspension-60ml
+Language       : urdu-content
+Total Tokens   : 810
+-------------------------------
+
+Route Name     : l-montus-suspension-60ml
+Language       : urdu-content
+Total Tokens   : 849
+-------------------------------
+
+Route Name     : l-montus-suspension-60ml
+Language       : urdu-content
+Total Tokens   : 889
+-------------------------------
+
+Route Name     : l-montus-suspension-60ml
+Language       : urdu-content
+Total Tokens   : 841
+-------------------------------
+
+Route Name     : l-montus-suspension-60ml
+Language       : urdu-content
+Total Tokens   : 750
+-------------------------------
+
+Route Name     : l-montus-suspension-60ml
+Language       : urdu-content
+Total Tokens   : 937
+-------------------------------
+
+Route Name     : l-montus-suspension-60ml
+Language       : urdu-content
+Total Tokens   : 906
+-------------------------------
+
+Route Name     : l-montus-suspension-60ml
+Language       : urdu-content
+Total Tokens   : 857
+-------------------------------
+
+Route Name     : levipil-injection-5ml
+Language       : urdu-content
+Total Tokens   : 758
+-------------------------------
+
+Route Name     : levipil-injection-5ml
+Language       : urdu-content
+Total Tokens   : 759
+-------------------------------
+
+Route Name     : levipil-injection-5ml
+Language       : urdu-content
+Total Tokens   : 759
+-------------------------------
+
+Route Name     : levipil-injection-5ml
+Language       : urdu-content
+Total Tokens   : 759
+-------------------------------
+
+Route Name     : levipil-injection-5ml
+Language       : urdu-content
+Total Tokens   : 865
+-------------------------------
+
+Route Name     : levipil-injection-5ml
+Language       : urdu-content
+Total Tokens   : 813
+-------------------------------
+
+Route Name     : levipil-injection-5ml
+Language       : urdu-content
+Total Tokens   : 835
+-------------------------------
+
+Route Name     : levipil-injection-5ml
+Language       : urdu-content
+Total Tokens   : 832
+-------------------------------
+
+Route Name     : levipil-injection-5ml
+Language       : urdu-content
+Total Tokens   : 821
+-------------------------------
+
+Route Name     : levipil-injection-5ml
+Language       : urdu-content
+Total Tokens   : 1306
+-------------------------------
+
+Route Name     : levipil-injection-5ml
+Language       : urdu-content
+Total Tokens   : 871
+-------------------------------
+
+Route Name     : levipil-injection-5ml
+Language       : urdu-content
+Total Tokens   : 865
+-------------------------------
+
+Route Name     : levipil-injection-5ml
+Language       : urdu-content
+Total Tokens   : 781
+-------------------------------
+
+Route Name     : levipil-injection-5ml
+Language       : urdu-content
+Total Tokens   : 830
+-------------------------------
+
+Route Name     : levipil-injection-5ml
+Language       : urdu-content
+Total Tokens   : 981
+-------------------------------
+
+Route Name     : zincolife-syrup-50ml
+Language       : urdu-content
+Total Tokens   : 771
+-------------------------------
+
+Route Name     : zincolife-syrup-50ml
+Language       : urdu-content
+Total Tokens   : 754
+-------------------------------
+
+Route Name     : zincolife-syrup-50ml
+Language       : urdu-content
+Total Tokens   : 745
+-------------------------------
+
+Route Name     : zincolife-syrup-50ml
+Language       : urdu-content
+Total Tokens   : 764
+-------------------------------
+
+Route Name     : zincolife-syrup-50ml
+Language       : urdu-content
+Total Tokens   : 914
+-------------------------------
+
+Route Name     : zincolife-syrup-50ml
+Language       : urdu-content
+Total Tokens   : 965
+-------------------------------
+
+Route Name     : zincolife-syrup-50ml
+Language       : urdu-content
+Total Tokens   : 926
+-------------------------------
+
+Route Name     : zincolife-syrup-50ml
+Language       : urdu-content
+Total Tokens   : 919
+-------------------------------
+
+Route Name     : zincolife-syrup-50ml
+Language       : urdu-content
+Total Tokens   : 886
+-------------------------------
+
+Route Name     : zincolife-syrup-50ml
+Language       : urdu-content
+Total Tokens   : 944
+-------------------------------
+
+Route Name     : zincolife-syrup-50ml
+Language       : urdu-content
+Total Tokens   : 966
+-------------------------------
+
+Route Name     : teczine-syrup-60ml
+Language       : urdu-content
+Total Tokens   : 759
+-------------------------------
+
+Route Name     : teczine-syrup-60ml
+Language       : urdu-content
+Total Tokens   : 758
+-------------------------------
+
+Route Name     : teczine-syrup-60ml
+Language       : urdu-content
+Total Tokens   : 816
+-------------------------------
+
+Route Name     : teczine-syrup-60ml
+Language       : urdu-content
+Total Tokens   : 758
+-------------------------------
+
+Route Name     : teczine-syrup-60ml
+Language       : urdu-content
+Total Tokens   : 1069
+-------------------------------
+
+Route Name     : teczine-syrup-60ml
+Language       : urdu-content
+Total Tokens   : 854
+-------------------------------
+
+Route Name     : teczine-syrup-60ml
+Language       : urdu-content
+Total Tokens   : 915
+-------------------------------
+
+Route Name     : teczine-syrup-60ml
+Language       : urdu-content
+Total Tokens   : 1057
+-------------------------------
+
+Route Name     : teczine-syrup-60ml
+Language       : urdu-content
+Total Tokens   : 805
+-------------------------------
+
+Route Name     : teczine-syrup-60ml
+Language       : urdu-content
+Total Tokens   : 1368
+-------------------------------
+
+Route Name     : teczine-syrup-60ml
+Language       : urdu-content
+Total Tokens   : 806
+-------------------------------
+
+Route Name     : teczine-syrup-60ml
+Language       : urdu-content
+Total Tokens   : 839
+-------------------------------
+
+Route Name     : teczine-syrup-60ml
+Language       : urdu-content
+Total Tokens   : 885
+-------------------------------
+
+Route Name     : teczine-syrup-60ml
+Language       : urdu-content
+Total Tokens   : 835
+-------------------------------
+
+Route Name     : teczine-syrup-60ml
+Language       : urdu-content
+Total Tokens   : 745
+-------------------------------
+
+Route Name     : teczine-syrup-60ml
+Language       : urdu-content
+Total Tokens   : 935
+-------------------------------
+
+Route Name     : teczine-syrup-60ml
+Language       : urdu-content
+Total Tokens   : 904
+-------------------------------
+
+Route Name     : teczine-syrup-60ml
+Language       : urdu-content
+Total Tokens   : 850
+-------------------------------
+
+Route Name     : tiger-king-cream-xxl-30gm
+Language       : urdu-content
+Total Tokens   : 760
+-------------------------------
+
+Route Name     : tiger-king-cream-xxl-30gm
+Language       : urdu-content
+Total Tokens   : 756
+-------------------------------
+
+Route Name     : tiger-king-cream-xxl-30gm
+Language       : urdu-content
+Total Tokens   : 744
+-------------------------------
+
+Route Name     : tiger-king-cream-xxl-30gm
+Language       : urdu-content
+Total Tokens   : 758
+-------------------------------
+
+Route Name     : tiger-king-cream-xxl-30gm
+Language       : urdu-content
+Total Tokens   : 963
+-------------------------------
+
+Route Name     : tiger-king-cream-xxl-30gm
+Language       : urdu-content
+Total Tokens   : 818
+-------------------------------
+
+Route Name     : tiger-king-cream-xxl-30gm
+Language       : urdu-content
+Total Tokens   : 920
+-------------------------------
+
+Route Name     : tiger-king-cream-xxl-30gm
+Language       : urdu-content
+Total Tokens   : 1020
+-------------------------------
+
+Route Name     : tiger-king-cream-xxl-30gm
+Language       : urdu-content
+Total Tokens   : 772
+-------------------------------
+
+Route Name     : tiger-king-cream-xxl-30gm
+Language       : urdu-content
+Total Tokens   : 816
+-------------------------------
+
+Route Name     : tiger-king-cream-xxl-30gm
+Language       : urdu-content
+Total Tokens   : 840
+-------------------------------
+
+Route Name     : tiger-king-cream-xxl-30gm
+Language       : urdu-content
+Total Tokens   : 762
+-------------------------------
+
+Route Name     : dexolac-2-infant-formula-milk-powder-1.2kg
+Language       : urdu-content
+Total Tokens   : 790
+-------------------------------
+
+Route Name     : dexolac-2-infant-formula-milk-powder-1.2kg
+Language       : urdu-content
+Total Tokens   : 757
+-------------------------------
+
+Route Name     : dexolac-2-infant-formula-milk-powder-1.2kg
+Language       : urdu-content
+Total Tokens   : 777
+-------------------------------
+
+Route Name     : dexolac-2-infant-formula-milk-powder-1.2kg
+Language       : urdu-content
+Total Tokens   : 771
+-------------------------------
+
+Route Name     : dexolac-2-infant-formula-milk-powder-1.2kg
+Language       : urdu-content
+Total Tokens   : 919
+-------------------------------
+
+Route Name     : dexolac-2-infant-formula-milk-powder-1.2kg
+Language       : urdu-content
+Total Tokens   : 907
+-------------------------------
+
+Route Name     : dexolac-2-infant-formula-milk-powder-1.2kg
+Language       : urdu-content
+Total Tokens   : 1167
+-------------------------------
+
+Route Name     : dexolac-2-infant-formula-milk-powder-1.2kg
+Language       : urdu-content
+Total Tokens   : 986
+-------------------------------
+
+Route Name     : dexolac-2-infant-formula-milk-powder-1.2kg
+Language       : urdu-content
+Total Tokens   : 912
+-------------------------------
+
+Route Name     : dexolac-2-infant-formula-milk-powder-1.2kg
+Language       : urdu-content
+Total Tokens   : 1128
+-------------------------------
+
+Route Name     : dexolac-2-infant-formula-milk-powder-1.2kg
+Language       : urdu-content
+Total Tokens   : 883
+-------------------------------
+
+Route Name     : dexolac-2-infant-formula-milk-powder-1.2kg
+Language       : urdu-content
+Total Tokens   : 1039
+-------------------------------
+
+Route Name     : torsid-plus-1050-tablet
+Language       : urdu-content
+Total Tokens   : 767
+-------------------------------
+
+Route Name     : torsid-plus-1050-tablet
+Language       : urdu-content
+Total Tokens   : 763
+-------------------------------
+
+Route Name     : torsid-plus-1050-tablet
+Language       : urdu-content
+Total Tokens   : 788
+-------------------------------
+
+Route Name     : torsid-plus-1050-tablet
+Language       : urdu-content
+Total Tokens   : 755
+-------------------------------
+
+Route Name     : torsid-plus-1050-tablet
+Language       : urdu-content
+Total Tokens   : 873
+-------------------------------
+
+Route Name     : torsid-plus-1050-tablet
+Language       : urdu-content
+Total Tokens   : 837
+-------------------------------
+
+Route Name     : torsid-plus-1050-tablet
+Language       : urdu-content
+Total Tokens   : 822
+-------------------------------
+
+Route Name     : torsid-plus-1050-tablet
+Language       : urdu-content
+Total Tokens   : 948
+-------------------------------
+
+Route Name     : torsid-plus-1050-tablet
+Language       : urdu-content
+Total Tokens   : 809
+-------------------------------
+
+Route Name     : torsid-plus-1050-tablet
+Language       : urdu-content
+Total Tokens   : 1299
+-------------------------------
+
+Route Name     : torsid-plus-1050-tablet
+Language       : urdu-content
+Total Tokens   : 790
+-------------------------------
+
+Route Name     : torsid-plus-1050-tablet
+Language       : urdu-content
+Total Tokens   : 807
+-------------------------------
+
+Route Name     : torsid-plus-1050-tablet
+Language       : urdu-content
+Total Tokens   : 955
+-------------------------------
+
+Route Name     : torsid-plus-1050-tablet
+Language       : urdu-content
+Total Tokens   : 810
+-------------------------------
+
+Route Name     : torsid-plus-1050-tablet
+Language       : urdu-content
+Total Tokens   : 759
+-------------------------------
+
+Route Name     : torsid-plus-1050-tablet
+Language       : urdu-content
+Total Tokens   : 861
+-------------------------------
+
+Route Name     : torsid-plus-1050-tablet
+Language       : urdu-content
+Total Tokens   : 805
+-------------------------------
+
+Route Name     : betoact-eye-drops-5ml
+Language       : urdu-content
+Total Tokens   : 761
+-------------------------------
+
+Route Name     : betoact-eye-drops-5ml
+Language       : urdu-content
+Total Tokens   : 748
+-------------------------------
+
+Route Name     : betoact-eye-drops-5ml
+Language       : urdu-content
+Total Tokens   : 772
+-------------------------------
+
+Route Name     : betoact-eye-drops-5ml
+Language       : urdu-content
+Total Tokens   : 757
+-------------------------------
+
+Route Name     : betoact-eye-drops-5ml
+Language       : urdu-content
+Total Tokens   : 899
+-------------------------------
+
+Route Name     : betoact-eye-drops-5ml
+Language       : urdu-content
+Total Tokens   : 899
+-------------------------------
+
+Route Name     : betoact-eye-drops-5ml
+Language       : urdu-content
+Total Tokens   : 1074
+-------------------------------
+
+Route Name     : betoact-eye-drops-5ml
+Language       : urdu-content
+Total Tokens   : 844
+-------------------------------
+
+Route Name     : betoact-eye-drops-5ml
+Language       : urdu-content
+Total Tokens   : 916
+-------------------------------
+
+Route Name     : betoact-eye-drops-5ml
+Language       : urdu-content
+Total Tokens   : 1003
+-------------------------------
+
+Route Name     : betoact-eye-drops-5ml
+Language       : urdu-content
+Total Tokens   : 1032
+-------------------------------
+
+Route Name     : fusigen-ointment-5gm
+Language       : urdu-content
+Total Tokens   : 762
+-------------------------------
+
+Route Name     : fusigen-ointment-5gm
+Language       : urdu-content
+Total Tokens   : 748
+-------------------------------
+
+Route Name     : fusigen-ointment-5gm
+Language       : urdu-content
+Total Tokens   : 763
+-------------------------------
+
+Route Name     : fusigen-ointment-5gm
+Language       : urdu-content
+Total Tokens   : 762
+-------------------------------
+
+Route Name     : fusigen-ointment-5gm
+Language       : urdu-content
+Total Tokens   : 903
+-------------------------------
+
+Route Name     : fusigen-ointment-5gm
+Language       : urdu-content
+Total Tokens   : 923
+-------------------------------
+
+Route Name     : fusigen-ointment-5gm
+Language       : urdu-content
+Total Tokens   : 978
+-------------------------------
+
+Route Name     : fusigen-ointment-5gm
+Language       : urdu-content
+Total Tokens   : 925
+-------------------------------
+
+Route Name     : fusigen-ointment-5gm
+Language       : urdu-content
+Total Tokens   : 919
+-------------------------------
+
+Route Name     : fusigen-ointment-5gm
+Language       : urdu-content
+Total Tokens   : 1027
+-------------------------------
+
+Route Name     : fusigen-ointment-5gm
+Language       : urdu-content
+Total Tokens   : 993
+-------------------------------
+
+Route Name     : flur-eye-drop-10ml
+Language       : urdu-content
+Total Tokens   : 760
+-------------------------------
+
+Route Name     : flur-eye-drop-10ml
+Language       : urdu-content
+Total Tokens   : 760
+-------------------------------
+
+Route Name     : flur-eye-drop-10ml
+Language       : urdu-content
+Total Tokens   : 872
+-------------------------------
+
+Route Name     : flur-eye-drop-10ml
+Language       : urdu-content
+Total Tokens   : 764
+-------------------------------
+
+Route Name     : flur-eye-drop-10ml
+Language       : urdu-content
+Total Tokens   : 948
+-------------------------------
+
+Route Name     : flur-eye-drop-10ml
+Language       : urdu-content
+Total Tokens   : 893
+-------------------------------
+
+Route Name     : flur-eye-drop-10ml
+Language       : urdu-content
+Total Tokens   : 1090
+-------------------------------
+
+Route Name     : flur-eye-drop-10ml
+Language       : urdu-content
+Total Tokens   : 989
+-------------------------------
+
+Route Name     : flur-eye-drop-10ml
+Language       : urdu-content
+Total Tokens   : 924
+-------------------------------
+
+Route Name     : flur-eye-drop-10ml
+Language       : urdu-content
+Total Tokens   : 1038
+-------------------------------
+
+Route Name     : flur-eye-drop-10ml
+Language       : urdu-content
+Total Tokens   : 1017
+-------------------------------
+
+Route Name     : moistane-eye-drop
+Language       : urdu-content
+Total Tokens   : 756
+-------------------------------
+
+Route Name     : moistane-eye-drop
+Language       : urdu-content
+Total Tokens   : 758
+-------------------------------
+
+Route Name     : moistane-eye-drop
+Language       : urdu-content
+Total Tokens   : 823
+-------------------------------
+
+Route Name     : moistane-eye-drop
+Language       : urdu-content
+Total Tokens   : 767
+-------------------------------
+
+Route Name     : moistane-eye-drop
+Language       : urdu-content
+Total Tokens   : 1143
+-------------------------------
+
+Route Name     : moistane-eye-drop
+Language       : urdu-content
+Total Tokens   : 776
+-------------------------------
+
+Route Name     : moistane-eye-drop
+Language       : urdu-content
+Total Tokens   : 931
+-------------------------------
+
+Route Name     : moistane-eye-drop
+Language       : urdu-content
+Total Tokens   : 949
+-------------------------------
+
+Route Name     : moistane-eye-drop
+Language       : urdu-content
+Total Tokens   : 761
+-------------------------------
+
+Route Name     : moistane-eye-drop
+Language       : urdu-content
+Total Tokens   : 805
+-------------------------------
+
+Route Name     : moistane-eye-drop
+Language       : urdu-content
+Total Tokens   : 1487
+-------------------------------
+
+Route Name     : moistane-eye-drop
+Language       : urdu-content
+Total Tokens   : 919
+-------------------------------
+
+Route Name     : moistane-eye-drop
+Language       : urdu-content
+Total Tokens   : 965
+-------------------------------
+
+Route Name     : moistane-eye-drop
+Language       : urdu-content
+Total Tokens   : 910
+-------------------------------
+
+Route Name     : moistane-eye-drop
+Language       : urdu-content
+Total Tokens   : 856
+-------------------------------
+
+Route Name     : moistane-eye-drop
+Language       : urdu-content
+Total Tokens   : 763
+-------------------------------
+
+Route Name     : moistane-eye-drop
+Language       : urdu-content
+Total Tokens   : 856
+-------------------------------
+
+Route Name     : moistane-eye-drop
+Language       : urdu-content
+Total Tokens   : 908
+-------------------------------
+
+Route Name     : moistane-eye-drop
+Language       : urdu-content
+Total Tokens   : 1023
+-------------------------------
+
+Route Name     : moistane-eye-drop
+Language       : urdu-content
+Total Tokens   : 843
+-------------------------------
+
+Route Name     : choliv-syrup
+Language       : urdu-content
+Total Tokens   : 760
+-------------------------------
+
+Route Name     : choliv-syrup
+Language       : urdu-content
+Total Tokens   : 753
+-------------------------------
+
+Route Name     : choliv-syrup
+Language       : urdu-content
+Total Tokens   : 849
+-------------------------------
+
+Route Name     : choliv-syrup
+Language       : urdu-content
+Total Tokens   : 762
+-------------------------------
+
+Route Name     : choliv-syrup
+Language       : urdu-content
+Total Tokens   : 916
+-------------------------------
+
+Route Name     : choliv-syrup
+Language       : urdu-content
+Total Tokens   : 825
+-------------------------------
+
+Route Name     : choliv-syrup
+Language       : urdu-content
+Total Tokens   : 1072
+-------------------------------
+
+Route Name     : choliv-syrup
+Language       : urdu-content
+Total Tokens   : 1173
+-------------------------------
+
+Route Name     : choliv-syrup
+Language       : urdu-content
+Total Tokens   : 824
+-------------------------------
+
+Route Name     : choliv-syrup
+Language       : urdu-content
+Total Tokens   : 854
+-------------------------------
+
+Route Name     : choliv-syrup
+Language       : urdu-content
+Total Tokens   : 867
+-------------------------------
+
+Route Name     : choliv-syrup
+Language       : urdu-content
+Total Tokens   : 748
+-------------------------------
+
+Route Name     : choliv-syrup
+Language       : urdu-content
+Total Tokens   : 748
+-------------------------------
+
+Route Name     : choliv-syrup
+Language       : urdu-content
+Total Tokens   : 1052
+-------------------------------
+
+Route Name     : choliv-syrup
+Language       : urdu-content
+Total Tokens   : 894
+-------------------------------
+
+Route Name     : risdone-plus-tablet-10s
+Language       : urdu-content
+Total Tokens   : 760
+-------------------------------
+
+Route Name     : risdone-plus-tablet-10s
+Language       : urdu-content
+Total Tokens   : 756
+-------------------------------
+
+Route Name     : risdone-plus-tablet-10s
+Language       : urdu-content
+Total Tokens   : 802
+-------------------------------
+
+Route Name     : risdone-plus-tablet-10s
+Language       : urdu-content
+Total Tokens   : 753
+-------------------------------
+
+Route Name     : risdone-plus-tablet-10s
+Language       : urdu-content
+Total Tokens   : 850
+-------------------------------
+
+Route Name     : risdone-plus-tablet-10s
+Language       : urdu-content
+Total Tokens   : 812
+-------------------------------
+
+Route Name     : risdone-plus-tablet-10s
+Language       : urdu-content
+Total Tokens   : 790
+-------------------------------
+
+Route Name     : risdone-plus-tablet-10s
+Language       : urdu-content
+Total Tokens   : 942
+-------------------------------
+
+Route Name     : risdone-plus-tablet-10s
+Language       : urdu-content
+Total Tokens   : 800
+-------------------------------
+
+Route Name     : risdone-plus-tablet-10s
+Language       : urdu-content
+Total Tokens   : 1208
+-------------------------------
+
+Route Name     : risdone-plus-tablet-10s
+Language       : urdu-content
+Total Tokens   : 822
+-------------------------------
+
+Route Name     : risdone-plus-tablet-10s
+Language       : urdu-content
+Total Tokens   : 832
+-------------------------------
+
+Route Name     : risdone-plus-tablet-10s
+Language       : urdu-content
+Total Tokens   : 802
+-------------------------------
+
+Route Name     : risdone-plus-tablet-10s
+Language       : urdu-content
+Total Tokens   : 746
+-------------------------------
+
+Route Name     : risdone-plus-tablet-10s
+Language       : urdu-content
+Total Tokens   : 1054
+-------------------------------
+
+Route Name     : risdone-plus-tablet-10s
+Language       : urdu-content
+Total Tokens   : 1019
+-------------------------------
+
+Route Name     : risdone-plus-tablet-10s
+Language       : urdu-content
+Total Tokens   : 819
+-------------------------------
+
+Route Name     : benalgis-100mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 770
+-------------------------------
+
+Route Name     : benalgis-100mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 770
+-------------------------------
+
+Route Name     : benalgis-100mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 763
+-------------------------------
+
+Route Name     : benalgis-100mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 756
+-------------------------------
+
+Route Name     : benalgis-100mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 867
+-------------------------------
+
+Route Name     : benalgis-100mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 823
+-------------------------------
+
+Route Name     : benalgis-100mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 912
+-------------------------------
+
+Route Name     : benalgis-100mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 830
+-------------------------------
+
+Route Name     : benalgis-100mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 755
+-------------------------------
+
+Route Name     : benalgis-100mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 765
+-------------------------------
+
+Route Name     : benalgis-100mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 1592
+-------------------------------
+
+Route Name     : benalgis-100mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 912
+-------------------------------
+
+Route Name     : benalgis-100mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 918
+-------------------------------
+
+Route Name     : benalgis-100mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 765
+-------------------------------
+
+Route Name     : benalgis-100mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 764
+-------------------------------
+
+Route Name     : benalgis-100mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 959
+-------------------------------
+
+Route Name     : benalgis-100mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 928
+-------------------------------
+
+Route Name     : satrogyl-o-dry-syrup
+Language       : urdu-content
+Total Tokens   : 761
+-------------------------------
+
+Route Name     : satrogyl-o-dry-syrup
+Language       : urdu-content
+Total Tokens   : 757
+-------------------------------
+
+Route Name     : satrogyl-o-dry-syrup
+Language       : urdu-content
+Total Tokens   : 798
+-------------------------------
+
+Route Name     : satrogyl-o-dry-syrup
+Language       : urdu-content
+Total Tokens   : 764
+-------------------------------
+
+Route Name     : satrogyl-o-dry-syrup
+Language       : urdu-content
+Total Tokens   : 2248
+-------------------------------
+
+Route Name     : satrogyl-o-dry-syrup
+Language       : urdu-content
+Total Tokens   : 885
+-------------------------------
+
+Route Name     : satrogyl-o-dry-syrup
+Language       : urdu-content
+Total Tokens   : 977
+-------------------------------
+
+Route Name     : satrogyl-o-dry-syrup
+Language       : urdu-content
+Total Tokens   : 992
+-------------------------------
+
+Route Name     : satrogyl-o-dry-syrup
+Language       : urdu-content
+Total Tokens   : 765
+-------------------------------
+
+Route Name     : satrogyl-o-dry-syrup
+Language       : urdu-content
+Total Tokens   : 804
+-------------------------------
+
+Route Name     : satrogyl-o-dry-syrup
+Language       : urdu-content
+Total Tokens   : 1822
+-------------------------------
+
+Route Name     : satrogyl-o-dry-syrup
+Language       : urdu-content
+Total Tokens   : 878
+-------------------------------
+
+Route Name     : satrogyl-o-dry-syrup
+Language       : urdu-content
+Total Tokens   : 1056
+-------------------------------
+
+Route Name     : satrogyl-o-dry-syrup
+Language       : urdu-content
+Total Tokens   : 830
+-------------------------------
+
+Route Name     : satrogyl-o-dry-syrup
+Language       : urdu-content
+Total Tokens   : 809
+-------------------------------
+
+Route Name     : satrogyl-o-dry-syrup
+Language       : urdu-content
+Total Tokens   : 850
+-------------------------------
+
+Route Name     : satrogyl-o-dry-syrup
+Language       : urdu-content
+Total Tokens   : 1069
+-------------------------------
+
+Route Name     : new-powergyl-syrup-30ml
+Language       : urdu-content
+Total Tokens   : 771
+-------------------------------
+
+Route Name     : new-powergyl-syrup-30ml
+Language       : urdu-content
+Total Tokens   : 752
+-------------------------------
+
+Route Name     : new-powergyl-syrup-30ml
+Language       : urdu-content
+Total Tokens   : 795
+-------------------------------
+
+Route Name     : new-powergyl-syrup-30ml
+Language       : urdu-content
+Total Tokens   : 766
+-------------------------------
+
+Route Name     : new-powergyl-syrup-30ml
+Language       : urdu-content
+Total Tokens   : 1873
+-------------------------------
+
+Route Name     : new-powergyl-syrup-30ml
+Language       : urdu-content
+Total Tokens   : 851
+-------------------------------
+
+Route Name     : new-powergyl-syrup-30ml
+Language       : urdu-content
+Total Tokens   : 958
+-------------------------------
+
+Route Name     : new-powergyl-syrup-30ml
+Language       : urdu-content
+Total Tokens   : 876
+-------------------------------
+
+Route Name     : new-powergyl-syrup-30ml
+Language       : urdu-content
+Total Tokens   : 813
+-------------------------------
+
+Route Name     : new-powergyl-syrup-30ml
+Language       : urdu-content
+Total Tokens   : 1390
+-------------------------------
+
+Route Name     : new-powergyl-syrup-30ml
+Language       : urdu-content
+Total Tokens   : 978
+-------------------------------
+
+Route Name     : new-powergyl-syrup-30ml
+Language       : urdu-content
+Total Tokens   : 945
+-------------------------------
+
+Route Name     : new-powergyl-syrup-30ml
+Language       : urdu-content
+Total Tokens   : 949
+-------------------------------
+
+Route Name     : new-powergyl-syrup-30ml
+Language       : urdu-content
+Total Tokens   : 798
+-------------------------------
+
+Route Name     : mirbeg-50mg-tablet-er-10s
+Language       : urdu-content
+Total Tokens   : 767
+-------------------------------
+
+Route Name     : mirbeg-50mg-tablet-er-10s
+Language       : urdu-content
+Total Tokens   : 759
+-------------------------------
+
+Route Name     : mirbeg-50mg-tablet-er-10s
+Language       : urdu-content
+Total Tokens   : 763
+-------------------------------
+
+Route Name     : mirbeg-50mg-tablet-er-10s
+Language       : urdu-content
+Total Tokens   : 756
+-------------------------------
+
+Route Name     : mirbeg-50mg-tablet-er-10s
+Language       : urdu-content
+Total Tokens   : 884
+-------------------------------
+
+Route Name     : mirbeg-50mg-tablet-er-10s
+Language       : urdu-content
+Total Tokens   : 804
+-------------------------------
+
+Route Name     : mirbeg-50mg-tablet-er-10s
+Language       : urdu-content
+Total Tokens   : 762
+-------------------------------
+
+Route Name     : mirbeg-50mg-tablet-er-10s
+Language       : urdu-content
+Total Tokens   : 884
+-------------------------------
+
+Route Name     : mirbeg-50mg-tablet-er-10s
+Language       : urdu-content
+Total Tokens   : 799
+-------------------------------
+
+Route Name     : mirbeg-50mg-tablet-er-10s
+Language       : urdu-content
+Total Tokens   : 1293
+-------------------------------
+
+Route Name     : mirbeg-50mg-tablet-er-10s
+Language       : urdu-content
+Total Tokens   : 848
+-------------------------------
+
+Route Name     : mirbeg-50mg-tablet-er-10s
+Language       : urdu-content
+Total Tokens   : 823
+-------------------------------
+
+Route Name     : mirbeg-50mg-tablet-er-10s
+Language       : urdu-content
+Total Tokens   : 843
+-------------------------------
+
+Route Name     : mirbeg-50mg-tablet-er-10s
+Language       : urdu-content
+Total Tokens   : 748
+-------------------------------
+
+Route Name     : mirbeg-50mg-tablet-er-10s
+Language       : urdu-content
+Total Tokens   : 917
+-------------------------------
+
+Route Name     : mirbeg-50mg-tablet-er-10s
+Language       : urdu-content
+Total Tokens   : 1169
+-------------------------------
+
+Route Name     : mirbeg-50mg-tablet-er-10s
+Language       : urdu-content
+Total Tokens   : 792
+-------------------------------
+
+Route Name     : montek-ab-10mg200mg-tablet-sr-10s
+Language       : urdu-content
+Total Tokens   : 780
+-------------------------------
+
+Route Name     : montek-ab-10mg200mg-tablet-sr-10s
+Language       : urdu-content
+Total Tokens   : 758
+-------------------------------
+
+Route Name     : montek-ab-10mg200mg-tablet-sr-10s
+Language       : urdu-content
+Total Tokens   : 791
+-------------------------------
+
+Route Name     : montek-ab-10mg200mg-tablet-sr-10s
+Language       : urdu-content
+Total Tokens   : 753
+-------------------------------
+
+Route Name     : montek-ab-10mg200mg-tablet-sr-10s
+Language       : urdu-content
+Total Tokens   : 1045
+-------------------------------
+
+Route Name     : montek-ab-10mg200mg-tablet-sr-10s
+Language       : urdu-content
+Total Tokens   : 853
+-------------------------------
+
+Route Name     : montek-ab-10mg200mg-tablet-sr-10s
+Language       : urdu-content
+Total Tokens   : 908
+-------------------------------
+
+Route Name     : montek-ab-10mg200mg-tablet-sr-10s
+Language       : urdu-content
+Total Tokens   : 1063
+-------------------------------
+
+Route Name     : montek-ab-10mg200mg-tablet-sr-10s
+Language       : urdu-content
+Total Tokens   : 893
+-------------------------------
+
+Route Name     : montek-ab-10mg200mg-tablet-sr-10s
+Language       : urdu-content
+Total Tokens   : 1377
+-------------------------------
+
+Route Name     : montek-ab-10mg200mg-tablet-sr-10s
+Language       : urdu-content
+Total Tokens   : 1010
+-------------------------------
+
+Route Name     : montek-ab-10mg200mg-tablet-sr-10s
+Language       : urdu-content
+Total Tokens   : 882
+-------------------------------
+
+Route Name     : montek-ab-10mg200mg-tablet-sr-10s
+Language       : urdu-content
+Total Tokens   : 1035
+-------------------------------
+
+Route Name     : montek-ab-10mg200mg-tablet-sr-10s
+Language       : urdu-content
+Total Tokens   : 745
+-------------------------------
+
+Route Name     : montek-ab-10mg200mg-tablet-sr-10s
+Language       : urdu-content
+Total Tokens   : 945
+-------------------------------
+
+Route Name     : montek-ab-10mg200mg-tablet-sr-10s
+Language       : urdu-content
+Total Tokens   : 894
+-------------------------------
+
+Route Name     : montek-ab-10mg200mg-tablet-sr-10s
+Language       : urdu-content
+Total Tokens   : 859
+-------------------------------
+
+Route Name     : movexx-plus-tablet-10s
+Language       : urdu-content
+Total Tokens   : 763
+-------------------------------
+
+Route Name     : movexx-plus-tablet-10s
+Language       : urdu-content
+Total Tokens   : 749
+-------------------------------
+
+Route Name     : movexx-plus-tablet-10s
+Language       : urdu-content
+Total Tokens   : 785
+-------------------------------
+
+Route Name     : movexx-plus-tablet-10s
+Language       : urdu-content
+Total Tokens   : 753
+-------------------------------
+
+Route Name     : movexx-plus-tablet-10s
+Language       : urdu-content
+Total Tokens   : 1370
+-------------------------------
+
+Route Name     : movexx-plus-tablet-10s
+Language       : urdu-content
+Total Tokens   : 749
+-------------------------------
+
+Route Name     : movexx-plus-tablet-10s
+Language       : urdu-content
+Total Tokens   : 919
+-------------------------------
+
+Route Name     : movexx-plus-tablet-10s
+Language       : urdu-content
+Total Tokens   : 1042
+-------------------------------
+
+Route Name     : movexx-plus-tablet-10s
+Language       : urdu-content
+Total Tokens   : 749
+-------------------------------
+
+Route Name     : movexx-plus-tablet-10s
+Language       : urdu-content
+Total Tokens   : 829
+-------------------------------
+
+Route Name     : movexx-plus-tablet-10s
+Language       : urdu-content
+Total Tokens   : 1890
+-------------------------------
+
+Route Name     : movexx-plus-tablet-10s
+Language       : urdu-content
+Total Tokens   : 819
+-------------------------------
+
+Route Name     : movexx-plus-tablet-10s
+Language       : urdu-content
+Total Tokens   : 780
+-------------------------------
+
+Route Name     : movexx-plus-tablet-10s
+Language       : urdu-content
+Total Tokens   : 773
+-------------------------------
+
+Route Name     : movexx-plus-tablet-10s
+Language       : urdu-content
+Total Tokens   : 909
+-------------------------------
+
+Route Name     : movexx-plus-tablet-10s
+Language       : urdu-content
+Total Tokens   : 944
+-------------------------------
+
+Route Name     : movexx-plus-tablet-10s
+Language       : urdu-content
+Total Tokens   : 795
+-------------------------------
+
+Route Name     : movexx-plus-tablet-10s
+Language       : urdu-content
+Total Tokens   : 805
+-------------------------------
+
+Route Name     : movexx-plus-tablet-10s
+Language       : urdu-content
+Total Tokens   : 868
+-------------------------------
+
+Route Name     : sevista-60mg-tablet-15s
+Language       : urdu-content
+Total Tokens   : 766
+-------------------------------
+
+Route Name     : sevista-60mg-tablet-15s
+Language       : urdu-content
+Total Tokens   : 756
+-------------------------------
+
+Route Name     : sevista-60mg-tablet-15s
+Language       : urdu-content
+Total Tokens   : 774
+-------------------------------
+
+Route Name     : sevista-60mg-tablet-15s
+Language       : urdu-content
+Total Tokens   : 755
+-------------------------------
+
+Route Name     : sevista-60mg-tablet-15s
+Language       : urdu-content
+Total Tokens   : 1516
+-------------------------------
+
+Route Name     : sevista-60mg-tablet-15s
+Language       : urdu-content
+Total Tokens   : 837
+-------------------------------
+
+Route Name     : sevista-60mg-tablet-15s
+Language       : urdu-content
+Total Tokens   : 922
+-------------------------------
+
+Route Name     : sevista-60mg-tablet-15s
+Language       : urdu-content
+Total Tokens   : 820
+-------------------------------
+
+Route Name     : sevista-60mg-tablet-15s
+Language       : urdu-content
+Total Tokens   : 749
+-------------------------------
+
+Route Name     : sevista-60mg-tablet-15s
+Language       : urdu-content
+Total Tokens   : 754
+-------------------------------
+
+Route Name     : sevista-60mg-tablet-15s
+Language       : urdu-content
+Total Tokens   : 1540
+-------------------------------
+
+Route Name     : entroflora-drops-10ml
+Language       : urdu-content
+Total Tokens   : 758
+-------------------------------
+
+Route Name     : entroflora-drops-10ml
+Language       : urdu-content
+Total Tokens   : 754
+-------------------------------
+
+Route Name     : entroflora-drops-10ml
+Language       : urdu-content
+Total Tokens   : 757
+-------------------------------
+
+Route Name     : entroflora-drops-10ml
+Language       : urdu-content
+Total Tokens   : 758
+-------------------------------
+
+Route Name     : entroflora-drops-10ml
+Language       : urdu-content
+Total Tokens   : 1293
+-------------------------------
+
+Route Name     : entroflora-drops-10ml
+Language       : urdu-content
+Total Tokens   : 839
+-------------------------------
+
+Route Name     : entroflora-drops-10ml
+Language       : urdu-content
+Total Tokens   : 899
+-------------------------------
+
+Route Name     : entroflora-drops-10ml
+Language       : urdu-content
+Total Tokens   : 1113
+-------------------------------
+
+Route Name     : entroflora-drops-10ml
+Language       : urdu-content
+Total Tokens   : 749
+-------------------------------
+
+Route Name     : entroflora-drops-10ml
+Language       : urdu-content
+Total Tokens   : 823
+-------------------------------
+
+Route Name     : entroflora-drops-10ml
+Language       : urdu-content
+Total Tokens   : 1334
+-------------------------------
+
+Route Name     : entroflora-drops-10ml
+Language       : urdu-content
+Total Tokens   : 838
+-------------------------------
+
+Route Name     : entroflora-drops-10ml
+Language       : urdu-content
+Total Tokens   : 840
+-------------------------------
+
+Route Name     : entroflora-drops-10ml
+Language       : urdu-content
+Total Tokens   : 920
+-------------------------------
+
+Route Name     : entroflora-drops-10ml
+Language       : urdu-content
+Total Tokens   : 795
+-------------------------------
+
+Route Name     : entroflora-drops-10ml
+Language       : urdu-content
+Total Tokens   : 808
+-------------------------------
+
+Route Name     : entroflora-drops-10ml
+Language       : urdu-content
+Total Tokens   : 1090
+-------------------------------
+
+Route Name     : entroflora-drops-10ml
+Language       : urdu-content
+Total Tokens   : 1002
+-------------------------------
+
+Route Name     : entroflora-drops-10ml
+Language       : urdu-content
+Total Tokens   : 849
+-------------------------------
+
+Route Name     : entroflora-drops-10ml
+Language       : urdu-content
+Total Tokens   : 1341
+-------------------------------
+
+Route Name     : entroflora-drops-10ml
+Language       : urdu-content
+Total Tokens   : 903
+-------------------------------
+
+Route Name     : entroflora-drops-10ml
+Language       : urdu-content
+Total Tokens   : 802
+-------------------------------
+
+Route Name     : entroflora-drops-10ml
+Language       : urdu-content
+Total Tokens   : 1011
+-------------------------------
+
+Route Name     : cuticans-cream-100gm
+Language       : urdu-content
+Total Tokens   : 756
+-------------------------------
+
+Route Name     : cuticans-cream-100gm
+Language       : urdu-content
+Total Tokens   : 768
+-------------------------------
+
+Route Name     : cuticans-cream-100gm
+Language       : urdu-content
+Total Tokens   : 755
+-------------------------------
+
+Route Name     : cuticans-cream-100gm
+Language       : urdu-content
+Total Tokens   : 756
+-------------------------------
+
+Route Name     : cuticans-cream-100gm
+Language       : urdu-content
+Total Tokens   : 956
+-------------------------------
+
+Route Name     : cuticans-cream-100gm
+Language       : urdu-content
+Total Tokens   : 945
+-------------------------------
+
+Route Name     : cuticans-cream-100gm
+Language       : urdu-content
+Total Tokens   : 912
+-------------------------------
+
+Route Name     : cuticans-cream-100gm
+Language       : urdu-content
+Total Tokens   : 1090
+-------------------------------
+
+Route Name     : cuticans-cream-100gm
+Language       : urdu-content
+Total Tokens   : 903
+-------------------------------
+
+Route Name     : cuticans-cream-100gm
+Language       : urdu-content
+Total Tokens   : 922
+-------------------------------
+
+Route Name     : cuticans-cream-100gm
+Language       : urdu-content
+Total Tokens   : 1018
+-------------------------------
+
+Route Name     : xenadom-500-tablet-10s
+Language       : urdu-content
+Total Tokens   : 765
+-------------------------------
+
+Route Name     : xenadom-500-tablet-10s
+Language       : urdu-content
+Total Tokens   : 750
+-------------------------------
+
+Route Name     : xenadom-500-tablet-10s
+Language       : urdu-content
+Total Tokens   : 782
+-------------------------------
+
+Route Name     : xenadom-500-tablet-10s
+Language       : urdu-content
+Total Tokens   : 753
+-------------------------------
+
+Route Name     : xenadom-500-tablet-10s
+Language       : urdu-content
+Total Tokens   : 959
+-------------------------------
+
+Route Name     : xenadom-500-tablet-10s
+Language       : urdu-content
+Total Tokens   : 850
+-------------------------------
+
+Route Name     : xenadom-500-tablet-10s
+Language       : urdu-content
+Total Tokens   : 982
+-------------------------------
+
+Route Name     : xenadom-500-tablet-10s
+Language       : urdu-content
+Total Tokens   : 968
+-------------------------------
+
+Route Name     : xenadom-500-tablet-10s
+Language       : urdu-content
+Total Tokens   : 760
+-------------------------------
+
+Route Name     : xenadom-500-tablet-10s
+Language       : urdu-content
+Total Tokens   : 867
+-------------------------------
+
+Route Name     : xenadom-500-tablet-10s
+Language       : urdu-content
+Total Tokens   : 1516
+-------------------------------
+
+Route Name     : xenadom-500-tablet-10s
+Language       : urdu-content
+Total Tokens   : 921
+-------------------------------
+
+Route Name     : xenadom-500-tablet-10s
+Language       : urdu-content
+Total Tokens   : 935
+-------------------------------
+
+Route Name     : xenadom-500-tablet-10s
+Language       : urdu-content
+Total Tokens   : 1089
+-------------------------------
+
+Route Name     : xenadom-500-tablet-10s
+Language       : urdu-content
+Total Tokens   : 898
+-------------------------------
+
+Route Name     : xenadom-500-tablet-10s
+Language       : urdu-content
+Total Tokens   : 767
+-------------------------------
+
+Route Name     : xenadom-500-tablet-10s
+Language       : urdu-content
+Total Tokens   : 875
+-------------------------------
+
+Route Name     : xenadom-500-tablet-10s
+Language       : urdu-content
+Total Tokens   : 892
+-------------------------------
+
+Route Name     : xenadom-500-tablet-10s
+Language       : urdu-content
+Total Tokens   : 823
+-------------------------------
+
+Route Name     : xenadom-500-tablet-10s
+Language       : urdu-content
+Total Tokens   : 858
+-------------------------------
+
+Route Name     : ursolid-300mg-tablet
+Language       : urdu-content
+Total Tokens   : 758
+-------------------------------
+
+Route Name     : ursolid-300mg-tablet
+Language       : urdu-content
+Total Tokens   : 758
+-------------------------------
+
+Route Name     : ursolid-300mg-tablet
+Language       : urdu-content
+Total Tokens   : 782
+-------------------------------
+
+Route Name     : ursolid-300mg-tablet
+Language       : urdu-content
+Total Tokens   : 755
+-------------------------------
+
+Route Name     : ursolid-300mg-tablet
+Language       : urdu-content
+Total Tokens   : 1509
+-------------------------------
+
+Route Name     : ursolid-300mg-tablet
+Language       : urdu-content
+Total Tokens   : 925
+-------------------------------
+
+Route Name     : ursolid-300mg-tablet
+Language       : urdu-content
+Total Tokens   : 922
+-------------------------------
+
+Route Name     : ursolid-300mg-tablet
+Language       : urdu-content
+Total Tokens   : 896
+-------------------------------
+
+Route Name     : ursolid-300mg-tablet
+Language       : urdu-content
+Total Tokens   : 750
+-------------------------------
+
+Route Name     : ursolid-300mg-tablet
+Language       : urdu-content
+Total Tokens   : 928
+-------------------------------
+
+Route Name     : ursolid-300mg-tablet
+Language       : urdu-content
+Total Tokens   : 1445
+-------------------------------
+
+Route Name     : ursolid-300mg-tablet
+Language       : urdu-content
+Total Tokens   : 918
+-------------------------------
+
+Route Name     : ursolid-300mg-tablet
+Language       : urdu-content
+Total Tokens   : 904
+-------------------------------
+
+Route Name     : ursolid-300mg-tablet
+Language       : urdu-content
+Total Tokens   : 1010
+-------------------------------
+
+Route Name     : ursolid-300mg-tablet
+Language       : urdu-content
+Total Tokens   : 819
+-------------------------------
+
+Route Name     : ursolid-300mg-tablet
+Language       : urdu-content
+Total Tokens   : 771
+-------------------------------
+
+Route Name     : ursolid-300mg-tablet
+Language       : urdu-content
+Total Tokens   : 986
+-------------------------------
+
+Route Name     : ursolid-300mg-tablet
+Language       : urdu-content
+Total Tokens   : 881
+-------------------------------
+
+Route Name     : ursolid-300mg-tablet
+Language       : urdu-content
+Total Tokens   : 955
+-------------------------------
+
+Route Name     : ursolid-300mg-tablet
+Language       : urdu-content
+Total Tokens   : 871
+-------------------------------
+
+Route Name     : lacryl-ultra-eye-drop-10ml
+Language       : urdu-content
+Total Tokens   : 762
+-------------------------------
+
+Route Name     : lacryl-ultra-eye-drop-10ml
+Language       : urdu-content
+Total Tokens   : 748
+-------------------------------
+
+Route Name     : lacryl-ultra-eye-drop-10ml
+Language       : urdu-content
+Total Tokens   : 817
+-------------------------------
+
+Route Name     : lacryl-ultra-eye-drop-10ml
+Language       : urdu-content
+Total Tokens   : 764
+-------------------------------
+
+Route Name     : lacryl-ultra-eye-drop-10ml
+Language       : urdu-content
+Total Tokens   : 1147
+-------------------------------
+
+Route Name     : lacryl-ultra-eye-drop-10ml
+Language       : urdu-content
+Total Tokens   : 770
+-------------------------------
+
+Route Name     : lacryl-ultra-eye-drop-10ml
+Language       : urdu-content
+Total Tokens   : 928
+-------------------------------
+
+Route Name     : lacryl-ultra-eye-drop-10ml
+Language       : urdu-content
+Total Tokens   : 952
+-------------------------------
+
+Route Name     : lacryl-ultra-eye-drop-10ml
+Language       : urdu-content
+Total Tokens   : 755
+-------------------------------
+
+Route Name     : lacryl-ultra-eye-drop-10ml
+Language       : urdu-content
+Total Tokens   : 799
+-------------------------------
+
+Route Name     : lacryl-ultra-eye-drop-10ml
+Language       : urdu-content
+Total Tokens   : 1496
+-------------------------------
+
+Route Name     : lacryl-ultra-eye-drop-10ml
+Language       : urdu-content
+Total Tokens   : 911
+-------------------------------
+
+Route Name     : lacryl-ultra-eye-drop-10ml
+Language       : urdu-content
+Total Tokens   : 958
+-------------------------------
+
+Route Name     : lacryl-ultra-eye-drop-10ml
+Language       : urdu-content
+Total Tokens   : 900
+-------------------------------
+
+Route Name     : lacryl-ultra-eye-drop-10ml
+Language       : urdu-content
+Total Tokens   : 853
+-------------------------------
+
+Route Name     : lacryl-ultra-eye-drop-10ml
+Language       : urdu-content
+Total Tokens   : 760
+-------------------------------
+
+Route Name     : lacryl-ultra-eye-drop-10ml
+Language       : urdu-content
+Total Tokens   : 850
+-------------------------------
+
+Route Name     : lacryl-ultra-eye-drop-10ml
+Language       : urdu-content
+Total Tokens   : 900
+-------------------------------
+
+Route Name     : lacryl-ultra-eye-drop-10ml
+Language       : urdu-content
+Total Tokens   : 1015
+-------------------------------
+
+Route Name     : lacryl-ultra-eye-drop-10ml
+Language       : urdu-content
+Total Tokens   : 832
+-------------------------------
+
+Route Name     : vomikind-injection
+Language       : urdu-content
+Total Tokens   : 750
+-------------------------------
+
+Route Name     : vomikind-injection
+Language       : urdu-content
+Total Tokens   : 748
+-------------------------------
+
+Route Name     : vomikind-injection
+Language       : urdu-content
+Total Tokens   : 761
+-------------------------------
+
+Route Name     : vomikind-injection
+Language       : urdu-content
+Total Tokens   : 759
+-------------------------------
+
+Route Name     : vomikind-injection
+Language       : urdu-content
+Total Tokens   : 917
+-------------------------------
+
+Route Name     : vomikind-injection
+Language       : urdu-content
+Total Tokens   : 768
+-------------------------------
+
+Route Name     : vomikind-injection
+Language       : urdu-content
+Total Tokens   : 1058
+-------------------------------
+
+Route Name     : vomikind-injection
+Language       : urdu-content
+Total Tokens   : 825
+-------------------------------
+
+Route Name     : vomikind-injection
+Language       : urdu-content
+Total Tokens   : 778
+-------------------------------
+
+Route Name     : vomikind-injection
+Language       : urdu-content
+Total Tokens   : 1301
+-------------------------------
+
+Route Name     : vomikind-injection
+Language       : urdu-content
+Total Tokens   : 806
+-------------------------------
+
+Route Name     : vomikind-injection
+Language       : urdu-content
+Total Tokens   : 865
+-------------------------------
+
+Route Name     : vomikind-injection
+Language       : urdu-content
+Total Tokens   : 779
+-------------------------------
+
+Route Name     : vomikind-injection
+Language       : urdu-content
+Total Tokens   : 762
+-------------------------------
+
+Route Name     : vomikind-injection
+Language       : urdu-content
+Total Tokens   : 829
+-------------------------------
+
+Route Name     : vomikind-injection
+Language       : urdu-content
+Total Tokens   : 949
+-------------------------------
+
+Route Name     : tribet-2-tablet-er
+Language       : urdu-content
+Total Tokens   : 755
+-------------------------------
+
+Route Name     : tribet-2-tablet-er
+Language       : urdu-content
+Total Tokens   : 740
+-------------------------------
+
+Route Name     : tribet-2-tablet-er
+Language       : urdu-content
+Total Tokens   : 808
+-------------------------------
+
+Route Name     : tribet-2-tablet-er
+Language       : urdu-content
+Total Tokens   : 754
+-------------------------------
+
+Route Name     : tribet-2-tablet-er
+Language       : urdu-content
+Total Tokens   : 944
+-------------------------------
+
+Route Name     : tribet-2-tablet-er
+Language       : urdu-content
+Total Tokens   : 928
+-------------------------------
+
+Route Name     : tribet-2-tablet-er
+Language       : urdu-content
+Total Tokens   : 880
+-------------------------------
+
+Route Name     : tribet-2-tablet-er
+Language       : urdu-content
+Total Tokens   : 948
+-------------------------------
+
+Route Name     : tribet-2-tablet-er
+Language       : urdu-content
+Total Tokens   : 770
+-------------------------------
+
+Route Name     : tribet-2-tablet-er
+Language       : urdu-content
+Total Tokens   : 817
+-------------------------------
+
+Route Name     : tribet-2-tablet-er
+Language       : urdu-content
+Total Tokens   : 1472
+-------------------------------
+
+Route Name     : tribet-2-tablet-er
+Language       : urdu-content
+Total Tokens   : 829
+-------------------------------
+
+Route Name     : tribet-2-tablet-er
+Language       : urdu-content
+Total Tokens   : 900
+-------------------------------
+
+Route Name     : tribet-2-tablet-er
+Language       : urdu-content
+Total Tokens   : 936
+-------------------------------
+
+Route Name     : tribet-2-tablet-er
+Language       : urdu-content
+Total Tokens   : 901
+-------------------------------
+
+Route Name     : tribet-2-tablet-er
+Language       : urdu-content
+Total Tokens   : 746
+-------------------------------
+
+Route Name     : tribet-2-tablet-er
+Language       : urdu-content
+Total Tokens   : 952
+-------------------------------
+
+Route Name     : tribet-2-tablet-er
+Language       : urdu-content
+Total Tokens   : 978
+-------------------------------
+
+Route Name     : tribet-2-tablet-er
+Language       : urdu-content
+Total Tokens   : 825
+-------------------------------
+
+Route Name     : castor-nf-cream-15gm
+Language       : urdu-content
+Total Tokens   : 765
+-------------------------------
+
+Route Name     : castor-nf-cream-15gm
+Language       : urdu-content
+Total Tokens   : 757
+-------------------------------
+
+Route Name     : castor-nf-cream-15gm
+Language       : urdu-content
+Total Tokens   : 841
+-------------------------------
+
+Route Name     : castor-nf-cream-15gm
+Language       : urdu-content
+Total Tokens   : 762
+-------------------------------
+
+Route Name     : castor-nf-cream-15gm
+Language       : urdu-content
+Total Tokens   : 907
+-------------------------------
+
+Route Name     : castor-nf-cream-15gm
+Language       : urdu-content
+Total Tokens   : 853
+-------------------------------
+
+Route Name     : castor-nf-cream-15gm
+Language       : urdu-content
+Total Tokens   : 810
+-------------------------------
+
+Route Name     : castor-nf-cream-15gm
+Language       : urdu-content
+Total Tokens   : 1084
+-------------------------------
+
+Route Name     : castor-nf-cream-15gm
+Language       : urdu-content
+Total Tokens   : 803
+-------------------------------
+
+Route Name     : castor-nf-cream-15gm
+Language       : urdu-content
+Total Tokens   : 1279
+-------------------------------
+
+Route Name     : castor-nf-cream-15gm
+Language       : urdu-content
+Total Tokens   : 820
+-------------------------------
+
+Route Name     : castor-nf-cream-15gm
+Language       : urdu-content
+Total Tokens   : 813
+-------------------------------
+
+Route Name     : castor-nf-cream-15gm
+Language       : urdu-content
+Total Tokens   : 960
+-------------------------------
+
+Route Name     : castor-nf-cream-15gm
+Language       : urdu-content
+Total Tokens   : 795
+-------------------------------
+
+Route Name     : castor-nf-cream-15gm
+Language       : urdu-content
+Total Tokens   : 836
+-------------------------------
+
+Route Name     : castor-nf-cream-15gm
+Language       : urdu-content
+Total Tokens   : 810
+-------------------------------
+
+Route Name     : dronis-30-tablet
+Language       : urdu-content
+Total Tokens   : 756
+-------------------------------
+
+Route Name     : dronis-30-tablet
+Language       : urdu-content
+Total Tokens   : 758
+-------------------------------
+
+Route Name     : dronis-30-tablet
+Language       : urdu-content
+Total Tokens   : 796
+-------------------------------
+
+Route Name     : dronis-30-tablet
+Language       : urdu-content
+Total Tokens   : 753
+-------------------------------
+
+Route Name     : dronis-30-tablet
+Language       : urdu-content
+Total Tokens   : 872
+-------------------------------
+
+Route Name     : dronis-30-tablet
+Language       : urdu-content
+Total Tokens   : 801
+-------------------------------
+
+Route Name     : dronis-30-tablet
+Language       : urdu-content
+Total Tokens   : 818
+-------------------------------
+
+Route Name     : dronis-30-tablet
+Language       : urdu-content
+Total Tokens   : 984
+-------------------------------
+
+Route Name     : dronis-30-tablet
+Language       : urdu-content
+Total Tokens   : 818
+-------------------------------
+
+Route Name     : dronis-30-tablet
+Language       : urdu-content
+Total Tokens   : 1640
+-------------------------------
+
+Route Name     : dronis-30-tablet
+Language       : urdu-content
+Total Tokens   : 788
+-------------------------------
+
+Route Name     : dronis-30-tablet
+Language       : urdu-content
+Total Tokens   : 816
+-------------------------------
+
+Route Name     : dronis-30-tablet
+Language       : urdu-content
+Total Tokens   : 951
+-------------------------------
+
+Route Name     : dronis-30-tablet
+Language       : urdu-content
+Total Tokens   : 820
+-------------------------------
+
+Route Name     : dronis-30-tablet
+Language       : urdu-content
+Total Tokens   : 754
+-------------------------------
+
+Route Name     : dronis-30-tablet
+Language       : urdu-content
+Total Tokens   : 906
+-------------------------------
+
+Route Name     : dronis-30-tablet
+Language       : urdu-content
+Total Tokens   : 815
+-------------------------------
+
+Route Name     : clopitab-150mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 769
+-------------------------------
+
+Route Name     : clopitab-150mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 746
+-------------------------------
+
+Route Name     : clopitab-150mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 761
+-------------------------------
+
+Route Name     : clopitab-150mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 753
+-------------------------------
+
+Route Name     : clopitab-150mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 1889
+-------------------------------
+
+Route Name     : clopitab-150mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 1136
+-------------------------------
+
+Route Name     : clopitab-150mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 925
+-------------------------------
+
+Route Name     : clopitab-150mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 895
+-------------------------------
+
+Route Name     : clopitab-150mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 765
+-------------------------------
+
+Route Name     : clopitab-150mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 748
+-------------------------------
+
+Route Name     : clopitab-150mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 1526
+-------------------------------
+
+Route Name     : lubistar-0.5-eye-drop-10ml
+Language       : urdu-content
+Total Tokens   : 773
+-------------------------------
+
+Route Name     : lubistar-0.5-eye-drop-10ml
+Language       : urdu-content
+Total Tokens   : 751
+-------------------------------
+
+Route Name     : lubistar-0.5-eye-drop-10ml
+Language       : urdu-content
+Total Tokens   : 828
+-------------------------------
+
+Route Name     : lubistar-0.5-eye-drop-10ml
+Language       : urdu-content
+Total Tokens   : 763
+-------------------------------
+
+Route Name     : lubistar-0.5-eye-drop-10ml
+Language       : urdu-content
+Total Tokens   : 2365
+-------------------------------
+
+Route Name     : lubistar-0.5-eye-drop-10ml
+Language       : urdu-content
+Total Tokens   : 863
+-------------------------------
+
+Route Name     : lubistar-0.5-eye-drop-10ml
+Language       : urdu-content
+Total Tokens   : 919
+-------------------------------
+
+Route Name     : lubistar-0.5-eye-drop-10ml
+Language       : urdu-content
+Total Tokens   : 891
+-------------------------------
+
+Route Name     : lubistar-0.5-eye-drop-10ml
+Language       : urdu-content
+Total Tokens   : 819
+-------------------------------
+
+Route Name     : lubistar-0.5-eye-drop-10ml
+Language       : urdu-content
+Total Tokens   : 1298
+-------------------------------
+
+Route Name     : lubistar-0.5-eye-drop-10ml
+Language       : urdu-content
+Total Tokens   : 854
+-------------------------------
+
+Route Name     : lubistar-0.5-eye-drop-10ml
+Language       : urdu-content
+Total Tokens   : 1183
+-------------------------------
+
+Route Name     : lubistar-0.5-eye-drop-10ml
+Language       : urdu-content
+Total Tokens   : 913
+-------------------------------
+
+Route Name     : lubistar-0.5-eye-drop-10ml
+Language       : urdu-content
+Total Tokens   : 786
+-------------------------------
+
+Route Name     : lubistar-0.5-eye-drop-10ml
+Language       : urdu-content
+Total Tokens   : 785
+-------------------------------
+
+Route Name     : lubistar-0.5-eye-drop-10ml
+Language       : urdu-content
+Total Tokens   : 828
+-------------------------------
+
+Route Name     : lubistar-0.5-eye-drop-10ml
+Language       : urdu-content
+Total Tokens   : 800
+-------------------------------
+
+Route Name     : zorbax-500mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 767
+-------------------------------
+
+Route Name     : zorbax-500mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 748
+-------------------------------
+
+Route Name     : zorbax-500mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 760
+-------------------------------
+
+Route Name     : zorbax-500mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 753
+-------------------------------
+
+Route Name     : zorbax-500mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 908
+-------------------------------
+
+Route Name     : zorbax-500mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 844
+-------------------------------
+
+Route Name     : zorbax-500mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 932
+-------------------------------
+
+Route Name     : zorbax-500mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 1005
+-------------------------------
+
+Route Name     : zorbax-500mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 871
+-------------------------------
+
+Route Name     : zorbax-500mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 1335
+-------------------------------
+
+Route Name     : zorbax-500mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 951
+-------------------------------
+
+Route Name     : zorbax-500mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 940
+-------------------------------
+
+Route Name     : zorbax-500mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 799
+-------------------------------
+
+Route Name     : zorbax-500mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 754
+-------------------------------
+
+Route Name     : zorbax-500mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 923
+-------------------------------
+
+Route Name     : zorbax-500mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 856
+-------------------------------
+
+Route Name     : zorbax-500mg-tablet-10s
+Language       : urdu-content
+Total Tokens   : 757
+-------------------------------
+
+Route Name     : polybion-capsule-20s
+Language       : urdu-content
+Total Tokens   : 761
+-------------------------------
+
+Route Name     : polybion-capsule-20s
+Language       : urdu-content
+Total Tokens   : 779
+-------------------------------
+
+Route Name     : polybion-capsule-20s
+Language       : urdu-content
+Total Tokens   : 762
+-------------------------------
+
+Route Name     : polybion-capsule-20s
+Language       : urdu-content
+Total Tokens   : 755
+-------------------------------
+
+Route Name     : polybion-capsule-20s
+Language       : urdu-content
+Total Tokens   : 925
+-------------------------------
+
+Route Name     : polybion-capsule-20s
+Language       : urdu-content
+Total Tokens   : 819
+-------------------------------
+
+Route Name     : polybion-capsule-20s
+Language       : urdu-content
+Total Tokens   : 824
+-------------------------------
+
+Route Name     : polybion-capsule-20s
+Language       : urdu-content
+Total Tokens   : 944
+-------------------------------
+
+Route Name     : polybion-capsule-20s
+Language       : urdu-content
+Total Tokens   : 791
+-------------------------------
+
+Route Name     : polybion-capsule-20s
+Language       : urdu-content
+Total Tokens   : 1517
+-------------------------------
+
+Route Name     : polybion-capsule-20s
+Language       : urdu-content
+Total Tokens   : 839
+-------------------------------
+
+Route Name     : polybion-capsule-20s
+Language       : urdu-content
+Total Tokens   : 838
+-------------------------------
+
+Route Name     : polybion-capsule-20s
+Language       : urdu-content
+Total Tokens   : 816
+-------------------------------
+
+Route Name     : polybion-capsule-20s
+Language       : urdu-content
+Total Tokens   : 757
+-------------------------------
+
+Route Name     : polybion-capsule-20s
+Language       : urdu-content
+Total Tokens   : 869
+-------------------------------
+
+Route Name     : polybion-capsule-20s
+Language       : urdu-content
+Total Tokens   : 774
+-------------------------------
+
+Route Name     : polybion-capsule-20s
+Language       : urdu-content
+Total Tokens   : 909
+-------------------------------
+
+Route Name     : vasograin-tablet-20s
+Language       : urdu-content
+Total Tokens   : 760
+-------------------------------
+
+Route Name     : vasograin-tablet-20s
+Language       : urdu-content
+Total Tokens   : 757
+-------------------------------
+
+Route Name     : vasograin-tablet-20s
+Language       : urdu-content
+Total Tokens   : 847
+-------------------------------
+
+Route Name     : vasograin-tablet-20s
+Language       : urdu-content
+Total Tokens   : 753
+-------------------------------
+
+Route Name     : vasograin-tablet-20s
+Language       : urdu-content
+Total Tokens   : 909
+-------------------------------
+
+Route Name     : vasograin-tablet-20s
+Language       : urdu-content
+Total Tokens   : 857
+-------------------------------
+
+Route Name     : vasograin-tablet-20s
+Language       : urdu-content
+Total Tokens   : 881
+-------------------------------
+
+Route Name     : vasograin-tablet-20s
+Language       : urdu-content
+Total Tokens   : 1044
+-------------------------------
+
+Route Name     : vasograin-tablet-20s
+Language       : urdu-content
+Total Tokens   : 867
+-------------------------------
+
+Route Name     : vasograin-tablet-20s
+Language       : urdu-content
+Total Tokens   : 943
+-------------------------------
+
+Route Name     : vasograin-tablet-20s
+Language       : urdu-content
+Total Tokens   : 948
+-------------------------------
+
+Route Name     : nobel-plus-tablet-10s
+Language       : urdu-content
+Total Tokens   : 757
+-------------------------------
+
+Route Name     : nobel-plus-tablet-10s
+Language       : urdu-content
+Total Tokens   : 754
+-------------------------------
+
+Route Name     : nobel-plus-tablet-10s
+Language       : urdu-content
+Total Tokens   : 836
+-------------------------------
+
+Route Name     : nobel-plus-tablet-10s
+Language       : urdu-content
+Total Tokens   : 753
+-------------------------------
+
+Route Name     : nobel-plus-tablet-10s
+Language       : urdu-content
+Total Tokens   : 899
+-------------------------------
+
+Route Name     : nobel-plus-tablet-10s
+Language       : urdu-content
+Total Tokens   : 848
+-------------------------------
+
+Route Name     : nobel-plus-tablet-10s
+Language       : urdu-content
+Total Tokens   : 820
+-------------------------------
+
+Route Name     : nobel-plus-tablet-10s
+Language       : urdu-content
+Total Tokens   : 1091
+-------------------------------
+
+Route Name     : nobel-plus-tablet-10s
+Language       : urdu-content
+Total Tokens   : 834
+-------------------------------
+
+Route Name     : nobel-plus-tablet-10s
+Language       : urdu-content
+Total Tokens   : 1291
+-------------------------------
+
+Route Name     : nobel-plus-tablet-10s
+Language       : urdu-content
+Total Tokens   : 788
+-------------------------------
+
+Route Name     : nobel-plus-tablet-10s
+Language       : urdu-content
+Total Tokens   : 806
+-------------------------------
+
+Route Name     : nobel-plus-tablet-10s
+Language       : urdu-content
+Total Tokens   : 953
+-------------------------------
+
+Route Name     : nobel-plus-tablet-10s
+Language       : urdu-content
+Total Tokens   : 800
+-------------------------------
+
+Route Name     : nobel-plus-tablet-10s
+Language       : urdu-content
+Total Tokens   : 776
+-------------------------------
+
+Route Name     : nobel-plus-tablet-10s
+Language       : urdu-content
+Total Tokens   : 863
+-------------------------------
+
+Route Name     : nobel-plus-tablet-10s
+Language       : urdu-content
+Total Tokens   : 804
+-------------------------------
+
+Route Name     : meconerv-plus-capsule-10s
+Language       : urdu-content
+Total Tokens   : 767
+-------------------------------
+
+Route Name     : meconerv-plus-capsule-10s
+Language       : urdu-content
+Total Tokens   : 751
+-------------------------------
+
+Route Name     : meconerv-plus-capsule-10s
+Language       : urdu-content
+Total Tokens   : 835
+-------------------------------
+
+Route Name     : meconerv-plus-capsule-10s
+Language       : urdu-content
+Total Tokens   : 758
+-------------------------------
+
+Route Name     : meconerv-plus-capsule-10s
+Language       : urdu-content
+Total Tokens   : 935
+-------------------------------
+
+Route Name     : meconerv-plus-capsule-10s
+Language       : urdu-content
+Total Tokens   : 855
+-------------------------------
+
+Route Name     : meconerv-plus-capsule-10s
+Language       : urdu-content
+Total Tokens   : 836
+-------------------------------
+
+Route Name     : meconerv-plus-capsule-10s
+Language       : urdu-content
+Total Tokens   : 1127
+-------------------------------
+
+Route Name     : meconerv-plus-capsule-10s
+Language       : urdu-content
+Total Tokens   : 843
+-------------------------------
+
+Route Name     : meconerv-plus-capsule-10s
+Language       : urdu-content
+Total Tokens   : 881
+-------------------------------
+
+Route Name     : meconerv-plus-capsule-10s
+Language       : urdu-content
+Total Tokens   : 946
+-------------------------------
+
+Route Name     : himalaya-purifying-neem-face-pack
+Language       : urdu-content
+Total Tokens   : 769
+-------------------------------
+
+Route Name     : himalaya-purifying-neem-face-pack
+Language       : urdu-content
+Total Tokens   : 751
+-------------------------------
+
+Route Name     : himalaya-purifying-neem-face-pack
+Language       : urdu-content
+Total Tokens   : 742
+-------------------------------
+
+Route Name     : himalaya-purifying-neem-face-pack
+Language       : urdu-content
+Total Tokens   : 760
+-------------------------------
+
+Route Name     : himalaya-purifying-neem-face-pack
+Language       : urdu-content
+Total Tokens   : 909
+-------------------------------
+
+Route Name     : himalaya-purifying-neem-face-pack
+Language       : urdu-content
+Total Tokens   : 877
+-------------------------------
+
+Route Name     : himalaya-purifying-neem-face-pack
+Language       : urdu-content
+Total Tokens   : 926
+-------------------------------
+
+Route Name     : himalaya-purifying-neem-face-pack
+Language       : urdu-content
+Total Tokens   : 943
+-------------------------------
+
+Route Name     : himalaya-purifying-neem-face-pack
+Language       : urdu-content
+Total Tokens   : 808
+-------------------------------
+
+Route Name     : himalaya-purifying-neem-face-pack
+Language       : urdu-content
+Total Tokens   : 878
+-------------------------------
+
+Route Name     : himalaya-purifying-neem-face-pack
+Language       : urdu-content
+Total Tokens   : 967
+-------------------------------
