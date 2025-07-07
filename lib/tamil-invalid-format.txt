@@ -1,0 +1,54 @@
+Route Name     : i-kold-eye-drop-10ml
+Language       : tamil-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : sucral-ano-cream-20gm
+Language       : tamil-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : d-fresh-mr-250mg50mg325mg-tablet
+Language       : tamil-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : insta-raft-oral-suspension-200ml
+Language       : tamil-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : lidovis-mouth-wash-300ml
+Language       : tamil-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : tonoderm-5-cream-15gm
+Language       : tamil-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : everyuth-golden-glow-peel-off-mask-sachet-8gm
+Language       : tamil-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : ulgel-a-oral-suspension
+Language       : tamil-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : boxil-o.5wv-eye-drop-10ml
+Language       : tamil-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : biocof-mint-syrup-100ml
+Language       : tamil-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : sultroz-lotion-50ml
+Language       : tamil-invalid-format
+Total Tokens   : 0
+-------------------------------

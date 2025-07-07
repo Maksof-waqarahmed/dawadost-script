@@ -52,3 +52,38 @@ Route Name     : omez-20mg-capsule-20s
 Language       : invalid-format
 Total Tokens   : 0
 -------------------------------
+
+Route Name     : clonate-ointment-30gm
+Language       : invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : nepalact-eye-drop
+Language       : invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : tolkem-d-150mg50mg-tablet
+Language       : invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : prelin-mnt-150mcg10mg75mg-tablet-10s
+Language       : invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : alzolam-0.5mg-tablet-10s
+Language       : invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : nor-metrogyl-suspension-60ml
+Language       : invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : nebistar-2.5mg-tablet-15s
+Language       : invalid-format
+Total Tokens   : 0
+-------------------------------
