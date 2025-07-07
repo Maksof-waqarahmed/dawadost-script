@@ -47,3 +47,8 @@ Route Name     : relvin-gold-50mg4mg250mg-tablet-10s
 Language       : invalid-format
 Total Tokens   : 0
 -------------------------------
+
+Route Name     : omez-20mg-capsule-20s
+Language       : invalid-format
+Total Tokens   : 0
+-------------------------------
