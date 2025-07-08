@@ -17,3 +17,8 @@ Route Name     : health-ok-syrup-200ml
 Language       : telugu-invalid-format
 Total Tokens   : 0
 -------------------------------
+
+Route Name     : rozucor-asp-20150-capsule-10s
+Language       : telugu-invalid-format
+Total Tokens   : 0
+-------------------------------

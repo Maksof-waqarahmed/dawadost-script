@@ -112,3 +112,23 @@ Route Name     : dermi-5-cream-15gm
 Language       : tamil-invalid-format
 Total Tokens   : 0
 -------------------------------
+
+Route Name     : symbal-20mg-tablet-10s
+Language       : tamil-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : gabamax-nt-tablet-10s
+Language       : tamil-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : moxicip-eye-drop-5ml
+Language       : tamil-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : kenacort-0.1-oral-paste-7.5gm
+Language       : tamil-invalid-format
+Total Tokens   : 0
+-------------------------------
