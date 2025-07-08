@@ -82,3 +82,33 @@ Route Name     : pregator-capsule-10s
 Language       : tamil-invalid-format
 Total Tokens   : 0
 -------------------------------
+
+Route Name     : femilon-tablet
+Language       : tamil-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : ondem-2mg-syrup-30ml
+Language       : tamil-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : tegrital-200mg-tablet
+Language       : tamil-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : clonafit-0.25mg-tablet
+Language       : tamil-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : orni-o-tablet
+Language       : tamil-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : dermi-5-cream-15gm
+Language       : tamil-invalid-format
+Total Tokens   : 0
+-------------------------------
