@@ -132,3 +132,28 @@ Route Name     : kenacort-0.1-oral-paste-7.5gm
 Language       : tamil-invalid-format
 Total Tokens   : 0
 -------------------------------
+
+Route Name     : forcan-200-tablet
+Language       : tamil-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : stamlo-5mg-tablet-30s
+Language       : tamil-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : castor-nf-cream-25gm
+Language       : tamil-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : alamin-sn-infusion-200ml
+Language       : tamil-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : sofinox-cream
+Language       : tamil-invalid-format
+Total Tokens   : 0
+-------------------------------
