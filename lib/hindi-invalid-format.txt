@@ -1,0 +1,439 @@
+Route Name     : allercet-5mg10mg500mg-cold-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : allercet-2mg5mg-cold-syrup-60ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : allercet-dc-10mg10mg-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : allercet-m-5mg10mg-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : allerfex-m-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : alprax-0.5mg-tablet-sr-15s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : alrista-150mg-tablet-sr-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : alrista-forte-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : althrocin-liquid-60ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : altoran-40-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : amaryl-2mg-tablet-30s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : amazeo-50-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : ambrodil-s-syrup-100ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : ambrolite-d-plus-syrup-60ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : amicet-5mg60mg-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : amlopin-10-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : amlopres-at-5mg50mg-tablet-15s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : amlovas-xm-5mg50mg-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : amlovas-at-5mg50mg-tablet-15s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : amloz-2.5-tablet
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : ampoxin-kid-125mg125mg-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : amrox-junior-syrup-60ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : amtas-e-5mg5mg-tablet-15s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : amtas-at-25mg-tablet-15s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : anabel-liquid-gel
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : anafortan-25mg-injection-2ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : ancidom-dsr-30mg20mg-capsule
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : ancool-sf-suspension
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : angicam-lt-50-mg5-mg-tablet-15s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : angicam-beta-tablet-15s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : anobliss-cream-30gm
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : antic-25mg-tablet-15s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : antidep-25mg-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : antidep-75-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : app-up-2mg275mg-syrup-200ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : arflur-100mg-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : arifine-2.5-tablet
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : armod-50mg-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : arpimune-o-50mg-capsule-5s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : arvast-cv-10-capsule-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : asar-40-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : ascoril-ls-drops-15ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : ascoril-ls-junior-syrup-60ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : ascovent-100mg-capsule
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : asomet-5mg50mg-tablet-xl
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : asomex-2.5mg-tablet-15s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : asthalin-respules
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : asthalin-ax-syrup-100ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : astharid-plus-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : aten-50mg-tablet-14s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : atm-500-tablet-5s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : atorva-40-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : atrodex-c-eye-drop
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : augmentin-1.2gm-injection
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : avil-injection
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : azee-200mg-liquid-peppermint-orange-15ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : aziderm-15-gel
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : azmarda-50mg-tablet-14s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : aztric-40-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : azulix-2-mf-tablet-pr-15s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : bactafuz-cream-5gm
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : bandy-plus-tablet-1s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : banocide-50mg-tablet-20s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : basalog-100iuml-injection-5ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : benadryl-dr-syrup-100ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : benadryl-syrup-50ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : beplex-plus-injection-11ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : betadine-2-gargle-mint-100ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : betadine-2-gargle-mint-50ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : betadine-vaginal-pessaries
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : betakind-gargle
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : betaloc-100mg-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : esocorp-it-40mg150mg-capsule-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : betavertin-16mg-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : betnesol-0.5mg-tablet-20s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : betnesol-n-eyeear-drops-5ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : bharglob-16.5-injection-2ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : biohistin-16mg-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : bisoheart-2.5mg-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : boostrix-vaccine
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : bricarex-a-expectorant-apple-sugar-free-100ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : brintop-f-10-solution-100ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : bro-zedex-sf-syrup-100ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : bro-zedex-syrup-100ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : broncofil-100mg-capsule-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : brozeet-ls-syrup-100ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : bruzol-o-10mg20mg-capsule
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : budamate-6mcg100mcg-transhaler-120mdi
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------

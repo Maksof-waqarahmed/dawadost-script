@@ -1,0 +1,59 @@
+Route Name     : b-gap-tablet-1s
+Language       : invalid-format-bengali
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : baidyanath-bhringrajasava-syrup-450ml
+Language       : invalid-format-bengali
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : medistat-1.25-nasal-spray-250mdi
+Language       : invalid-format-bengali
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : baidyanath-abhayarishta-syrup-450ml
+Language       : invalid-format-bengali
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : fibopeg-granules-155gm
+Language       : invalid-format-bengali
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : cecox-t-tablet-10s
+Language       : invalid-format-bengali
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : lonitab-2.5-mg-tablet-10s
+Language       : invalid-format-bengali
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : dabur-sutsekhar-ras-tablet-20s
+Language       : invalid-format-bengali
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : dabur-shirahshooladivajra-ras-tablet-20s
+Language       : invalid-format-bengali
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : zisshot-c-syrup-25ml
+Language       : invalid-format-bengali
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : letma-2.5mg-tablet-10s
+Language       : invalid-format-bengali
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : baidyanath-avipattikar-churna-60gm
+Language       : invalid-format-bengali
+Total Tokens   : 0
+-------------------------------

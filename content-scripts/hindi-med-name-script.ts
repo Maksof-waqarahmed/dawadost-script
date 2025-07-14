@@ -130,7 +130,7 @@ async function englishToHindhiConvert() {
 
                     // 🚫 Log full medicine routeName and skip this entire medicine
                     await createOrAppendFile({
-                        language: "invalid-format",
+                        language: "hindi-invalid-format",
                         rName: routeName,
                         tToken: 0,
                     });
