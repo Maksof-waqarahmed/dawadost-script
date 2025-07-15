@@ -1817,3 +1817,1633 @@ Route Name     : budecort-0.25mg-respules-2ml
 Language       : hindi
 Total Tokens   : 278
 -------------------------------
+
+Route Name     : budecort-100mcg-inhaler-200mdi
+Language       : hindi
+Total Tokens   : 276
+-------------------------------
+
+Route Name     : budecort-200-rotacap-30s
+Language       : hindi
+Total Tokens   : 253
+-------------------------------
+
+Route Name     : budecort-400-rotacap-30s
+Language       : hindi
+Total Tokens   : 240
+-------------------------------
+
+Route Name     : budenase-aq-nasal-spray-7.5ml
+Language       : hindi
+Total Tokens   : 244
+-------------------------------
+
+Route Name     : budesal-1mg-respule-2ml
+Language       : hindi
+Total Tokens   : 277
+-------------------------------
+
+Route Name     : budetrol-6mcg200mcg-rotacap-30s
+Language       : hindi
+Total Tokens   : 268
+-------------------------------
+
+Route Name     : budetrol-200mg-inhaler-1s
+Language       : hindi
+Total Tokens   : 249
+-------------------------------
+
+Route Name     : budetrol-400mcg6mcg-inhaler-120-mdi
+Language       : hindi
+Total Tokens   : 245
+-------------------------------
+
+Route Name     : budez-3mg-cr-capsule-10s
+Language       : hindi
+Total Tokens   : 277
+-------------------------------
+
+Route Name     : buta-proxyvon-capsule-10s
+Language       : hindi
+Total Tokens   : 234
+-------------------------------
+
+Route Name     : buvalor-5mg-patch
+Language       : hindi
+Total Tokens   : 233
+-------------------------------
+
+Route Name     : buxoric-40mg-tablet-10s
+Language       : hindi
+Total Tokens   : 246
+-------------------------------
+
+Route Name     : c-sora-ointment
+Language       : hindi
+Total Tokens   : 251
+-------------------------------
+
+Route Name     : caat-10-tablet
+Language       : hindi
+Total Tokens   : 230
+-------------------------------
+
+Route Name     : caberlact-0.25mg-tablet-2s
+Language       : hindi
+Total Tokens   : 252
+-------------------------------
+
+Route Name     : caberlin-0.5mg-tablet-4s
+Language       : hindi
+Total Tokens   : 260
+-------------------------------
+
+Route Name     : cadpril-5mg-tablet
+Language       : hindi
+Total Tokens   : 243
+-------------------------------
+
+Route Name     : calaptin-120mg-tablet-sr-15s
+Language       : hindi
+Total Tokens   : 229
+-------------------------------
+
+Route Name     : calpol-paediatric-drops-peppermint
+Language       : hindi
+Total Tokens   : 258
+-------------------------------
+
+Route Name     : calpsor-lotion-15ml
+Language       : hindi
+Total Tokens   : 247
+-------------------------------
+
+Route Name     : calpsor-0.005-ointment-30gm
+Language       : hindi
+Total Tokens   : 249
+-------------------------------
+
+Route Name     : caluran-50-cp-tablet-30s
+Language       : hindi
+Total Tokens   : 258
+-------------------------------
+
+Route Name     : calutide-50mg-tablet-10s
+Language       : hindi
+Total Tokens   : 252
+-------------------------------
+
+Route Name     : canazole-cream
+Language       : hindi
+Total Tokens   : 251
+-------------------------------
+
+Route Name     : canazole-1-lotion-15ml
+Language       : hindi
+Total Tokens   : 238
+-------------------------------
+
+Route Name     : candid-cream
+Language       : hindi
+Total Tokens   : 248
+-------------------------------
+
+Route Name     : candid-ear-drop-10ml
+Language       : hindi
+Total Tokens   : 227
+-------------------------------
+
+Route Name     : candid-gold-cream-50gm
+Language       : hindi
+Total Tokens   : 240
+-------------------------------
+
+Route Name     : candid-medicated-soap-125gm
+Language       : hindi
+Total Tokens   : 262
+-------------------------------
+
+Route Name     : candid-tv-12.5-suspension-75ml
+Language       : hindi
+Total Tokens   : 228
+-------------------------------
+
+Route Name     : candid-b-cream-30gm
+Language       : hindi
+Total Tokens   : 241
+-------------------------------
+
+Route Name     : candid-b-lotion-30ml
+Language       : hindi
+Total Tokens   : 229
+-------------------------------
+
+Route Name     : candidac-cl-vaginal-gel-30gm
+Language       : hindi
+Total Tokens   : 228
+-------------------------------
+
+Route Name     : candid-cl-vaginal-suppository-3s
+Language       : hindi
+Total Tokens   : 241
+-------------------------------
+
+Route Name     : candid-v-6-tablet-er
+Language       : hindi
+Total Tokens   : 247
+-------------------------------
+
+Route Name     : canditral-200mg-capsule-10s
+Language       : hindi
+Total Tokens   : 273
+-------------------------------
+
+Route Name     : canesten-dusting-powder-100gm
+Language       : hindi
+Total Tokens   : 237
+-------------------------------
+
+Route Name     : canesten-v6-tablet-vt
+Language       : hindi
+Total Tokens   : 240
+-------------------------------
+
+Route Name     : capnea-20mg-solution-1ml
+Language       : hindi
+Total Tokens   : 236
+-------------------------------
+
+Route Name     : capsitop-o-gel-50gm
+Language       : hindi
+Total Tokens   : 252
+-------------------------------
+
+Route Name     : carbophage-g-2-forte-tablet-pr
+Language       : hindi
+Total Tokens   : 256
+-------------------------------
+
+Route Name     : carbophage-g2-tablet-pr-10s
+Language       : hindi
+Total Tokens   : 243
+-------------------------------
+
+Route Name     : carbophage-xr-1000mg-tablet
+Language       : hindi
+Total Tokens   : 253
+-------------------------------
+
+Route Name     : carbophage-500mg-tablet-xr-10s
+Language       : hindi
+Total Tokens   : 250
+-------------------------------
+
+Route Name     : carca-25mg-tablet-10s
+Language       : hindi
+Total Tokens   : 244
+-------------------------------
+
+Route Name     : carca-3.125mg-tablet-15s
+Language       : hindi
+Total Tokens   : 234
+-------------------------------
+
+Route Name     : cardace-meto-2.5-tablet-er-10s
+Language       : hindi
+Total Tokens   : 254
+-------------------------------
+
+Route Name     : cardace-meto-5mg50mg-tablet-er-10s
+Language       : hindi
+Total Tokens   : 247
+-------------------------------
+
+Route Name     : cardace-protect-2.5mg10mg-tablet-10s
+Language       : hindi
+Total Tokens   : 245
+-------------------------------
+
+Route Name     : cardibeta-xr-25mg-tablet-pr-10s
+Language       : hindi
+Total Tokens   : 255
+-------------------------------
+
+Route Name     : cardimol-plus-10-tablet-sr-10s
+Language       : hindi
+Total Tokens   : 249
+-------------------------------
+
+Route Name     : cardirose-5mg-tablet-10s
+Language       : hindi
+Total Tokens   : 241
+-------------------------------
+
+Route Name     : cardirose-f-10-tablet-10s
+Language       : hindi
+Total Tokens   : 246
+-------------------------------
+
+Route Name     : cardivas-25mg-tablet-10s
+Language       : hindi
+Total Tokens   : 239
+-------------------------------
+
+Route Name     : cardivas-cr-10mg-tablet-10s
+Language       : hindi
+Total Tokens   : 244
+-------------------------------
+
+Route Name     : cardivas-20mg-tablet-cr-10s
+Language       : hindi
+Total Tokens   : 248
+-------------------------------
+
+Route Name     : carebet-m-plus-cream
+Language       : hindi
+Total Tokens   : 234
+-------------------------------
+
+Route Name     : carebet-s-lotion
+Language       : hindi
+Total Tokens   : 236
+-------------------------------
+
+Route Name     : carebet-s-ointment-20gm
+Language       : hindi
+Total Tokens   : 237
+-------------------------------
+
+Route Name     : careprost-plus-eye-drop-3ml
+Language       : hindi
+Total Tokens   : 239
+-------------------------------
+
+Route Name     : carloc-3.125-tablet15s
+Language       : hindi
+Total Tokens   : 251
+-------------------------------
+
+Route Name     : carnisure-injection-5ml
+Language       : hindi
+Total Tokens   : 265
+-------------------------------
+
+Route Name     : carnisure-500mg-tablet-10s
+Language       : hindi
+Total Tokens   : 268
+-------------------------------
+
+Route Name     : cartigen-1500mg-tablet-15s
+Language       : hindi
+Total Tokens   : 257
+-------------------------------
+
+Route Name     : cartipil-750mg50mg250mg-tablet
+Language       : hindi
+Total Tokens   : 237
+-------------------------------
+
+Route Name     : carvil-3.125-tablet-10s
+Language       : hindi
+Total Tokens   : 246
+-------------------------------
+
+Route Name     : carvil-6.25-tablet-10s
+Language       : hindi
+Total Tokens   : 248
+-------------------------------
+
+Route Name     : carvistar-12.5mg-tablet-10s
+Language       : hindi
+Total Tokens   : 257
+-------------------------------
+
+Route Name     : cb-lin-tablet-2s
+Language       : hindi
+Total Tokens   : 257
+-------------------------------
+
+Route Name     : ceastra-100mg-capsule-xl-7s
+Language       : hindi
+Total Tokens   : 252
+-------------------------------
+
+Route Name     : cebate-gm-active-cream-15gm
+Language       : hindi
+Total Tokens   : 248
+-------------------------------
+
+Route Name     : cefakind-cv-250mg125mg-tablet-10s
+Language       : hindi
+Total Tokens   : 248
+-------------------------------
+
+Route Name     : cefasom-500mg-tablet
+Language       : hindi
+Total Tokens   : 239
+-------------------------------
+
+Route Name     : ceff-250mg-tablet-dt-10s
+Language       : hindi
+Total Tokens   : 246
+-------------------------------
+
+Route Name     : ceff-500-capsule-10s
+Language       : hindi
+Total Tokens   : 230
+-------------------------------
+
+Route Name     : cefi-200mg-tablet-10s
+Language       : hindi
+Total Tokens   : 286
+-------------------------------
+
+Route Name     : cefi-o-200-tablet-10s
+Language       : hindi
+Total Tokens   : 251
+-------------------------------
+
+Route Name     : cefix-o-200mg200mg-tablet-10s
+Language       : hindi
+Total Tokens   : 268
+-------------------------------
+
+Route Name     : ceflox-cf-cream-15gm
+Language       : hindi
+Total Tokens   : 239
+-------------------------------
+
+Route Name     : cefoclox-xl-tablet
+Language       : hindi
+Total Tokens   : 247
+-------------------------------
+
+Route Name     : cefolac-dt-100-tablet-10s
+Language       : hindi
+Total Tokens   : 241
+-------------------------------
+
+Route Name     : cefolac-drop-10ml
+Language       : hindi
+Total Tokens   : 252
+-------------------------------
+
+Route Name     : cefolac-o-200-tablet-10s
+Language       : hindi
+Total Tokens   : 236
+-------------------------------
+
+Route Name     : cefoprox-100mg-tablet-dt-10s
+Language       : hindi
+Total Tokens   : 251
+-------------------------------
+
+Route Name     : cefoprox-100mg5ml-dry-syrup-30ml
+Language       : hindi
+Total Tokens   : 277
+-------------------------------
+
+Route Name     : cefoprox-50mg-dry-syrup-30ml
+Language       : hindi
+Total Tokens   : 266
+-------------------------------
+
+Route Name     : cefoxid-250mg-tablet-dt-10s
+Language       : hindi
+Total Tokens   : 254
+-------------------------------
+
+Route Name     : cefoxim-cv-tablet-500mg125mg
+Language       : hindi
+Total Tokens   : 261
+-------------------------------
+
+Route Name     : cefrine-syrup-30ml
+Language       : hindi
+Total Tokens   : 269
+-------------------------------
+
+Route Name     : ceftas-400mg-tablet-dt-10s
+Language       : hindi
+Total Tokens   : 245
+-------------------------------
+
+Route Name     : ceftas-cl-200-mg-tablet
+Language       : hindi
+Total Tokens   : 244
+-------------------------------
+
+Route Name     : ceftas-cv-200-mg125-mg-tablet-10s
+Language       : hindi
+Total Tokens   : 292
+-------------------------------
+
+Route Name     : ceftas-o-tablet-10s
+Language       : hindi
+Total Tokens   : 256
+-------------------------------
+
+Route Name     : ceftop-500mg-tablet-10s
+Language       : hindi
+Total Tokens   : 250
+-------------------------------
+
+Route Name     : celkeran-5mg-tablet-30s
+Language       : hindi
+Total Tokens   : 273
+-------------------------------
+
+Route Name     : cellcept-500mg-tablet-10s
+Language       : hindi
+Total Tokens   : 277
+-------------------------------
+
+Route Name     : cellusoothe-eye-drop-10ml
+Language       : hindi
+Total Tokens   : 241
+-------------------------------
+
+Route Name     : censpram-10mg-tablet-10s
+Language       : hindi
+Total Tokens   : 232
+-------------------------------
+
+Route Name     : ceoderm-cream-10gm
+Language       : hindi
+Total Tokens   : 231
+-------------------------------
+
+Route Name     : cephadex-500mg-capsule-10s
+Language       : hindi
+Total Tokens   : 260
+-------------------------------
+
+Route Name     : cepodem-100mg-tablet-10s
+Language       : hindi
+Total Tokens   : 264
+-------------------------------
+
+Route Name     : cepodem-100mg5ml-ds-suspension
+Language       : hindi
+Total Tokens   : 268
+-------------------------------
+
+Route Name     : cepodem-200mg-tablet-10s
+Language       : hindi
+Total Tokens   : 236
+-------------------------------
+
+Route Name     : cepodem-50-dry-suspension-30ml
+Language       : hindi
+Total Tokens   : 246
+-------------------------------
+
+Route Name     : cepodem-50mg5ml-syrup
+Language       : hindi
+Total Tokens   : 257
+-------------------------------
+
+Route Name     : cepodem-drop-10ml
+Language       : hindi
+Total Tokens   : 256
+-------------------------------
+
+Route Name     : cerecetam-400-tablet-10s
+Language       : hindi
+Total Tokens   : 264
+-------------------------------
+
+Route Name     : cerecetam-syrup-100ml
+Language       : hindi
+Total Tokens   : 229
+-------------------------------
+
+Route Name     : cerevion-tablet
+Language       : hindi
+Total Tokens   : 243
+-------------------------------
+
+Route Name     : ceroxitum-250mg-tablet-4s
+Language       : hindi
+Total Tokens   : 250
+-------------------------------
+
+Route Name     : ceruvin-75mg-tablet-15s
+Language       : hindi
+Total Tokens   : 273
+-------------------------------
+
+Route Name     : ceruvin-af-150mg75mg-capsule-15s
+Language       : hindi
+Total Tokens   : 221
+-------------------------------
+
+Route Name     : cetanil-trio-6.25-tablet
+Language       : hindi
+Total Tokens   : 252
+-------------------------------
+
+Route Name     : cetrilak-mild-100ml-solution-1s
+Language       : hindi
+Total Tokens   : 238
+-------------------------------
+
+Route Name     : cetrizine-5mg-syrup-30ml
+Language       : hindi
+Total Tokens   : 267
+-------------------------------
+
+Route Name     : cetrizine-10mg-tablet-10s
+Language       : hindi
+Total Tokens   : 270
+-------------------------------
+
+Route Name     : channel-sr-90-tablet-10s
+Language       : hindi
+Total Tokens   : 273
+-------------------------------
+
+Route Name     : chekfall-5-solution-60ml
+Language       : hindi
+Total Tokens   : 237
+-------------------------------
+
+Route Name     : chericof-syrup-sugar-free-100ml
+Language       : hindi
+Total Tokens   : 229
+-------------------------------
+
+Route Name     : chericof-junior-syrup-60ml
+Language       : hindi
+Total Tokens   : 233
+-------------------------------
+
+Route Name     : cheridryl-syrup-100ml
+Language       : hindi
+Total Tokens   : 248
+-------------------------------
+
+Route Name     : chitomesh-sf-cream-30gm
+Language       : hindi
+Total Tokens   : 269
+-------------------------------
+
+Route Name     : chlotrip-12.5mg5mg-tablet-10s
+Language       : hindi
+Total Tokens   : 255
+-------------------------------
+
+Route Name     : chymomerg-forte-tablet
+Language       : hindi
+Total Tokens   : 234
+-------------------------------
+
+Route Name     : chymonet-ap-tablet-10s
+Language       : hindi
+Total Tokens   : 270
+-------------------------------
+
+Route Name     : cibis-tablet-10s
+Language       : hindi
+Total Tokens   : 245
+-------------------------------
+
+Route Name     : cibrim-t-0.50.2-wv-eye-drop-5ml
+Language       : hindi
+Total Tokens   : 236
+-------------------------------
+
+Route Name     : cidmus-103mg97mg-tablet-10s
+Language       : hindi
+Total Tokens   : 233
+-------------------------------
+
+Route Name     : cidogrel-a-tablet-10s
+Language       : hindi
+Total Tokens   : 263
+-------------------------------
+
+Route Name     : cifran-250mg-tablet-10s
+Language       : hindi
+Total Tokens   : 255
+-------------------------------
+
+Route Name     : cilacar-5-tablet
+Language       : hindi
+Total Tokens   : 264
+-------------------------------
+
+Route Name     : cilacar-m-1050-tablet-er
+Language       : hindi
+Total Tokens   : 267
+-------------------------------
+
+Route Name     : cilacar-m-10mg25mg-tablet-er-10s
+Language       : hindi
+Total Tokens   : 255
+-------------------------------
+
+Route Name     : cilaheart-5mg-tablet-10s
+Language       : hindi
+Total Tokens   : 232
+-------------------------------
+
+Route Name     : cilday-10mg-tablet-10s
+Language       : hindi
+Total Tokens   : 241
+-------------------------------
+
+Route Name     : cildip-10mg-tablet-10s
+Language       : hindi
+Total Tokens   : 271
+-------------------------------
+
+Route Name     : cildip-5-tablet-10s
+Language       : hindi
+Total Tokens   : 246
+-------------------------------
+
+Route Name     : cildip-t-10mg40mg-tablet-10s
+Language       : hindi
+Total Tokens   : 249
+-------------------------------
+
+Route Name     : cildipin-10mg-tablet
+Language       : hindi
+Total Tokens   : 252
+-------------------------------
+
+Route Name     : cilentra-10-tablet
+Language       : hindi
+Total Tokens   : 239
+-------------------------------
+
+Route Name     : cilidin-10mg-tablet
+Language       : hindi
+Total Tokens   : 247
+-------------------------------
+
+Route Name     : cilnikem-10-tablet-10s
+Language       : hindi
+Total Tokens   : 225
+-------------------------------
+
+Route Name     : cilnitab-10mg-tablet
+Language       : hindi
+Total Tokens   : 246
+-------------------------------
+
+Route Name     : cilnitab-5mg-tablet-15s
+Language       : hindi
+Total Tokens   : 221
+-------------------------------
+
+Route Name     : cilodoc-50-tablet-10s
+Language       : hindi
+Total Tokens   : 246
+-------------------------------
+
+Route Name     : cilogard-10mg-tablet-10s
+Language       : hindi
+Total Tokens   : 245
+-------------------------------
+
+Route Name     : cinadil-75mg-tablet-sr
+Language       : hindi
+Total Tokens   : 225
+-------------------------------
+
+Route Name     : cintapro-1mg-tablet-10s
+Language       : hindi
+Total Tokens   : 225
+-------------------------------
+
+Route Name     : cintigo-25mg-tablet-10s
+Language       : hindi
+Total Tokens   : 246
+-------------------------------
+
+Route Name     : cinzan-25mg-tablet-dt-10s
+Language       : hindi
+Total Tokens   : 260
+-------------------------------
+
+Route Name     : cinzan-75mg-tablet-dt-10s
+Language       : hindi
+Total Tokens   : 257
+-------------------------------
+
+Route Name     : ciplactin-syrup-200ml
+Language       : hindi
+Total Tokens   : 247
+-------------------------------
+
+Route Name     : ciplactin-tablet
+Language       : hindi
+Total Tokens   : 256
+-------------------------------
+
+Route Name     : cipladine-ointment-20gm
+Language       : hindi
+Total Tokens   : 251
+-------------------------------
+
+Route Name     : cipladine-5-solution-100ml
+Language       : hindi
+Total Tokens   : 251
+-------------------------------
+
+Route Name     : ciplar-40mg-tablet-15s
+Language       : hindi
+Total Tokens   : 248
+-------------------------------
+
+Route Name     : ciplar-la-20mg-tablet-15s
+Language       : hindi
+Total Tokens   : 250
+-------------------------------
+
+Route Name     : ciplox-250-tablet
+Language       : hindi
+Total Tokens   : 261
+-------------------------------
+
+Route Name     : ciplox-tz-h-tablet
+Language       : hindi
+Total Tokens   : 235
+-------------------------------
+
+Route Name     : ciprobid-200mg-infusion
+Language       : hindi
+Total Tokens   : 255
+-------------------------------
+
+Route Name     : citalin-5-tablet
+Language       : hindi
+Total Tokens   : 239
+-------------------------------
+
+Route Name     : citrosis-lm-5mg10mg-tablets-10s
+Language       : hindi
+Total Tokens   : 238
+-------------------------------
+
+Route Name     : cizorest-100mg-tablet-10s
+Language       : hindi
+Total Tokens   : 250
+-------------------------------
+
+Route Name     : clamin-300mg-injection
+Language       : hindi
+Total Tokens   : 242
+-------------------------------
+
+Route Name     : clamp-kid-200mg28.5mg-tablet-10s
+Language       : hindi
+Total Tokens   : 259
+-------------------------------
+
+Route Name     : clamp-kid-forte-400mg57mg-tablet-10s
+Language       : hindi
+Total Tokens   : 286
+-------------------------------
+
+Route Name     : claribid-oral-suspension
+Language       : hindi
+Total Tokens   : 263
+-------------------------------
+
+Route Name     : clarigard-125mg-dry-syrup
+Language       : hindi
+Total Tokens   : 290
+-------------------------------
+
+Route Name     : clavam-dt-tablet-10s
+Language       : hindi
+Total Tokens   : 266
+-------------------------------
+
+Route Name     : clavam-drop-10ml
+Language       : hindi
+Total Tokens   : 257
+-------------------------------
+
+Route Name     : clavam-dry-syrup-30ml
+Language       : hindi
+Total Tokens   : 257
+-------------------------------
+
+Route Name     : clavidur-625-tablet-10s
+Language       : hindi
+Total Tokens   : 257
+-------------------------------
+
+Route Name     : clavilip-40-capsule-10s
+Language       : hindi
+Total Tokens   : 254
+-------------------------------
+
+Route Name     : clavix-tablet
+Language       : hindi
+Total Tokens   : 247
+-------------------------------
+
+Route Name     : clavix-as-150-tablet
+Language       : hindi
+Total Tokens   : 257
+-------------------------------
+
+Route Name     : cleargel-1-gel-20gm
+Language       : hindi
+Total Tokens   : 238
+-------------------------------
+
+Route Name     : clearz-max-cream-15gm
+Language       : hindi
+Total Tokens   : 237
+-------------------------------
+
+Route Name     : cleft-20-tablet
+Language       : hindi
+Total Tokens   : 239
+-------------------------------
+
+Route Name     : cliface-a-0.1ww1ww-gel-15gm
+Language       : hindi
+Total Tokens   : 244
+-------------------------------
+
+Route Name     : clindac-a-1-gel-15gm
+Language       : hindi
+Total Tokens   : 233
+-------------------------------
+
+Route Name     : clingen-vaginal-suppository-7s
+Language       : hindi
+Total Tokens   : 241
+-------------------------------
+
+Route Name     : clinox-1ww-gel-20gm
+Language       : hindi
+Total Tokens   : 242
+-------------------------------
+
+Route Name     : clinred-a-gel
+Language       : hindi
+Total Tokens   : 237
+-------------------------------
+
+Route Name     : clinred-b-cream-15gm
+Language       : hindi
+Total Tokens   : 234
+-------------------------------
+
+Route Name     : clobanil-10mg-tablet
+Language       : hindi
+Total Tokens   : 251
+-------------------------------
+
+Route Name     : clobeta-gm-cream-20gm
+Language       : hindi
+Total Tokens   : 237
+-------------------------------
+
+Route Name     : clobium-5mg-tablet-10s
+Language       : hindi
+Total Tokens   : 251
+-------------------------------
+
+Route Name     : clofert-25mg-tablet-30s
+Language       : hindi
+Total Tokens   : 274
+-------------------------------
+
+Route Name     : clofert-50mg-tablet-10s
+Language       : hindi
+Total Tokens   : 233
+-------------------------------
+
+Route Name     : clofert-max-tablet
+Language       : hindi
+Total Tokens   : 234
+-------------------------------
+
+Route Name     : clomipure-25-capsule-5s
+Language       : hindi
+Total Tokens   : 248
+-------------------------------
+
+Route Name     : clonam-ir-0.5mg-tablet-10s
+Language       : hindi
+Total Tokens   : 254
+-------------------------------
+
+Route Name     : clonate-lotion
+Language       : hindi
+Total Tokens   : 226
+-------------------------------
+
+Route Name     : clonate-f-cream-10gm
+Language       : hindi
+Total Tokens   : 229
+-------------------------------
+
+Route Name     : clonil-50mg-tablet-10s
+Language       : hindi
+Total Tokens   : 266
+-------------------------------
+
+Route Name     : clop-0.05-cream-30gm
+Language       : hindi
+Total Tokens   : 269
+-------------------------------
+
+Route Name     : clop-e-cream-20gm
+Language       : hindi
+Total Tokens   : 287
+-------------------------------
+
+Route Name     : clopicard-75mg-tablet-15s
+Language       : hindi
+Total Tokens   : 246
+-------------------------------
+
+Route Name     : clopiklot-75mg-tablet
+Language       : hindi
+Total Tokens   : 247
+-------------------------------
+
+Route Name     : clopiklot-a-75mg75mg-tablet
+Language       : hindi
+Total Tokens   : 287
+-------------------------------
+
+Route Name     : clopiros-ap-forte-150mg75mg-tablet-10s
+Language       : hindi
+Total Tokens   : 242
+-------------------------------
+
+Route Name     : clopitab-a-150-capsule
+Language       : hindi
+Total Tokens   : 242
+-------------------------------
+
+Route Name     : clopitorva-20-capsule-10s
+Language       : hindi
+Total Tokens   : 257
+-------------------------------
+
+Route Name     : clopivas-ap-75-tablet-15s
+Language       : hindi
+Total Tokens   : 256
+-------------------------------
+
+Route Name     : closone-ointment-20gm
+Language       : hindi
+Total Tokens   : 289
+-------------------------------
+
+Route Name     : clovas-0.25mg-tablet-md
+Language       : hindi
+Total Tokens   : 253
+-------------------------------
+
+Route Name     : cloze-0.25mg-tablet-md-10s
+Language       : hindi
+Total Tokens   : 245
+-------------------------------
+
+Route Name     : clozol-dusting-powder
+Language       : hindi
+Total Tokens   : 273
+-------------------------------
+
+Route Name     : clozol-b-0.0251ww-ointment-15gm
+Language       : hindi
+Total Tokens   : 254
+-------------------------------
+
+Route Name     : cmc-eye-drop-10ml
+Language       : hindi
+Total Tokens   : 247
+-------------------------------
+
+Route Name     : co-2-tablet-10s
+Language       : hindi
+Total Tokens   : 258
+-------------------------------
+
+Route Name     : cocid-dsr-capsule-10s
+Language       : hindi
+Total Tokens   : 234
+-------------------------------
+
+Route Name     : codimol-100mg5ml-suspension-30ml
+Language       : hindi
+Total Tokens   : 236
+-------------------------------
+
+Route Name     : cof-ryl-cough-syrup-100ml
+Language       : hindi
+Total Tokens   : 240
+-------------------------------
+
+Route Name     : cognidep-10mg-tablet
+Language       : hindi
+Total Tokens   : 243
+-------------------------------
+
+Route Name     : cognipride-m-2mg500mg-tablet-10s
+Language       : hindi
+Total Tokens   : 258
+-------------------------------
+
+Route Name     : cognipride-mp-1mg500mg15mg-tablet-10s
+Language       : hindi
+Total Tokens   : 258
+-------------------------------
+
+Route Name     : cognisart-40mg-tablet
+Language       : hindi
+Total Tokens   : 235
+-------------------------------
+
+Route Name     : cognivel-60mg800mg5mg-tablet-10s
+Language       : hindi
+Total Tokens   : 248
+-------------------------------
+
+Route Name     : colgin-plus-tablet-10s
+Language       : hindi
+Total Tokens   : 222
+-------------------------------
+
+Route Name     : coligyl-12.5mg-dry-syrup-30ml
+Language       : hindi
+Total Tokens   : 281
+-------------------------------
+
+Route Name     : colinol-20-mg500-mg-tablet-10s
+Language       : hindi
+Total Tokens   : 260
+-------------------------------
+
+Route Name     : coliza-d-10mg40mg-suspension-30ml
+Language       : hindi
+Total Tokens   : 250
+-------------------------------
+
+Route Name     : colospa-x-tablet-15s
+Language       : hindi
+Total Tokens   : 253
+-------------------------------
+
+Route Name     : colstim-300mcg-injection-1ml
+Language       : hindi
+Total Tokens   : 247
+-------------------------------
+
+Route Name     : coltro-10mg-tablet-10s
+Language       : hindi
+Total Tokens   : 245
+-------------------------------
+
+Route Name     : combihale-fb-200-redicaps-30s
+Language       : hindi
+Total Tokens   : 238
+-------------------------------
+
+Route Name     : combihale-ff-250-inhaler-120mdi
+Language       : hindi
+Total Tokens   : 235
+-------------------------------
+
+Route Name     : combihale-ff-250-redicaps
+Language       : hindi
+Total Tokens   : 240
+-------------------------------
+
+Route Name     : combihale-ff-500-redicaps-30s
+Language       : hindi
+Total Tokens   : 230
+-------------------------------
+
+Route Name     : combimist-l-respicap-30s
+Language       : hindi
+Total Tokens   : 230
+-------------------------------
+
+Route Name     : combimist-l-respules-5s
+Language       : hindi
+Total Tokens   : 233
+-------------------------------
+
+Route Name     : combinase-aq-nasal-spray-7ml
+Language       : hindi
+Total Tokens   : 232
+-------------------------------
+
+Route Name     : combipara-tr-100mg325mg37.5mg-tablet-10s
+Language       : hindi
+Total Tokens   : 251
+-------------------------------
+
+Route Name     : combitaz-injection
+Language       : hindi
+Total Tokens   : 256
+-------------------------------
+
+Route Name     : combitide-125mg25mg-inhaler-120mdi
+Language       : hindi
+Total Tokens   : 232
+-------------------------------
+
+Route Name     : combitide-250-octacap-30s
+Language       : hindi
+Total Tokens   : 233
+-------------------------------
+
+Route Name     : combunex-800-tablet-10s
+Language       : hindi
+Total Tokens   : 225
+-------------------------------
+
+Route Name     : combutol-200mg-tablet-10s
+Language       : hindi
+Total Tokens   : 233
+-------------------------------
+
+Route Name     : combutol-400mg-tablet-10s
+Language       : hindi
+Total Tokens   : 237
+-------------------------------
+
+Route Name     : combutol-600mg-tablet-10s
+Language       : hindi
+Total Tokens   : 233
+-------------------------------
+
+Route Name     : combutol-800-tablet-10s
+Language       : hindi
+Total Tokens   : 234
+-------------------------------
+
+Route Name     : comfora-capsule-10s
+Language       : hindi
+Total Tokens   : 245
+-------------------------------
+
+Route Name     : comig-250-tablet-10s
+Language       : hindi
+Total Tokens   : 229
+-------------------------------
+
+Route Name     : concor-10mg-tablet-10s
+Language       : hindi
+Total Tokens   : 251
+-------------------------------
+
+Route Name     : concor-am-5mg2.5mg-tablet-10s
+Language       : hindi
+Total Tokens   : 256
+-------------------------------
+
+Route Name     : concor-plus-5mg12.5mg-tablet-10s
+Language       : hindi
+Total Tokens   : 241
+-------------------------------
+
+Route Name     : consivas-10mg-tablet-10s
+Language       : hindi
+Total Tokens   : 241
+-------------------------------
+
+Route Name     : consivas-20mg-tablet-10s
+Language       : hindi
+Total Tokens   : 250
+-------------------------------
+
+Route Name     : consivas-5-tablet-10s
+Language       : hindi
+Total Tokens   : 235
+-------------------------------
+
+Route Name     : contiflo-icon-0.4mg-tablet-pr-10s
+Language       : hindi
+Total Tokens   : 264
+-------------------------------
+
+Route Name     : contramal-100-injection
+Language       : hindi
+Total Tokens   : 263
+-------------------------------
+
+Route Name     : contramal-sr-100-tablet
+Language       : hindi
+Total Tokens   : 238
+-------------------------------
+
+Route Name     : coolgut-1200mg-tablet-pr-10s
+Language       : hindi
+Total Tokens   : 248
+-------------------------------
+
+Route Name     : corbis-5-tablet-15s
+Language       : hindi
+Total Tokens   : 251
+-------------------------------
+
+Route Name     : corparin-40-injection-0.4mg
+Language       : hindi
+Total Tokens   : 309
+-------------------------------
+
+Route Name     : cort-s-100mg-injection-2ml
+Language       : hindi
+Total Tokens   : 261
+-------------------------------
+
+Route Name     : cortel-ln-10mg40mg-tablet-15s
+Language       : hindi
+Total Tokens   : 249
+-------------------------------
+
+Route Name     : cortel-m-50mg40mg-tablet-er-10s
+Language       : hindi
+Total Tokens   : 263
+-------------------------------
+
+Route Name     : cortimax-30mg-tablet-6s
+Language       : hindi
+Total Tokens   : 246
+-------------------------------
+
+Route Name     : cortimax-6mg-tablet-10s
+Language       : hindi
+Total Tokens   : 258
+-------------------------------
+
+Route Name     : cortison-optichlor-eye-ointment
+Language       : hindi
+Total Tokens   : 252
+-------------------------------
+
+Route Name     : corvadil-2.5mg-tablet-10s
+Language       : hindi
+Total Tokens   : 258
+-------------------------------
+
+Route Name     : corvadil-a-tablet-15s
+Language       : hindi
+Total Tokens   : 243
+-------------------------------
+
+Route Name     : cosart-50mg-tablet-10s
+Language       : hindi
+Total Tokens   : 238
+-------------------------------
+
+Route Name     : covance-25mg-tablet-10s
+Language       : hindi
+Total Tokens   : 248
+-------------------------------
+
+Route Name     : covance-at-tablet-10s
+Language       : hindi
+Total Tokens   : 250
+-------------------------------
+
+Route Name     : covel-10mg-tablet-10s
+Language       : hindi
+Total Tokens   : 261
+-------------------------------
+
+Route Name     : coverit-10-solution
+Language       : hindi
+Total Tokens   : 243
+-------------------------------
+
+Route Name     : coverit-5-solution
+Language       : hindi
+Total Tokens   : 259
+-------------------------------
+
+Route Name     : coversyl-2mg-tablet-10s
+Language       : hindi
+Total Tokens   : 239
+-------------------------------
+
+Route Name     : coversyl-8mg-tablet-10s
+Language       : hindi
+Total Tokens   : 251
+-------------------------------
+
+Route Name     : coversyl-am-4mg5mg-tablet-10s
+Language       : hindi
+Total Tokens   : 258
+-------------------------------
+
+Route Name     : coversyl-am-85-tablet-10s
+Language       : hindi
+Total Tokens   : 243
+-------------------------------
+
+Route Name     : coxet-90mg-tablet
+Language       : hindi
+Total Tokens   : 235
+-------------------------------
+
+Route Name     : coxito-s-10-tablet-10s
+Language       : hindi
+Total Tokens   : 236
+-------------------------------
+
+Route Name     : coxito-s-5mg-tablet-10s
+Language       : hindi
+Total Tokens   : 245
+-------------------------------
+
+Route Name     : crampnil-tablet-10s
+Language       : hindi
+Total Tokens   : 246
+-------------------------------
+
+Route Name     : cremaffin-constipation-relief-liquid-mixed-fruit-syrup-450ml
+Language       : hindi
+Total Tokens   : 239
+-------------------------------
+
+Route Name     : cremagel
+Language       : hindi
+Total Tokens   : 206
+-------------------------------
+
+Route Name     : cresar-80h-tablet-10s
+Language       : hindi
+Total Tokens   : 244
+-------------------------------
+
+Route Name     : cresar-80-am-tablet-10s
+Language       : hindi
+Total Tokens   : 242
+-------------------------------
+
+Route Name     : cresar-ct-40mg12.5mg-tablet-10s
+Language       : hindi
+Total Tokens   : 243
+-------------------------------
+
+Route Name     : crevast-f-67mg5mg-tablet-10s
+Language       : hindi
+Total Tokens   : 235
+-------------------------------
+
+Route Name     : crixan-gel-15gm
+Language       : hindi
+Total Tokens   : 228
+-------------------------------
+
+Route Name     : criz-m-10mg5mg-tablet-10s
+Language       : hindi
+Total Tokens   : 235
+-------------------------------
+
+Route Name     : crocin-baby-drop-peppermint-15ml
+Language       : hindi
+Total Tokens   : 267
+-------------------------------
+
+Route Name     : cromal-forte-eye-drop-5ml
+Language       : hindi
+Total Tokens   : 233
+-------------------------------
+
+Route Name     : ctd-6.25mg-tablet-15s
+Language       : hindi
+Total Tokens   : 242
+-------------------------------
+
+Route Name     : ctd-l-50mg12.5mg-tablet-10s
+Language       : hindi
+Total Tokens   : 255
+-------------------------------
+
+Route Name     : ctd-m-6.2525-tablet-er-10s
+Language       : hindi
+Total Tokens   : 250
+-------------------------------
+
+Route Name     : ctd-o-20mg12.5mg-tablet-10s
+Language       : hindi
+Total Tokens   : 247
+-------------------------------
+
+Route Name     : ctd-o-40mg12.5mg-tablet-10s
+Language       : hindi
+Total Tokens   : 254
+-------------------------------
+
+Route Name     : ctd-o-40mg6.25mg-tablet-10s
+Language       : hindi
+Total Tokens   : 246
+-------------------------------
+
+Route Name     : ctd-t-20mg6.25mg-tablet-10s
+Language       : hindi
+Total Tokens   : 261
+-------------------------------
+
+Route Name     : ctd-t-6.25mg80mg-tablet-10s
+Language       : hindi
+Total Tokens   : 263
+-------------------------------
+
+Route Name     : cuflift-syrup-100ml
+Language       : hindi
+Total Tokens   : 222
+-------------------------------
+
+Route Name     : cutiglos-shampoo-75ml
+Language       : hindi
+Total Tokens   : 239
+-------------------------------
+
+Route Name     : cyblex-30-xr-tablet-15s
+Language       : hindi
+Total Tokens   : 280
+-------------------------------
+
+Route Name     : cyblex-40mg-tablet-15s
+Language       : hindi
+Total Tokens   : 225
+-------------------------------
+
+Route Name     : cyblex-60-xr-tablet-15s
+Language       : hindi
+Total Tokens   : 244
+-------------------------------
+
+Route Name     : cyblex-mv-40.3-tablet-15s
+Language       : hindi
+Total Tokens   : 255
+-------------------------------
+
+Route Name     : cyblex-mv-80.3-tablet-15s
+Language       : hindi
+Total Tokens   : 253
+-------------------------------
+
+Route Name     : cyclopam-10mg40mg-drop-10ml
+Language       : hindi
+Total Tokens   : 233
+-------------------------------
+
+Route Name     : cycloreg-5mg-tablet-10s
+Language       : hindi
+Total Tokens   : 259
+-------------------------------
+
+Route Name     : cycloxan-50mg-tablet
+Language       : hindi
+Total Tokens   : 248
+-------------------------------
+
+Route Name     : cymet-er-50-tablet-10s
+Language       : hindi
+Total Tokens   : 228
+-------------------------------
+
+Route Name     : cymet-plus-5mg50mg-tablet-10s
+Language       : hindi
+Total Tokens   : 233
+-------------------------------
+
+Route Name     : cynomycin-100mg-capsule-4s
+Language       : hindi
+Total Tokens   : 239
+-------------------------------
+
+Route Name     : cyp-l-drops-15ml
+Language       : hindi
+Total Tokens   : 242
+-------------------------------
+
+Route Name     : cyp-l-oral-solution-200ml
+Language       : hindi
+Total Tokens   : 256
+-------------------------------
+
+Route Name     : cypon-1.5mg55mg-oral-drops-15ml
+Language       : hindi
+Total Tokens   : 267
+-------------------------------
+
+Route Name     : cyra-40mg-tablet-10s
+Language       : hindi
+Total Tokens   : 231
+-------------------------------
+
+Route Name     : cyra-ls-tablet-sr-10s
+Language       : hindi
+Total Tokens   : 237
+-------------------------------
+
+Route Name     : d-venlor-50mg-tablet-10s
+Language       : hindi
+Total Tokens   : 239
+-------------------------------
+
+Route Name     : dabfit-eye-drop-5ml
+Language       : hindi
+Total Tokens   : 238
+-------------------------------
+
+Route Name     : dabiclot-110mg-capsule-10s
+Language       : hindi
+Total Tokens   : 245
+-------------------------------
+
+Route Name     : dabiclot-75mg-capsule-10s
+Language       : hindi
+Total Tokens   : 250
+-------------------------------
+
+Route Name     : dabigat-110-capsule-10s
+Language       : hindi
+Total Tokens   : 264
+-------------------------------
+
+Route Name     : dabigat-75mg-capsule-10s
+Language       : hindi
+Total Tokens   : 280
+-------------------------------
+
+Route Name     : dabigo-75mg-capsule-10s
+Language       : hindi
+Total Tokens   : 256
+-------------------------------
+
+Route Name     : dabilong-150-capsule-10s
+Language       : hindi
+Total Tokens   : 245
+-------------------------------
+
+Route Name     : dabistar-110-capsule-10s
+Language       : hindi
+Total Tokens   : 246
+-------------------------------
+
+Route Name     : daflon-500mg-tablet-10s
+Language       : hindi
+Total Tokens   : 237
+-------------------------------
+
+Route Name     : dailyglim-m-forte-2mg1000mg-tablet-sr
+Language       : hindi
+Total Tokens   : 260
+-------------------------------
+
+Route Name     : daktarin-oral-gel-40gm
+Language       : hindi
+Total Tokens   : 236
+-------------------------------

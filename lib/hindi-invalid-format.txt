@@ -437,3 +437,378 @@ Route Name     : budamate-6mcg100mcg-transhaler-120mdi
 Language       : hindi-invalid-format
 Total Tokens   : 0
 -------------------------------
+
+Route Name     : budecort-0.5mg-respules-2ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : bunase-0.5mg-respules-2ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : c-sora-ointment
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : calpol-120mg-suspension-strawberry-60ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : candid-tv-12.5-suspension-75ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : candidac-cl-vaginal-gel-30gm
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : candid-v-gel-30gm
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : carbophage-g-2-forte-tablet-pr
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : cardirose-f-10-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : cardivas-3.125-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : cefakind-500mg-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : cefakind-cv-500mg125mg-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : cefix-ds-suspension
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : cellusoothe-eye-drop-10ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : cepodem-50-dry-suspension-30ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : cepodem-xp-325-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : cepodem-o-200mg200mg-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : ceruvin-a-capsule-15s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : cetanil-t-20-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : cetcip-syrup-30ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : cetil-250mg-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : chekfall-f-topical-solution-60ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : chericof-syrup-sugar-free-100ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : chericof-ls-syrup-100ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : cheridryl-junior-syrup-50ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : cheston-plus-expectorant-100ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : chitomesh-sf-cream-10gm
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : chlorocol-h-eye-ointment
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : chlorpromazine-100mg-tablet
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : cifran-eyeear-drops
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : cilacar-c-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : cilacar-tc-12.5-tablet
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : cildip-3d-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : cintapro-1mg-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : cintodac-capsule-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : cipladine-ointment-250gm
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : cipladine-5-ointment-10gm
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : cipladine-5-solution-100ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : cipzen-forte-tablet
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : cita-s-forte-0.5mg10mg-tablet
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : citrosis-lm-5mg10mg-tablets-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : clamp-suspension
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : clamp-80mg11.4mg-drop-10ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : clamp-kid-forte-suspension-30ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : claribid-250mg-tablet-4s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : clavam-forte-dry-syrup
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : clavilip-10mg-capsule-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : clenorush-troche-10mg-lozenges-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : clindac-a-1-gel-15gm
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : clinox-1ww-gel-20gm
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : clobetamil-g-cream-25gm
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : clonate-lotion
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : clopitab-a-75-capsule
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : clopitor-a-75-mg10-mg75-mg-capsule
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : codylex-t-10mg1.25mg-syrup-100ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : cognivel-60mg800mg5mg-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : coligyl-12.5mg-dry-syrup-30ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : coliza-d-10mg40mg-suspension-30ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : combigan-ophthalmic-solution-5ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : combinase-ft-140mcg27.5mcg-nasal-spray-9.8gm
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : combitaz-injection
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : combutol-1000mg-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : coolgut-1200mg-tablet-pr-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : coxet-90mg-tablet
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : coxito-s-10-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : coxito-s-20-tablet
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : cremaffin-constipation-relief-liquid-mixed-fruit-syrup-450ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : cresar-80-am-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : cresp-40mcg-prefiled-syringe-0.4ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : cromal-forte-eye-drop-5ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : crurix-cream-30gm
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : ctd-o-20mg12.5mg-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : cutilite-cream-20gm
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : cypon-syrup
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : da-sutra-30x-50-mg30-mg-tablet
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------

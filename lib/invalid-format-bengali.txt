@@ -57,3 +57,18 @@ Route Name     : baidyanath-avipattikar-churna-60gm
 Language       : invalid-format-bengali
 Total Tokens   : 0
 -------------------------------
+
+Route Name     : kiurogen-capsule-10s
+Language       : invalid-format-bengali
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : orgipam-plus-tablet-10s
+Language       : invalid-format-bengali
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : baidyanath-kasamrit-syrup-100ml
+Language       : invalid-format-bengali
+Total Tokens   : 0
+-------------------------------
