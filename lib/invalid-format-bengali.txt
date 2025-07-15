@@ -72,3 +72,28 @@ Route Name     : baidyanath-kasamrit-syrup-100ml
 Language       : invalid-format-bengali
 Total Tokens   : 0
 -------------------------------
+
+Route Name     : charak-pigmento-tablet-40s
+Language       : invalid-format-bengali
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : z-sprin-av-10mg75mg-tablet-10s
+Language       : invalid-format-bengali
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : clinxa-1-gel-20gm
+Language       : invalid-format-bengali
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : torget-plus-20mg50mg-tablet-10s
+Language       : invalid-format-bengali
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : doxinate-24mg-tablet-er-15s
+Language       : invalid-format-bengali
+Total Tokens   : 0
+-------------------------------

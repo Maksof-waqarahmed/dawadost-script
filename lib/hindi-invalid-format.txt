@@ -812,3 +812,243 @@ Route Name     : da-sutra-30x-50-mg30-mg-tablet
 Language       : hindi-invalid-format
 Total Tokens   : 0
 -------------------------------
+
+Route Name     : dan-p-50mg500mg-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : danfree-2-shampoo-100ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : dayo-od-1gm-tablet-pr
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : dazit-m-5mg10mg-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : deca-durabolin-100-injection
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : deca-durabolin-25-injection
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : deca-intabolin-50mg-injection-1ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : deemol-50mg325mgtablet
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : dentaforce-dt-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : dentogel-gel-15gm
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : dentogel-liquid-20gm
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : depranil-75mg-tablet
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : depsonil-25mg-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : deriphyllin-injection-2ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : deriphyllin-od-300-tablet-pr-15s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : deriphyllin-retard-300-tablet-pr-30s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : deriphyllin-syrup-200ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : desoadd-cream-15gm
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : deviry-10mg-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : dezlorid-m-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : diclomol-100mg-tablet-sr-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : digihaler-fb-6mcg400mcg-inhaler-120mdi
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : dilzem-cd-180-capsule-er-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : dirifa-550-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : divalpro-500mg-tablet-xr-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : dizitac-tablet
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : dk-2-gel-30gm
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : dmr-30mg-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : dolide-plus-100mg500mg-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : dolo-100mg-drops-15ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : dolo-250-oral-suspension-60ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : dologel-ct-gel-10gm
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : dolokind-100mg-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : dolokind-mr-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : dolonex-dt-20mg-tablet-15s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : dolowin-mr-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : dolowin-plus-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : domi-up-oral-spray-15ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : domocid-10-mg20-mg-capsule
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : dompan-sr-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : domstal-suspension
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : dothip-75mg-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : doxt-sl-capsule-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : drep-new-ear-drop-5ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : drotin-plus-80mg500mg-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : duphalac-3.335mg-oral-solution-lemon-250ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : dutas-0.5-mg-capsule-30s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : duvadilan-10mg-tablet-50s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------

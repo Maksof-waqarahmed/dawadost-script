@@ -3447,3 +3447,863 @@ Route Name     : daktarin-oral-gel-40gm
 Language       : hindi
 Total Tokens   : 236
 -------------------------------
+
+Route Name     : dalacin-c-600mg-injection-4ml
+Language       : hindi
+Total Tokens   : 241
+-------------------------------
+
+Route Name     : danclear-shampoo-50ml
+Language       : hindi
+Total Tokens   : 234
+-------------------------------
+
+Route Name     : danfree-2-shampoo-100ml
+Language       : hindi
+Total Tokens   : 239
+-------------------------------
+
+Route Name     : danfree-shampoo-100ml
+Language       : hindi
+Total Tokens   : 251
+-------------------------------
+
+Route Name     : danogen-100mg-capsule-10s
+Language       : hindi
+Total Tokens   : 242
+-------------------------------
+
+Route Name     : danogen-200mg-capsule-10s
+Language       : hindi
+Total Tokens   : 246
+-------------------------------
+
+Route Name     : danogen-50mg-capsule-10s
+Language       : hindi
+Total Tokens   : 241
+-------------------------------
+
+Route Name     : danstop-k-lotion-60ml
+Language       : hindi
+Total Tokens   : 240
+-------------------------------
+
+Route Name     : dapsone-100mg-tablet-1000s
+Language       : hindi
+Total Tokens   : 257
+-------------------------------
+
+Route Name     : darilong-7.5mg-tablet-pr-10s
+Language       : hindi
+Total Tokens   : 237
+-------------------------------
+
+Route Name     : dayo-od-1gm-tablet-pr
+Language       : hindi
+Total Tokens   : 254
+-------------------------------
+
+Route Name     : dayo-od-500mg-tablet-pr-10s
+Language       : hindi
+Total Tokens   : 277
+-------------------------------
+
+Route Name     : dayo-od-750mg-tablet-pr-10s
+Language       : hindi
+Total Tokens   : 239
+-------------------------------
+
+Route Name     : dazit-m-5mg10mg-tablet-10s
+Language       : hindi
+Total Tokens   : 228
+-------------------------------
+
+Route Name     : ddr-30-capsule-mr-10s
+Language       : hindi
+Total Tokens   : 289
+-------------------------------
+
+Route Name     : deca-durabolin-100-injection
+Language       : hindi
+Total Tokens   : 260
+-------------------------------
+
+Route Name     : deca-intabolin-50mg-injection-1ml
+Language       : hindi
+Total Tokens   : 278
+-------------------------------
+
+Route Name     : decdan-lite-skin-cream
+Language       : hindi
+Total Tokens   : 246
+-------------------------------
+
+Route Name     : diclofen-sp-50mg325mg10mg-tablet
+Language       : hindi
+Total Tokens   : 292
+-------------------------------
+
+Route Name     : decolic-2-mg20-mg-tablet
+Language       : hindi
+Total Tokens   : 243
+-------------------------------
+
+Route Name     : defcort-12mg-tablet-6s
+Language       : hindi
+Total Tokens   : 266
+-------------------------------
+
+Route Name     : defcort-18mg-tablet-6s
+Language       : hindi
+Total Tokens   : 268
+-------------------------------
+
+Route Name     : defcort-1mg-tablet-6s
+Language       : hindi
+Total Tokens   : 298
+-------------------------------
+
+Route Name     : defcort-24mg-tablet-6s
+Language       : hindi
+Total Tokens   : 234
+-------------------------------
+
+Route Name     : defcort-30-tablet-6s
+Language       : hindi
+Total Tokens   : 262
+-------------------------------
+
+Route Name     : defcort-suspension-30ml
+Language       : hindi
+Total Tokens   : 264
+-------------------------------
+
+Route Name     : defrijet-500mg-tablet-10s
+Language       : hindi
+Total Tokens   : 274
+-------------------------------
+
+Route Name     : defza-24-tablet-6s
+Language       : hindi
+Total Tokens   : 263
+-------------------------------
+
+Route Name     : defza-6mg-tablets-10s
+Language       : hindi
+Total Tokens   : 256
+-------------------------------
+
+Route Name     : dejac-30mg-tablet-4s
+Language       : hindi
+Total Tokens   : 235
+-------------------------------
+
+Route Name     : delcon-2mg5mg-syrup-60ml
+Language       : hindi
+Total Tokens   : 238
+-------------------------------
+
+Route Name     : deletus-ls-syrup-100ml
+Language       : hindi
+Total Tokens   : 234
+-------------------------------
+
+Route Name     : deletus-pearls-capsule-10s
+Language       : hindi
+Total Tokens   : 232
+-------------------------------
+
+Route Name     : delisprin-75mg-tablet-14s
+Language       : hindi
+Total Tokens   : 261
+-------------------------------
+
+Route Name     : dentogel-liquid-20gm
+Language       : hindi
+Total Tokens   : 240
+-------------------------------
+
+Route Name     : deplatt-a-150-tablet-15s
+Language       : hindi
+Total Tokens   : 273
+-------------------------------
+
+Route Name     : depo-provera-150mg-injection-1ml
+Language       : hindi
+Total Tokens   : 238
+-------------------------------
+
+Route Name     : depotex-8mg-tablet-10s
+Language       : hindi
+Total Tokens   : 239
+-------------------------------
+
+Route Name     : depran-forte-0.5mg20mg-tablet-15s
+Language       : hindi
+Total Tokens   : 229
+-------------------------------
+
+Route Name     : derek-d-capsule-sr-10s
+Language       : hindi
+Total Tokens   : 252
+-------------------------------
+
+Route Name     : dericip-retard-300-tablet-pr-10s
+Language       : hindi
+Total Tokens   : 241
+-------------------------------
+
+Route Name     : derinide-400mcg-rotacap-30s
+Language       : hindi
+Total Tokens   : 242
+-------------------------------
+
+Route Name     : derinide-aq-nasal-spray-200mdi
+Language       : hindi
+Total Tokens   : 259
+-------------------------------
+
+Route Name     : deriphyllin-m10mg69mg231mg-tablet-sr-10s
+Language       : hindi
+Total Tokens   : 239
+-------------------------------
+
+Route Name     : deriphyllin-od-300-tablet-pr-15s
+Language       : hindi
+Total Tokens   : 233
+-------------------------------
+
+Route Name     : deriphyllin-retard-300-tablet-pr-30s
+Language       : hindi
+Total Tokens   : 238
+-------------------------------
+
+Route Name     : dersol-12-ointment-25gm
+Language       : hindi
+Total Tokens   : 252
+-------------------------------
+
+Route Name     : dersol-30-ointment-25gm
+Language       : hindi
+Total Tokens   : 249
+-------------------------------
+
+Route Name     : dersol-6ww-ointment-25gm
+Language       : hindi
+Total Tokens   : 244
+-------------------------------
+
+Route Name     : desilam-plus-tablet-10s
+Language       : hindi
+Total Tokens   : 246
+-------------------------------
+
+Route Name     : desosoft-lotion-30ml
+Language       : hindi
+Total Tokens   : 244
+-------------------------------
+
+Route Name     : desval-er-125-tablet-10s
+Language       : hindi
+Total Tokens   : 253
+-------------------------------
+
+Route Name     : desval-er-750-tablet-10s
+Language       : hindi
+Total Tokens   : 253
+-------------------------------
+
+Route Name     : deven-la-50mg-tablet
+Language       : hindi
+Total Tokens   : 252
+-------------------------------
+
+Route Name     : dewax-ear-drop-10ml
+Language       : hindi
+Total Tokens   : 231
+-------------------------------
+
+Route Name     : dewroximo-tablet
+Language       : hindi
+Total Tokens   : 262
+-------------------------------
+
+Route Name     : dexoderm-250mg-tablet-7s
+Language       : hindi
+Total Tokens   : 261
+-------------------------------
+
+Route Name     : dezlorid-10mg-tablet-10s
+Language       : hindi
+Total Tokens   : 234
+-------------------------------
+
+Route Name     : dezlorid-m-tablet-10s
+Language       : hindi
+Total Tokens   : 226
+-------------------------------
+
+Route Name     : diabend-m-tablet-10s
+Language       : hindi
+Total Tokens   : 236
+-------------------------------
+
+Route Name     : diabend-mex-60-tablet-er-10s
+Language       : hindi
+Total Tokens   : 249
+-------------------------------
+
+Route Name     : diamet-850mg-tablet-10s
+Language       : hindi
+Total Tokens   : 271
+-------------------------------
+
+Route Name     : diamicron-30mg-tablet-xr
+Language       : hindi
+Total Tokens   : 244
+-------------------------------
+
+Route Name     : diamox-tablet-15s
+Language       : hindi
+Total Tokens   : 268
+-------------------------------
+
+Route Name     : diane-2mg0.035mg-tablet-21s
+Language       : hindi
+Total Tokens   : 256
+-------------------------------
+
+Route Name     : dianorm-od-60-tablet-mr
+Language       : hindi
+Total Tokens   : 249
+-------------------------------
+
+Route Name     : dianorm-od-30-tablet-mr-10s
+Language       : hindi
+Total Tokens   : 252
+-------------------------------
+
+Route Name     : dianorm-total-30-tablet-sr-10s
+Language       : hindi
+Total Tokens   : 248
+-------------------------------
+
+Route Name     : dianorm-m-tablet-15s
+Language       : hindi
+Total Tokens   : 240
+-------------------------------
+
+Route Name     : dibeta-sr-1gm-tablet-10s
+Language       : hindi
+Total Tokens   : 245
+-------------------------------
+
+Route Name     : dibeta-gb-5mg500mg-tablet-10s
+Language       : hindi
+Total Tokens   : 253
+-------------------------------
+
+Route Name     : dibizide-5mg-tablet-10s
+Language       : hindi
+Total Tokens   : 244
+-------------------------------
+
+Route Name     : dibizide-m-5mg500mg-tablet-10s
+Language       : hindi
+Total Tokens   : 250
+-------------------------------
+
+Route Name     : diclo-gel
+Language       : hindi
+Total Tokens   : 244
+-------------------------------
+
+Route Name     : diclofam-sp-50mg10mg-tablet
+Language       : hindi
+Total Tokens   : 283
+-------------------------------
+
+Route Name     : diclofen-100mg-tablet-sr
+Language       : hindi
+Total Tokens   : 280
+-------------------------------
+
+Route Name     : diclogesic-sp-tablet
+Language       : hindi
+Total Tokens   : 279
+-------------------------------
+
+Route Name     : diclomol-100mg-tablet-sr-10s
+Language       : hindi
+Total Tokens   : 278
+-------------------------------
+
+Route Name     : dicloplast-100mg-patch-3s
+Language       : hindi
+Total Tokens   : 258
+-------------------------------
+
+Route Name     : dicloplus-50mg350mg-tablet-10s
+Language       : hindi
+Total Tokens   : 287
+-------------------------------
+
+Route Name     : dicloran-a-injection-3ml
+Language       : hindi
+Total Tokens   : 255
+-------------------------------
+
+Route Name     : diclotal-25mg-injection-3ml
+Language       : hindi
+Total Tokens   : 248
+-------------------------------
+
+Route Name     : dicoliv-mr-250-mg50-mg325-mg-tablet-10s
+Language       : hindi
+Total Tokens   : 247
+-------------------------------
+
+Route Name     : digihaler-fb-6mcg400mcg-inhaler-120mdi
+Language       : hindi
+Total Tokens   : 239
+-------------------------------
+
+Route Name     : dilcontin-60mg-tablet-cr
+Language       : hindi
+Total Tokens   : 240
+-------------------------------
+
+Route Name     : diligan-25-tablet-15s
+Language       : hindi
+Total Tokens   : 251
+-------------------------------
+
+Route Name     : diltigesic-2-gel-30gm
+Language       : hindi
+Total Tokens   : 229
+-------------------------------
+
+Route Name     : diltigesic-organogel-30gm
+Language       : hindi
+Total Tokens   : 253
+-------------------------------
+
+Route Name     : dilvas-10-tablet-10s
+Language       : hindi
+Total Tokens   : 223
+-------------------------------
+
+Route Name     : dinogest-tablet-10s
+Language       : hindi
+Total Tokens   : 251
+-------------------------------
+
+Route Name     : diominic-dca-tablet-10s
+Language       : hindi
+Total Tokens   : 264
+-------------------------------
+
+Route Name     : diovan-80mg-tablet-14s
+Language       : hindi
+Total Tokens   : 244
+-------------------------------
+
+Route Name     : diprobay-lotion
+Language       : hindi
+Total Tokens   : 270
+-------------------------------
+
+Route Name     : disperzyme-tablet-10s
+Language       : hindi
+Total Tokens   : 251
+-------------------------------
+
+Route Name     : divaa-500-tablet-15s
+Language       : hindi
+Total Tokens   : 265
+-------------------------------
+
+Route Name     : divon-plus-tablet-15s
+Language       : hindi
+Total Tokens   : 246
+-------------------------------
+
+Route Name     : divon-s-50mg10mg-tablet-10s
+Language       : hindi
+Total Tokens   : 253
+-------------------------------
+
+Route Name     : dizeral-az-0.25mg10mg-tablet-10s
+Language       : hindi
+Total Tokens   : 285
+-------------------------------
+
+Route Name     : diziliv-20mg40mg-tablet-10s
+Language       : hindi
+Total Tokens   : 252
+-------------------------------
+
+Route Name     : diziron-tablet-20s
+Language       : hindi
+Total Tokens   : 272
+-------------------------------
+
+Route Name     : dmr-30mg-tablet-10s
+Language       : hindi
+Total Tokens   : 246
+-------------------------------
+
+Route Name     : dobesil-500mg-capsule-10s
+Language       : hindi
+Total Tokens   : 279
+-------------------------------
+
+Route Name     : doliprane-500mg-tablet
+Language       : hindi
+Total Tokens   : 244
+-------------------------------
+
+Route Name     : dolo-100mg-drops-15ml
+Language       : hindi
+Total Tokens   : 249
+-------------------------------
+
+Route Name     : dolo-120mg-suspension-60ml
+Language       : hindi
+Total Tokens   : 248
+-------------------------------
+
+Route Name     : dologel-15gm
+Language       : hindi
+Total Tokens   : 228
+-------------------------------
+
+Route Name     : dologel-ct-gel-10gm
+Language       : hindi
+Total Tokens   : 241
+-------------------------------
+
+Route Name     : dolokind-100mg-tablet-10s
+Language       : hindi
+Total Tokens   : 234
+-------------------------------
+
+Route Name     : dolokind-aa-tablet-10s
+Language       : hindi
+Total Tokens   : 230
+-------------------------------
+
+Route Name     : doloneuron-nt-tablet-10s
+Language       : hindi
+Total Tokens   : 250
+-------------------------------
+
+Route Name     : dolopar-125-oral-suspension
+Language       : hindi
+Total Tokens   : 264
+-------------------------------
+
+Route Name     : dolopar-tablet-15s
+Language       : hindi
+Total Tokens   : 268
+-------------------------------
+
+Route Name     : dolopar-250-suspension
+Language       : hindi
+Total Tokens   : 254
+-------------------------------
+
+Route Name     : dolowin-forte-tablet-10s
+Language       : hindi
+Total Tokens   : 242
+-------------------------------
+
+Route Name     : dolowin-mr-tablet-10s
+Language       : hindi
+Total Tokens   : 240
+-------------------------------
+
+Route Name     : dom-dt-20-tablet-10s
+Language       : hindi
+Total Tokens   : 260
+-------------------------------
+
+Route Name     : domi-up-oral-spray-15ml
+Language       : hindi
+Total Tokens   : 244
+-------------------------------
+
+Route Name     : domocid-10-mg20-mg-capsule
+Language       : hindi
+Total Tokens   : 273
+-------------------------------
+
+Route Name     : dompan-tablet-10s
+Language       : hindi
+Total Tokens   : 256
+-------------------------------
+
+Route Name     : domrab-30mg20mg-capsule-sr-10s
+Language       : hindi
+Total Tokens   : 253
+-------------------------------
+
+Route Name     : domstal-o-capsule-15s
+Language       : hindi
+Total Tokens   : 252
+-------------------------------
+
+Route Name     : domstal-suspension
+Language       : hindi
+Total Tokens   : 227
+-------------------------------
+
+Route Name     : domz-rb-capsule-sr-10s
+Language       : hindi
+Total Tokens   : 241
+-------------------------------
+
+Route Name     : donep-23mg-tablet-sr-10s
+Language       : hindi
+Total Tokens   : 240
+-------------------------------
+
+Route Name     : dorsun-t-eye-drop-5ml
+Language       : hindi
+Total Tokens   : 252
+-------------------------------
+
+Route Name     : dortas-t-eye-drop-5ml
+Language       : hindi
+Total Tokens   : 237
+-------------------------------
+
+Route Name     : dothip-25mg-tablet-10s
+Language       : hindi
+Total Tokens   : 237
+-------------------------------
+
+Route Name     : dothip-75mg-tablet-10s
+Language       : hindi
+Total Tokens   : 258
+-------------------------------
+
+Route Name     : dox-25mg-tablet-10s
+Language       : hindi
+Total Tokens   : 228
+-------------------------------
+
+Route Name     : doxcef-cv-200-tablet-10s
+Language       : hindi
+Total Tokens   : 279
+-------------------------------
+
+Route Name     : doxcef-o-tablet-10s
+Language       : hindi
+Total Tokens   : 247
+-------------------------------
+
+Route Name     : doxiflo-650-tablet-sr-10s
+Language       : hindi
+Total Tokens   : 273
+-------------------------------
+
+Route Name     : doxinate-tablet-30s
+Language       : hindi
+Total Tokens   : 247
+-------------------------------
+
+Route Name     : doxolin-m-400mg5mg-tablet-10s
+Language       : hindi
+Total Tokens   : 241
+-------------------------------
+
+Route Name     : doxomax-xp-tablet-10s
+Language       : hindi
+Total Tokens   : 255
+-------------------------------
+
+Route Name     : doxovent-400mg-tablet-10s
+Language       : hindi
+Total Tokens   : 260
+-------------------------------
+
+Route Name     : doxybond-lb-100mg-capsule-10s
+Language       : hindi
+Total Tokens   : 252
+-------------------------------
+
+Route Name     : doxylab-7.5mg100mg-capsule-10s
+Language       : hindi
+Total Tokens   : 256
+-------------------------------
+
+Route Name     : doxypal-dr-l-capsule-10s
+Language       : hindi
+Total Tokens   : 246
+-------------------------------
+
+Route Name     : dp-spas-tablet
+Language       : hindi
+Total Tokens   : 254
+-------------------------------
+
+Route Name     : drez-v-vaginal-cream-30gm
+Language       : hindi
+Total Tokens   : 279
+-------------------------------
+
+Route Name     : drolgan-tablet-10s
+Language       : hindi
+Total Tokens   : 251
+-------------------------------
+
+Route Name     : drotin-suspension-sugar-free-100ml
+Language       : hindi
+Total Tokens   : 255
+-------------------------------
+
+Route Name     : drotin-plus-80mg500mg-tablet-10s
+Language       : hindi
+Total Tokens   : 251
+-------------------------------
+
+Route Name     : drovotas-m-80mg250mg-tablet-10s
+Language       : hindi
+Total Tokens   : 279
+-------------------------------
+
+Route Name     : dsorolen-0.2wv-lotion-15ml
+Language       : hindi
+Total Tokens   : 249
+-------------------------------
+
+Route Name     : dtm-60mg-tablet
+Language       : hindi
+Total Tokens   : 276
+-------------------------------
+
+Route Name     : dulane-30mg-capsule-dr-10s
+Language       : hindi
+Total Tokens   : 255
+-------------------------------
+
+Route Name     : dulot-30-capsule-dr-10s
+Language       : hindi
+Total Tokens   : 231
+-------------------------------
+
+Route Name     : dulotin-20mg-tablet-10s
+Language       : hindi
+Total Tokens   : 233
+-------------------------------
+
+Route Name     : duloxee-30mg-tablet-10s
+Language       : hindi
+Total Tokens   : 238
+-------------------------------
+
+Route Name     : duloxee-40mg-tablet-10s
+Language       : hindi
+Total Tokens   : 231
+-------------------------------
+
+Route Name     : duloxin-20mg-tablet-10s
+Language       : hindi
+Total Tokens   : 232
+-------------------------------
+
+Route Name     : duolin-inhaler
+Language       : hindi
+Total Tokens   : 231
+-------------------------------
+
+Route Name     : duomate-transcaps-30s
+Language       : hindi
+Total Tokens   : 233
+-------------------------------
+
+Route Name     : duonem-300mg-tablet-er-6s
+Language       : hindi
+Total Tokens   : 258
+-------------------------------
+
+Route Name     : duopil-1mg500mg-tablet-pr-10s
+Language       : hindi
+Total Tokens   : 246
+-------------------------------
+
+Route Name     : duotrol-2.5mg500mg-tablet-sr-10s
+Language       : hindi
+Total Tokens   : 252
+-------------------------------
+
+Route Name     : duotrol-5mg500mg-tablet-10s
+Language       : hindi
+Total Tokens   : 247
+-------------------------------
+
+Route Name     : duova-6mcg9mcg-inhaler-200mdi
+Language       : hindi
+Total Tokens   : 240
+-------------------------------
+
+Route Name     : duovir-150mg-tablet-60s
+Language       : hindi
+Total Tokens   : 259
+-------------------------------
+
+Route Name     : duovir-e-kit-3s
+Language       : hindi
+Total Tokens   : 246
+-------------------------------
+
+Route Name     : duphalac-fiber-oral-solution-200ml
+Language       : hindi
+Total Tokens   : 261
+-------------------------------
+
+Route Name     : duphalac-oral-solution-lemon-450ml
+Language       : hindi
+Total Tokens   : 239
+-------------------------------
+
+Route Name     : duralast-30mg-tablet-4s
+Language       : hindi
+Total Tokens   : 255
+-------------------------------
+
+Route Name     : durapain-75mg50mg-tablet-10s
+Language       : hindi
+Total Tokens   : 263
+-------------------------------
+
+Route Name     : durapain-20mg-capsule-10s
+Language       : hindi
+Total Tokens   : 228
+-------------------------------
+
+Route Name     : dutacet-0.5mg-tablet
+Language       : hindi
+Total Tokens   : 271
+-------------------------------
+
+Route Name     : dutagen-capsule-10s
+Language       : hindi
+Total Tokens   : 236
+-------------------------------
+
+Route Name     : dutaprost-0.5mg-tablet-10s
+Language       : hindi
+Total Tokens   : 278
+-------------------------------
+
+Route Name     : duvadilan-retard-capsule-sr-10s
+Language       : hindi
+Total Tokens   : 256
+-------------------------------
+
+Route Name     : duzela-60mg-capsule-dr-10s
+Language       : hindi
+Total Tokens   : 236
+-------------------------------
