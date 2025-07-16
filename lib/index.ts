@@ -14,17 +14,14 @@ export async function createOrAppendFile(data: { language: string, rName: string
     const filePath = path.join(__dirname, `${data.language}.txt`);
     const content =
         `Route Name     : ${data.rName}
-Language       : ${data.language}
-Total Tokens   : ${data.tToken}
--------------------------------
-`;
+        Language       : ${data.language}
+        Total Tokens   : ${data.tToken}
+        -------------------------------`;
 
     if (!fs.existsSync(filePath)) {
         fs.writeFileSync(filePath, content, 'utf8');
-        // console.log("Created File");
     } else {
         fs.appendFileSync(filePath, '\n' + content, 'utf8');
-        // console.log("Appended File");
     }
 }
 

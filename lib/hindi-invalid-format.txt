@@ -1052,3 +1052,323 @@ Route Name     : duvadilan-10mg-tablet-50s
 Language       : hindi-invalid-format
 Total Tokens   : 0
 -------------------------------
+
+Route Name     : duzela-m-30mg1.5mg-capsule-dr-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : dynaglipt-20mg-tablet
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : dynaglipt-m-500mg20mg-tablet-sr-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : dytor-10mg-tablet-15s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : earwel-ear-drop-5ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : ebasil-20mg-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : ebast-10mg-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : ebast-m-10mg10mg-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : ec-pan-dsr-capsule-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : ecosprin-av-10mg75mg-capsule-15s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : efnocar-40mg-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : eliquis-5mg-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : eltroxin-25mcg-tablet
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : emeset-syrup-juicy-lemon
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : emlukast-fx-10mg120mg-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : encorate-chrono-500-tablet-cr-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : endogest-100mg-capsule-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : endogest-200mg-tablet-sr-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : enliva-20mg75mg-capsule-sr-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : enuff-10mg-sachet-1gm
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : enzar-forte-tablet-15s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : epiduo-0.12.5-gel-30gm
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : epifast-500mg-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : epilex-chrono-500-tablet-cr
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : epilive-er-1000mg-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : epitop-25mg-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : epsolin-50mg-injection-2ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : eptoin-100mg-tablet
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : eptoin-300mg-tablet-er-30s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : eritel-80-am-tablet-15s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : eritel-ln-40-tablet
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : erytop-lotion-25ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : esgipyrin-tablets-15s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : esium-40mg-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : eslo-5mg-tablet-15s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : esogress-d-capsule-sr-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : esogress-l-capsule-sr-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : esomac-d-20-capsule-sr-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : esomac-l-capsule-sr-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : esoz-40mg-tablet-15s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : esoz-l-capsule-sr-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : etan-g-cream
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : etirest-0.5-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : etova-400mg4mg-tablet-mr-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : etrik-p-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : eupen-500mg-injection
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : eva-q-syrup-100ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : exizol-shampoo-50ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : eyemist-forte-eye-drop
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : ezeepam-plus-10-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : ezicas-az-nasal-spray
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : ezolent-plus-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : fas-3-kit
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : fbn-eye-drop
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : febrex-plus-ds-suspension-60ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : febubow-40-tablet
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : febucip-40mg-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : fenak-plus-50mg325mg-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : ferikind-s-100-injection-5ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : ferium-500mg-injection-10ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : fevago-120mg-suspension-strawberry
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : flavedon-35mg-tablet-mr-10
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : flexon-suspension-60-ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+
+Route Name     : floace-eye-drop
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
