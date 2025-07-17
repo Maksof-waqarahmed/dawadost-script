@@ -97,3 +97,36 @@ Route Name     : doxinate-24mg-tablet-er-15s
 Language       : invalid-format-bengali
 Total Tokens   : 0
 -------------------------------
+
+Route Name     : silocare-8mg-capsule-10s
+        Language       : invalid-format-bengali
+        Total Tokens   : 0
+        -------------------------------
+Route Name     : biselect-10mg-tablet-10s
+        Language       : invalid-format-bengali
+        Total Tokens   : 0
+        -------------------------------
+Route Name     : sucrocell-o-syrup-200ml
+        Language       : invalid-format-bengali
+        Total Tokens   : 0
+        -------------------------------
+Route Name     : quicnac-600mg-effervescent-orange-tablet-10s
+        Language       : invalid-format-bengali
+        Total Tokens   : 0
+        -------------------------------
+Route Name     : my-dr-pain-relief-spray-60gm
+        Language       : invalid-format-bengali
+        Total Tokens   : 0
+        -------------------------------
+Route Name     : my-dr-pain-relief-cream-60gm
+        Language       : invalid-format-bengali
+        Total Tokens   : 0
+        -------------------------------
+Route Name     : my-dr-pain-relief-cream-30gm
+        Language       : invalid-format-bengali
+        Total Tokens   : 0
+        -------------------------------
+Route Name     : my-dr-pain-relief-oil-125ml
+        Language       : invalid-format-bengali
+        Total Tokens   : 0
+        -------------------------------
