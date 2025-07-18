@@ -1729,3 +1729,255 @@ Route Name     : histakem-120mg-tablet-10s
 Language       : hindi-invalid-format
 Total Tokens   : 0
 -------------------------------
+Route Name     : hucog-5000-hp-injection-1ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : human-actrapid-40iuml-solution-for-injection
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : human-mixtard-50-injection-40iuml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : huminsulin-3070-cartridge-100iu-3ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : humog-75iu-injection-1ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : hyla-eye-drop-10ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : hyla-pf-eye-drop-10ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : i-tyza-200mg-capsule-7s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : ibugesic-plus-oral-suspension-60ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : ifin-500mg-tablet-7s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : imat-400-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : imax-s-injection-5ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : inderal-10mg-tablet-15s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : infen-p-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : inzofresh-10-tablet
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : isordil-5-sublingual-tablet
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : isotane-20-capsule
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : it-mac-200mg-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : ivabrad-5mg-tablet-15s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : ivermectol-12mg-tablet
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : janumet-50-mg500-mg-tablets-15s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : jointace-od-tablet-15s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : kansel-ds-gel-30gm
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : kefpod-cv-200-tablet
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : keto-cream-30-gm
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : ketoford-10mg-tablet-dt-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : ketostar-2-cream-30gm
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : kineto-dp-capsule-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : klm-fx-180mg-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : kufril-ls-drop-15ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : kz-2-cream-30gm
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : l-cin-oz-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : l-sys-lotion-30ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : lacotide-100mg-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : lantus-solostar-100iuml-solution-for-injection
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : lanzoprax-kid-15mg-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : lasma-lc-kid-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : laxopeg-kid-powder-for-oral-solution-8.5gm
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : lcf-ls-syrup-100ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : lcfex-180mg-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : lecet-syrup-60ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : leezole-2-ww-gel
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : leezole-3-kit-tablet
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : leptomate-25mg-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : lesuride-injection
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : levera-500mg-tablet-15s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : levigress-500mg-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : levocet-syrup-60ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : levolin-0.31mg-respules
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : levolin-syrup-100ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : levolin-2mg-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : linoplus-600mg-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : linospan-600mg-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : livoluk-oral-solution-200ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : lizolid-600mg-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : lizomed-600mg-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : lmwx-40mg-prefilled-syringe-0.4ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : lnbloc-5-tablet
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : lomofen-tablet
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : lon-eye-drop
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : longifene-ds-50mg-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : lonopin-40mg-prefilled-syringe-0.4ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : lopez-2mg-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------

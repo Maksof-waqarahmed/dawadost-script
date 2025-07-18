@@ -130,3 +130,47 @@ Route Name     : my-dr-pain-relief-oil-125ml
         Language       : invalid-format-bengali
         Total Tokens   : 0
         -------------------------------
+Route Name     : dabur-mugdha-ras-tablet-35s
+Language       : invalid-format-bengali
+Total Tokens   : 0
+-------------------------------
+Route Name     : prolet-50mg-tablet-15s
+Language       : invalid-format-bengali
+Total Tokens   : 0
+-------------------------------
+Route Name     : carnimet-e-tablet-10s
+Language       : invalid-format-bengali
+Total Tokens   : 0
+-------------------------------
+Route Name     : predina-1wv-eye-drop-10ml
+Language       : invalid-format-bengali
+Total Tokens   : 0
+-------------------------------
+Route Name     : dabur-rheumatil-oil-100ml
+Language       : invalid-format-bengali
+Total Tokens   : 0
+-------------------------------
+Route Name     : zincovit-active-liquid-orange-200ml
+Language       : invalid-format-bengali
+Total Tokens   : 0
+-------------------------------
+Route Name     : dabur-rasraj-ras-with-gold-tablet-10s
+Language       : invalid-format-bengali
+Total Tokens   : 0
+-------------------------------
+Route Name     : mebza-forte-capsules-10s
+Language       : invalid-format-bengali
+Total Tokens   : 0
+-------------------------------
+Route Name     : cypon-h-plus-syrup-200ml
+Language       : invalid-format-bengali
+Total Tokens   : 0
+-------------------------------
+Route Name     : besicor-2.5mg-trablet-15s
+Language       : invalid-format-bengali
+Total Tokens   : 0
+-------------------------------
+Route Name     : vintel-m-25mg40mg-tablet-er-10s
+Language       : invalid-format-bengali
+Total Tokens   : 0
+-------------------------------
