@@ -8070,3 +8070,119 @@ Route Name     : lopez-3mg-tablet-10s
 Language       : hindi
 Total Tokens   : 287
 -------------------------------
+Route Name     : loraz-2mg-tablet-10s
+Language       : hindi
+Total Tokens   : 255
+-------------------------------
+Route Name     : lorox-p-tablet-10s
+Language       : hindi
+Total Tokens   : 270
+-------------------------------
+Route Name     : lorsaid-p-8mg-tablet-10s
+Language       : hindi
+Total Tokens   : 244
+-------------------------------
+Route Name     : lorsaid-p-4mg-tablet-10s
+Language       : hindi
+Total Tokens   : 248
+-------------------------------
+Route Name     : lorvas-1.5mg-tablet-sr-10s
+Language       : hindi
+Total Tokens   : 232
+-------------------------------
+Route Name     : losacar-50-tablet-10s
+Language       : hindi
+Total Tokens   : 233
+-------------------------------
+Route Name     : losacar-a-tablet-10s
+Language       : hindi
+Total Tokens   : 236
+-------------------------------
+Route Name     : losacar-h-tablet-10s
+Language       : hindi
+Total Tokens   : 233
+-------------------------------
+Route Name     : losakind-h-tablet-10s
+Language       : hindi
+Total Tokens   : 237
+-------------------------------
+Route Name     : losanorm-h-25-tablet-10s
+Language       : hindi
+Total Tokens   : 239
+-------------------------------
+Route Name     : losanorm-ch-506.25-tablet-10s
+Language       : hindi
+Total Tokens   : 243
+-------------------------------
+Route Name     : losar-beta-h-tablet-10s
+Language       : hindi
+Total Tokens   : 248
+-------------------------------
+Route Name     : losar-a-50mg5mg-tablet-15s
+Language       : hindi
+Total Tokens   : 240
+-------------------------------
+Route Name     : losartas-25mg-tablet-10s
+Language       : hindi
+Total Tokens   : 240
+-------------------------------
+Route Name     : losartas-50mg-tablet-10s
+Language       : hindi
+Total Tokens   : 240
+-------------------------------
+Route Name     : losartas-ht-50-tablet-15s
+Language       : hindi
+Total Tokens   : 240
+-------------------------------
+Route Name     : lostat-25mg-tablet-15s
+Language       : hindi
+Total Tokens   : 247
+-------------------------------
+Route Name     : lostat-50mg-tablet-15s
+Language       : hindi
+Total Tokens   : 241
+-------------------------------
+Route Name     : loswet-powder-75gm
+Language       : hindi
+Total Tokens   : 241
+-------------------------------
+Route Name     : lot-entod-eye-drop
+Language       : hindi
+Total Tokens   : 244
+-------------------------------
+Route Name     : lotegate-eye-drop-5ml
+Language       : hindi
+Total Tokens   : 237
+-------------------------------
+Route Name     : lotel-0.5-eye-drop
+Language       : hindi
+Total Tokens   : 240
+-------------------------------
+Route Name     : lotel-ls-gel-5ml
+Language       : hindi
+Total Tokens   : 277
+-------------------------------
+Route Name     : lotensyl-10-tablet-10s
+Language       : hindi
+Total Tokens   : 237
+-------------------------------
+Route Name     : lotepred-ls-eye-drop
+Language       : hindi
+Total Tokens   : 243
+-------------------------------
+Route Name     : lox-4-injection-30ml
+Language       : hindi
+Total Tokens   : 237
+-------------------------------
+Route Name     : loxet-20mg-tablet-10s
+Language       : hindi
+Total Tokens   : 230
+-------------------------------
+Route Name     : loxof-500mg-tablet-10s
+Language       : hindi
+Total Tokens   : 282
+-------------------------------
+Route Name     : loxof-oz-tablet-10s
+Language       : hindi
+Total Tokens   : 247
+-------------------------------

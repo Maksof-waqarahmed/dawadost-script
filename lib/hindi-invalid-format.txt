@@ -1981,3 +1981,35 @@ Route Name     : lopez-2mg-tablet-10s
 Language       : hindi-invalid-format
 Total Tokens   : 0
 -------------------------------
+Route Name     : lorfast-am-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : lorfast-meltab-10mg-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : lorsaid-p-8mg-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : lorsaid-p-4mg-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : lox-2-jelly-30gm
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : lox-2-injection-30ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : loxet-20mg-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : loxicard-2-infusion-50ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------

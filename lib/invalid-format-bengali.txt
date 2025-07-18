@@ -174,3 +174,15 @@ Route Name     : vintel-m-25mg40mg-tablet-er-10s
 Language       : invalid-format-bengali
 Total Tokens   : 0
 -------------------------------
+Route Name     : bone-grow-capsule-30s
+Language       : invalid-format-bengali
+Total Tokens   : 0
+-------------------------------
+Route Name     : dabur-arjun-chhal-churna-100gm
+Language       : invalid-format-bengali
+Total Tokens   : 0
+-------------------------------
+Route Name     : glimiprex-mf-2mg500mg-tablet-sr-15s
+Language       : invalid-format-bengali
+Total Tokens   : 0
+-------------------------------
