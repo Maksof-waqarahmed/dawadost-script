@@ -2025,3 +2025,719 @@ Route Name     : ludura-1-cream-50gm
 Language       : hindi-invalid-format
 Total Tokens   : 0
 -------------------------------
+Route Name     : lubrijoint-od-tablet-30s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : lumigan-0.01-ophthalmic-solution
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : lupirtin-p-100mg325mg-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : lyser-d-tablet-15s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : m-cold-plus-new-tablets-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : m-cin-tablet-5s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : m.v.i.-injection
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : macbery-ls-syrup-100ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : macbery-xt-expectorant-sugar-free-100ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : macfast-650mg-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : macox-zh-kid-tablet-dt
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : macpod-200-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : macpril-h-5mg-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : macsart-beta-25-tablet-er-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : mahaflox-0.3-eye-drop-5ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : mahaflox-eye-drop
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : mahaflox-400mg-tablet-5s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : maxgalin-150mg-tablet-er-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : maxgalin-75mg-tablet-er-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : maxiflo-250-rotacaps-30s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : maxmoist-eye-drop-10ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : maxtra-oral-drops-15ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : maxtra-syrup-60ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : maxvoid-4mg-tablet
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : mazetol-400mg-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : me-12-injection
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : medicaine-oral-gel-200ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : mefkind-ds-suspension-60ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : mefprex-p-suspension-pineapple-mango-floavor-60ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : meftagesic-ds-100mg250mg-suspension-60ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : meftal-spas-injection
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : megapen-capsule-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : megazolid-600mg-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : melabest-cream-15gm
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : melacare-forte-cream-20gm
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : memopi-hc-cream
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : mesahenz-1200-tablet-pr
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : mesalo-od-1200mg-tablet-dr-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : met-xl-r-505-tablet-15s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : metapro-xl-50mg-tablet-15s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : metaspray-50mcg-aquanase-100mdi
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : metocard-xl-100mg-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : metolar-25mg-capsule-xr-15s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : metolar-50mg-capsule-xr
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : metopar-5-mg325-mg-tablet
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : metpure-xl-12.5-tablet
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : metpure-xl-25-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : metpure-xl-50-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : metrogyl-gel-30gm
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : metzok-50-tablet-pr-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : microbact-500mg-tablet-5s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : migarid-5-tablet
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : migon-plus-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : mikacin-500mg-injection
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : milflodex-bkc-free-eye-drop
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : minichek-5-solution-60ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : minolast-10mg-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : minolast-fx-10mg120mg-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : minolast-lc-5mg10mg-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : minoz-bpo-gel-15gm
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : mintop-10-solution-60ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : mintop-2-solution-60ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : miofree-4mg-capsule-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : miol-g-300-mg500-mcg-tablet
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : miol-p-capsule-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : misty-fresh-eye-drop
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : mmf-tablet
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : mmf-s-tablet
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : mms-cream-30gm
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : mofloren-0.5-eye-drop
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : moisol-eye-drop
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : mom-plus-suspension-sugar-free-170ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : momeflo-50mcg-nasal-spray-10ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : momoz-f-ointment-10gm
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : monit-gtn-2.6-tablet-cr-30s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : monlevo-5mg10mg-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : monocef-1gm-injection
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : monocef-2gm-injection
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : monocef-500mg-injection-2ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : monocef-o-cv-200125-tablet
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : monocef-sb-1g-injection
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : monotrate-od-tablet-pr
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : montair-4mg-chewable-tablet-15s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : montair-5mg-chewable-tablet-strawberry-15s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : montegress-lc-5mg10mg-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : montemac-fx-10mg120mg-tablet
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : montemac-l-kid-tablet-dt-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : monticope-suspension-60ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : monticope-a-75mg5mg10mg-tablet-sr-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : montina-l-2.5mg4mg-tablet-dt-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : montina-l-5mg10mg-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : montor-lc-5mg10mg-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : montral-5mg10mg-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : morr-12.5-solution-60ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : morr-f-5-solution
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : mosi-d-eye-drop
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : motimesh-sf-cream
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : mox-cv-375-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : mox-cv-ds-457mg-powder-for-oral-suspension
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : moxam-400mg-tablet-5s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : moxiblu-d-eye-drop-10ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : moxiblu-lx-eye-drop-5ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : moxiblu-eye-drop
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : moxicip-d-eye-drop-5ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : moxicip-eye-drop-5ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : moxieye-lp-gel-eye-drop-5ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : moxif-400-tablet-5s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : moxiford-400mg-tablet-5s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : moxigram-eye-drop-5ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : moximac-tablet
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : moxisurge-eye-drop
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : moxisurge-d-eye-drop
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : moxoft-d-eye-drop
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : moxoft-eye-drop
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : mucomix-et-sf-600mg-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : mucotab-600mg-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : mucotab-et-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : muout-plus-powder-119gm
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : mx-10-topical-solution
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : mx-5-topical-solution
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : mycept-500-tablet
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : nadoxin-plus-cream
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : nasopil-0.1-paediatric-nasal-drops-10ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : natrise-15gm-tablet-4s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : nax-b-gel
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : nazomac-af-nasal-spray-12ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : nazomac-m-nasal-spray-12ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : nebasulf-sprinkling-powder
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : nebi-2.5mg-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : nebicard-5mg-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : nebicip-2.5-tablet
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : nebicip-5-tablet
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : nebimac-2.5mg-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : nebistar-2.5mg-tablet-15s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : nebistar-5mg-tablet-15s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : nebula-2.5-tablet
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : neomol-250-anal-suppository
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : neorelax-8-tablet-mr-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : neosporin-dusting-powder-10gm
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : neosporin-h-ear-drop
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : nepaflam-eye-drop
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : nepalact-eye-drop
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : nepastar-eye-drop
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : nervilax-nt-75mg10mg-tablet
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : neugaba-75mg-tablet-er-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : neurobion-rf-forte-injection-2ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : new-dolo-cold-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : newtel-h-80-tablet
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : nexito-10-tablet
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : nexito-plus-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : nexpro-rd-20-capsule-sr-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : nextane-ophthalmic-solution-10ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : neypac-0.1-eye-drop
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : nflox-b-10mg400mg-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : nicardia-10mg-capsule-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : nicodin-5-solution-100-ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : nifecaine-cream
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : nikoran-5mg-tablet-20s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : nilac-gel
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : nildep-25mg-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : nimsaid-p-tablet-15s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : nimucet-af-syrup-60ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : nimulid-100-tablet
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : nipam-5mg-tablet
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : nitrolong-2.6-tablet-cr
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : nitrolong-6.4-tablet-cr
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : nitrosun-10mg-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : nobel-plus-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : no-cold-5mg2mg-drop-15ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : nodon-2.5mg-tablet-15s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : nodon-tablet-15s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : nodon-h-tablet
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : nootropil-syrup-100ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : normabrain-syrup-100ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : normaxin-cc-5mg2.5mg-tablet-15s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : normaxin-mb-200mg-capsule-sr-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : norpregalin-75mg10mg-tablet
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : nortipan-tablet
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : nortryptomer-p-sr-75-tablet
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------

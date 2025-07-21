@@ -186,3 +186,71 @@ Route Name     : glimiprex-mf-2mg500mg-tablet-sr-15s
 Language       : invalid-format-bengali
 Total Tokens   : 0
 -------------------------------
+Route Name     : pantop-d-10mg20mg-capsule-15s
+Language       : invalid-format-bengali
+Total Tokens   : 0
+-------------------------------
+Route Name     : eshcarno-100mg-syrup-200ml
+Language       : invalid-format-bengali
+Total Tokens   : 0
+-------------------------------
+Route Name     : duloxee-p-75mg20mg-capsule-10s
+Language       : invalid-format-bengali
+Total Tokens   : 0
+-------------------------------
+Route Name     : patanjali-saumya-ayurvedic-herbal-eye-drop-10ml
+Language       : invalid-format-bengali
+Total Tokens   : 0
+-------------------------------
+Route Name     : zandu-balm-1ml-x-10s
+Language       : invalid-format-bengali
+Total Tokens   : 0
+-------------------------------
+Route Name     : bisoset-tm-2.5mg40mg-tablet-10s
+Language       : invalid-format-bengali
+Total Tokens   : 0
+-------------------------------
+Route Name     : gudgesic-nf-liniment-30ml
+Language       : invalid-format-bengali
+Total Tokens   : 0
+-------------------------------
+Route Name     : baidyanath-sarivadyasava-liquid-450ml
+Language       : invalid-format-bengali
+Total Tokens   : 0
+-------------------------------
+Route Name     : dabur-pushpadhanwa-ras-tablet-40s
+Language       : invalid-format-bengali
+Total Tokens   : 0
+-------------------------------
+Route Name     : britesite-eye-drop-10ml
+Language       : invalid-format-bengali
+Total Tokens   : 0
+-------------------------------
+Route Name     : nanculive-syrup-100ml
+Language       : invalid-format-bengali
+Total Tokens   : 0
+-------------------------------
+Route Name     : baidyanath-sitopaladi-churna-30gm
+Language       : invalid-format-bengali
+Total Tokens   : 0
+-------------------------------
+Route Name     : dabur-chitrak-haritaki-powder-250gm
+Language       : invalid-format-bengali
+Total Tokens   : 0
+-------------------------------
+Route Name     : lizoforce-600mg-tablet-10s
+Language       : invalid-format-bengali
+Total Tokens   : 0
+-------------------------------
+Route Name     : naturmeds-hand-sanitizer-refreshing-lemon-spray-30ml
+Language       : invalid-format-bengali
+Total Tokens   : 0
+-------------------------------
+Route Name     : patanjali-moisturizer-cream-50gm
+Language       : invalid-format-bengali
+Total Tokens   : 0
+-------------------------------
+Route Name     : aimil-amyron-tablet-30s
+Language       : invalid-format-bengali
+Total Tokens   : 0
+-------------------------------
