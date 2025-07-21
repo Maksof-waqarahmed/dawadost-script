@@ -2013,3 +2013,15 @@ Route Name     : loxicard-2-infusion-50ml
 Language       : hindi-invalid-format
 Total Tokens   : 0
 -------------------------------
+Route Name     : lozivate-mf-ointment-30gm
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : lubrex-eye-drop-10-ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : ludura-1-cream-50gm
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------

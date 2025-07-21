@@ -12128,3 +12128,75 @@ Route Name     : eustolid-600mg-tablet-10s
 Language       : bengali
 Total Tokens   : 213
 -------------------------------
+Route Name     : fertisure-fem-tablet-10s
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+Route Name     : vintel-40am-tablet-15s
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+Route Name     : brain-q-capsule-10s
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+Route Name     : profine-300mg-tablet-sr-10s
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+Route Name     : myncal-d3-tablet-10s
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+Route Name     : lux-soft-glow-soap-100gm-x-4s-1s
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+Route Name     : glucreta-l-5mg10mg-tablet-10s
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+Route Name     : profulvin-500mg-tablet-10s
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+Route Name     : oprim-s-1.5gm-injection-1s
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+Route Name     : scarlite-cream-15gm
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+Route Name     : sffariz-200mg-tablet-10s
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+Route Name     : ad-vitamin-baby-massage-oil
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+Route Name     : halox-f-cream-15gm
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+Route Name     : rabzot-d-20mg30mg-capsule-sr-10s
+Language       : bengali
+Total Tokens   : 219
+-------------------------------
+Route Name     : torace-160mg-tablets-10s
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+Route Name     : mintop-forte-10-solution-120ml
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+Route Name     : vaseline-intensive-care-body-deep-moisture-lotion-200ml
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+Route Name     : gibson-round-blood-lancet-25s
+Language       : bengali
+Total Tokens   : 213
+-------------------------------

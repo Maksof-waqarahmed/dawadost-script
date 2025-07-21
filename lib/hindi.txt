@@ -8186,3 +8186,31 @@ Route Name     : loxof-oz-tablet-10s
 Language       : hindi
 Total Tokens   : 247
 -------------------------------
+Route Name     : lozep-1mg-tablet
+Language       : hindi
+Total Tokens   : 275
+-------------------------------
+Route Name     : lozivate-f-cream-15gm
+Language       : hindi
+Total Tokens   : 227
+-------------------------------
+Route Name     : lubrex-ds-eye-drop-10ml
+Language       : hindi
+Total Tokens   : 246
+-------------------------------
+Route Name     : lubrijoint-750mg-tablet-60s
+Language       : hindi
+Total Tokens   : 244
+-------------------------------
+Route Name     : lucoz-1-ww-cream-15gm
+Language       : hindi
+Total Tokens   : 238
+-------------------------------
+Route Name     : lukotas-hd-tablet-sr-10s
+Language       : hindi
+Total Tokens   : 292
+-------------------------------
+Route Name     : lulibrut-cream-15gm
+Language       : hindi
+Total Tokens   : 232
+-------------------------------
