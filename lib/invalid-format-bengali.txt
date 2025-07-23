@@ -254,3 +254,11 @@ Route Name     : aimil-amyron-tablet-30s
 Language       : invalid-format-bengali
 Total Tokens   : 0
 -------------------------------
+Route Name     : ascodex-br-syrup-100ml
+Language       : invalid-format-bengali
+Total Tokens   : 0
+-------------------------------
+Route Name     : fungiforce-dusting-powder-100gm
+Language       : invalid-format-bengali
+Total Tokens   : 0
+-------------------------------

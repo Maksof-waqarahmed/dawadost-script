@@ -2741,3 +2741,63 @@ Route Name     : nortryptomer-p-sr-75-tablet
 Language       : hindi-invalid-format
 Total Tokens   : 0
 -------------------------------
+Route Name     : nt-cold-5mg325mg5mg-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : nuforce-anti-dandruff-lotion-50ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : nummit-spray-fresh-mint
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : nupenta-cp-capsule-sr
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : o2-derm-cream-15gm
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : occucom-eye-drop
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : ocuflur-0.03wv-eye-drop-5ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : ofloxacure-50mg-syrup
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : olkem-20-ct-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : olkem-40-ct-tablet
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : olmetor-ch-20mg12.5mg-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : olmetor-ch-40mg12.5mg-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : olmezest-ch-20mg-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : olmezest-ch-40mg12.5mg-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : olopat-od-eye-drop-3ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
