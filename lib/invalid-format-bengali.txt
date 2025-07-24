@@ -262,3 +262,11 @@ Route Name     : fungiforce-dusting-powder-100gm
 Language       : invalid-format-bengali
 Total Tokens   : 0
 -------------------------------
+Route Name     : glimify-m2-forte-tablet
+Language       : invalid-format-bengali
+Total Tokens   : 0
+-------------------------------
+Route Name     : psortan-lotion-50ml
+Language       : invalid-format-bengali
+Total Tokens   : 0
+-------------------------------

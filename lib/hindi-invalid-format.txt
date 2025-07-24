@@ -2801,3 +2801,347 @@ Route Name     : olopat-od-eye-drop-3ml
 Language       : hindi-invalid-format
 Total Tokens   : 0
 -------------------------------
+Route Name     : omen-40mg-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : omen-ct-40mg12.5mg-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : omez-injection
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : omez-40mg-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : onabet-powder-50ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : ondamac-4mg-tablet-md-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : ordent-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : orlisis-120mg-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : osmitol-syrup
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : new-otilan-ear-drop-5ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : ovral-g-tablet-20s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : ovuloc-tablet
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : pan-20-md-tablet
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : pan-junior-tablet-md-orange
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : panimun-bioral-50mg-capsule-6s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : pantadom-d-30mg40mg-capsule-sr
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : pantafol-dsr-30mg40mg-capsule-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : pantakind-40mg-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : pantex-d-capsule-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : pantin-40mg-tablet-15s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : pantocaf-it-40mg150mg-capsule
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : pantocar-40mg-tablet-15s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : pantocid-iv-40mg-injection
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : pantodac-20mg-tablet-15s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : pantop-20mg-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : pantosec-d-10mg40mg-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : parkin-2mg-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : pbren-nt-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : peg-75mg-tablet-sr-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : pegsr-m-1500-mcg75-mg-tablet
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : pentaloc-dsr-30-mg40-mg-capsule-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : pentanerv-300mg-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : pentanerv-nt-400mg10mg-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : pentasa-1gm-prolonged-release-granules-1s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : pentate-dsr-30mg40mg-capsule
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : peptilcer-40mg-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : periset-8mg-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : pernil-5-lotion
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : petolo-eye-drop-5ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : phenergan-10-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : phytoral-2-ointment-30gm
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : pilocar-2-eye-drop
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : piza-d-30mg40mg-capsule-sr-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : planokuf-d-syrup-60ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : popson-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : prazopress-xl-5mg-tablet-30s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : predmet-1-eye-drop
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : pregaba-nt-75mg10mg-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : pregabid-nt-tablet-15s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : pregadoc-nt-75mg10mg-tablet
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : pregalin-50-capsule
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : pregalin-nt-75mg10mg-tablet
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : preganerve-75-tablet
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : preganza-nt-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : pregeb-od-150mg-tablet-sr-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : pregeb-od-75-tablet
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : presolar-50mg20mg-capsule-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : proctosedyl-bd-cream-20gm
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : progynova-2mg-tablet
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : prohale-200-injection-4ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : prolomet-25mg-tablet-xl-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : propysalic-nf-6-ointment-20gm
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : propysalic-nf-ointment-30gm
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : protera-i-capsule-sr
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : protera-l-capsule-sr
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : protol-xl-50-tablet
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : provanol-40mg-tablet-sr-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : provanol-60mg-sr-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : psorid-100mg-capsule-5s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : quadriderm-rf-cream-10gm
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : qutipin-100-tablet
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : rabee-20mg-tablet
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : rabekind-dsr-capsule-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : rabemac-20mg-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : rabesec-ls-capsule-sr-capsule-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : rabesec-d-10mg20mg-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : rabidoc-ls-75mg20mg-capsule
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : rabium-d-capsule-sr-15s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : rabivax-s-vaccine-1ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : rablet-20mg-tablet-15s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : rablet-d-40-capsule-sr-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : rablet-l-capsule-pr-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : raceclo-200mg20mg-capsule-sr
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : ramcor-2.5-capsule
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : ramihart-2.5mg-capsule-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : ramihart-5mg-capsule-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------

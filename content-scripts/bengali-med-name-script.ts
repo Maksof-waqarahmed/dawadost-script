@@ -92,18 +92,18 @@ async function englishToHindhiConvert() {
                 continue;
             }
 
-            const { rows: bengali_data } = await client.query(
-                `SELECT introduction, how_to_use, how_it_works, benefits, side_effects, disease_explanation 
-                 FROM medicines_details 
-                 WHERE route_name = $1 AND language = 'bengali'`,
-                [routeName]
-            );
-            const bengaliData = bengali_data[0];
-            if (bengaliData?.introduction && bengaliData?.how_to_use && bengaliData?.how_it_works &&
-                bengaliData?.benefits && bengaliData?.side_effects && bengaliData?.disease_explanation) {
-                console.log("Bengali content already exists for:", routeName);
-                continue;
-            }
+            // const { rows: bengali_data } = await client.query(
+            //     `SELECT introduction, how_to_use, how_it_works, benefits, side_effects, disease_explanation 
+            //      FROM medicines_details 
+            //      WHERE route_name = $1 AND language = 'bengali'`,
+            //     [routeName]
+            // );
+            // const bengaliData = bengali_data[0];
+            // if (bengaliData?.introduction && bengaliData?.how_to_use && bengaliData?.how_it_works &&
+            //     bengaliData?.benefits && bengaliData?.side_effects && bengaliData?.disease_explanation) {
+            //     console.log("Bengali content already exists for:", routeName);
+            //     continue;
+            // }
 
             const medicineData = rows[0];
             const keyword = keywordRows[0]?.meta_keywords;
