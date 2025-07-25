@@ -270,3 +270,23 @@ Route Name     : psortan-lotion-50ml
 Language       : invalid-format-bengali
 Total Tokens   : 0
 -------------------------------
+Route Name     : ct-looz-solution-200ml
+Language       : invalid-format-bengali
+Total Tokens   : 0
+-------------------------------
+Route Name     : apsovent-sf-syrup-100ml
+Language       : invalid-format-bengali
+Total Tokens   : 0
+-------------------------------
+Route Name     : argmore-sachet-3gm
+Language       : invalid-format-bengali
+Total Tokens   : 0
+-------------------------------
+Route Name     : voltapraz-20mg-tablet-10s
+Language       : invalid-format-bengali
+Total Tokens   : 0
+-------------------------------
+Route Name     : hiskabend-tablet-1s
+Language       : invalid-format-bengali
+Total Tokens   : 0
+-------------------------------
