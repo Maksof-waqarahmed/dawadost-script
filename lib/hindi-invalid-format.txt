@@ -3409,3 +3409,147 @@ Route Name     : smulac-3.35gm-syrup-200ml
 Language       : hindi-invalid-format
 Total Tokens   : 0
 -------------------------------
+Route Name     : sn-15-plus-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : sofinox-cream
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : soliwax-ear-drop
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : solopose-0.5mg-tablet-md-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : solu-medrol-1gm-injection-8ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : solvin-cold-drop-15ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : sompraz-40mg-tablet-15s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : sompraz-hp-tablet-6s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : sompraz-it-capsule-sr
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : sonaxa-nt-75mg10mg-tablet-15s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : sothrex-br-syrup-100ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : soventus-syrup-100ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : sporidex-syrup
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : stamlo-5mg-tablet-30s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : stamlo-beta-5mg50mg-tablet-15s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : stamlo-t-40mg5mg-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : starpress-xl-12.5mg-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : storfib-10mg145mg-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : storvas-40mg-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : strocoz-plus-tablet
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : styptin-10mg-tablet-cr-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : sucol-injection
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : sucrafil-o-gel-sugar-free-200ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : sucral-ano-cream-20gm
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : sucralcoat-o-suspension
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : sudif-cream
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : sulisent-100mg-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : supatret-0.04-aqueous-gel
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : supatret-c-aqueous-gel
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : supirocin-2-ointment-5gm
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : surfaz-cream
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : susten-100-injection
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : susten-200-soft-gelatin-capsule
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : susten-8-gel
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : swich-100-dry-syrup
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : switglim-m-21000-tablet-pr-15s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------

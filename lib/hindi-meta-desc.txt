@@ -1,0 +1,748 @@
+Route Name     : मोनोसेफ 2gm इन्जेक्शन
+Language       : hindi-meta-desc
+Total Tokens   : 156
+-------------------------------
+Route Name     : एमिक्साइड-एच टैबलेट
+Language       : hindi-meta-desc
+Total Tokens   : 153
+-------------------------------
+Route Name     : डिक्लोटाल-एसपी टैबलेट
+Language       : hindi-meta-desc
+Total Tokens   : 161
+-------------------------------
+Route Name     : स्मूथ सस्पेंशन
+Language       : hindi-meta-desc
+Total Tokens   : 146
+-------------------------------
+Route Name     : सिप्लोक्स 250 टैबलेट
+Language       : hindi-meta-desc
+Total Tokens   : 156
+-------------------------------
+Route Name     : मोनोसेफ 2gm इन्जेक्शन
+Language       : hindi-meta-desc
+Total Tokens   : 159
+-------------------------------
+Route Name     : एमिक्साइड-एच टैबलेट
+Language       : hindi-meta-desc
+Total Tokens   : 152
+-------------------------------
+Route Name     : डिक्लोटाल-एसपी टैबलेट
+Language       : hindi-meta-desc
+Total Tokens   : 161
+-------------------------------
+Route Name     : मोनोसेफ 2gm इन्जेक्शन
+Language       : hindi-meta-desc
+Total Tokens   : 167
+-------------------------------
+Route Name     : एमिक्साइड-एच टैबलेट
+Language       : hindi-meta-desc
+Total Tokens   : 157
+-------------------------------
+Route Name     : डिक्लोटाल-एसपी टैबलेट
+Language       : hindi-meta-desc
+Total Tokens   : 165
+-------------------------------
+Route Name     : स्मूथ सस्पेंशन
+Language       : hindi-meta-desc
+Total Tokens   : 159
+-------------------------------
+Route Name     : सिप्लोक्स 250 टैबलेट
+Language       : hindi-meta-desc
+Total Tokens   : 164
+-------------------------------
+Route Name     : मोनोसेफ 2gm इन्जेक्शन
+Language       : hindi-meta-desc
+Total Tokens   : 162
+-------------------------------
+Route Name     : एमिक्साइड-एच टैबलेट
+Language       : hindi-meta-desc
+Total Tokens   : 157
+-------------------------------
+Route Name     : मोनोसेफ 2gm इन्जेक्शन
+Language       : hindi-meta-desc
+Total Tokens   : 164
+-------------------------------
+Route Name     : मोनोसेफ 2gm इन्जेक्शन
+Language       : hindi-meta-desc
+Total Tokens   : 160
+-------------------------------
+Route Name     : मोनोसेफ 2gm इन्जेक्शन
+Language       : hindi-meta-desc
+Total Tokens   : 161
+-------------------------------
+Route Name     : एमिक्साइड-एच टैबलेट
+Language       : hindi-meta-desc
+Total Tokens   : 159
+-------------------------------
+Route Name     : डिक्लोटाल-एसपी टैबलेट
+Language       : hindi-meta-desc
+Total Tokens   : 169
+-------------------------------
+Route Name     : स्मूथ सस्पेंशन
+Language       : hindi-meta-desc
+Total Tokens   : 155
+-------------------------------
+Route Name     : सिप्लोक्स 250 टैबलेट
+Language       : hindi-meta-desc
+Total Tokens   : 166
+-------------------------------
+Route Name     : अल्ट्राब्राइट क्रीम
+Language       : hindi-meta-desc
+Total Tokens   : 161
+-------------------------------
+Route Name     : Monocef 2gm Injection
+Language       : hindi-meta-desc
+Total Tokens   : 161
+-------------------------------
+Route Name     : Amixide H Tablet 10s
+Language       : hindi-meta-desc
+Total Tokens   : 162
+-------------------------------
+Route Name     : मोनोसेफ 2gm इन्जेक्शन
+Language       : hindi-meta-desc
+Total Tokens   : 170
+-------------------------------
+Route Name     : Monocef 2gm Injection
+Language       : hindi-meta-desc
+Total Tokens   : 151
+-------------------------------
+Route Name     : Amixide H Tablet 10s
+Language       : hindi-meta-desc
+Total Tokens   : 161
+-------------------------------
+Route Name     : Diclotal SP Tablet 10s
+Language       : hindi-meta-desc
+Total Tokens   : 157
+-------------------------------
+Route Name     : Smuth Suspension
+Language       : hindi-meta-desc
+Total Tokens   : 145
+-------------------------------
+Route Name     : Ciplox 250 Tablet
+Language       : hindi-meta-desc
+Total Tokens   : 156
+-------------------------------
+Route Name     : Ultrabrite Cream
+Language       : hindi-meta-desc
+Total Tokens   : 150
+-------------------------------
+Route Name     : मोनोसेफ 2gm इन्जेक्शन
+Language       : hindi-meta-desc
+Total Tokens   : 163
+-------------------------------
+Route Name     : मोनोसेफ 2gm इन्जेक्शन
+Language       : hindi-meta-desc
+Total Tokens   : 166
+-------------------------------
+Route Name     : एमिक्साइड-एच टैबलेट
+Language       : hindi-meta-desc
+Total Tokens   : 164
+-------------------------------
+Route Name     : डिक्लोटाल-एसपी टैबलेट
+Language       : hindi-meta-desc
+Total Tokens   : 158
+-------------------------------
+Route Name     : स्मूथ सस्पेंशन
+Language       : hindi-meta-desc
+Total Tokens   : 153
+-------------------------------
+Route Name     : सिप्लोक्स 250 टैबलेट
+Language       : hindi-meta-desc
+Total Tokens   : 169
+-------------------------------
+Route Name     : अल्ट्राब्राइट क्रीम
+Language       : hindi-meta-desc
+Total Tokens   : 166
+-------------------------------
+Route Name     : लिपवास 10mg टैबलेट 10s.
+Language       : hindi-meta-desc
+Total Tokens   : 168
+-------------------------------
+Route Name     : बायोप्रोन सिरप
+Language       : hindi-meta-desc
+Total Tokens   : 156
+-------------------------------
+Route Name     : साइरा 20mg टैबलेट 10s.
+Language       : hindi-meta-desc
+Total Tokens   : 173
+-------------------------------
+Route Name     : ओफ्लोकैम ओजेड सिरप।
+Language       : hindi-meta-desc
+Total Tokens   : 164
+-------------------------------
+Route Name     : मेड्रोल 4 एमजी टैबलेट
+Language       : hindi-meta-desc
+Total Tokens   : 159
+-------------------------------
+Route Name     : बर्नहील क्रीम 15gm.
+Language       : hindi-meta-desc
+Total Tokens   : 157
+-------------------------------
+Route Name     : मिसो-जीन 200 टैबलेट
+Language       : hindi-meta-desc
+Total Tokens   : 155
+-------------------------------
+Route Name     : सेनसिक्लैव 625 टैबलेट 10स.
+Language       : hindi-meta-desc
+Total Tokens   : 177
+-------------------------------
+Route Name     : क्रिना एनसीआर 15एमजी टैबलेट 5s.
+Language       : hindi-meta-desc
+Total Tokens   : 178
+-------------------------------
+Route Name     : टोब्रा आई ड्रॉप
+Language       : hindi-meta-desc
+Total Tokens   : 159
+-------------------------------
+Route Name     : प्रेगाबैनील एनटीएम टैबलेट
+Language       : hindi-meta-desc
+Total Tokens   : 162
+-------------------------------
+Route Name     : लीकफ जूनियर सिरप 60एमएल
+Language       : hindi-meta-desc
+Total Tokens   : 168
+-------------------------------
+Route Name     : केटोसीप 2% शैम्पू 100ml
+Language       : hindi-meta-desc
+Total Tokens   : 178
+-------------------------------
+Route Name     : एलेक्स सिरप 100ml
+Language       : hindi-meta-desc
+Total Tokens   : 163
+-------------------------------
+Route Name     : कटिसोफ्ट क्रीम 15ग्राम.
+Language       : hindi-meta-desc
+Total Tokens   : 164
+-------------------------------
+Route Name     : Esogress D कैप्सूल SR 15s
+Language       : hindi-meta-desc
+Total Tokens   : 164
+-------------------------------
+Route Name     : शेल्कल सिरप 200 एमएल
+Language       : hindi-meta-desc
+Total Tokens   : 163
+-------------------------------
+Route Name     : ग्लुकोबे 50mg टैबलेट 10s.
+Language       : hindi-meta-desc
+Total Tokens   : 166
+-------------------------------
+Route Name     : ग्लेवो 500 टैबलेट 10s.
+Language       : hindi-meta-desc
+Total Tokens   : 166
+-------------------------------
+Route Name     : BTN अल्ट्रा टैबलेट 10s.
+Language       : hindi-meta-desc
+Total Tokens   : 165
+-------------------------------
+Route Name     : पेरिसेट एमडी टैबलेट
+Language       : hindi-meta-desc
+Total Tokens   : 162
+-------------------------------
+Route Name     : गैबानेरॉन एनटी 100 टैबलेट
+Language       : hindi-meta-desc
+Total Tokens   : 168
+-------------------------------
+Route Name     : एटेर्ना 4mg टैबलेट एमडी
+Language       : hindi-meta-desc
+Total Tokens   : 165
+-------------------------------
+Route Name     : लिओफेन एक्सएल 20 कैप्सूल 10s
+Language       : hindi-meta-desc
+Total Tokens   : 179
+-------------------------------
+Route Name     : सैट्रोगिल-ओ ड्राई सिरप
+Language       : hindi-meta-desc
+Total Tokens   : 167
+-------------------------------
+Route Name     : Anobliss क्रीम 30 ग्राम
+Language       : hindi-meta-desc
+Total Tokens   : 154
+-------------------------------
+Route Name     : केसोल 20 सिरप 200 मि.ली
+Language       : hindi-meta-desc
+Total Tokens   : 166
+-------------------------------
+Route Name     : फ्रीलेक्स टैबलेट
+Language       : hindi-meta-desc
+Total Tokens   : 159
+-------------------------------
+Route Name     : लाइकोरेड सिरप 200ml
+Language       : hindi-meta-desc
+Total Tokens   : 173
+-------------------------------
+Route Name     : लियोन 500 टैबलेट 10s.
+Language       : hindi-meta-desc
+Total Tokens   : 161
+-------------------------------
+Route Name     : रेनोलॉग डीएस टैबलेट 10s
+Language       : hindi-meta-desc
+Total Tokens   : 167
+-------------------------------
+Route Name     : टेनोवेट जीएन क्रीम
+Language       : hindi-meta-desc
+Total Tokens   : 157
+-------------------------------
+Route Name     : ओर्सेरिन जीएम टैबलेट 15 एस
+Language       : hindi-meta-desc
+Total Tokens   : 172
+-------------------------------
+Route Name     : पोल्माफोर्स 2mg कैप्सूल 10s.
+Language       : hindi-meta-desc
+Total Tokens   : 171
+-------------------------------
+Route Name     : इमोल प्लस टैबलेट 10s
+Language       : hindi-meta-desc
+Total Tokens   : 166
+-------------------------------
+Route Name     : {"primary":["एप्टोइन 100mg टैबलेट"],"secondary":[],"mostly_searched":[]}
+Language       : hindi-meta-desc
+Total Tokens   : 179
+-------------------------------
+Route Name     : डोत्रा एम 80mg/250mg टैबलेट।
+Language       : hindi-meta-desc
+Total Tokens   : 174
+-------------------------------
+Route Name     : मेफ्टल पी डिस्पर्सिबल टैबलेट.
+Language       : hindi-meta-desc
+Total Tokens   : 168
+-------------------------------
+Route Name     : ओक्यूवीर 800 डीटी टैबलेट
+Language       : hindi-meta-desc
+Total Tokens   : 162
+-------------------------------
+Route Name     : ज़िन्कोविट ड्रॉप्स
+Language       : hindi-meta-desc
+Total Tokens   : 166
+-------------------------------
+Route Name     : स्मूथ क्रीम 30ग्राम.
+Language       : hindi-meta-desc
+Total Tokens   : 163
+-------------------------------
+Route Name     : ओरावेंट टैबलेट 10s
+Language       : hindi-meta-desc
+Total Tokens   : 164
+-------------------------------
+Route Name     : ओसिल क्रीम 30ग्राम
+Language       : hindi-meta-desc
+Total Tokens   : 168
+-------------------------------
+Route Name     : लोपेज़ 1mg टैबलेट एमडी 10s
+Language       : hindi-meta-desc
+Total Tokens   : 174
+-------------------------------
+Route Name     : फेना किड 5mg सिरप
+Language       : hindi-meta-desc
+Total Tokens   : 164
+-------------------------------
+Route Name     : एरिथ्रो 250mg टैबलेट।
+Language       : hindi-meta-desc
+Total Tokens   : 163
+-------------------------------
+Route Name     : टोप्सिड 40 टैबलेट
+Language       : hindi-meta-desc
+Total Tokens   : 163
+-------------------------------
+Route Name     : ऑप्टीन्यूरॉन इंजेक्शन 3ml.
+Language       : hindi-meta-desc
+Total Tokens   : 174
+-------------------------------
+Route Name     : Darolac सिरप 30ml.
+Language       : hindi-meta-desc
+Total Tokens   : 160
+-------------------------------
+Route Name     : मोमेट-एफ क्रीम
+Language       : hindi-meta-desc
+Total Tokens   : 158
+-------------------------------
+Route Name     : माइक्रोडॉक्स 100mg एलबीएक्स कैप्सूल 10s.
+Language       : hindi-meta-desc
+Total Tokens   : 184
+-------------------------------
+Route Name     : सैट्ज़ाइन सिरप 60ml.
+Language       : hindi-meta-desc
+Total Tokens   : 173
+-------------------------------
+Route Name     : बीटाडीन क्रीम
+Language       : hindi-meta-desc
+Total Tokens   : 157
+-------------------------------
+Route Name     : हेपा मर्ज़ ओए सिरप
+Language       : hindi-meta-desc
+Total Tokens   : 163
+-------------------------------
+Route Name     : सुरबेक्स एक्सटी सोफलेट्स 15स.
+Language       : hindi-meta-desc
+Total Tokens   : 161
+-------------------------------
+Route Name     : Algiduo ओरल सस्पेंशन 150ml.
+Language       : hindi-meta-desc
+Total Tokens   : 162
+-------------------------------
+Route Name     : क्यूमैक्स ओज़ेड 200 एमजी/500 एमजी टैबलेट
+Language       : hindi-meta-desc
+Total Tokens   : 175
+-------------------------------
+Route Name     : Mezol आई ड्रॉप 10ml.
+Language       : hindi-meta-desc
+Total Tokens   : 167
+-------------------------------
+Route Name     : एटीवैन 1mg टैबलेट (1*30)
+Language       : hindi-meta-desc
+Total Tokens   : 165
+-------------------------------
+Route Name     : क्लोस्टार-जीएम क्रीम 16 ग्राम
+Language       : hindi-meta-desc
+Total Tokens   : 164
+-------------------------------
+Route Name     : फोलिनेक्स्ट गोल्ड टैबलेट 10s
+Language       : hindi-meta-desc
+Total Tokens   : 177
+-------------------------------
+Route Name     : नॉरमैक्सिन आर टी कैप्सूल 10s.
+Language       : hindi-meta-desc
+Total Tokens   : 171
+-------------------------------
+Route Name     : वेल्मिनिक सिरप 60एमएल
+Language       : hindi-meta-desc
+Total Tokens   : 160
+-------------------------------
+Route Name     : लिब्रियम 25mg टैबलेट 15s
+Language       : hindi-meta-desc
+Total Tokens   : 172
+-------------------------------
+Route Name     : सिंडोपा सीआर 125 टैबलेट
+Language       : hindi-meta-desc
+Total Tokens   : 167
+-------------------------------
+Route Name     : एटिज़ोला प्लस 5 टैबलेट 10s
+Language       : hindi-meta-desc
+Total Tokens   : 170
+-------------------------------
+Route Name     : बायोस्पास फोर्ट टैबलेट.
+Language       : hindi-meta-desc
+Total Tokens   : 163
+-------------------------------
+Route Name     : गाउटनिल 0.5एमजी टैबलेट 10s.
+Language       : hindi-meta-desc
+Total Tokens   : 179
+-------------------------------
+Route Name     : फ्लोट्रल 10 टैबलेट पीआर 30s
+Language       : hindi-meta-desc
+Total Tokens   : 171
+-------------------------------
+Route Name     : कोफारेस्ट पीडी सिरप 100ml
+Language       : hindi-meta-desc
+Total Tokens   : 164
+-------------------------------
+Route Name     : प्रोग्यनोवा 2mg टैबलेट
+Language       : hindi-meta-desc
+Total Tokens   : 169
+-------------------------------
+Route Name     : सहाग्रा 100mg टैबलेट 4s.
+Language       : hindi-meta-desc
+Total Tokens   : 169
+-------------------------------
+Route Name     : मोनोसेफ 2gm इन्जेक्शन
+Language       : hindi-meta-desc
+Total Tokens   : 160
+-------------------------------
+Route Name     : एमिक्साइड-एच टैबलेट
+Language       : hindi-meta-desc
+Total Tokens   : 155
+-------------------------------
+Route Name     : डिक्लोटाल-एसपी टैबलेट
+Language       : hindi-meta-desc
+Total Tokens   : 162
+-------------------------------
+Route Name     : स्मूथ सस्पेंशन
+Language       : hindi-meta-desc
+Total Tokens   : 155
+-------------------------------
+Route Name     : सिप्लोक्स 250 टैबलेट
+Language       : hindi-meta-desc
+Total Tokens   : 162
+-------------------------------
+Route Name     : अल्ट्राब्राइट क्रीम
+Language       : hindi-meta-desc
+Total Tokens   : 163
+-------------------------------
+Route Name     : लिपवास 10mg टैबलेट 10s.
+Language       : hindi-meta-desc
+Total Tokens   : 168
+-------------------------------
+Route Name     : बायोप्रोन सिरप
+Language       : hindi-meta-desc
+Total Tokens   : 157
+-------------------------------
+Route Name     : साइरा 20mg टैबलेट 10s.
+Language       : hindi-meta-desc
+Total Tokens   : 165
+-------------------------------
+Route Name     : ओफ्लोकैम ओजेड सिरप।
+Language       : hindi-meta-desc
+Total Tokens   : 160
+-------------------------------
+Route Name     : मेड्रोल 4 एमजी टैबलेट
+Language       : hindi-meta-desc
+Total Tokens   : 161
+-------------------------------
+Route Name     : बर्नहील क्रीम 15gm.
+Language       : hindi-meta-desc
+Total Tokens   : 161
+-------------------------------
+Route Name     : मिसो-जीन 200 टैबलेट
+Language       : hindi-meta-desc
+Total Tokens   : 158
+-------------------------------
+Route Name     : सेनसिक्लैव 625 टैबलेट 10स.
+Language       : hindi-meta-desc
+Total Tokens   : 175
+-------------------------------
+Route Name     : क्रिना एनसीआर 15एमजी टैबलेट 5s.
+Language       : hindi-meta-desc
+Total Tokens   : 180
+-------------------------------
+Route Name     : टोब्रा आई ड्रॉप
+Language       : hindi-meta-desc
+Total Tokens   : 149
+-------------------------------
+Route Name     : प्रेगाबैनील एनटीएम टैबलेट
+Language       : hindi-meta-desc
+Total Tokens   : 177
+-------------------------------
+Route Name     : लीकफ जूनियर सिरप 60एमएल
+Language       : hindi-meta-desc
+Total Tokens   : 169
+-------------------------------
+Route Name     : केटोसीप 2% शैम्पू 100ml
+Language       : hindi-meta-desc
+Total Tokens   : 169
+-------------------------------
+Route Name     : एलेक्स सिरप 100ml
+Language       : hindi-meta-desc
+Total Tokens   : 165
+-------------------------------
+Route Name     : कटिसोफ्ट क्रीम 15ग्राम.
+Language       : hindi-meta-desc
+Total Tokens   : 163
+-------------------------------
+Route Name     : Esogress D कैप्सूल SR 15s
+Language       : hindi-meta-desc
+Total Tokens   : 167
+-------------------------------
+Route Name     : शेल्कल सिरप 200 एमएल
+Language       : hindi-meta-desc
+Total Tokens   : 164
+-------------------------------
+Route Name     : ग्लुकोबे 50mg टैबलेट 10s.
+Language       : hindi-meta-desc
+Total Tokens   : 164
+-------------------------------
+Route Name     : ग्लेवो 500 टैबलेट 10s.
+Language       : hindi-meta-desc
+Total Tokens   : 171
+-------------------------------
+Route Name     : BTN अल्ट्रा टैबलेट 10s.
+Language       : hindi-meta-desc
+Total Tokens   : 164
+-------------------------------
+Route Name     : पेरिसेट एमडी टैबलेट
+Language       : hindi-meta-desc
+Total Tokens   : 164
+-------------------------------
+Route Name     : गैबानेरॉन एनटी 100 टैबलेट
+Language       : hindi-meta-desc
+Total Tokens   : 170
+-------------------------------
+Route Name     : एटेर्ना 4mg टैबलेट एमडी
+Language       : hindi-meta-desc
+Total Tokens   : 166
+-------------------------------
+Route Name     : लिओफेन एक्सएल 20 कैप्सूल 10s
+Language       : hindi-meta-desc
+Total Tokens   : 184
+-------------------------------
+Route Name     : सैट्रोगिल-ओ ड्राई सिरप
+Language       : hindi-meta-desc
+Total Tokens   : 170
+-------------------------------
+Route Name     : Anobliss क्रीम 30 ग्राम
+Language       : hindi-meta-desc
+Total Tokens   : 160
+-------------------------------
+Route Name     : केसोल 20 सिरप 200 मि.ली
+Language       : hindi-meta-desc
+Total Tokens   : 171
+-------------------------------
+Route Name     : फ्रीलेक्स टैबलेट
+Language       : hindi-meta-desc
+Total Tokens   : 154
+-------------------------------
+Route Name     : लाइकोरेड सिरप 200ml
+Language       : hindi-meta-desc
+Total Tokens   : 173
+-------------------------------
+Route Name     : लियोन 500 टैबलेट 10s.
+Language       : hindi-meta-desc
+Total Tokens   : 168
+-------------------------------
+Route Name     : रेनोलॉग डीएस टैबलेट 10s
+Language       : hindi-meta-desc
+Total Tokens   : 167
+-------------------------------
+Route Name     : टेनोवेट जीएन क्रीम
+Language       : hindi-meta-desc
+Total Tokens   : 160
+-------------------------------
+Route Name     : ओर्सेरिन जीएम टैबलेट 15 एस
+Language       : hindi-meta-desc
+Total Tokens   : 161
+-------------------------------
+Route Name     : पोल्माफोर्स 2mg कैप्सूल 10s.
+Language       : hindi-meta-desc
+Total Tokens   : 174
+-------------------------------
+Route Name     : इमोल प्लस टैबलेट 10s
+Language       : hindi-meta-desc
+Total Tokens   : 171
+-------------------------------
+Route Name     : {"primary":["एप्टोइन 100mg टैबलेट"],"secondary":[],"mostly_searched":[]}
+Language       : hindi-meta-desc
+Total Tokens   : 184
+-------------------------------
+Route Name     : डोत्रा एम 80mg/250mg टैबलेट।
+Language       : hindi-meta-desc
+Total Tokens   : 168
+-------------------------------
+Route Name     : मेफ्टल पी डिस्पर्सिबल टैबलेट.
+Language       : hindi-meta-desc
+Total Tokens   : 166
+-------------------------------
+Route Name     : ओक्यूवीर 800 डीटी टैबलेट
+Language       : hindi-meta-desc
+Total Tokens   : 164
+-------------------------------
+Route Name     : ज़िन्कोविट ड्रॉप्स
+Language       : hindi-meta-desc
+Total Tokens   : 160
+-------------------------------
+Route Name     : स्मूथ क्रीम 30ग्राम.
+Language       : hindi-meta-desc
+Total Tokens   : 165
+-------------------------------
+Route Name     : ओरावेंट टैबलेट 10s
+Language       : hindi-meta-desc
+Total Tokens   : 165
+-------------------------------
+Route Name     : ओसिल क्रीम 30ग्राम
+Language       : hindi-meta-desc
+Total Tokens   : 157
+-------------------------------
+Route Name     : फेना किड 5mg सिरप
+Language       : hindi-meta-desc
+Total Tokens   : 176
+-------------------------------
+Route Name     : एरिथ्रो 250mg टैबलेट।
+Language       : hindi-meta-desc
+Total Tokens   : 165
+-------------------------------
+Route Name     : टोप्सिड 40 टैबलेट
+Language       : hindi-meta-desc
+Total Tokens   : 163
+-------------------------------
+Route Name     : ऑप्टीन्यूरॉन इंजेक्शन 3ml.
+Language       : hindi-meta-desc
+Total Tokens   : 161
+-------------------------------
+Route Name     : Darolac सिरप 30ml.
+Language       : hindi-meta-desc
+Total Tokens   : 158
+-------------------------------
+Route Name     : मोमेट-एफ क्रीम
+Language       : hindi-meta-desc
+Total Tokens   : 162
+-------------------------------
+Route Name     : माइक्रोडॉक्स 100mg एलबीएक्स कैप्सूल 10s.
+Language       : hindi-meta-desc
+Total Tokens   : 172
+-------------------------------
+Route Name     : सैट्ज़ाइन सिरप 60ml.
+Language       : hindi-meta-desc
+Total Tokens   : 168
+-------------------------------
+Route Name     : बीटाडीन क्रीम
+Language       : hindi-meta-desc
+Total Tokens   : 159
+-------------------------------
+Route Name     : हेपा मर्ज़ ओए सिरप
+Language       : hindi-meta-desc
+Total Tokens   : 166
+-------------------------------
+Route Name     : सुरबेक्स एक्सटी सोफलेट्स 15स.
+Language       : hindi-meta-desc
+Total Tokens   : 174
+-------------------------------
+Route Name     : Algiduo ओरल सस्पेंशन 150ml.
+Language       : hindi-meta-desc
+Total Tokens   : 169
+-------------------------------
+Route Name     : क्यूमैक्स ओज़ेड 200 एमजी/500 एमजी टैबलेट
+Language       : hindi-meta-desc
+Total Tokens   : 180
+-------------------------------
+Route Name     : Mezol आई ड्रॉप 10ml.
+Language       : hindi-meta-desc
+Total Tokens   : 158
+-------------------------------
+Route Name     : एटीवैन 1mg टैबलेट (1*30)
+Language       : hindi-meta-desc
+Total Tokens   : 172
+-------------------------------
+Route Name     : क्लोस्टार-जीएम क्रीम 16 ग्राम
+Language       : hindi-meta-desc
+Total Tokens   : 161
+-------------------------------
+Route Name     : फोलिनेक्स्ट गोल्ड टैबलेट 10s
+Language       : hindi-meta-desc
+Total Tokens   : 173
+-------------------------------
+Route Name     : नॉरमैक्सिन आर टी कैप्सूल 10s.
+Language       : hindi-meta-desc
+Total Tokens   : 169
+-------------------------------
+Route Name     : वेल्मिनिक सिरप 60एमएल
+Language       : hindi-meta-desc
+Total Tokens   : 168
+-------------------------------
+Route Name     : लिब्रियम 25mg टैबलेट 15s
+Language       : hindi-meta-desc
+Total Tokens   : 167
+-------------------------------
+Route Name     : सिंडोपा सीआर 125 टैबलेट
+Language       : hindi-meta-desc
+Total Tokens   : 172
+-------------------------------
+Route Name     : एटिज़ोला प्लस 5 टैबलेट 10s
+Language       : hindi-meta-desc
+Total Tokens   : 172
+-------------------------------
+Route Name     : बायोस्पास फोर्ट टैबलेट.
+Language       : hindi-meta-desc
+Total Tokens   : 163
+-------------------------------
+Route Name     : गाउटनिल 0.5एमजी टैबलेट 10s.
+Language       : hindi-meta-desc
+Total Tokens   : 175
+-------------------------------
+Route Name     : फ्लोट्रल 10 टैबलेट पीआर 30s
+Language       : hindi-meta-desc
+Total Tokens   : 175
+-------------------------------
+Route Name     : कोफारेस्ट पीडी सिरप 100ml
+Language       : hindi-meta-desc
+Total Tokens   : 168
+-------------------------------
+Route Name     : प्रोग्यनोवा 2mg टैबलेट
+Language       : hindi-meta-desc
+Total Tokens   : 169
+-------------------------------
