@@ -13298,3 +13298,363 @@ Route Name     : synaptol-450mg-tablet-sr-10s
 Language       : hindi
 Total Tokens   : 250
 -------------------------------
+Route Name     : synaptol-50mg-tablet-10s
+Language       : hindi
+Total Tokens   : 252
+-------------------------------
+Route Name     : synclar-paediatric-dry-syrup-30ml
+Language       : hindi
+Total Tokens   : 257
+-------------------------------
+Route Name     : synriam-150mg750mg-tablet-3s
+Language       : hindi
+Total Tokens   : 276
+-------------------------------
+Route Name     : syntran-100mg-capsule-10s
+Language       : hindi
+Total Tokens   : 256
+-------------------------------
+Route Name     : synx-500mg-tablet-er-10s
+Language       : hindi
+Total Tokens   : 281
+-------------------------------
+Route Name     : t-98-plus-suspension
+Language       : hindi
+Total Tokens   : 255
+-------------------------------
+Route Name     : t-minic-syrup-60ml
+Language       : hindi
+Total Tokens   : 279
+-------------------------------
+Route Name     : tabi-50mg-tablet-30s
+Language       : hindi
+Total Tokens   : 234
+-------------------------------
+Route Name     : tabi-50mg-tablet-10s
+Language       : hindi
+Total Tokens   : 257
+-------------------------------
+Route Name     : tachyra-200mg-tablet
+Language       : hindi
+Total Tokens   : 257
+-------------------------------
+Route Name     : tacromus-1-capsule
+Language       : hindi
+Total Tokens   : 303
+-------------------------------
+Route Name     : tacroz-forte-lotion-20ml
+Language       : hindi
+Total Tokens   : 299
+-------------------------------
+Route Name     : tacsant-1mg-capsule-10s
+Language       : hindi
+Total Tokens   : 267
+-------------------------------
+Route Name     : takfa-ointment
+Language       : hindi
+Total Tokens   : 234
+-------------------------------
+Route Name     : takfa-1mg-capsule-10s
+Language       : hindi
+Total Tokens   : 256
+-------------------------------
+Route Name     : takfa-forte-ointment-10gm
+Language       : hindi
+Total Tokens   : 247
+-------------------------------
+Route Name     : takfresh-eye-drop
+Language       : hindi
+Total Tokens   : 254
+-------------------------------
+Route Name     : talendep-25mg-tablet-10s
+Language       : hindi
+Total Tokens   : 232
+-------------------------------
+Route Name     : talimus-ointment-5gm
+Language       : hindi
+Total Tokens   : 259
+-------------------------------
+Route Name     : tamdura-0.4mg0.5mg-capsule-pr-10s
+Language       : hindi
+Total Tokens   : 271
+-------------------------------
+Route Name     : tamlocept-0.4-capsule-pr
+Language       : hindi
+Total Tokens   : 261
+-------------------------------
+Route Name     : tamlocept-d-capsule-pr
+Language       : hindi
+Total Tokens   : 240
+-------------------------------
+Route Name     : tamsufine-0.4mg-tablet-10s
+Language       : hindi
+Total Tokens   : 287
+-------------------------------
+Route Name     : tamsukem-d-0.4mg0.5mg-tablet-15s
+Language       : hindi
+Total Tokens   : 270
+-------------------------------
+Route Name     : tapal-er-100-tablet-10s
+Language       : hindi
+Total Tokens   : 265
+-------------------------------
+Route Name     : tapal-50-tablet
+Language       : hindi
+Total Tokens   : 247
+-------------------------------
+Route Name     : targit-40-tablet
+Language       : hindi
+Total Tokens   : 254
+-------------------------------
+Route Name     : tasulin-d-0.4mg0.5mg-tablet-er-15s
+Language       : hindi
+Total Tokens   : 273
+-------------------------------
+Route Name     : taxim-o-cv-200-tablet
+Language       : hindi
+Total Tokens   : 309
+-------------------------------
+Route Name     : taxim-of-200mg200mg-tablet-10s
+Language       : hindi
+Total Tokens   : 268
+-------------------------------
+Route Name     : taxim-o-400mg-tablet
+Language       : hindi
+Total Tokens   : 262
+-------------------------------
+Route Name     : taxim-o-50mg-tablet-dt
+Language       : hindi
+Total Tokens   : 264
+-------------------------------
+Route Name     : taximax-1500-mg-injection
+Language       : hindi
+Total Tokens   : 251
+-------------------------------
+Route Name     : tazloc-80mg-tablet-10s
+Language       : hindi
+Total Tokens   : 238
+-------------------------------
+Route Name     : tazloc-trio-80mg5mg12.5mg-tablet-10s
+Language       : hindi
+Total Tokens   : 265
+-------------------------------
+Route Name     : tazloc-am-80mg5mg-tablet-10s
+Language       : hindi
+Total Tokens   : 245
+-------------------------------
+Route Name     : tazloc-ct-40mg-6.25mgtablet-10s
+Language       : hindi
+Total Tokens   : 247
+-------------------------------
+Route Name     : tazloc-ct-80mg12.5mg-tablet-10s
+Language       : hindi
+Total Tokens   : 250
+-------------------------------
+Route Name     : tazret-gel
+Language       : hindi
+Total Tokens   : 238
+-------------------------------
+Route Name     : tazret-forte-cream
+Language       : hindi
+Total Tokens   : 226
+-------------------------------
+Route Name     : tbis-0.03ww-ointment-10gm
+Language       : hindi
+Total Tokens   : 274
+-------------------------------
+Route Name     : tear-drops-gel
+Language       : hindi
+Total Tokens   : 246
+-------------------------------
+Route Name     : tears-naturale-forte-eye-drops
+Language       : hindi
+Total Tokens   : 251
+-------------------------------
+Route Name     : tebina-250mg-tablet-7s
+Language       : hindi
+Total Tokens   : 231
+-------------------------------
+Route Name     : tebokan-forte-tablet-15s
+Language       : hindi
+Total Tokens   : 262
+-------------------------------
+Route Name     : tecum-0.03-ointment-10gm
+Language       : hindi
+Total Tokens   : 259
+-------------------------------
+Route Name     : tecum-0.1-lotion
+Language       : hindi
+Total Tokens   : 261
+-------------------------------
+Route Name     : tegrital-suspension-100ml
+Language       : hindi
+Total Tokens   : 236
+-------------------------------
+Route Name     : telcure-40mg-tablet
+Language       : hindi
+Total Tokens   : 242
+-------------------------------
+Route Name     : telday-40mg-tablet-15s
+Language       : hindi
+Total Tokens   : 240
+-------------------------------
+Route Name     : teleact-ct-40-tablet
+Language       : hindi
+Total Tokens   : 240
+-------------------------------
+Route Name     : telekast-10mg-tablet-10s
+Language       : hindi
+Total Tokens   : 227
+-------------------------------
+Route Name     : telekast-5mg-chewable-tablet-10s
+Language       : hindi
+Total Tokens   : 255
+-------------------------------
+Route Name     : telekast-a-200mg10mg-tablet-pr-10s
+Language       : hindi
+Total Tokens   : 236
+-------------------------------
+Route Name     : telekast-plus-10mg10mg-tablet-10s
+Language       : hindi
+Total Tokens   : 228
+-------------------------------
+Route Name     : telgard-40mg-tablet-10s
+Language       : hindi
+Total Tokens   : 242
+-------------------------------
+Route Name     : teli-40-tablet
+Language       : hindi
+Total Tokens   : 244
+-------------------------------
+Route Name     : teli-h-tablet
+Language       : hindi
+Total Tokens   : 267
+-------------------------------
+Route Name     : telicad-h-40mg12.5mg-tablet
+Language       : hindi
+Total Tokens   : 245
+-------------------------------
+Route Name     : telista-40mg-tablet-15s
+Language       : hindi
+Total Tokens   : 242
+-------------------------------
+Route Name     : telista-am-40mg5mg-tablet-15s
+Language       : hindi
+Total Tokens   : 246
+-------------------------------
+Route Name     : telista-amh-tablet-10s
+Language       : hindi
+Total Tokens   : 240
+-------------------------------
+Route Name     : telista-ch-40mg12.5mg-tablet-10s
+Language       : hindi
+Total Tokens   : 248
+-------------------------------
+Route Name     : telista-h-40mg12.5mg-tablet-15s
+Language       : hindi
+Total Tokens   : 261
+-------------------------------
+Route Name     : telkonol-40mg-tablet
+Language       : hindi
+Total Tokens   : 252
+-------------------------------
+Route Name     : tellzy-40mg-tablet-15s
+Language       : hindi
+Total Tokens   : 250
+-------------------------------
+Route Name     : tellzy-80mg-h-tablet-15s
+Language       : hindi
+Total Tokens   : 246
+-------------------------------
+Route Name     : tellzy-am-tablet-15s
+Language       : hindi
+Total Tokens   : 269
+-------------------------------
+Route Name     : tellzy-ch-6.25-tablet-15s
+Language       : hindi
+Total Tokens   : 264
+-------------------------------
+Route Name     : tellzy-ch-80mg-tablet-15s
+Language       : hindi
+Total Tokens   : 246
+-------------------------------
+Route Name     : tellzy-mt-40mg25mg-tablet-er-15s
+Language       : hindi
+Total Tokens   : 257
+-------------------------------
+Route Name     : tellzy-mt-50-tablet-er
+Language       : hindi
+Total Tokens   : 242
+-------------------------------
+Route Name     : telma-20mg-tablet-30s
+Language       : hindi
+Total Tokens   : 241
+-------------------------------
+Route Name     : telma-80-am-tablet
+Language       : hindi
+Total Tokens   : 242
+-------------------------------
+Route Name     : telma-am-h-80-tablet-15s
+Language       : hindi
+Total Tokens   : 240
+-------------------------------
+Route Name     : telmavas-80mg-tablet
+Language       : hindi
+Total Tokens   : 239
+-------------------------------
+Route Name     : telmavas-am-40mg5mg-tablet
+Language       : hindi
+Total Tokens   : 242
+-------------------------------
+Route Name     : telmavas-h-40mg12.5mg-tablet
+Language       : hindi
+Total Tokens   : 245
+-------------------------------
+Route Name     : telmaxx-25-tablet-er
+Language       : hindi
+Total Tokens   : 239
+-------------------------------
+Route Name     : telmaxx-50-tablet-er
+Language       : hindi
+Total Tokens   : 239
+-------------------------------
+Route Name     : telmed-20-tablet
+Language       : hindi
+Total Tokens   : 236
+-------------------------------
+Route Name     : telmed-80-tablet
+Language       : hindi
+Total Tokens   : 236
+-------------------------------
+Route Name     : telmed-ct-tablet-10s
+Language       : hindi
+Total Tokens   : 238
+-------------------------------
+Route Name     : telmed-ah-80mg5mg12.5mg-tablet-10s
+Language       : hindi
+Total Tokens   : 252
+-------------------------------
+Route Name     : telmikaa-40-tablet
+Language       : hindi
+Total Tokens   : 266
+-------------------------------
+Route Name     : telmikaa-am-tablet
+Language       : hindi
+Total Tokens   : 234
+-------------------------------
+Route Name     : telmikaa-amh-tablet-10s
+Language       : hindi
+Total Tokens   : 238
+-------------------------------
+Route Name     : telmikaa-h-tablet
+Language       : hindi
+Total Tokens   : 235
+-------------------------------
+Route Name     : telmikind-20mg-tablet-10s
+Language       : hindi
+Total Tokens   : 242
+-------------------------------
+Route Name     : telmikind-80mg-tablet-10s
+Language       : hindi
+Total Tokens   : 241
+-------------------------------

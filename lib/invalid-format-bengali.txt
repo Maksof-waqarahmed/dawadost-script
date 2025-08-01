@@ -290,3 +290,11 @@ Route Name     : hiskabend-tablet-1s
 Language       : invalid-format-bengali
 Total Tokens   : 0
 -------------------------------
+Route Name     : empanorm-10mg-tablet-10s
+Language       : invalid-format-bengali
+Total Tokens   : 0
+-------------------------------
+Route Name     : athrovas-40mg-tablet-10s
+Language       : invalid-format-bengali
+Total Tokens   : 0
+-------------------------------

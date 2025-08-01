@@ -3553,3 +3553,79 @@ Route Name     : switglim-m-21000-tablet-pr-15s
 Language       : hindi-invalid-format
 Total Tokens   : 0
 -------------------------------
+Route Name     : t-minic-5mg2mg-oral-drop-15ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : tacrozer-ointment-15gm
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : tacroz-forte-ointment-20gm
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : takfa-0.5mg-capsule-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : talendep-25mg-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : taloprex-5-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : tamsukem-d-0.4mg0.5mg-tablet-15s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : taxim-o-cv-dry-syrup
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : tazloc-am-80mg5mg-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : tears-naturale-forte-eye-drops
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : teczine-m-5mg10mgtablet
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : telekast-plus-10mg10mg-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : telista-ch-406.25-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : tellzy-mt-40mg25mg-tablet-er-15s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : telma-am-h-80-tablet-15s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : telma-beta-25-tablet-er-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : telmiduce-20mg-tablet
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : telmikaa-mt-25-tablet-er
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : telmikind-h-80mg12.5mg-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
