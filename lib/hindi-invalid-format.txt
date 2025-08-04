@@ -3629,3 +3629,223 @@ Route Name     : telmikind-h-80mg12.5mg-tablet-10s
 Language       : hindi-invalid-format
 Total Tokens   : 0
 -------------------------------
+Route Name     : telplus-trio-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : telpres-h-80-tablet
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : telsartan-am-80mg-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : telvas-ct-ls-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : telvas-h-8012.5-tablet
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : telvas-am-80mg5mg-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : tensyn-ez-0.5mg20mg-tablet
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : thiox-od-8mg-capsule-sr-5s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : ticin-cream-20gm
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : ticocin-400-injection-10ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : tide-plus-25mg10mg-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : tide-plus-20-tablet
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : tidilan-10-tablet
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : tidilan-retard-tablet-sr
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : tipan-dsr-30mg40mg-capsule
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : tobaren-dm-eye-drop
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : tobram-eye-ointment-5gm
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : tolaz-dt-10-tablet
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : tolifast-150-tablet
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : tolperitas-150mg-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : topamed-25mg-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : topnac-p-325mg100mg-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : tossex-dmr-2mg10mg-syrup-kiwi-sugar-free-100ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : toyodom-10mg-tablet
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : tretiva-25-capsule
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : tribetrol-2-forte-tablet-sr
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : trigem-1-tablet
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : triglycomet-tablet-sr-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : trika-0.5mg-tablet-15s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : trimium-transhaler-180mdi
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : triohale-inhaler-200mdi
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : triopil-1-tablet-sr
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : triopil-1-tablet-sr
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : trivogo-1-tablet-sr
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : trixide-12.5mg5mg-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : trunex-ms-0.04-aqueous-gel-15gm
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : tufderm-cream-30gm
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : tugain-5-gel-60gm
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : tugain-5-solution-60ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : tusq-d-cough-lozenges-sugar-free-6s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : tydol-50-tablet
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : ubi-q-300mg-soft-gelatin-capsule-15s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : ulgel-a-oral-suspension
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : ultitar-cs-ointment-30gm
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : uriron-100mg-tablet-sr-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : uritin-0.4mg-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : ursolid-150-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : veloz-fast-20mg-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : venphylin-m-200mg10mg-tablet-sr
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : vertigon-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : vertistar-md-8mg-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : vidmet-g-80mg500mg-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : vigadexa-ophthalmic-solution
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : vikorate-200mg5ml-syrup-200ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : vintel-ctc-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
