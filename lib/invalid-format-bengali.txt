@@ -310,3 +310,7 @@ Route Name     : advagraf-1mg-capsule-pr-10s
 Language       : invalid-format-bengali
 Total Tokens   : 0
 -------------------------------
+Route Name     : bisoheart-5mg-tablet-10s
+Language       : invalid-format-bengali
+Total Tokens   : 0
+-------------------------------

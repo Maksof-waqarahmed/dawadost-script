@@ -3849,3 +3849,187 @@ Route Name     : vintel-ctc-tablet-10s
 Language       : hindi-invalid-format
 Total Tokens   : 0
 -------------------------------
+Route Name     : vogliboz-0.3-tablet
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : volix-m-0.2-tablet
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : vomiford-md-tablet
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : vomikind-4mg-fast-strip-1s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : vomikind-2mg5ml-syrup-30ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : vominorm-10mg-tablet
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : vomiover-syrup
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : vomistop-10-dt-tablet
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : waxonil-activ-ear-drop-10ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : winbp-ct-206.25-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : wincold-z-5mg325mg5mg-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : xigduo-xr-10mg1000mg-tablet-7s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : xykaa-mr-8-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : xymoheal-d-tablet
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : xyzal-m-kid-tablet-dt-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : zanocin-100mg-liquid-60ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : zanocin-50mg-liquid-60ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : zedocef-50mg-syrup
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : zeptol-cr-300mg-tablet-pr-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : zeptol-cr-400mg-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : zerotuss-sf-20mg5ml-suspension-100ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : zifi-50-dry-syrup-30ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : zilsar-40-tablet
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : zinase-d-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : zinase-plus-tablet
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : zincoderm-g-cream-15gm
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : zocef-cv-500-tablet-6s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : zydip-0.05-lotion-100ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : zydip-lotion-50ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : zykt-cream-30gm
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : zykt-soap-75gm
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : zyrcold-5mg60mg-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : digene-acidity-gas-relief-gel-mixed-fruit-200ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : ensure-diabetes-care-powder-vanilla-delight-400gm
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : abocal-500mg-tablet-15s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : sioplex-l-syrup-200ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : smuth-l-syrup-orange-150ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : cipcal-500mg250iu-tablet-15s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : dabur-ashwagandharishta-450ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : dabur-rheumatil-oil-50ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : dabur-saraswatarishta-450ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : dabur-laxirid-syrup-200ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : dabur-pilochek-gel-30gm
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : dabur-hajmola-maha-aam-imli-candy-130s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : dabur-lipistat-capsule-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : dabur-glucose-d-powder-200gm-50gm-powder-free
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
