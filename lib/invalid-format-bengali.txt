@@ -314,3 +314,63 @@ Route Name     : bisoheart-5mg-tablet-10s
 Language       : invalid-format-bengali
 Total Tokens   : 0
 -------------------------------
+Route Name     : clindac-a-1-gel-15gm
+Language       : invalid-format-bengali
+Total Tokens   : 0
+-------------------------------
+Route Name     : contramal-sr-100-tablet
+Language       : invalid-format-bengali
+Total Tokens   : 0
+-------------------------------
+Route Name     : cortel-h-80mg12.5mg-tablet-10s
+Language       : invalid-format-bengali
+Total Tokens   : 0
+-------------------------------
+Route Name     : ctd-o-20mg12.5mg-tablet-10s
+Language       : invalid-format-bengali
+Total Tokens   : 0
+-------------------------------
+Route Name     : dilzem-60-tablet-cr
+Language       : invalid-format-bengali
+Total Tokens   : 0
+-------------------------------
+Route Name     : dolo-cold-500mg30mg10mg-tablet-10s
+Language       : invalid-format-bengali
+Total Tokens   : 0
+-------------------------------
+Route Name     : doxinate-g-tablet-10s
+Language       : invalid-format-bengali
+Total Tokens   : 0
+-------------------------------
+Route Name     : flurisone-0.1-eye-drop-5ml
+Language       : invalid-format-bengali
+Total Tokens   : 0
+-------------------------------
+Route Name     : foracort-0.5mg-respule-2ml
+Language       : invalid-format-bengali
+Total Tokens   : 0
+-------------------------------
+Route Name     : foracort-20mcg1mg-respules-2ml-5s
+Language       : invalid-format-bengali
+Total Tokens   : 0
+-------------------------------
+Route Name     : freego-granules-150gm
+Language       : invalid-format-bengali
+Total Tokens   : 0
+-------------------------------
+Route Name     : glimiprime-m-2-forte-tablet-10s
+Language       : invalid-format-bengali
+Total Tokens   : 0
+-------------------------------
+Route Name     : iminoral-50-capsule-5s
+Language       : invalid-format-bengali
+Total Tokens   : 0
+-------------------------------
+Route Name     : immutil-s-360mg-tablet-dr-10s
+Language       : invalid-format-bengali
+Total Tokens   : 0
+-------------------------------
+Route Name     : ketorol-10mg-tablet-10s
+Language       : invalid-format-bengali
+Total Tokens   : 0
+-------------------------------
