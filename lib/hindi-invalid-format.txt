@@ -4869,3 +4869,303 @@ Route Name     : montas-ab-200mg10mg-tablet
 Language       : hindi-invalid-format
 Total Tokens   : 0
 -------------------------------
+Route Name     : emeset-injection-4ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : rzole-20mg-tablet
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : nicopenta-l-75mg40mg-sr-capsule-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : vyosoft-ha-0.1-wv-eye-drop-10ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : mask-m7-acs-tech-black-l-mobius
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : uditec-300mg-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : ctd-t-am-6.25405-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : tel-cad-m-40mg50mg-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : zolvinac-cs-eye-drop
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : inapure-10mg-tablet-er-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : dabur-honitus-cough-drops-1s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : tynor-e-06-wrist-brace-with-thumb-un-1s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : cremadiet-plus-sugar-free-powder-100gm
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : morr-max-5-serum-60ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : lnbloc-20mg-tablet-15s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : cell-q-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : entofoam-foam-20.8gm
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : hylotears-eye-drop
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : eurepa-v-1mg0.2mg-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : orcerin-gm-tablet-15s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : pears-soap-set-3-125gm
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : grd-powder-chocolate-200gm
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : pegeze-sf-oral-solution-200-ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : oflomac-50mg-syrup-30ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : cremadiet-duo-granules-mixed-fruit-flavour-150gm
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : dfo-spray-55gm
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : telpres-ct-406.25-tablet
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : lipikind-cv-10mg75mg-capsule-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : maxical-tablet
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : d-protein-chocolate-powder-sf-500gm
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : dabur-anmol-gold-coconut-oil-175ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : lulitec-1ww-cream-20gm
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : montymo-dz-10mg5mg-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : himalaya-reosto-tablet-30s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : kesol-20-syrup-200ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : critipro-powder-vanilla-200gm
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : pulmocef-cv-500mg-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : dsp-50mg325mg10mg-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : rantac-rd-30mg20mg-capsule-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : tummy-soft-dry-syrup-50ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : deslor-5mg-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : cofsils-gargle-100ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : baidyanath-chyawan-vit-sf-1kg
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : tozaar-h-tablet-15s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : mahazin-5mg-tablet-alu-alu-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : parakind-ds-suspension-60ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : mahagesic-gel-30gm
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : duolin-rotacap-60s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : sulpigold-200mg-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : cardace-h-2.5-tablet-15s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : t3-lc-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : vertifyl-16mg-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : cetzine-10mg-tablet-15s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : rzole-lsr-capsule
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : smuth-oral-suspension-mint-sugar-free-200ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : abzorb-dusting-powder-50gm
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : sucramore-o-syrup-200ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : prolomet-t-40mg23.75mg-tablet-er
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : rekto-600mg-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : lupifit-plus-syrup-100ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : dabur-gulabari-face-clisner-spray-50ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : aqsusten-50mg-injection-1ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : kesri-marham-40gm
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : remo-zen-tablet
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : omefor-20-capsule
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : neurofy-d-tablet
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : amrutanjan-strong-double-powder-pain-balm-30ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : ponds-dream-flower-fragrant-talc-25gm
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : coffdryl-cough-syrup-100ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : cetanil-20mg-tablet-15s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : latex-surgical-gloves-7.0-1s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : benalgis-forte-soft-gelatin-capsule-15s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : clobikem-gm-neo-cream
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : mankind-protein-powder-chocolate-200gm
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : telmipil-trio-40mg10mg12.5mg-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------

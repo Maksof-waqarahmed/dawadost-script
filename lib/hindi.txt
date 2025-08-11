@@ -22718,3 +22718,2311 @@ Route Name     : dr.-reddys-celevida-nutrition-powder-kesar-elaichi-tin-400gm
 Language       : hindi
 Total Tokens   : 274
 -------------------------------
+Route Name     : venpres-am-40mg5mg-tablet-10s
+Language       : hindi
+Total Tokens   : 244
+-------------------------------
+Route Name     : emigan-syrup-60ml
+Language       : hindi
+Total Tokens   : 240
+-------------------------------
+Route Name     : glucreta-10mg-tablet-10s
+Language       : hindi
+Total Tokens   : 259
+-------------------------------
+Route Name     : advog-m-0.2-plus-tablet-10s
+Language       : hindi
+Total Tokens   : 263
+-------------------------------
+Route Name     : emeset-injection-4ml
+Language       : hindi
+Total Tokens   : 238
+-------------------------------
+Route Name     : cortel-40mg-tablet-15s
+Language       : hindi
+Total Tokens   : 240
+-------------------------------
+Route Name     : bioden-capsule-10s
+Language       : hindi
+Total Tokens   : 239
+-------------------------------
+Route Name     : vogo-0.3mg-tablet-15s
+Language       : hindi
+Total Tokens   : 287
+-------------------------------
+Route Name     : clinsol-anti-acne-face-wash-70gm
+Language       : hindi
+Total Tokens   : 245
+-------------------------------
+Route Name     : nasowash-sachet-7.8gm
+Language       : hindi
+Total Tokens   : 231
+-------------------------------
+Route Name     : eyecos-creamy-gel-15gm
+Language       : hindi
+Total Tokens   : 233
+-------------------------------
+Route Name     : hydromax-cream-200gm
+Language       : hindi
+Total Tokens   : 244
+-------------------------------
+Route Name     : moiste-cream-50gm
+Language       : hindi
+Total Tokens   : 239
+-------------------------------
+Route Name     : sebifin-cream-30gm
+Language       : hindi
+Total Tokens   : 237
+-------------------------------
+Route Name     : alerid-5mg-syrup-30ml
+Language       : hindi
+Total Tokens   : 227
+-------------------------------
+Route Name     : cosvate-g-cream-25gm
+Language       : hindi
+Total Tokens   : 223
+-------------------------------
+Route Name     : respiratory-excercisor-1s
+Language       : hindi
+Total Tokens   : 245
+-------------------------------
+Route Name     : bchol-50mg-tablets-10s
+Language       : hindi
+Total Tokens   : 266
+-------------------------------
+Route Name     : beat-hf-5-tablet-10s
+Language       : hindi
+Total Tokens   : 231
+-------------------------------
+Route Name     : kozisol-gel-15gm
+Language       : hindi
+Total Tokens   : 235
+-------------------------------
+Route Name     : ankle-binder-m-size-1s
+Language       : hindi
+Total Tokens   : 247
+-------------------------------
+Route Name     : tynor-ankle-binder-d-01-m-1s
+Language       : hindi
+Total Tokens   : 263
+-------------------------------
+Route Name     : telista-trio-cl-40mg10mg12.5mg-tablet-15s
+Language       : hindi
+Total Tokens   : 246
+-------------------------------
+Route Name     : kamasutra-honeymoon-pack-1s
+Language       : hindi
+Total Tokens   : 265
+-------------------------------
+Route Name     : solvin-nasal-spray-20ml
+Language       : hindi
+Total Tokens   : 264
+-------------------------------
+Route Name     : cetaphil-dam-daily-lotion-30gm
+Language       : hindi
+Total Tokens   : 240
+-------------------------------
+Route Name     : atorfit-cv-20mg75mg-capsule-15s
+Language       : hindi
+Total Tokens   : 259
+-------------------------------
+Route Name     : mumfer-max-tablet-15s
+Language       : hindi
+Total Tokens   : 279
+-------------------------------
+Route Name     : acmed-face-wash-70gm
+Language       : hindi
+Total Tokens   : 233
+-------------------------------
+Route Name     : remo-100mg-tablet-15s
+Language       : hindi
+Total Tokens   : 244
+-------------------------------
+Route Name     : shy-xt-tooth-paste-70gm
+Language       : hindi
+Total Tokens   : 244
+-------------------------------
+Route Name     : d3-sure-nano-shot-oral-solution-5ml
+Language       : hindi
+Total Tokens   : 257
+-------------------------------
+Route Name     : dytor-e-10mg25mg-combi-kit-20s
+Language       : hindi
+Total Tokens   : 244
+-------------------------------
+Route Name     : gluxit-10mg-tablet
+Language       : hindi
+Total Tokens   : 245
+-------------------------------
+Route Name     : my-fair-soap-75-gm
+Language       : hindi
+Total Tokens   : 236
+-------------------------------
+Route Name     : efonta-40mg-tablet-15s
+Language       : hindi
+Total Tokens   : 242
+-------------------------------
+Route Name     : dove-daily-shine-conditioner-75ml
+Language       : hindi
+Total Tokens   : 255
+-------------------------------
+Route Name     : klm-d3-nano-drops-15ml
+Language       : hindi
+Total Tokens   : 244
+-------------------------------
+Route Name     : isozip-20mg-capsule
+Language       : hindi
+Total Tokens   : 232
+-------------------------------
+Route Name     : pampers-active-baby-diaper-medium-90s
+Language       : hindi
+Total Tokens   : 264
+-------------------------------
+Route Name     : optibex-tear-eye-drop-10ml
+Language       : hindi
+Total Tokens   : 247
+-------------------------------
+Route Name     : ventoranz-dx-syrup-100ml
+Language       : hindi
+Total Tokens   : 231
+-------------------------------
+Route Name     : cheston-cold-flu-tablet-10s
+Language       : hindi
+Total Tokens   : 261
+-------------------------------
+Route Name     : abtorsmed-10mg-tablet-10s
+Language       : hindi
+Total Tokens   : 243
+-------------------------------
+Route Name     : ab-rozu-gold-75mg20mg75mg-capsule-10s
+Language       : hindi
+Total Tokens   : 249
+-------------------------------
+Route Name     : ab-rozu-gold-75mg10mg75mg-capsule
+Language       : hindi
+Total Tokens   : 251
+-------------------------------
+Route Name     : starpress-t-25-tablet-xl-15s
+Language       : hindi
+Total Tokens   : 240
+-------------------------------
+Route Name     : gabavent-nt-300mg10mg-tablet-10s
+Language       : hindi
+Total Tokens   : 276
+-------------------------------
+Route Name     : superflora-gg-sachet-1gm
+Language       : hindi
+Total Tokens   : 238
+-------------------------------
+Route Name     : vyosoft-ha-0.1-wv-eye-drop-10ml
+Language       : hindi
+Total Tokens   : 254
+-------------------------------
+Route Name     : tycovit-plus-tablet-15s
+Language       : hindi
+Total Tokens   : 266
+-------------------------------
+Route Name     : mask-m7-acs-tech-black-l-mobius
+Language       : hindi
+Total Tokens   : 244
+-------------------------------
+Route Name     : mask-m7-acs-tech-black-m-mobius
+Language       : hindi
+Total Tokens   : 242
+-------------------------------
+Route Name     : dermadew-soap-75gm
+Language       : hindi
+Total Tokens   : 232
+-------------------------------
+Route Name     : garnier-fructis-strengthening-shampoo-175ml
+Language       : hindi
+Total Tokens   : 247
+-------------------------------
+Route Name     : himalaya-anti-hairfall-oil-100ml
+Language       : hindi
+Total Tokens   : 240
+-------------------------------
+Route Name     : long-drive-60mg-tablet
+Language       : hindi
+Total Tokens   : 290
+-------------------------------
+Route Name     : trinol-35mg-tablet-mr
+Language       : hindi
+Total Tokens   : 244
+-------------------------------
+Route Name     : foligood-d-tablet-10s
+Language       : hindi
+Total Tokens   : 285
+-------------------------------
+Route Name     : m2-tone-forte-syrup-200ml
+Language       : hindi
+Total Tokens   : 263
+-------------------------------
+Route Name     : clinfresh-facewash-75gm
+Language       : hindi
+Total Tokens   : 242
+-------------------------------
+Route Name     : pampers-baby-nb-diaper-24s
+Language       : hindi
+Total Tokens   : 234
+-------------------------------
+Route Name     : mynberrys-compound-liquid-250ml
+Language       : hindi
+Total Tokens   : 239
+-------------------------------
+Route Name     : losacar-25-tablet-10s
+Language       : hindi
+Total Tokens   : 231
+-------------------------------
+Route Name     : vilact-50mg-tablet
+Language       : hindi
+Total Tokens   : 241
+-------------------------------
+Route Name     : uditec-300mg-tablet-10s
+Language       : hindi
+Total Tokens   : 262
+-------------------------------
+Route Name     : noorani-tel-100ml
+Language       : hindi
+Total Tokens   : 250
+-------------------------------
+Route Name     : axe-denim-saving-cream-60gm
+Language       : hindi
+Total Tokens   : 236
+-------------------------------
+Route Name     : dapaglyn-10mg-tablet-15s
+Language       : hindi
+Total Tokens   : 255
+-------------------------------
+Route Name     : winbp-40-tablet
+Language       : hindi
+Total Tokens   : 238
+-------------------------------
+Route Name     : terbiqor-f-lotion-10gm
+Language       : hindi
+Total Tokens   : 231
+-------------------------------
+Route Name     : ovalife-plus-tablet-10s
+Language       : hindi
+Total Tokens   : 236
+-------------------------------
+Route Name     : sildozen-8mg-capsule-10s
+Language       : hindi
+Total Tokens   : 256
+-------------------------------
+Route Name     : sulseas-ds-1000mg-tablet-15s
+Language       : hindi
+Total Tokens   : 264
+-------------------------------
+Route Name     : triohale-rotacap-30s
+Language       : hindi
+Total Tokens   : 227
+-------------------------------
+Route Name     : zovaflam-50mg325mg10mg-tablet
+Language       : hindi
+Total Tokens   : 241
+-------------------------------
+Route Name     : aceflam-th-100mg4mg-tablet-10s
+Language       : hindi
+Total Tokens   : 241
+-------------------------------
+Route Name     : topbec-cs3-lotion-50ml
+Language       : hindi
+Total Tokens   : 235
+-------------------------------
+Route Name     : himalaya-pilex-forte-tablet-30s
+Language       : hindi
+Total Tokens   : 232
+-------------------------------
+Route Name     : nareena-electric-hot-gel-pad-1s
+Language       : hindi
+Total Tokens   : 263
+-------------------------------
+Route Name     : moktel-tablet-15s
+Language       : hindi
+Total Tokens   : 249
+-------------------------------
+Route Name     : sofidew-baby-massage-oil-100ml
+Language       : hindi
+Total Tokens   : 247
+-------------------------------
+Route Name     : hy-shield-spf-40-gel-60gm
+Language       : hindi
+Total Tokens   : 226
+-------------------------------
+Route Name     : dns-solution-500ml
+Language       : hindi
+Total Tokens   : 256
+-------------------------------
+Route Name     : tynor-knee-cap-cpatellar-ring-l-1s
+Language       : hindi
+Total Tokens   : 243
+-------------------------------
+Route Name     : tynor-ankle-binder-d-01-xl-1s
+Language       : hindi
+Total Tokens   : 249
+-------------------------------
+Route Name     : himalaya-herbolax-capsule-10s
+Language       : hindi
+Total Tokens   : 232
+-------------------------------
+Route Name     : irex-tablet-15s
+Language       : hindi
+Total Tokens   : 232
+-------------------------------
+Route Name     : keraboost-tablet-10s
+Language       : hindi
+Total Tokens   : 247
+-------------------------------
+Route Name     : coecoral-250mg-tablet-15s
+Language       : hindi
+Total Tokens   : 256
+-------------------------------
+Route Name     : pampers-pants-nb-18s
+Language       : hindi
+Total Tokens   : 272
+-------------------------------
+Route Name     : vaseline-coco-butter-lotion-100ml
+Language       : hindi
+Total Tokens   : 248
+-------------------------------
+Route Name     : dexolac-3-follow-up-formula-400gm
+Language       : hindi
+Total Tokens   : 251
+-------------------------------
+Route Name     : supamove-gel-30gm
+Language       : hindi
+Total Tokens   : 238
+-------------------------------
+Route Name     : osmega-300mg-capsule-30s
+Language       : hindi
+Total Tokens   : 244
+-------------------------------
+Route Name     : redrim-plus-capsule-10s
+Language       : hindi
+Total Tokens   : 277
+-------------------------------
+Route Name     : new-folinal-plus-tablet-10s
+Language       : hindi
+Total Tokens   : 251
+-------------------------------
+Route Name     : sterile-gloves-kaltex-7
+Language       : hindi
+Total Tokens   : 236
+-------------------------------
+Route Name     : polycath-i.v.-cannula-18g-1s
+Language       : hindi
+Total Tokens   : 268
+-------------------------------
+Route Name     : polycath-i.v.-cannula-20g-1s
+Language       : hindi
+Total Tokens   : 249
+-------------------------------
+Route Name     : dabur-honitus-cough-drops-1s
+Language       : hindi
+Total Tokens   : 235
+-------------------------------
+Route Name     : accu-chek-softclix-lancet-200s
+Language       : hindi
+Total Tokens   : 250
+-------------------------------
+Route Name     : nurokind-z-more-tablet
+Language       : hindi
+Total Tokens   : 256
+-------------------------------
+Route Name     : tresemme-smooth-shine-shampoo-185ml
+Language       : hindi
+Total Tokens   : 240
+-------------------------------
+Route Name     : antiros-capsule-10s
+Language       : hindi
+Total Tokens   : 229
+-------------------------------
+Route Name     : mamy-poko-pants-nb-17s
+Language       : hindi
+Total Tokens   : 238
+-------------------------------
+Route Name     : supracal-os-tablet-10s
+Language       : hindi
+Total Tokens   : 247
+-------------------------------
+Route Name     : itaspor-200-capsule-10s
+Language       : hindi
+Total Tokens   : 235
+-------------------------------
+Route Name     : tynor-e-06-wrist-brace-with-thumb-un-1s
+Language       : hindi
+Total Tokens   : 243
+-------------------------------
+Route Name     : bonemac-xt-tablet-10s
+Language       : hindi
+Total Tokens   : 256
+-------------------------------
+Route Name     : cutis-cream-30gm
+Language       : hindi
+Total Tokens   : 226
+-------------------------------
+Route Name     : tresemme-hair-fall-defense-shampoo-85ml
+Language       : hindi
+Total Tokens   : 277
+-------------------------------
+Route Name     : tendia-m-20mg500mg-tablet-15s
+Language       : hindi
+Total Tokens   : 250
+-------------------------------
+Route Name     : morr-max-5-serum-60ml
+Language       : hindi
+Total Tokens   : 235
+-------------------------------
+Route Name     : tenebite-20mg-tablet-15s
+Language       : hindi
+Total Tokens   : 252
+-------------------------------
+Route Name     : posex-forte-capsule-20s
+Language       : hindi
+Total Tokens   : 235
+-------------------------------
+Route Name     : microtek-infrared-thermometer-kit-1s
+Language       : hindi
+Total Tokens   : 250
+-------------------------------
+Route Name     : efatop-pe-lotion-100ml
+Language       : hindi
+Total Tokens   : 241
+-------------------------------
+Route Name     : clopizen-gold-75mg20mg75mg-tablet-10s
+Language       : hindi
+Total Tokens   : 299
+-------------------------------
+Route Name     : carvistar-cr-10mg-tablet-10s
+Language       : hindi
+Total Tokens   : 246
+-------------------------------
+Route Name     : relispray-55gm
+Language       : hindi
+Total Tokens   : 229
+-------------------------------
+Route Name     : epi-plus-lotion-sensitive-skin-cleanser-100ml
+Language       : hindi
+Total Tokens   : 252
+-------------------------------
+Route Name     : dove-hair-fall-rescue-shampoo-180ml
+Language       : hindi
+Total Tokens   : 255
+-------------------------------
+Route Name     : convidex-forte-tablet-10s
+Language       : hindi
+Total Tokens   : 210
+-------------------------------
+Route Name     : entofoam-foam-20.8gm
+Language       : hindi
+Total Tokens   : 238
+-------------------------------
+Route Name     : gluxit-5mg-tablet-10s
+Language       : hindi
+Total Tokens   : 255
+-------------------------------
+Route Name     : digeplex-syrup-200ml
+Language       : hindi
+Total Tokens   : 266
+-------------------------------
+Route Name     : optisight-tablet-10s
+Language       : hindi
+Total Tokens   : 237
+-------------------------------
+Route Name     : rinifol-pediatric-tablet-10s
+Language       : hindi
+Total Tokens   : 256
+-------------------------------
+Route Name     : derma-kt-nf-cream-30gm
+Language       : hindi
+Total Tokens   : 233
+-------------------------------
+Route Name     : fertiza-f-tablet-10s
+Language       : hindi
+Total Tokens   : 229
+-------------------------------
+Route Name     : fertiza-m-tablet-10s
+Language       : hindi
+Total Tokens   : 241
+-------------------------------
+Route Name     : cetanil-5mg-tablet-15s
+Language       : hindi
+Total Tokens   : 256
+-------------------------------
+Route Name     : aglozyme-capsule-10s
+Language       : hindi
+Total Tokens   : 236
+-------------------------------
+Route Name     : ferronomic-plus-tablet-10s
+Language       : hindi
+Total Tokens   : 280
+-------------------------------
+Route Name     : sebamed-anti-hairloss-shampoo-200ml
+Language       : hindi
+Total Tokens   : 251
+-------------------------------
+Route Name     : telmistrum-am-tablet-10s
+Language       : hindi
+Total Tokens   : 242
+-------------------------------
+Route Name     : akmasq-cream-75gm
+Language       : hindi
+Total Tokens   : 240
+-------------------------------
+Route Name     : gli-m-2mg500mg-tablet-10s
+Language       : hindi
+Total Tokens   : 252
+-------------------------------
+Route Name     : soha-liquigel-drop-10ml
+Language       : hindi
+Total Tokens   : 214
+-------------------------------
+Route Name     : dapabite-5mg-tablet-10s
+Language       : hindi
+Total Tokens   : 247
+-------------------------------
+Route Name     : tsart-am-40mg5mg-tablet-15s
+Language       : hindi
+Total Tokens   : 255
+-------------------------------
+Route Name     : aginal-5mg-tablet-15s
+Language       : hindi
+Total Tokens   : 230
+-------------------------------
+Route Name     : xerolene-cream-50gm
+Language       : hindi
+Total Tokens   : 257
+-------------------------------
+Route Name     : melaglow-new-skin-brightening-and-lightening-cream-30gm
+Language       : hindi
+Total Tokens   : 239
+-------------------------------
+Route Name     : melzap-0.25mg-tablet-md-15s
+Language       : hindi
+Total Tokens   : 258
+-------------------------------
+Route Name     : statcare-gold-20-capsule-10s
+Language       : hindi
+Total Tokens   : 252
+-------------------------------
+Route Name     : cutimax-cream-150gm
+Language       : hindi
+Total Tokens   : 249
+-------------------------------
+Route Name     : ionical-tablet-10s
+Language       : hindi
+Total Tokens   : 238
+-------------------------------
+Route Name     : bailey-packed-drinking-water-1ltr
+Language       : hindi
+Total Tokens   : 224
+-------------------------------
+Route Name     : mazetol-sr-300mg-tablet-15s
+Language       : hindi
+Total Tokens   : 248
+-------------------------------
+Route Name     : tynor-abdominal-supprot-s-1s
+Language       : hindi
+Total Tokens   : 262
+-------------------------------
+Route Name     : nivea-soft-cream-25ml
+Language       : hindi
+Total Tokens   : 239
+-------------------------------
+Route Name     : gushout-oral-solution-orange-sugar-free-200ml
+Language       : hindi
+Total Tokens   : 263
+-------------------------------
+Route Name     : osta-d3-800iu-drops-30ml
+Language       : hindi
+Total Tokens   : 251
+-------------------------------
+Route Name     : tendowell-capsule-10s
+Language       : hindi
+Total Tokens   : 242
+-------------------------------
+Route Name     : evitol-capsules-15s
+Language       : hindi
+Total Tokens   : 252
+-------------------------------
+Route Name     : ivabrad-od-10-tablet-pr
+Language       : hindi
+Total Tokens   : 245
+-------------------------------
+Route Name     : tramcet-37.5mg325mg-tablet-10s
+Language       : hindi
+Total Tokens   : 265
+-------------------------------
+Route Name     : ensure-diabetes-care-vanilla-delight-powder-1kg
+Language       : hindi
+Total Tokens   : 278
+-------------------------------
+Route Name     : cilostazone-100mg-tablet-10s
+Language       : hindi
+Total Tokens   : 247
+-------------------------------
+Route Name     : vobit-0.2mg-tablet-15s
+Language       : hindi
+Total Tokens   : 256
+-------------------------------
+Route Name     : corby-gel-10ml
+Language       : hindi
+Total Tokens   : 234
+-------------------------------
+Route Name     : ozotel-h-40mg12.5mg-tablet-30s
+Language       : hindi
+Total Tokens   : 250
+-------------------------------
+Route Name     : mecovon-od-capsule-10s
+Language       : hindi
+Total Tokens   : 261
+-------------------------------
+Route Name     : uv-suave-spf-50-sunscreen-gel-60ml
+Language       : hindi
+Total Tokens   : 239
+-------------------------------
+Route Name     : zukanorm-m-1000mg50mg-tablet-10s
+Language       : hindi
+Total Tokens   : 269
+-------------------------------
+Route Name     : ayur-amla-shikakai-shampoo-200-ml
+Language       : hindi
+Total Tokens   : 269
+-------------------------------
+Route Name     : zarp-dl-75mg20mg-capsule-sr-10s
+Language       : hindi
+Total Tokens   : 227
+-------------------------------
+Route Name     : tolol-25mg-tablet-xr-10s
+Language       : hindi
+Total Tokens   : 250
+-------------------------------
+Route Name     : travisight-t-eye-drop-3ml
+Language       : hindi
+Total Tokens   : 241
+-------------------------------
+Route Name     : inven-ns-500ml
+Language       : hindi
+Total Tokens   : 218
+-------------------------------
+Route Name     : lycolyfe-capsule-10s
+Language       : hindi
+Total Tokens   : 236
+-------------------------------
+Route Name     : rinifol-z-dry-syrup
+Language       : hindi
+Total Tokens   : 252
+-------------------------------
+Route Name     : gli-m-80mg500mg-tablet
+Language       : hindi
+Total Tokens   : 258
+-------------------------------
+Route Name     : levipride-50mg-tablet-10s
+Language       : hindi
+Total Tokens   : 266
+-------------------------------
+Route Name     : almox-250mg-capsule-15s
+Language       : hindi
+Total Tokens   : 269
+-------------------------------
+Route Name     : azkera-tablet-10s
+Language       : hindi
+Total Tokens   : 247
+-------------------------------
+Route Name     : pears-soap-set-3-125gm
+Language       : hindi
+Total Tokens   : 226
+-------------------------------
+Route Name     : patanjali-ayurveda-kesh-kanti-hair-oil-120ml
+Language       : hindi
+Total Tokens   : 255
+-------------------------------
+Route Name     : voage-5mg-tablet-10s
+Language       : hindi
+Total Tokens   : 297
+-------------------------------
+Route Name     : patanjali-kesh-kanti-shikakai-shampoo-20-200ml
+Language       : hindi
+Total Tokens   : 257
+-------------------------------
+Route Name     : hot-gel-pad-electric-crystal-care-1s
+Language       : hindi
+Total Tokens   : 252
+-------------------------------
+Route Name     : foley-catheter-18g-rms-1s
+Language       : hindi
+Total Tokens   : 259
+-------------------------------
+Route Name     : fogg-essence-perfume-body-spray-120ml
+Language       : hindi
+Total Tokens   : 247
+-------------------------------
+Route Name     : anasure-5-solution
+Language       : hindi
+Total Tokens   : 236
+-------------------------------
+Route Name     : amrutanjan-decorn-corn-caps-plaster-4s
+Language       : hindi
+Total Tokens   : 256
+-------------------------------
+Route Name     : dapaone-10mg-tablet-10s
+Language       : hindi
+Total Tokens   : 241
+-------------------------------
+Route Name     : metosartan-ch-12.5mg50mg40mg-tablet-er-10s
+Language       : hindi
+Total Tokens   : 248
+-------------------------------
+Route Name     : evamak-400-capsule-10s
+Language       : hindi
+Total Tokens   : 234
+-------------------------------
+Route Name     : dapabite-10mg-tablet-10s
+Language       : hindi
+Total Tokens   : 243
+-------------------------------
+Route Name     : sugar-free-natura-low-calorie-sucralose-sweetener-powder-1kg
+Language       : hindi
+Total Tokens   : 291
+-------------------------------
+Route Name     : depiglow-250-tablet-10s
+Language       : hindi
+Total Tokens   : 257
+-------------------------------
+Route Name     : acnelak-soap-75gm
+Language       : hindi
+Total Tokens   : 226
+-------------------------------
+Route Name     : cofsils-ginger-lemon-lozenges-10s
+Language       : hindi
+Total Tokens   : 246
+-------------------------------
+Route Name     : androanagen-tablet-10s
+Language       : hindi
+Total Tokens   : 248
+-------------------------------
+Route Name     : biovet-5mg-tablet-10s
+Language       : hindi
+Total Tokens   : 231
+-------------------------------
+Route Name     : dabur-clove-oil-2ml
+Language       : hindi
+Total Tokens   : 236
+-------------------------------
+Route Name     : ns-infutec-500ml
+Language       : hindi
+Total Tokens   : 296
+-------------------------------
+Route Name     : tagon-m-tablet-er
+Language       : hindi
+Total Tokens   : 254
+-------------------------------
+Route Name     : dynapar-qps-plus-solution-30ml
+Language       : hindi
+Total Tokens   : 254
+-------------------------------
+Route Name     : croxvit-z-capsule-10s
+Language       : hindi
+Total Tokens   : 246
+-------------------------------
+Route Name     : rosufine-20mg-tablet-10s
+Language       : hindi
+Total Tokens   : 239
+-------------------------------
+Route Name     : tribetrol-1mg500mg0.2mg-tablet-sr-15s
+Language       : hindi
+Total Tokens   : 266
+-------------------------------
+Route Name     : clinicals-plus-spirit-100ml
+Language       : hindi
+Total Tokens   : 246
+-------------------------------
+Route Name     : florita-capsule-10s
+Language       : hindi
+Total Tokens   : 271
+-------------------------------
+Route Name     : terbinadoc-500mg-tablet-7s
+Language       : hindi
+Total Tokens   : 251
+-------------------------------
+Route Name     : calciquick-d3-1k-softgels-capsules-10s
+Language       : hindi
+Total Tokens   : 266
+-------------------------------
+Route Name     : foley-catheter-14g-rms-1s
+Language       : hindi
+Total Tokens   : 257
+-------------------------------
+Route Name     : romsons-foley-catheter-fg-16-2way-1s
+Language       : hindi
+Total Tokens   : 250
+-------------------------------
+Route Name     : glyzifer-nm-60mg15mg-tablet-10s
+Language       : hindi
+Total Tokens   : 299
+-------------------------------
+Route Name     : flamingo-abdominal-belt-s-1s
+Language       : hindi
+Total Tokens   : 263
+-------------------------------
+Route Name     : ossopan-mcm-250mg50mg250iu-tablet-30s
+Language       : hindi
+Total Tokens   : 248
+-------------------------------
+Route Name     : zifi-cv-50mg-dry-syrup-30ml
+Language       : hindi
+Total Tokens   : 299
+-------------------------------
+Route Name     : dermadew-vg-wash-100ml
+Language       : hindi
+Total Tokens   : 246
+-------------------------------
+Route Name     : fenza-600mg-vaginal-capsule-2s
+Language       : hindi
+Total Tokens   : 236
+-------------------------------
+Route Name     : sebamed-baby-cleansing-bar-150-gm
+Language       : hindi
+Total Tokens   : 252
+-------------------------------
+Route Name     : silverex-ionic-gel-240gm
+Language       : hindi
+Total Tokens   : 234
+-------------------------------
+Route Name     : dermogermina-ct-lotion-200ml
+Language       : hindi
+Total Tokens   : 256
+-------------------------------
+Route Name     : cetanil-t-10mg40mg-tablet-15s
+Language       : hindi
+Total Tokens   : 247
+-------------------------------
+Route Name     : nizol-1-shampoo
+Language       : hindi
+Total Tokens   : 241
+-------------------------------
+Route Name     : abclopid-75mg-tablet-15s
+Language       : hindi
+Total Tokens   : 273
+-------------------------------
+Route Name     : hydrofil-cream-100gm
+Language       : hindi
+Total Tokens   : 234
+-------------------------------
+Route Name     : solasafe-silicon-spf-50-sunscreen-gel-50gm
+Language       : hindi
+Total Tokens   : 267
+-------------------------------
+Route Name     : estrabet-0.06-gel
+Language       : hindi
+Total Tokens   : 242
+-------------------------------
+Route Name     : pg-more-mnt-tablet-10s
+Language       : hindi
+Total Tokens   : 243
+-------------------------------
+Route Name     : telsartan-80mg-tablet-14s
+Language       : hindi
+Total Tokens   : 244
+-------------------------------
+Route Name     : oflomac-50mg-syrup-30ml
+Language       : hindi
+Total Tokens   : 296
+-------------------------------
+Route Name     : gemer-4mg-tablet-10s
+Language       : hindi
+Total Tokens   : 250
+-------------------------------
+Route Name     : cardace-am-5mg5mg-tablet-15s
+Language       : hindi
+Total Tokens   : 240
+-------------------------------
+Route Name     : eltroxin-50mcg-tablet-120s
+Language       : hindi
+Total Tokens   : 253
+-------------------------------
+Route Name     : correct-capsule-10s
+Language       : hindi
+Total Tokens   : 216
+-------------------------------
+Route Name     : lotus-white-glow-spf-25-cream-40gm
+Language       : hindi
+Total Tokens   : 244
+-------------------------------
+Route Name     : pregabid-mnt-75mg10mg1500mcg-tablet-10s
+Language       : hindi
+Total Tokens   : 288
+-------------------------------
+Route Name     : cetaphil-moisturising-lotion-500ml
+Language       : hindi
+Total Tokens   : 244
+-------------------------------
+Route Name     : joy-coco-lotion-100ml
+Language       : hindi
+Total Tokens   : 234
+-------------------------------
+Route Name     : dodom-tablets-10s
+Language       : hindi
+Total Tokens   : 239
+-------------------------------
+Route Name     : picolex-10mg-tablet
+Language       : hindi
+Total Tokens   : 231
+-------------------------------
+Route Name     : lupisulin-m-50-40iuml-injection-10ml
+Language       : hindi
+Total Tokens   : 249
+-------------------------------
+Route Name     : fabolite-powder-300gms
+Language       : hindi
+Total Tokens   : 293
+-------------------------------
+Route Name     : exfaro-300-tablet-6s
+Language       : hindi
+Total Tokens   : 253
+-------------------------------
+Route Name     : eylub-gel-drop-10ml
+Language       : hindi
+Total Tokens   : 243
+-------------------------------
+Route Name     : qt-gold-400-mg-tablet-sr-10s
+Language       : hindi
+Total Tokens   : 255
+-------------------------------
+Route Name     : alcaft-eye-drop
+Language       : hindi
+Total Tokens   : 244
+-------------------------------
+Route Name     : doxinate-od-20mg20mg-tablet-30s
+Language       : hindi
+Total Tokens   : 250
+-------------------------------
+Route Name     : mepride-mf-2-tablet-sr-15s
+Language       : hindi
+Total Tokens   : 252
+-------------------------------
+Route Name     : trigliben-forte-5mg500mg15mg-tablet-10s
+Language       : hindi
+Total Tokens   : 257
+-------------------------------
+Route Name     : ceflox-dee-eyeear-drops-10ml
+Language       : hindi
+Total Tokens   : 247
+-------------------------------
+Route Name     : coq-300-softgel-capsule-10s
+Language       : hindi
+Total Tokens   : 261
+-------------------------------
+Route Name     : biokare-od-tablet-10s
+Language       : hindi
+Total Tokens   : 255
+-------------------------------
+Route Name     : vitneurin-syrup-150ml
+Language       : hindi
+Total Tokens   : 271
+-------------------------------
+Route Name     : nuvera-moisturizing-cream-100gm
+Language       : hindi
+Total Tokens   : 238
+-------------------------------
+Route Name     : hylube-eye-drop
+Language       : hindi
+Total Tokens   : 239
+-------------------------------
+Route Name     : vi-john-cream-30gm
+Language       : hindi
+Total Tokens   : 232
+-------------------------------
+Route Name     : galvamark-met-500mg50mg-tablet-15s
+Language       : hindi
+Total Tokens   : 272
+-------------------------------
+Route Name     : nivea-soft-cream-50ml
+Language       : hindi
+Total Tokens   : 239
+-------------------------------
+Route Name     : premence-plus-capsule-15s
+Language       : hindi
+Total Tokens   : 263
+-------------------------------
+Route Name     : lipikind-cv-10mg75mg-capsule-10s
+Language       : hindi
+Total Tokens   : 254
+-------------------------------
+Route Name     : wfo-ointment-50gm
+Language       : hindi
+Total Tokens   : 280
+-------------------------------
+Route Name     : betadine-first-aid-solution-50ml
+Language       : hindi
+Total Tokens   : 250
+-------------------------------
+Route Name     : cyclopam-suspension-60ml
+Language       : hindi
+Total Tokens   : 231
+-------------------------------
+Route Name     : maxical-tablet
+Language       : hindi
+Total Tokens   : 245
+-------------------------------
+Route Name     : dettol-disinfectant-spray-225ml
+Language       : hindi
+Total Tokens   : 235
+-------------------------------
+Route Name     : tentide-af-25mg-tablet
+Language       : hindi
+Total Tokens   : 236
+-------------------------------
+Route Name     : diapride-m2-hv-2mg500mg0.3mg-tablet-sr-15s
+Language       : hindi
+Total Tokens   : 255
+-------------------------------
+Route Name     : whitetone-powder-30gm
+Language       : hindi
+Total Tokens   : 258
+-------------------------------
+Route Name     : zoryl-mv-1mg-tablet-sr-15s
+Language       : hindi
+Total Tokens   : 260
+-------------------------------
+Route Name     : xyzal-27.5-mcg-nasal-spray-6gm
+Language       : hindi
+Total Tokens   : 249
+-------------------------------
+Route Name     : blynds-ac-gel-50gm
+Language       : hindi
+Total Tokens   : 250
+-------------------------------
+Route Name     : ranloc-150mg-tablet-30s
+Language       : hindi
+Total Tokens   : 260
+-------------------------------
+Route Name     : biovas-ez-10mg10mg-tablet-10s
+Language       : hindi
+Total Tokens   : 251
+-------------------------------
+Route Name     : nevlon-moisturizing-lotion-100ml
+Language       : hindi
+Total Tokens   : 237
+-------------------------------
+Route Name     : libotryp-xl-25-tablet-10s
+Language       : hindi
+Total Tokens   : 259
+-------------------------------
+Route Name     : protar-lotion-200ml
+Language       : hindi
+Total Tokens   : 231
+-------------------------------
+Route Name     : mecobal-plus-capsule-10s
+Language       : hindi
+Total Tokens   : 288
+-------------------------------
+Route Name     : dabur-giloy-ki-ghanvati-tablet-40s
+Language       : hindi
+Total Tokens   : 260
+-------------------------------
+Route Name     : gluxit-m-10mg500mg-tablet-er-10s
+Language       : hindi
+Total Tokens   : 249
+-------------------------------
+Route Name     : telmigen-40mg-tablet-10s
+Language       : hindi
+Total Tokens   : 244
+-------------------------------
+Route Name     : romsons-ryles-tube-fg-16
+Language       : hindi
+Total Tokens   : 270
+-------------------------------
+Route Name     : siloright-4mg-capsule-10s
+Language       : hindi
+Total Tokens   : 274
+-------------------------------
+Route Name     : thiodoc-8mg-capsule
+Language       : hindi
+Total Tokens   : 239
+-------------------------------
+Route Name     : citiace-plus-500mg400mg-tablet-10s
+Language       : hindi
+Total Tokens   : 272
+-------------------------------
+Route Name     : mp-doc-16mg-tablet-10s
+Language       : hindi
+Total Tokens   : 242
+-------------------------------
+Route Name     : uniaz-16mg-tablet-10s
+Language       : hindi
+Total Tokens   : 236
+-------------------------------
+Route Name     : gabaco-nt-400mg10mg-tablet-10s
+Language       : hindi
+Total Tokens   : 272
+-------------------------------
+Route Name     : moredot-100mg-capsule
+Language       : hindi
+Total Tokens   : 230
+-------------------------------
+Route Name     : inven-n.s.-3-100ml
+Language       : hindi
+Total Tokens   : 247
+-------------------------------
+Route Name     : nicomin-forte-tablet-10s
+Language       : hindi
+Total Tokens   : 254
+-------------------------------
+Route Name     : suchi-n95-mask-without-respirator-1s
+Language       : hindi
+Total Tokens   : 235
+-------------------------------
+Route Name     : vylda-m-1000-tablet
+Language       : hindi
+Total Tokens   : 268
+-------------------------------
+Route Name     : eno-orange-salt-sach-5-gm
+Language       : hindi
+Total Tokens   : 222
+-------------------------------
+Route Name     : sebamed-baby-lotion-400ml
+Language       : hindi
+Total Tokens   : 252
+-------------------------------
+Route Name     : sebamed-baby-powder-400gm
+Language       : hindi
+Total Tokens   : 269
+-------------------------------
+Route Name     : triple-a-cal-tablet-15s
+Language       : hindi
+Total Tokens   : 248
+-------------------------------
+Route Name     : sebamed-baby-children-s-shampoo-500ml
+Language       : hindi
+Total Tokens   : 268
+-------------------------------
+Route Name     : zitclean-a-gel-15gm
+Language       : hindi
+Total Tokens   : 244
+-------------------------------
+Route Name     : fitjee-dm-tablet-10s
+Language       : hindi
+Total Tokens   : 250
+-------------------------------
+Route Name     : pulmocef-cv-500mg-tablet-10s
+Language       : hindi
+Total Tokens   : 260
+-------------------------------
+Route Name     : veet-sensitive-skin-waxing-kit-20s
+Language       : hindi
+Total Tokens   : 243
+-------------------------------
+Route Name     : veet-half-body-waxing-kit-for-sensitive-skin-8s
+Language       : hindi
+Total Tokens   : 238
+-------------------------------
+Route Name     : veet-body-waxing-normal-skin-kit-8s
+Language       : hindi
+Total Tokens   : 241
+-------------------------------
+Route Name     : ovacare-myo-kit-12s
+Language       : hindi
+Total Tokens   : 229
+-------------------------------
+Route Name     : velmoist-cream-60gm
+Language       : hindi
+Total Tokens   : 233
+-------------------------------
+Route Name     : tulip-tooth-pick-250s
+Language       : hindi
+Total Tokens   : 236
+-------------------------------
+Route Name     : salex-l-solution-10ml
+Language       : hindi
+Total Tokens   : 242
+-------------------------------
+Route Name     : nmf-e-cream-80gm
+Language       : hindi
+Total Tokens   : 238
+-------------------------------
+Route Name     : voglistar-md-0.2-tablet-10s
+Language       : hindi
+Total Tokens   : 276
+-------------------------------
+Route Name     : no-scars-soap-150gm
+Language       : hindi
+Total Tokens   : 234
+-------------------------------
+Route Name     : dexolac-1-infant-formula-refill-pack-400gm
+Language       : hindi
+Total Tokens   : 250
+-------------------------------
+Route Name     : tenebite-m-1000mg20mg-tablet-sr-15s
+Language       : hindi
+Total Tokens   : 262
+-------------------------------
+Route Name     : nestle-resource-hight-protin-vanilla-powder-400gm
+Language       : hindi
+Total Tokens   : 261
+-------------------------------
+Route Name     : dsp-50mg325mg10mg-tablet-10s
+Language       : hindi
+Total Tokens   : 232
+-------------------------------
+Route Name     : astymin-c-drops-15ml
+Language       : hindi
+Total Tokens   : 238
+-------------------------------
+Route Name     : brintop-diva-5-topical-solution
+Language       : hindi
+Total Tokens   : 236
+-------------------------------
+Route Name     : valera-m-5mg500mg-tablet-sr-15s
+Language       : hindi
+Total Tokens   : 250
+-------------------------------
+Route Name     : p-rd-30mg40mg-capsule-15s-pr
+Language       : hindi
+Total Tokens   : 240
+-------------------------------
+Route Name     : tbis-0.1ww-ointment-10gm
+Language       : hindi
+Total Tokens   : 272
+-------------------------------
+Route Name     : all-9-boh-tablet-10s
+Language       : hindi
+Total Tokens   : 220
+-------------------------------
+Route Name     : rantac-rd-30mg20mg-capsule-10s
+Language       : hindi
+Total Tokens   : 234
+-------------------------------
+Route Name     : pigeon-feeding-glass-bottle-4
+Language       : hindi
+Total Tokens   : 250
+-------------------------------
+Route Name     : aciloc-rd-20-tablet
+Language       : hindi
+Total Tokens   : 233
+-------------------------------
+Route Name     : newcita-5mg-tablet-15s
+Language       : hindi
+Total Tokens   : 257
+-------------------------------
+Route Name     : mama-tea-tree-facewash-100ml
+Language       : hindi
+Total Tokens   : 245
+-------------------------------
+Route Name     : atophil-lotion-100ml
+Language       : hindi
+Total Tokens   : 257
+-------------------------------
+Route Name     : pmsfine-soft-gelatin-capsule-10s
+Language       : hindi
+Total Tokens   : 252
+-------------------------------
+Route Name     : bularid-l-20mg-tablet-10s
+Language       : hindi
+Total Tokens   : 236
+-------------------------------
+Route Name     : ylis-cleansing-face-wash-100gm
+Language       : hindi
+Total Tokens   : 239
+-------------------------------
+Route Name     : lotus-white-glow-cream-18gm
+Language       : hindi
+Total Tokens   : 240
+-------------------------------
+Route Name     : dr.-odin-nebulizer-compressor-1s
+Language       : hindi
+Total Tokens   : 282
+-------------------------------
+Route Name     : alora-e-lotion-100ml
+Language       : hindi
+Total Tokens   : 236
+-------------------------------
+Route Name     : cinod-5mg-tablet-20s
+Language       : hindi
+Total Tokens   : 244
+-------------------------------
+Route Name     : glimy-m1-forte-tablet-pr-10s
+Language       : hindi
+Total Tokens   : 293
+-------------------------------
+Route Name     : femtone-syrup-200ml
+Language       : hindi
+Total Tokens   : 261
+-------------------------------
+Route Name     : lycoline-capsule-10s
+Language       : hindi
+Total Tokens   : 257
+-------------------------------
+Route Name     : tenroz-m-500mg20mg-tablet
+Language       : hindi
+Total Tokens   : 255
+-------------------------------
+Route Name     : zucapride-m-10mg500mg-tablet-sr-10s
+Language       : hindi
+Total Tokens   : 255
+-------------------------------
+Route Name     : powergesic-gel-30gm
+Language       : hindi
+Total Tokens   : 243
+-------------------------------
+Route Name     : garnier-deep-black-colour-pouch-1s
+Language       : hindi
+Total Tokens   : 239
+-------------------------------
+Route Name     : n-95-mask-curo-without-respirator-1s
+Language       : hindi
+Total Tokens   : 242
+-------------------------------
+Route Name     : ponds-white-bb-cream
+Language       : hindi
+Total Tokens   : 234
+-------------------------------
+Route Name     : nivea-shea-smooth-dry-skin-body-lotion-75ml
+Language       : hindi
+Total Tokens   : 273
+-------------------------------
+Route Name     : garnier-men-acno-fight-facewash
+Language       : hindi
+Total Tokens   : 253
+-------------------------------
+Route Name     : dispocap-surgeons-cap-1s
+Language       : hindi
+Total Tokens   : 242
+-------------------------------
+Route Name     : heel-cushion-universal-female-1s
+Language       : hindi
+Total Tokens   : 239
+-------------------------------
+Route Name     : ajay-knee-support-m-pair-1s
+Language       : hindi
+Total Tokens   : 233
+-------------------------------
+Route Name     : wrist-support-with-thumb-universal-pair-1s
+Language       : hindi
+Total Tokens   : 236
+-------------------------------
+Route Name     : pancrehenz-10000-capsule-10s
+Language       : hindi
+Total Tokens   : 234
+-------------------------------
+Route Name     : trio-plus-capsule
+Language       : hindi
+Total Tokens   : 257
+-------------------------------
+Route Name     : fycare-d-30mg20mg-capsule-15s
+Language       : hindi
+Total Tokens   : 239
+-------------------------------
+Route Name     : salytar-solution-100ml
+Language       : hindi
+Total Tokens   : 251
+-------------------------------
+Route Name     : raricap-25mg0.3mg-tablet-40s
+Language       : hindi
+Total Tokens   : 239
+-------------------------------
+Route Name     : docts-alcohol-sprit-100ml
+Language       : hindi
+Total Tokens   : 271
+-------------------------------
+Route Name     : reeshape-120mg-capsule-15s
+Language       : hindi
+Total Tokens   : 231
+-------------------------------
+Route Name     : vaidrishi-arsh-kalp-kit-1s
+Language       : hindi
+Total Tokens   : 237
+-------------------------------
+Route Name     : cofsils-gargle-100ml
+Language       : hindi
+Total Tokens   : 226
+-------------------------------
+Route Name     : axineuron-plus-capsule-10-s
+Language       : hindi
+Total Tokens   : 241
+-------------------------------
+Route Name     : dapaglyn-m-10mg500mg-tablet-15s
+Language       : hindi
+Total Tokens   : 255
+-------------------------------
+Route Name     : levocetrizen-5mg-tablet-10s
+Language       : hindi
+Total Tokens   : 248
+-------------------------------
+Route Name     : cortinet-m-4mg-tablet-10s
+Language       : hindi
+Total Tokens   : 242
+-------------------------------
+Route Name     : patanjali-ayurveda-giloy-ghanvati-tablet-60s
+Language       : hindi
+Total Tokens   : 268
+-------------------------------
+Route Name     : acneguard-soap-75gm
+Language       : hindi
+Total Tokens   : 231
+-------------------------------
+Route Name     : febucraft-40mg-tablet-10s
+Language       : hindi
+Total Tokens   : 239
+-------------------------------
+Route Name     : dajio-10mg-tablet-15s
+Language       : hindi
+Total Tokens   : 241
+-------------------------------
+Route Name     : mifiact-10mg-tablet
+Language       : hindi
+Total Tokens   : 240
+-------------------------------
+Route Name     : teniva-m-1000mg20mg-forte-tablet-er-20s
+Language       : hindi
+Total Tokens   : 262
+-------------------------------
+Route Name     : bpl-pulse-oximeter-1s
+Language       : hindi
+Total Tokens   : 237
+-------------------------------
+Route Name     : figovit-gold-capsule-10s
+Language       : hindi
+Total Tokens   : 248
+-------------------------------
+Route Name     : vitanova-d3-sachet-1gm
+Language       : hindi
+Total Tokens   : 281
+-------------------------------
+Route Name     : vaporizer-all-in-one-breathe-1s
+Language       : hindi
+Total Tokens   : 280
+-------------------------------
+Route Name     : ocabile-10mg-tablet-10s
+Language       : hindi
+Total Tokens   : 248
+-------------------------------
+Route Name     : progermina-bottle-oral-suspension-5ml
+Language       : hindi
+Total Tokens   : 268
+-------------------------------
+Route Name     : sebamed-baby-powder-200gm
+Language       : hindi
+Total Tokens   : 256
+-------------------------------
+Route Name     : ticavic-90mg-tablet-10s
+Language       : hindi
+Total Tokens   : 238
+-------------------------------
+Route Name     : sensicure-k-gel-50gm
+Language       : hindi
+Total Tokens   : 242
+-------------------------------
+Route Name     : diapride-m2-forte-tablet-15s-pr
+Language       : hindi
+Total Tokens   : 250
+-------------------------------
+Route Name     : baidyanath-chyawan-vit-sf-1kg
+Language       : hindi
+Total Tokens   : 243
+-------------------------------
+Route Name     : solvin-dx-syrup-100ml
+Language       : hindi
+Total Tokens   : 230
+-------------------------------
+Route Name     : patanjali-coconut-oil-200ml
+Language       : hindi
+Total Tokens   : 281
+-------------------------------
+Route Name     : zincocharj-tablet-15s
+Language       : hindi
+Total Tokens   : 232
+-------------------------------
+Route Name     : curomed-pulse-oximeter-1s
+Language       : hindi
+Total Tokens   : 239
+-------------------------------
+Route Name     : mortein-insta-combo-pack-1s
+Language       : hindi
+Total Tokens   : 228
+-------------------------------
+Route Name     : dizexa-capsule-tr-15s
+Language       : hindi
+Total Tokens   : 249
+-------------------------------
+Route Name     : tozaar-h-tablet-15s
+Language       : hindi
+Total Tokens   : 238
+-------------------------------
+Route Name     : remylin-ax-tablet-10s
+Language       : hindi
+Total Tokens   : 263
+-------------------------------
+Route Name     : mahazin-5mg-tablet-alu-alu-10s
+Language       : hindi
+Total Tokens   : 229
+-------------------------------
+Route Name     : mahazin-5mg-tablet-blister-10s
+Language       : hindi
+Total Tokens   : 264
+-------------------------------
+Route Name     : dapabite-m-10mg500mg-tablet-10s
+Language       : hindi
+Total Tokens   : 250
+-------------------------------
+Route Name     : rosave-f-10-tablet-15s
+Language       : hindi
+Total Tokens   : 237
+-------------------------------
+Route Name     : bio-d3-ds-capsule-10s
+Language       : hindi
+Total Tokens   : 253
+-------------------------------
+Route Name     : photoban-spf-30-aquagel-60gm
+Language       : hindi
+Total Tokens   : 259
+-------------------------------
+Route Name     : depiwhite-advanced-cream-15ml
+Language       : hindi
+Total Tokens   : 242
+-------------------------------
+Route Name     : itr-plus-eye-drop-10ml
+Language       : hindi
+Total Tokens   : 250
+-------------------------------
+Route Name     : hyane-eye-drop-10ml
+Language       : hindi
+Total Tokens   : 240
+-------------------------------
+Route Name     : nepha-cmc-eye-drop-10ml
+Language       : hindi
+Total Tokens   : 238
+-------------------------------
+Route Name     : arip-mt-30mg-tablet-15s
+Language       : hindi
+Total Tokens   : 257
+-------------------------------
+Route Name     : afoglip-m-1000mg50mg-tablet-er-15s
+Language       : hindi
+Total Tokens   : 269
+-------------------------------
+Route Name     : beurer-bm27-upper-arm-bp-monitor-1s
+Language       : hindi
+Total Tokens   : 257
+-------------------------------
+Route Name     : face-shield-300mic-1s
+Language       : hindi
+Total Tokens   : 234
+-------------------------------
+Route Name     : ocid-dsr-capsule-15s
+Language       : hindi
+Total Tokens   : 238
+-------------------------------
+Route Name     : rivaflo-2.5mg-tablet-10s
+Language       : hindi
+Total Tokens   : 280
+-------------------------------
+Route Name     : atilor-2mg-tablet-md-10s
+Language       : hindi
+Total Tokens   : 269
+-------------------------------
+Route Name     : lotus-safe-sun-spf-50-50gm
+Language       : hindi
+Total Tokens   : 239
+-------------------------------
+Route Name     : febuget-40mg-tablet-15s
+Language       : hindi
+Total Tokens   : 247
+-------------------------------
+Route Name     : me-pxl-75mg-tablet-15s
+Language       : hindi
+Total Tokens   : 246
+-------------------------------
+Route Name     : dersol-40-ointment-25gm
+Language       : hindi
+Total Tokens   : 233
+-------------------------------
+Route Name     : littles-poly-maxi-feeding-bottle-240ml
+Language       : hindi
+Total Tokens   : 272
+-------------------------------
+Route Name     : rolled-bandage-9cm3m
+Language       : hindi
+Total Tokens   : 263
+-------------------------------
+Route Name     : foley-catheter-14g-ribble-1s
+Language       : hindi
+Total Tokens   : 262
+-------------------------------
+Route Name     : glass-van-surgical-blade-no.-11g-1s
+Language       : hindi
+Total Tokens   : 249
+-------------------------------
+Route Name     : glass-van-surgical-blade-no-20g-1s
+Language       : hindi
+Total Tokens   : 244
+-------------------------------
+Route Name     : ns-0.45-infusion-500ml
+Language       : hindi
+Total Tokens   : 259
+-------------------------------
+Route Name     : kit-kath-iv-cannula-20g-1s
+Language       : hindi
+Total Tokens   : 252
+-------------------------------
+Route Name     : apex-iodine-tincture-solution-100ml
+Language       : hindi
+Total Tokens   : 249
+-------------------------------
+Route Name     : pyricontin-100mg-tablet-cr-10s
+Language       : hindi
+Total Tokens   : 238
+-------------------------------
+Route Name     : clopigold-a-75mg75mg-capsule-15s
+Language       : hindi
+Total Tokens   : 282
+-------------------------------
+Route Name     : nexovas-5mg-tablet-15s
+Language       : hindi
+Total Tokens   : 240
+-------------------------------
+Route Name     : rosubest-gold-75mg20mg75mg-tablet-10s
+Language       : hindi
+Total Tokens   : 246
+-------------------------------
+Route Name     : nice-tears-eye-drop-10ml
+Language       : hindi
+Total Tokens   : 242
+-------------------------------
+Route Name     : silybon-suspension-100ml
+Language       : hindi
+Total Tokens   : 247
+-------------------------------
+Route Name     : momate-f-cream-15gm
+Language       : hindi
+Total Tokens   : 226
+-------------------------------
+Route Name     : cortel-h-40-tablet-15s
+Language       : hindi
+Total Tokens   : 240
+-------------------------------
+Route Name     : vertifyl-16mg-tablet-10s
+Language       : hindi
+Total Tokens   : 232
+-------------------------------
+Route Name     : zandu-ultra-balm-4ml
+Language       : hindi
+Total Tokens   : 264
+-------------------------------
+Route Name     : garnier-bright-complete-cream-23gm
+Language       : hindi
+Total Tokens   : 238
+-------------------------------
+Route Name     : godrej-handwash-magic-9gm
+Language       : hindi
+Total Tokens   : 252
+-------------------------------
+Route Name     : tenepure-m-500mg-tablet-er-15s
+Language       : hindi
+Total Tokens   : 255
+-------------------------------
+Route Name     : zucapride-m-10mg1000mg-tablet-sr
+Language       : hindi
+Total Tokens   : 276
+-------------------------------
+Route Name     : eurepa-2mg-tablet-15s
+Language       : hindi
+Total Tokens   : 260
+-------------------------------
+Route Name     : isryl-m-2mg500mg-tablet-sr-15s
+Language       : hindi
+Total Tokens   : 258
+-------------------------------
+Route Name     : amlycure-d-s-capsule-20s
+Language       : hindi
+Total Tokens   : 279
+-------------------------------
+Route Name     : patanjali-ayurveda-balm-25gm
+Language       : hindi
+Total Tokens   : 258
+-------------------------------
+Route Name     : osteocync-tablet-10s
+Language       : hindi
+Total Tokens   : 240
+-------------------------------
+Route Name     : shelcal-ct-max-soft-gelatin-capsule-15s
+Language       : hindi
+Total Tokens   : 255
+-------------------------------
+Route Name     : medimix-classic-soap-3s
+Language       : hindi
+Total Tokens   : 244
+-------------------------------
+Route Name     : surbex-gold-capsule-15s
+Language       : hindi
+Total Tokens   : 246
+-------------------------------
+Route Name     : folium-ds-10mg-tablet-10s
+Language       : hindi
+Total Tokens   : 240
+-------------------------------
+Route Name     : carel-solution-60ml
+Language       : hindi
+Total Tokens   : 248
+-------------------------------
+Route Name     : triolmesar-ch-40mg-tablet-15s
+Language       : hindi
+Total Tokens   : 247
+-------------------------------
+Route Name     : klmc-1000-tablet-20s
+Language       : hindi
+Total Tokens   : 235
+-------------------------------
+Route Name     : onetouch-select-plus-simple-glucometer-with-10-free-strips
+Language       : hindi
+Total Tokens   : 285
+-------------------------------
+Route Name     : roustrin-40mg-tablet-10s
+Language       : hindi
+Total Tokens   : 246
+-------------------------------
+Route Name     : riboflavin-10mg-tablet-10s
+Language       : hindi
+Total Tokens   : 256
+-------------------------------
+Route Name     : abzorb-dusting-powder-50gm
+Language       : hindi
+Total Tokens   : 246
+-------------------------------
+Route Name     : seboclear-lotion-50ml
+Language       : hindi
+Total Tokens   : 237
+-------------------------------
+Route Name     : astymin-m-forte-capsule-30s
+Language       : hindi
+Total Tokens   : 238
+-------------------------------
+Route Name     : tnib-5mg-tablet-15s
+Language       : hindi
+Total Tokens   : 237
+-------------------------------
+Route Name     : sucramore-o-syrup-200ml
+Language       : hindi
+Total Tokens   : 258
+-------------------------------
+Route Name     : softswab-gauze-swab-10cm-x-10cm-x-25s
+Language       : hindi
+Total Tokens   : 261
+-------------------------------
+Route Name     : proanagen-tablet-10s
+Language       : hindi
+Total Tokens   : 232
+-------------------------------
+Route Name     : nestle-cerelac-baby-cereal-5-grains-fruits-300gm
+Language       : hindi
+Total Tokens   : 258
+-------------------------------
+Route Name     : thermokind-cool-mint-mouth-wash-150ml
+Language       : hindi
+Total Tokens   : 264
+-------------------------------
+Route Name     : complan-powder-chocolate-jar-1kg
+Language       : hindi
+Total Tokens   : 272
+-------------------------------
+Route Name     : knee-cap-adore-xxl-ad-403-1s
+Language       : hindi
+Total Tokens   : 238
+-------------------------------
+Route Name     : raymoxi-d-eye-drop-5ml
+Language       : hindi
+Total Tokens   : 261
+-------------------------------
+Route Name     : dapacose-10mg-tablet-10s
+Language       : hindi
+Total Tokens   : 267
+-------------------------------
+Route Name     : huggies-wonder-pants-xs-24s
+Language       : hindi
+Total Tokens   : 247
+-------------------------------
+Route Name     : huggies-wonder-pants-diaper-m-76s
+Language       : hindi
+Total Tokens   : 234
+-------------------------------
+Route Name     : fogg-tycoon-perfume-30ml
+Language       : hindi
+Total Tokens   : 252
+-------------------------------
+Route Name     : fogg-sultan-perfume-30ml
+Language       : hindi
+Total Tokens   : 243
+-------------------------------
+Route Name     : ferronemia-plus-tablet-10s
+Language       : hindi
+Total Tokens   : 241
+-------------------------------
+Route Name     : rekto-600mg-tablet-10s
+Language       : hindi
+Total Tokens   : 263
+-------------------------------
+Route Name     : silverex-heal-gel-50gm
+Language       : hindi
+Total Tokens   : 234
+-------------------------------
+Route Name     : fosfona-powder
+Language       : hindi
+Total Tokens   : 248
+-------------------------------
+Route Name     : pampers-baby-pants-diapers-l-24s
+Language       : hindi
+Total Tokens   : 241
+-------------------------------
+Route Name     : pampers-active-baby-diaper-l-18s
+Language       : hindi
+Total Tokens   : 244
+-------------------------------
+Route Name     : one-touch-verio-strips-25s
+Language       : hindi
+Total Tokens   : 245
+-------------------------------
+Route Name     : valdiff-50mg-tablet-15s
+Language       : hindi
+Total Tokens   : 272
+-------------------------------
+Route Name     : kayam-tablet-10s
+Language       : hindi
+Total Tokens   : 224
+-------------------------------
+Route Name     : looz-peg-oral-solution-orange-200ml
+Language       : hindi
+Total Tokens   : 230
+-------------------------------
+Route Name     : alkashot-b6-syrup-200-ml
+Language       : hindi
+Total Tokens   : 245
+-------------------------------
+Route Name     : vymada-200mg-tablet-7s
+Language       : hindi
+Total Tokens   : 242
+-------------------------------
+Route Name     : tapease-ns-nasal-spray-225mgml-1s
+Language       : hindi
+Total Tokens   : 221
+-------------------------------
+Route Name     : cystal-care-nebulizer-child-mask-1s
+Language       : hindi
+Total Tokens   : 248
+-------------------------------
+Route Name     : tendia-20mg-tablet-15s
+Language       : hindi
+Total Tokens   : 245
+-------------------------------
+Route Name     : flamingo-shoulder-immobilizer-elastic-oc-02038-1s
+Language       : hindi
+Total Tokens   : 275
+-------------------------------
+Route Name     : lupifit-plus-syrup-100ml
+Language       : hindi
+Total Tokens   : 259
+-------------------------------
+Route Name     : antox-4g-softgel-tablet-10s
+Language       : hindi
+Total Tokens   : 282
+-------------------------------
+Route Name     : brigrel-90mg-tablet-10s
+Language       : hindi
+Total Tokens   : 243
+-------------------------------
+Route Name     : huggies-wonder-m-50s
+Language       : hindi
+Total Tokens   : 239
+-------------------------------
+Route Name     : band-aid-crystal-care-200-s
+Language       : hindi
+Total Tokens   : 244
+-------------------------------
+Route Name     : ace-proxyvon-gel-30gm
+Language       : hindi
+Total Tokens   : 239
+-------------------------------
+Route Name     : vitacast-gold-tablet-10s
+Language       : hindi
+Total Tokens   : 258
+-------------------------------
+Route Name     : nivea-express-hydration-body-lotion-75ml
+Language       : hindi
+Total Tokens   : 258
+-------------------------------
+Route Name     : little-soft-cleansing-baby-wipes-72s
+Language       : hindi
+Total Tokens   : 229
+-------------------------------
+Route Name     : huggies-wonder-pants-xl-56s
+Language       : hindi
+Total Tokens   : 254
+-------------------------------
+Route Name     : savlon-glycerine-soap-45gm
+Language       : hindi
+Total Tokens   : 262
+-------------------------------
+Route Name     : stayfree-cottony-soft-cover-secure-with-wings-pads-xl-40s
+Language       : hindi
+Total Tokens   : 253
+-------------------------------
+Route Name     : hansaplast-spot-bandaid-1s
+Language       : hindi
+Total Tokens   : 266
+-------------------------------
+Route Name     : triple-a-cal-fd-tablet-15s
+Language       : hindi
+Total Tokens   : 249
+-------------------------------
+Route Name     : aqsusten-50mg-injection-1ml
+Language       : hindi
+Total Tokens   : 248
+-------------------------------
+Route Name     : mgd3-60k-combi-kit-tablet-14s
+Language       : hindi
+Total Tokens   : 260
+-------------------------------
+Route Name     : himalaya-gentle-baby-wash-200ml
+Language       : hindi
+Total Tokens   : 274
+-------------------------------
+Route Name     : gabacure-gel-30gm
+Language       : hindi
+Total Tokens   : 281
+-------------------------------
+Route Name     : pears-pure-and-gentle-soap
+Language       : hindi
+Total Tokens   : 240
+-------------------------------
+Route Name     : kesri-marham-40gm
+Language       : hindi
+Total Tokens   : 255
+-------------------------------
+Route Name     : trafolic-tablet-10s
+Language       : hindi
+Total Tokens   : 237
+-------------------------------
+Route Name     : itrachem-200mg-capsule-10s
+Language       : hindi
+Total Tokens   : 234
+-------------------------------
+Route Name     : dettol-oiginal-soap-75gm-31pack
+Language       : hindi
+Total Tokens   : 236
+-------------------------------
+Route Name     : afoglip-m-500mg-tablet-er-15s
+Language       : hindi
+Total Tokens   : 250
+-------------------------------
+Route Name     : zava-od-100mg-tablet-10s
+Language       : hindi
+Total Tokens   : 259
+-------------------------------
+Route Name     : biorex-dx-syrup100ml
+Language       : hindi
+Total Tokens   : 228
+-------------------------------
+Route Name     : valzaar-80mg-tablet-15s
+Language       : hindi
+Total Tokens   : 238
+-------------------------------
+Route Name     : huggies-wonder-l-42s
+Language       : hindi
+Total Tokens   : 247
+-------------------------------
+Route Name     : obetohep-10mg-tablet-10s
+Language       : hindi
+Total Tokens   : 253
+-------------------------------
+Route Name     : pricon-syringe-3ml
+Language       : hindi
+Total Tokens   : 243
+-------------------------------
+Route Name     : dapalex-5mg-tablet-10s
+Language       : hindi
+Total Tokens   : 250
+-------------------------------
+Route Name     : vildawell-m-500mg50mg-tablet-10s
+Language       : hindi
+Total Tokens   : 261
+-------------------------------
+Route Name     : mibeta-40mg-tablet-sr-15s
+Language       : hindi
+Total Tokens   : 241
+-------------------------------
+Route Name     : terbimax-f-lotion-15ml
+Language       : hindi
+Total Tokens   : 236
+-------------------------------
+Route Name     : skore-banana-condom-10s
+Language       : hindi
+Total Tokens   : 238
+-------------------------------
+Route Name     : skore-warm-dotted-condom-3s
+Language       : hindi
+Total Tokens   : 235
+-------------------------------
+Route Name     : becson-lotion-50ml
+Language       : hindi
+Total Tokens   : 237
+-------------------------------
+Route Name     : calvel-forte-tablet-10s
+Language       : hindi
+Total Tokens   : 251
+-------------------------------
+Route Name     : amrutanjan-pain-balm-1ml
+Language       : hindi
+Total Tokens   : 226
+-------------------------------
+Route Name     : pantene-hfc-shampoo-75ml
+Language       : hindi
+Total Tokens   : 232
+-------------------------------
+Route Name     : rivaban-20mg-tablet-14s
+Language       : hindi
+Total Tokens   : 268
+-------------------------------
+Route Name     : new-ringcuter-ointment-14gm
+Language       : hindi
+Total Tokens   : 236
+-------------------------------
+Route Name     : tulips-refreshing-wet-wipes-20s
+Language       : hindi
+Total Tokens   : 233
+-------------------------------
+Route Name     : amrutanjan-strong-double-powder-pain-balm-30ml
+Language       : hindi
+Total Tokens   : 229
+-------------------------------
+Route Name     : himalaya-men-pinple-clear-neem-face-wash
+Language       : hindi
+Total Tokens   : 240
+-------------------------------
+Route Name     : gram-flour-soap-75gm
+Language       : hindi
+Total Tokens   : 233
+-------------------------------
+Route Name     : auto-flow-polypropylene-feeding-bottle-125ml
+Language       : hindi
+Total Tokens   : 275
+-------------------------------
+Route Name     : normoz-ds-tablet
+Language       : hindi
+Total Tokens   : 293
+-------------------------------
+Route Name     : ponds-dream-flower-fragrant-talc-25gm
+Language       : hindi
+Total Tokens   : 244
+-------------------------------
+Route Name     : sani-os-sanitizer-50ml
+Language       : hindi
+Total Tokens   : 240
+-------------------------------
+Route Name     : n-95-mask-1s
+Language       : hindi
+Total Tokens   : 218
+-------------------------------
+Route Name     : colgate-gentle-sensitive-tooth-brush-1s
+Language       : hindi
+Total Tokens   : 257
+-------------------------------
+Route Name     : folichem-5mgtablet-30s
+Language       : hindi
+Total Tokens   : 264
+-------------------------------
+Route Name     : catlon-eye-drop-10ml
+Language       : hindi
+Total Tokens   : 268
+-------------------------------
+Route Name     : dove-antidandrauff-shampoo-180ml
+Language       : hindi
+Total Tokens   : 251
+-------------------------------
+Route Name     : sukoon-massage-oil-100ml
+Language       : hindi
+Total Tokens   : 273
+-------------------------------
+Route Name     : kushal-kanthil-pill-5-gm
+Language       : hindi
+Total Tokens   : 230
+-------------------------------
+Route Name     : kailas-jeevan-cream-30gm
+Language       : hindi
+Total Tokens   : 254
+-------------------------------
+Route Name     : baidyanath-kantha-sudharak-vati-tablets-20s
+Language       : hindi
+Total Tokens   : 236
+-------------------------------
+Route Name     : denver-hamilton-imperial-deo-body-spray-150ml
+Language       : hindi
+Total Tokens   : 254
+-------------------------------
+Route Name     : kailash-jeevan-cream-12gm
+Language       : hindi
+Total Tokens   : 278
+-------------------------------
+Route Name     : pediasure-7-plus-powder-chocolate-400gm
+Language       : hindi
+Total Tokens   : 248
+-------------------------------
+Route Name     : loreal-shampoo-fall-resist-82.5ml
+Language       : hindi
+Total Tokens   : 281
+-------------------------------
+Route Name     : dabur-ichhabhedi-ras-tablet-40s
+Language       : hindi
+Total Tokens   : 257
+-------------------------------
+Route Name     : clean-and-dry-apple-face-wash-100ml
+Language       : hindi
+Total Tokens   : 247
+-------------------------------
+Route Name     : electorush-ors-liquid-orange-200ml
+Language       : hindi
+Total Tokens   : 241
+-------------------------------
+Route Name     : vidaglo-m-500mg50mg-tablet-10s
+Language       : hindi
+Total Tokens   : 258
+-------------------------------
+Route Name     : glucovita-bolts-strawberry-tablets-18gm
+Language       : hindi
+Total Tokens   : 259
+-------------------------------
+Route Name     : garnier-black-natural-3-black-brown-hair-color-pouch-1s
+Language       : hindi
+Total Tokens   : 246
+-------------------------------
+Route Name     : nuroter-forte-tablet
+Language       : hindi
+Total Tokens   : 265
+-------------------------------
+Route Name     : folinine-d-capsule-15s
+Language       : hindi
+Total Tokens   : 237
+-------------------------------
+Route Name     : systane-gel-drop-lubricant-eye-gel-10ml
+Language       : hindi
+Total Tokens   : 243
+-------------------------------
+Route Name     : vildanat-m-1000mg50mg-tablet-10s
+Language       : hindi
+Total Tokens   : 274
+-------------------------------
+Route Name     : ercal-c-tablet-15s
+Language       : hindi
+Total Tokens   : 245
+-------------------------------
+Route Name     : nivea-men-acne-face-wash-50ml
+Language       : hindi
+Total Tokens   : 243
+-------------------------------
+Route Name     : dettol-disinfectant-skin-surface-wipes-10s
+Language       : hindi
+Total Tokens   : 259
+-------------------------------
+Route Name     : urine-pot-male-and-female-1000ml
+Language       : hindi
+Total Tokens   : 248
+-------------------------------
+Route Name     : mymi-k2-tablet-10s
+Language       : hindi
+Total Tokens   : 245
+-------------------------------
+Route Name     : m-sys-cream-10gm
+Language       : hindi
+Total Tokens   : 262
+-------------------------------
+Route Name     : disposable-razor-1s
+Language       : hindi
+Total Tokens   : 246
+-------------------------------
+Route Name     : klm-klin-aha-face-wash-gel-100ml
+Language       : hindi
+Total Tokens   : 233
+-------------------------------
+Route Name     : latex-surgical-gloves-7.0-1s
+Language       : hindi
+Total Tokens   : 239
+-------------------------------
+Route Name     : rexona-powder-dry-roll-on-50ml
+Language       : hindi
+Total Tokens   : 280
+-------------------------------
+Route Name     : dapawin-10mg-tablet-14s
+Language       : hindi
+Total Tokens   : 238
+-------------------------------
+Route Name     : renu-multi-solution-60ml
+Language       : hindi
+Total Tokens   : 263
+-------------------------------
+Route Name     : anklet-pair-xl-1s
+Language       : hindi
+Total Tokens   : 247
+-------------------------------
+Route Name     : indica-easy-1-natural-black-shampoo-hair
+Language       : hindi
+Total Tokens   : 246
+-------------------------------
+Route Name     : benalgis-forte-soft-gelatin-capsule-15s
+Language       : hindi
+Total Tokens   : 234
+-------------------------------
+Route Name     : telmibless-h-tablet-15s
+Language       : hindi
+Total Tokens   : 253
+-------------------------------
+Route Name     : rosefast-20mg-tablet-10s
+Language       : hindi
+Total Tokens   : 248
+-------------------------------
+Route Name     : metopil-50mg-tablet-10s
+Language       : hindi
+Total Tokens   : 242
+-------------------------------
+Route Name     : telmipil-trio-40mg10mg12.5mg-tablet-10s
+Language       : hindi
+Total Tokens   : 248
+-------------------------------
+Route Name     : ossum-with-aqua-romance-perfume-115ml
+Language       : hindi
+Total Tokens   : 247
+-------------------------------
+Route Name     : ossum-with-aqua-blossom-body-perfume-115ml
+Language       : hindi
+Total Tokens   : 243
+-------------------------------
+Route Name     : garnier-men-acnofight-cream-20-gm
+Language       : hindi
+Total Tokens   : 234
+-------------------------------
+Route Name     : godrej-expert-rich-cream-hair-colour-black-brown-20ml
+Language       : hindi
+Total Tokens   : 262
+-------------------------------
+Route Name     : vsmall-50-tablet
+Language       : hindi
+Total Tokens   : 240
+-------------------------------
+Route Name     : amigrow-tablet-10s
+Language       : hindi
+Total Tokens   : 230
+-------------------------------
+Route Name     : black-rose-kali-mehandi-50gm
+Language       : hindi
+Total Tokens   : 233
+-------------------------------
+Route Name     : apigat-5mg-tablet-30s
+Language       : hindi
+Total Tokens   : 265
+-------------------------------
+Route Name     : b-colex-capsule-10s
+Language       : hindi
+Total Tokens   : 238
+-------------------------------
+Route Name     : galvus-met-50mg850mg-tablet-15s
+Language       : hindi
+Total Tokens   : 259
+-------------------------------
