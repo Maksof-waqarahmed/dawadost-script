@@ -5169,3 +5169,99 @@ Route Name     : telmipil-trio-40mg10mg12.5mg-tablet-10s
 Language       : hindi-invalid-format
 Total Tokens   : 0
 -------------------------------
+Route Name     : telmikind-trio-40mg10mg12.5mg-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : elfolin-plus-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : nuavomin-4mg-tablet
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : baidyanath-ashokarishta-syrup-220ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : hawaban-harde-6gm
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : mucinac-ab-100mg600mg-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : clotrin-ac-ear-drop-10ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : inhipraz-d-30mg40mg-capsule-pr-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : fusirose-2-lotion
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : olip-eye-drop-5ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : dabur-amla-sarson-oil-175ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : impoyz-cream-20gm
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : dyclor-12.5mg-tablet-15s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : loreal-paris-total-repair-5-shampoo-192.5ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : dabur-adulsa-cough-syrup-100ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : vildasmart-50mg-tablet-15s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : set-wet-style-hair-gel-50gm
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : levozet-m-2.5mg4mg-syrup-60ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : abhay-jambavasava-syrup-500ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : latex-surgical-gloves-7.5-1s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : olmesar-ch-40mg-tablet-15s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : caladew-lotion-75ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : keraglo-men-tablet-30s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : brophyle-n-100mg-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
