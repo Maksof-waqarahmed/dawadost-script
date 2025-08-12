@@ -32796,3 +32796,271 @@ Route Name     : nifty-100mg-sr-tablet-10s
 Language       : bengali
 Total Tokens   : 213
 -------------------------------
+Route Name     : nikacin-500mg-injection
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+Route Name     : nikoran-od-10-mgtablet-pr-10s
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+Route Name     : nilac-a-gel-20gm
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+Route Name     : nildep-10mg-tablet
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+Route Name     : nildep-25mg-tablet-10s
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+Route Name     : nimica-plus-100mg325mg-tablet-10s
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+Route Name     : nimodip-tablet
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+Route Name     : nimsaid-p-tablet-15s
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+Route Name     : nimucet-af-syrup-60ml
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+Route Name     : nimulid-md-tablet-15s
+Language       : bengali
+Total Tokens   : 219
+-------------------------------
+Route Name     : nimulid-100-tablet
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+Route Name     : nioclean-ad-gel
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+Route Name     : niosol-ointment-30gm
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+Route Name     : nipam-5mg-tablet
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+Route Name     : nitra-gel-dental-gel-100gm
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+Route Name     : nitrobest-100mg-tablet-sr-10s
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+Route Name     : nitrocontin-6.4-tablet-cr
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+Route Name     : nitrofix-10-tablet
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+Route Name     : nitrofix-sr-30-tablet
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+Route Name     : nitrofur-100mg-tablet-sr-14s
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+Route Name     : nitrolong-6.4-tablet-cr
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+Route Name     : nixidox-capsule-10s
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+Route Name     : nizonide-500mg-tablet-6s
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+Route Name     : nizral-2-solution-50ml
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+Route Name     : noblok-af-drops-15ml
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+Route Name     : noblok-drop-15ml
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+Route Name     : noblok-syrup-60ml
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+Route Name     : nocold-syrup-60ml
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+Route Name     : nocold-tablet-10s
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+Route Name     : noctura-syrup
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+Route Name     : nodard-plus-tablet
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+Route Name     : nodon-tablet-15s
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+Route Name     : nodon-am-2.5mg2.5mg-tablet-10s
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+Route Name     : nodon-am-5mg5mg-tablet-10s
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+Route Name     : nomigan-10mg-tablet
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+Route Name     : nootropil-injection-15ml
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+Route Name     : nootropil-c-tablet-10s
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+Route Name     : nordys-400mg-tablet-10s
+Language       : bengali
+Total Tokens   : 219
+-------------------------------
+Route Name     : norflox-200mg-tablet-10s
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+Route Name     : noritop-10mg-tablet
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+Route Name     : normaxin-mb-200mg-capsule-sr-10s
+Language       : bengali
+Total Tokens   : 219
+-------------------------------
+Route Name     : normet-200mg500mg-tablet-10s
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+Route Name     : nortas-cr-tablet-10s
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+Route Name     : nortas-cr-15-tablet
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+Route Name     : nortipan-tablet
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+Route Name     : nosic-tablet-30s
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+Route Name     : nosikind-p-nasal-drops-10ml
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+Route Name     : novale-ct-scalp-lotion-75ml
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+Route Name     : novamox-250-dt-tablet-15s
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+Route Name     : novamox-cv-forte-syrup-30ml
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+Route Name     : novastat-10mg-tablet-15s
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+Route Name     : novastat-40mg-tablet-10s
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+Route Name     : novastat-cv-20mg75mg-capsule-10s
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+Route Name     : novastat-tg-10mg160mg-tablet-15s
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+Route Name     : novastat-tg-20mg-tablet-10s
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+Route Name     : novex-tablet
+Language       : bengali
+Total Tokens   : 219
+-------------------------------
+Route Name     : novodoxim-50mg-syrup
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+Route Name     : novomix-30-100iuml-penfill
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+Route Name     : novonorm-0.5mg-tablet
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+Route Name     : novorapid-100iu-injection
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+Route Name     : noworm-400mg-oral-suspension-10ml
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+Route Name     : noworm-tablet
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+Route Name     : ns-3-infusion-100ml
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+Route Name     : ntfung-400mg-tablet-1s
+Language       : bengali
+Total Tokens   : 219
+-------------------------------
+Route Name     : ntgn-6.4-tablet-cr
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+Route Name     : nucarnit-500-tablet-10s
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+Route Name     : nucort-m-16mg-tablet-10s
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
