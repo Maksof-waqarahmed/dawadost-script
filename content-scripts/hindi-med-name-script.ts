@@ -7,29 +7,30 @@ import dotenv from 'dotenv';
 dotenv.config({ path: '../.env' });
 import { generateMetaKeywords } from "../keyword-scripts/hindi-keyword-generate";
 
-const file = fs.readFileSync(path.join(__dirname, "../files/medicines.csv"))
+const file = fs.readFileSync(path.join(__dirname, "../files/extraUrls.csv"))
 const medicines = csvBufferToJson(file);
 
 async function englishToHindhiConvert() {
     let i = 1;
 
-    const codes = medicines.map(m => m.dd_item_code).filter(Boolean);
-    if (codes.length === 0) {
-        console.log("No dd_item_code found.");
-        return;
-    }
+    // const codes = medicines.map(m => m.dd_item_code).filter(Boolean);
+    // if (codes.length === 0) {
+    //     console.log("No dd_item_code found.");
+    //     return;
+    // }
 
-    const { rows: routeRows } = await client.query(
-        `SELECT pos_item_code, route_name FROM medicines WHERE pos_item_code = ANY($1::text[])`,
-        [codes]
-    );
-    const routeMap = Object.fromEntries(routeRows.map(r => [r.pos_item_code, r.route_name]));
+    // const { rows: routeRows } = await client.query(
+    //     `SELECT pos_item_code, route_name FROM medicines WHERE pos_item_code = ANY($1::text[])`,
+    //     [codes]
+    // );
+    // const routeMap = Object.fromEntries(routeRows.map(r => [r.pos_item_code, r.route_name]));
 
-    for (const { dd_item_code } of medicines) {
-        const routeName = routeMap[dd_item_code];
+    for (const { URLs } of medicines) {
+        // const routeName = routeMap[dd_item_code];
+        const routeName = URLs;
 
         if (!routeName) {
-            console.log("Route name not found for:", dd_item_code);
+            console.log("Route name not found for:", routeName);
             continue;
         }
 
@@ -92,18 +93,18 @@ async function englishToHindhiConvert() {
                 continue;
             }
 
-            const { rows: hindi_data } = await client.query(
-                `SELECT introduction, how_to_use, how_it_works, benefits, side_effects, disease_explanation 
-                 FROM medicines_details 
-                 WHERE route_name = $1 AND language = 'hindi'`,
-                [routeName]
-            );
-            const hindiData = hindi_data[0];
-            if (hindiData?.introduction && hindiData?.how_to_use && hindiData?.how_it_works &&
-                hindiData?.benefits && hindiData?.side_effects && hindiData?.disease_explanation) {
-                console.log("Hindi content already exists for:", routeName);
-                continue;
-            }
+            // const { rows: hindi_data } = await client.query(
+            //     `SELECT introduction, how_to_use, how_it_works, benefits, side_effects, disease_explanation 
+            //      FROM medicines_details 
+            //      WHERE route_name = $1 AND language = 'hindi'`,
+            //     [routeName]
+            // );
+            // const hindiData = hindi_data[0];
+            // if (hindiData?.introduction && hindiData?.how_to_use && hindiData?.how_it_works &&
+            //     hindiData?.benefits && hindiData?.side_effects && hindiData?.disease_explanation) {
+            //     console.log("Hindi content already exists for:", routeName);
+            //     continue;
+            // }
 
             const medicineData = rows[0];
             const keyword = keywordRows[0]?.meta_keywords;

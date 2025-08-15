@@ -394,3 +394,27 @@ Route Name     : neorelax-8-tablet-mr-10s
 Language       : invalid-format-bengali
 Total Tokens   : 0
 -------------------------------
+Route Name     : olmin-40-ch-tablet-10s
+Language       : invalid-format-bengali
+Total Tokens   : 0
+-------------------------------
+Route Name     : pentanerv-nt-400mg10mg-tablet-10s
+Language       : invalid-format-bengali
+Total Tokens   : 0
+-------------------------------
+Route Name     : propygenta-nf-cream-30gm
+Language       : invalid-format-bengali
+Total Tokens   : 0
+-------------------------------
+Route Name     : ramcor-1.25-capsule
+Language       : invalid-format-bengali
+Total Tokens   : 0
+-------------------------------
+Route Name     : ramipres-5-tablet
+Language       : invalid-format-bengali
+Total Tokens   : 0
+-------------------------------
+Route Name     : ramistar-5mg-tablet-15s
+Language       : invalid-format-bengali
+Total Tokens   : 0
+-------------------------------
