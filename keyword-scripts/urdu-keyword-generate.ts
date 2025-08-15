@@ -89,11 +89,6 @@ export async function generateMetaKeywords(language: string, routeName: string) 
     try {
         const { rows: medicineName } = await client.query(`SELECT name FROM medicines_details WHERE route_name = $1 AND language = $2`, [routeName, language]);
 
-        if (medicineName.length === 0) {
-            console.log(`No medicine found for route: ${routeName} in language: ${language}`);
-            return;
-        }
-
         let keyWords: any = await generateKeyWords({ language: language, name: medicineName[0].name, route_name: routeName });
 
         if (typeof keyWords === "string") {

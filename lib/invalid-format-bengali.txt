@@ -418,3 +418,27 @@ Route Name     : ramistar-5mg-tablet-15s
 Language       : invalid-format-bengali
 Total Tokens   : 0
 -------------------------------
+Route Name     : switglim-m-21000-tablet-pr-15s
+Language       : invalid-format-bengali
+Total Tokens   : 0
+-------------------------------
+Route Name     : tacroren-1-capsule
+Language       : invalid-format-bengali
+Total Tokens   : 0
+-------------------------------
+Route Name     : telmed-h-80-tablet
+Language       : invalid-format-bengali
+Total Tokens   : 0
+-------------------------------
+Route Name     : telmikind-h-80mg12.5mg-tablet-10s
+Language       : invalid-format-bengali
+Total Tokens   : 0
+-------------------------------
+Route Name     : temsan-ct-40mg12.5mg-tablet-10s
+Language       : invalid-format-bengali
+Total Tokens   : 0
+-------------------------------
+Route Name     : timolet-od-bkc-free-eye-drop
+Language       : invalid-format-bengali
+Total Tokens   : 0
+-------------------------------

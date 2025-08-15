@@ -1,0 +1,24 @@
+Route Name     : osta-p-suspension-200ml
+Language       : invalid-format-urdu
+Total Tokens   : 0
+-------------------------------
+Route Name     : dabur-chandraprabha-vati-tablet-40s
+Language       : invalid-format-urdu
+Total Tokens   : 0
+-------------------------------
+Route Name     : trupred-1-eye-drop-10ml
+Language       : invalid-format-urdu
+Total Tokens   : 0
+-------------------------------
+Route Name     : baidyanath-rumartho-gold-capsule-30s
+Language       : invalid-format-urdu
+Total Tokens   : 0
+-------------------------------
+Route Name     : coldfresh-p-5mg325mg5mg-tablet-10s
+Language       : invalid-format-urdu
+Total Tokens   : 0
+-------------------------------
+Route Name     : topival-50mg-tablet-10s
+Language       : invalid-format-urdu
+Total Tokens   : 0
+-------------------------------
