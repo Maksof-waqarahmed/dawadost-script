@@ -442,3 +442,7 @@ Route Name     : timolet-od-bkc-free-eye-drop
 Language       : invalid-format-bengali
 Total Tokens   : 0
 -------------------------------
+Route Name     : vintel-ctc-tablet-10s
+Language       : invalid-format-bengali
+Total Tokens   : 0
+-------------------------------

@@ -22,3 +22,19 @@ Route Name     : topival-50mg-tablet-10s
 Language       : invalid-format-urdu
 Total Tokens   : 0
 -------------------------------
+Route Name     : naselin-saline-nasal-spray-20ml
+Language       : invalid-format-urdu
+Total Tokens   : 0
+-------------------------------
+Route Name     : medistat-1.25-nasal-spray-250mdi
+Language       : invalid-format-urdu
+Total Tokens   : 0
+-------------------------------
+Route Name     : rubired-z-tablet-10s
+Language       : invalid-format-urdu
+Total Tokens   : 0
+-------------------------------
+Route Name     : kamasutra-spark-perfume-spray-45ml
+Language       : invalid-format-urdu
+Total Tokens   : 0
+-------------------------------

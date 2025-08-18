@@ -1,85 +1,56 @@
-allercet-m-5mg10mg-tablet-10s
-allerfex-m-tablet-10s
-alrista-150mg-tablet-sr-10s
-anabel-liquid-gel
-antidep-75-tablet-10s
-app-up-2mg275mg-syrup-200ml
-armod-50mg-tablet-10s
-atrodex-c-eye-drop
-azee-200mg-liquid-peppermint-orange-15ml
-aztric-40-tablet-10s
-betadine-vaginal-pessaries
-betakind-gargle
-betnesol-n-eyeear-drops-5ml
-bricarex-a-expectorant-apple-sugar-free-100ml
-broncofil-100mg-capsule-10s
-bruzol-o-10mg20mg-capsule
-carbophage-g-2-forte-tablet-pr
-cetanil-t-20-tablet-10s
-cilacar-c-tablet-10s
-cintapro-1mg-tablet-10s
-cipzen-forte-tablet
-clenorush-troche-10mg-lozenges-10s
-clinox-1ww-gel-20gm
-combinase-ft-140mcg27.5mcg-nasal-spray-9.8gm
-coolgut-1200mg-tablet-pr-10s
-coxito-s-20-tablet
-deca-intabolin-50mg-injection-1ml
-depranil-75mg-tablet
-depsonil-25mg-tablet-10s
-deriphyllin-syrup-200ml
-dezlorid-m-tablet-10s
-dirifa-550-tablet-10s
-dolo-100mg-drops-15ml
-dolowin-mr-tablet-10s
-dolowin-plus-tablet-10s
-domstal-suspension
-drep-new-ear-drop-5ml
-ebast-m-10mg10mg-tablet-10s
-emeset-syrup-juicy-lemon
-emlukast-fx-10mg120mg-tablet-10s
-enuff-10mg-sachet-1gm
-epifast-500mg-tablet-10s
-epilex-chrono-500-tablet-cr
-eptoin-100mg-tablet
-eptoin-300mg-tablet-er-30s
-eritel-ln-40-tablet
-epilex-chrono-500-tablet-cr
-eptoin-100mg-tablet
-eptoin-300mg-tablet-er-30s
-eritel-ln-40-tablet
-eslo-5mg-tablet-15s
-fas-3-kit
-febrex-plus-ds-suspension-60ml
-ferikind-s-100-injection-5ml
-flavedon-35mg-tablet-mr-10
-foracort-200-rotacaps-30s
-freego-granules-150gm
-freego-granules-90gm
-frisium-10mg-tablet-15s
-frisium-5-tablet-15s
-fromelon-eye-drops
-fusee-ointment-10gm
-gabawin-nt-tablet-10s
-gemer-p-2mg500mg15mg-tablet-er-10s
-geminor-m-1-tablet-pr-15s
-genticyn-80mg-injection-2ml
-gerbisa-l-5mg5ml-syrup-120ml
-gestakind-10mg-tablet
-glimisave-mv-3.3-tablet-sr
-glucoryl-mv-2-tablet-sr
-glyciphage-tablet-20s
-glycomet-trio-2mg500mg0.2mg-tablet-sr-10s
-glycomet-gp-2mg500mg-tablet-pr-15s
-grilinctus-l-oral-suspension-100ml
-grilinctus-bm-syrup
-gtn-sorbitrate-cr-2.6-tablet-30s
-gutclear-ig-granules-180gm
-Route Name     : hepamerz-tablet-10s
+Route Name     : allerfex-m-tablet-10s
 Language       : hindi-invalid-format
 Total Tokens   : 0
 -------------------------------
-Route Name     : hh-sone-0.1-cream-30gm
+Route Name     : anabel-liquid-gel
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : antidep-75-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : app-up-2mg275mg-syrup-200ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : armod-50mg-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : atrodex-c-eye-drop
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : betadine-vaginal-pessaries
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : betnesol-n-eyeear-drops-5ml
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : broncofil-100mg-capsule-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : bruzol-o-10mg20mg-capsule
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : carbophage-g-2-forte-tablet-pr
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : cetanil-t-20-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : cilacar-c-tablet-10s
+Language       : hindi-invalid-format
+Total Tokens   : 0
+-------------------------------
+Route Name     : cintapro-1mg-tablet-10s
 Language       : hindi-invalid-format
 Total Tokens   : 0
 -------------------------------
