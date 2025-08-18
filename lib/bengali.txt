@@ -37212,3 +37212,155 @@ Route Name     : tor-20mg-tablet-15s
 Language       : bengali
 Total Tokens   : 219
 -------------------------------
+Route Name     : torbulk-powder
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+Route Name     : torcilin-5-tablet
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+Route Name     : torcilin-t-tablet
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+Route Name     : torex-tablet-10s
+Language       : bengali
+Total Tokens   : 219
+-------------------------------
+Route Name     : torex-sf-syrup-100ml
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+Route Name     : torfix-tablet
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+Route Name     : torget-40mg-tablet-10s
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+Route Name     : torkast-fx-tablet-10s
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+Route Name     : torleva-1000mg-tablet-xr-10s
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+Route Name     : torleva-500mg-tablet-xr-10s
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+Route Name     : torleva-syrup
+Language       : bengali
+Total Tokens   : 219
+-------------------------------
+Route Name     : torleva-xr-750-tablet
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+Route Name     : torsid-10mg-tablet-10s
+Language       : bengali
+Total Tokens   : 219
+-------------------------------
+Route Name     : torsid-20-tablet
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+Route Name     : torsid-plus-tablet-10s
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+Route Name     : torsinex-10mg-tablet-10s
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+Route Name     : torvate-200mg-tablet-cr-10s
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+Route Name     : toujeo-300-uml-solostar
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+Route Name     : tovaxo-eye-drop-bak-free-2.5ml
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+Route Name     : toyodom-10mg-tablet
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+Route Name     : tozaar-25mg-tablet-10s
+Language       : bengali
+Total Tokens   : 219
+-------------------------------
+Route Name     : tozaar-50mg-tablet
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+Route Name     : trabest-325mg37.5mg-tablet-10s
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+Route Name     : trac-3-150mg75mg275mg-tablet-6s
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+Route Name     : tramasure-plus-rf-325mg37.5mg-tablet-10s
+Language       : bengali
+Total Tokens   : 219
+-------------------------------
+Route Name     : tramazac-injection
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+Route Name     : tramazac-p-325mg37.5mg-tablet-dt-10s
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+Route Name     : trancodol-dt-10-tablet-10s
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+Route Name     : trancodol-20mg-tablet-dt
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+Route Name     : translol-25mg-tablet-xl-10s
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+Route Name     : trapic-100mg-injection
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+Route Name     : trapic-500mg-tablet-10s
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+Route Name     : trapic-mf-500mg250mg-tablet-10s
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+Route Name     : travo-z-eye-drop-3ml
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+Route Name     : trazodac-p-325mg37.5mg-tablet
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+Route Name     : trazonil-25mg-tablet-10s
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+Route Name     : trenaxa-mf-500mg250mg-tablet-6s
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+Route Name     : tresivac-vaccine-pfs-0.5ml
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
