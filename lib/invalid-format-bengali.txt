@@ -1,448 +1,124 @@
-Route Name     : b-gap-tablet-1s
-Language       : invalid-format-bengali
-Total Tokens   : 0
--------------------------------
-
-Route Name     : baidyanath-bhringrajasava-syrup-450ml
-Language       : invalid-format-bengali
-Total Tokens   : 0
--------------------------------
-
-Route Name     : medistat-1.25-nasal-spray-250mdi
-Language       : invalid-format-bengali
-Total Tokens   : 0
--------------------------------
-
-Route Name     : baidyanath-abhayarishta-syrup-450ml
-Language       : invalid-format-bengali
-Total Tokens   : 0
--------------------------------
-
-Route Name     : fibopeg-granules-155gm
-Language       : invalid-format-bengali
-Total Tokens   : 0
--------------------------------
-
-Route Name     : cecox-t-tablet-10s
-Language       : invalid-format-bengali
-Total Tokens   : 0
--------------------------------
-
-Route Name     : lonitab-2.5-mg-tablet-10s
-Language       : invalid-format-bengali
-Total Tokens   : 0
--------------------------------
-
-Route Name     : dabur-sutsekhar-ras-tablet-20s
-Language       : invalid-format-bengali
-Total Tokens   : 0
--------------------------------
-
-Route Name     : dabur-shirahshooladivajra-ras-tablet-20s
-Language       : invalid-format-bengali
-Total Tokens   : 0
--------------------------------
-
-Route Name     : zisshot-c-syrup-25ml
-Language       : invalid-format-bengali
-Total Tokens   : 0
--------------------------------
-
-Route Name     : letma-2.5mg-tablet-10s
-Language       : invalid-format-bengali
-Total Tokens   : 0
--------------------------------
-
-Route Name     : baidyanath-avipattikar-churna-60gm
-Language       : invalid-format-bengali
-Total Tokens   : 0
--------------------------------
-
-Route Name     : kiurogen-capsule-10s
-Language       : invalid-format-bengali
-Total Tokens   : 0
--------------------------------
-
-Route Name     : orgipam-plus-tablet-10s
-Language       : invalid-format-bengali
-Total Tokens   : 0
--------------------------------
-
-Route Name     : baidyanath-kasamrit-syrup-100ml
-Language       : invalid-format-bengali
-Total Tokens   : 0
--------------------------------
-
-Route Name     : charak-pigmento-tablet-40s
-Language       : invalid-format-bengali
-Total Tokens   : 0
--------------------------------
-
-Route Name     : z-sprin-av-10mg75mg-tablet-10s
-Language       : invalid-format-bengali
-Total Tokens   : 0
--------------------------------
-
-Route Name     : clinxa-1-gel-20gm
-Language       : invalid-format-bengali
-Total Tokens   : 0
--------------------------------
-
-Route Name     : torget-plus-20mg50mg-tablet-10s
-Language       : invalid-format-bengali
-Total Tokens   : 0
--------------------------------
-
-Route Name     : doxinate-24mg-tablet-er-15s
-Language       : invalid-format-bengali
-Total Tokens   : 0
--------------------------------
-
-Route Name     : silocare-8mg-capsule-10s
-        Language       : invalid-format-bengali
-        Total Tokens   : 0
-        -------------------------------
-Route Name     : biselect-10mg-tablet-10s
-        Language       : invalid-format-bengali
-        Total Tokens   : 0
-        -------------------------------
-Route Name     : sucrocell-o-syrup-200ml
-        Language       : invalid-format-bengali
-        Total Tokens   : 0
-        -------------------------------
-Route Name     : quicnac-600mg-effervescent-orange-tablet-10s
-        Language       : invalid-format-bengali
-        Total Tokens   : 0
-        -------------------------------
-Route Name     : my-dr-pain-relief-spray-60gm
-        Language       : invalid-format-bengali
-        Total Tokens   : 0
-        -------------------------------
-Route Name     : my-dr-pain-relief-cream-60gm
-        Language       : invalid-format-bengali
-        Total Tokens   : 0
-        -------------------------------
-Route Name     : my-dr-pain-relief-cream-30gm
-        Language       : invalid-format-bengali
-        Total Tokens   : 0
-        -------------------------------
-Route Name     : my-dr-pain-relief-oil-125ml
-        Language       : invalid-format-bengali
-        Total Tokens   : 0
-        -------------------------------
-Route Name     : dabur-mugdha-ras-tablet-35s
-Language       : invalid-format-bengali
-Total Tokens   : 0
--------------------------------
-Route Name     : prolet-50mg-tablet-15s
-Language       : invalid-format-bengali
-Total Tokens   : 0
--------------------------------
-Route Name     : carnimet-e-tablet-10s
-Language       : invalid-format-bengali
-Total Tokens   : 0
--------------------------------
-Route Name     : predina-1wv-eye-drop-10ml
-Language       : invalid-format-bengali
-Total Tokens   : 0
--------------------------------
-Route Name     : dabur-rheumatil-oil-100ml
-Language       : invalid-format-bengali
-Total Tokens   : 0
--------------------------------
-Route Name     : zincovit-active-liquid-orange-200ml
-Language       : invalid-format-bengali
-Total Tokens   : 0
--------------------------------
-Route Name     : dabur-rasraj-ras-with-gold-tablet-10s
-Language       : invalid-format-bengali
-Total Tokens   : 0
--------------------------------
-Route Name     : mebza-forte-capsules-10s
-Language       : invalid-format-bengali
-Total Tokens   : 0
--------------------------------
-Route Name     : cypon-h-plus-syrup-200ml
-Language       : invalid-format-bengali
-Total Tokens   : 0
--------------------------------
-Route Name     : besicor-2.5mg-trablet-15s
-Language       : invalid-format-bengali
-Total Tokens   : 0
--------------------------------
-Route Name     : vintel-m-25mg40mg-tablet-er-10s
-Language       : invalid-format-bengali
-Total Tokens   : 0
--------------------------------
-Route Name     : bone-grow-capsule-30s
-Language       : invalid-format-bengali
-Total Tokens   : 0
--------------------------------
-Route Name     : dabur-arjun-chhal-churna-100gm
-Language       : invalid-format-bengali
-Total Tokens   : 0
--------------------------------
-Route Name     : glimiprex-mf-2mg500mg-tablet-sr-15s
-Language       : invalid-format-bengali
-Total Tokens   : 0
--------------------------------
-Route Name     : pantop-d-10mg20mg-capsule-15s
-Language       : invalid-format-bengali
-Total Tokens   : 0
--------------------------------
-Route Name     : eshcarno-100mg-syrup-200ml
-Language       : invalid-format-bengali
-Total Tokens   : 0
--------------------------------
-Route Name     : duloxee-p-75mg20mg-capsule-10s
-Language       : invalid-format-bengali
-Total Tokens   : 0
--------------------------------
-Route Name     : patanjali-saumya-ayurvedic-herbal-eye-drop-10ml
-Language       : invalid-format-bengali
-Total Tokens   : 0
--------------------------------
-Route Name     : zandu-balm-1ml-x-10s
-Language       : invalid-format-bengali
-Total Tokens   : 0
--------------------------------
-Route Name     : bisoset-tm-2.5mg40mg-tablet-10s
-Language       : invalid-format-bengali
-Total Tokens   : 0
--------------------------------
-Route Name     : gudgesic-nf-liniment-30ml
-Language       : invalid-format-bengali
-Total Tokens   : 0
--------------------------------
-Route Name     : baidyanath-sarivadyasava-liquid-450ml
-Language       : invalid-format-bengali
-Total Tokens   : 0
--------------------------------
-Route Name     : dabur-pushpadhanwa-ras-tablet-40s
-Language       : invalid-format-bengali
-Total Tokens   : 0
--------------------------------
-Route Name     : britesite-eye-drop-10ml
-Language       : invalid-format-bengali
-Total Tokens   : 0
--------------------------------
-Route Name     : nanculive-syrup-100ml
-Language       : invalid-format-bengali
-Total Tokens   : 0
--------------------------------
-Route Name     : baidyanath-sitopaladi-churna-30gm
-Language       : invalid-format-bengali
-Total Tokens   : 0
--------------------------------
-Route Name     : dabur-chitrak-haritaki-powder-250gm
-Language       : invalid-format-bengali
-Total Tokens   : 0
--------------------------------
-Route Name     : lizoforce-600mg-tablet-10s
-Language       : invalid-format-bengali
-Total Tokens   : 0
--------------------------------
-Route Name     : naturmeds-hand-sanitizer-refreshing-lemon-spray-30ml
-Language       : invalid-format-bengali
-Total Tokens   : 0
--------------------------------
-Route Name     : patanjali-moisturizer-cream-50gm
-Language       : invalid-format-bengali
-Total Tokens   : 0
--------------------------------
-Route Name     : aimil-amyron-tablet-30s
-Language       : invalid-format-bengali
-Total Tokens   : 0
--------------------------------
-Route Name     : ascodex-br-syrup-100ml
-Language       : invalid-format-bengali
-Total Tokens   : 0
--------------------------------
-Route Name     : fungiforce-dusting-powder-100gm
-Language       : invalid-format-bengali
-Total Tokens   : 0
--------------------------------
-Route Name     : glimify-m2-forte-tablet
-Language       : invalid-format-bengali
-Total Tokens   : 0
--------------------------------
-Route Name     : psortan-lotion-50ml
-Language       : invalid-format-bengali
-Total Tokens   : 0
--------------------------------
-Route Name     : ct-looz-solution-200ml
-Language       : invalid-format-bengali
-Total Tokens   : 0
--------------------------------
-Route Name     : apsovent-sf-syrup-100ml
-Language       : invalid-format-bengali
-Total Tokens   : 0
--------------------------------
-Route Name     : argmore-sachet-3gm
-Language       : invalid-format-bengali
-Total Tokens   : 0
--------------------------------
-Route Name     : voltapraz-20mg-tablet-10s
-Language       : invalid-format-bengali
-Total Tokens   : 0
--------------------------------
-Route Name     : hiskabend-tablet-1s
-Language       : invalid-format-bengali
-Total Tokens   : 0
--------------------------------
-Route Name     : empanorm-10mg-tablet-10s
-Language       : invalid-format-bengali
-Total Tokens   : 0
--------------------------------
-Route Name     : athrovas-40mg-tablet-10s
-Language       : invalid-format-bengali
-Total Tokens   : 0
--------------------------------
-Route Name     : ace-proxyvon-th-4mg-tablet-10s
-Language       : invalid-format-bengali
-Total Tokens   : 0
--------------------------------
-Route Name     : add-tears-lubricant-eye-drop
-Language       : invalid-format-bengali
-Total Tokens   : 0
--------------------------------
-Route Name     : advagraf-1mg-capsule-pr-10s
-Language       : invalid-format-bengali
-Total Tokens   : 0
--------------------------------
-Route Name     : bisoheart-5mg-tablet-10s
-Language       : invalid-format-bengali
-Total Tokens   : 0
--------------------------------
-Route Name     : clindac-a-1-gel-15gm
-Language       : invalid-format-bengali
-Total Tokens   : 0
--------------------------------
-Route Name     : contramal-sr-100-tablet
-Language       : invalid-format-bengali
-Total Tokens   : 0
--------------------------------
-Route Name     : cortel-h-80mg12.5mg-tablet-10s
-Language       : invalid-format-bengali
-Total Tokens   : 0
--------------------------------
-Route Name     : ctd-o-20mg12.5mg-tablet-10s
-Language       : invalid-format-bengali
-Total Tokens   : 0
--------------------------------
-Route Name     : dilzem-60-tablet-cr
-Language       : invalid-format-bengali
-Total Tokens   : 0
--------------------------------
-Route Name     : dolo-cold-500mg30mg10mg-tablet-10s
-Language       : invalid-format-bengali
-Total Tokens   : 0
--------------------------------
-Route Name     : doxinate-g-tablet-10s
-Language       : invalid-format-bengali
-Total Tokens   : 0
--------------------------------
-Route Name     : flurisone-0.1-eye-drop-5ml
-Language       : invalid-format-bengali
-Total Tokens   : 0
--------------------------------
-Route Name     : foracort-0.5mg-respule-2ml
-Language       : invalid-format-bengali
-Total Tokens   : 0
--------------------------------
-Route Name     : foracort-20mcg1mg-respules-2ml-5s
-Language       : invalid-format-bengali
-Total Tokens   : 0
--------------------------------
-Route Name     : freego-granules-150gm
-Language       : invalid-format-bengali
-Total Tokens   : 0
--------------------------------
-Route Name     : glimiprime-m-2-forte-tablet-10s
-Language       : invalid-format-bengali
-Total Tokens   : 0
--------------------------------
-Route Name     : iminoral-50-capsule-5s
-Language       : invalid-format-bengali
-Total Tokens   : 0
--------------------------------
-Route Name     : immutil-s-360mg-tablet-dr-10s
-Language       : invalid-format-bengali
-Total Tokens   : 0
--------------------------------
-Route Name     : ketorol-10mg-tablet-10s
-Language       : invalid-format-bengali
-Total Tokens   : 0
--------------------------------
-Route Name     : levipil-100mg-syrup-100ml
-Language       : invalid-format-bengali
-Total Tokens   : 0
--------------------------------
-Route Name     : lntrio-10mg-tablet-15s
-Language       : invalid-format-bengali
-Total Tokens   : 0
--------------------------------
-Route Name     : misty-fresh-eye-drop
-Language       : invalid-format-bengali
-Total Tokens   : 0
--------------------------------
-Route Name     : mucomix-600mg-tablet-et-10s
-Language       : invalid-format-bengali
-Total Tokens   : 0
--------------------------------
-Route Name     : neorelax-8-tablet-mr-10s
-Language       : invalid-format-bengali
-Total Tokens   : 0
--------------------------------
-Route Name     : olmin-40-ch-tablet-10s
-Language       : invalid-format-bengali
-Total Tokens   : 0
--------------------------------
-Route Name     : pentanerv-nt-400mg10mg-tablet-10s
-Language       : invalid-format-bengali
-Total Tokens   : 0
--------------------------------
-Route Name     : propygenta-nf-cream-30gm
-Language       : invalid-format-bengali
-Total Tokens   : 0
--------------------------------
-Route Name     : ramcor-1.25-capsule
-Language       : invalid-format-bengali
-Total Tokens   : 0
--------------------------------
-Route Name     : ramipres-5-tablet
-Language       : invalid-format-bengali
-Total Tokens   : 0
--------------------------------
-Route Name     : ramistar-5mg-tablet-15s
-Language       : invalid-format-bengali
-Total Tokens   : 0
--------------------------------
-Route Name     : switglim-m-21000-tablet-pr-15s
-Language       : invalid-format-bengali
-Total Tokens   : 0
--------------------------------
-Route Name     : tacroren-1-capsule
-Language       : invalid-format-bengali
-Total Tokens   : 0
--------------------------------
-Route Name     : telmed-h-80-tablet
-Language       : invalid-format-bengali
-Total Tokens   : 0
--------------------------------
-Route Name     : telmikind-h-80mg12.5mg-tablet-10s
-Language       : invalid-format-bengali
-Total Tokens   : 0
--------------------------------
-Route Name     : temsan-ct-40mg12.5mg-tablet-10s
-Language       : invalid-format-bengali
-Total Tokens   : 0
--------------------------------
-Route Name     : timolet-od-bkc-free-eye-drop
-Language       : invalid-format-bengali
-Total Tokens   : 0
--------------------------------
-Route Name     : vintel-ctc-tablet-10s
+b-gap-tablet-1s
+baidyanath-bhringrajasava-syrup-450ml
+medistat-1.25-nasal-spray-250mdi
+baidyanath-abhayarishta-syrup-450ml
+fibopeg-granules-155gm
+cecox-t-tablet-10s
+lonitab-2.5-mg-tablet-10s
+dabur-sutsekhar-ras-tablet-20s
+dabur-shirahshooladivajra-ras-tablet-20s
+zisshot-c-syrup-25ml
+letma-2.5mg-tablet-10s
+baidyanath-avipattikar-churna-60gm
+kiurogen-capsule-10s
+orgipam-plus-tablet-10s
+baidyanath-kasamrit-syrup-100ml
+charak-pigmento-tablet-40s
+z-sprin-av-10mg75mg-tablet-10s
+clinxa-1-gel-20gm
+torget-plus-20mg50mg-tablet-10s
+doxinate-24mg-tablet-er-15s
+silocare-8mg-capsule-10s
+biselect-10mg-tablet-10s
+sucrocell-o-syrup-200ml
+quicnac-600mg-effervescent-orange-tablet-10s
+my-dr-pain-relief-spray-60gm
+my-dr-pain-relief-cream-60gm
+my-dr-pain-relief-cream-30gm
+my-dr-pain-relief-oil-125ml
+dabur-mugdha-ras-tablet-35s
+prolet-50mg-tablet-15s
+carnimet-e-tablet-10s
+predina-1wv-eye-drop-10ml
+dabur-rheumatil-oil-100ml
+zincovit-active-liquid-orange-200ml
+dabur-rasraj-ras-with-gold-tablet-10s
+mebza-forte-capsules-10s
+cypon-h-plus-syrup-200ml
+besicor-2.5mg-trablet-15s
+vintel-m-25mg40mg-tablet-er-10s
+bone-grow-capsule-30s
+dabur-arjun-chhal-churna-100gm
+glimiprex-mf-2mg500mg-tablet-sr-15s
+pantop-d-10mg20mg-capsule-15s
+eshcarno-100mg-syrup-200ml
+duloxee-p-75mg20mg-capsule-10s
+patanjali-saumya-ayurvedic-herbal-eye-drop-10ml
+zandu-balm-1ml-x-10s
+bisoset-tm-2.5mg40mg-tablet-10s
+gudgesic-nf-liniment-30ml
+baidyanath-sarivadyasava-liquid-450ml
+dabur-pushpadhanwa-ras-tablet-40s
+britesite-eye-drop-10ml
+nanculive-syrup-100ml
+baidyanath-sitopaladi-churna-30gm
+dabur-chitrak-haritaki-powder-250gm
+lizoforce-600mg-tablet-10s
+naturmeds-hand-sanitizer-refreshing-lemon-spray-30ml
+patanjali-moisturizer-cream-50gm
+aimil-amyron-tablet-30s
+ascodex-br-syrup-100ml
+fungiforce-dusting-powder-100gm
+glimify-m2-forte-tablet
+psortan-lotion-50ml
+ct-looz-solution-200ml
+apsovent-sf-syrup-100ml
+argmore-sachet-3gm
+voltapraz-20mg-tablet-10s
+hiskabend-tablet-1s
+empanorm-10mg-tablet-10s
+athrovas-40mg-tablet-10s
+ace-proxyvon-th-4mg-tablet-10s
+add-tears-lubricant-eye-drop
+advagraf-1mg-capsule-pr-10s
+bisoheart-5mg-tablet-10s
+clindac-a-1-gel-15gm
+contramal-sr-100-tablet
+cortel-h-80mg12.5mg-tablet-10s
+ctd-o-20mg12.5mg-tablet-10s
+dilzem-60-tablet-cr
+dolo-cold-500mg30mg10mg-tablet-10s
+doxinate-g-tablet-10s
+flurisone-0.1-eye-drop-5ml
+foracort-0.5mg-respule-2ml
+foracort-20mcg1mg-respules-2ml-5s
+freego-granules-150gm
+glimiprime-m-2-forte-tablet-10s
+iminoral-50-capsule-5s
+immutil-s-360mg-tablet-dr-10s
+ketorol-10mg-tablet-10s
+levipil-100mg-syrup-100ml
+lntrio-10mg-tablet-15s
+misty-fresh-eye-drop
+mucomix-600mg-tablet-et-10s
+neorelax-8-tablet-mr-10s
+olmin-40-ch-tablet-10s
+pentanerv-nt-400mg10mg-tablet-10s
+propygenta-nf-cream-30gm
+ramcor-1.25-capsule
+ramipres-5-tablet
+ramistar-5mg-tablet-15s
+switglim-m-21000-tablet-pr-15s
+tacroren-1-capsule
+telmed-h-80-tablet
+telmikind-h-80mg12.5mg-tablet-10s
+temsan-ct-40mg12.5mg-tablet-10s
+timolet-od-bkc-free-eye-drop
+vintel-ctc-tablet-10s
+zykt-cream-30gm
+dabur-ashwagandharishta-450ml
+dabur-yograj-guggulu-tablet-60s
+dabur-musli-pak-laghu-125gm
+dabur-pilochek-gel-30gm
+dabur-neem-tail-50ml
+himalaya-himcocid-sugar-free-suspension-banana-200ml
+felicita-od-capsule-10s
+longifene-a-syrup-200ml
+wanish-skin-lotion-100ml
+benfomet-plus-tablet-10s
+dabur-gulabari-face-cleanser-spray-100ml
+dabur-gulabari-60ml
+Route Name     : dabur-gripe-water-100ml
 Language       : invalid-format-bengali
 Total Tokens   : 0
 -------------------------------

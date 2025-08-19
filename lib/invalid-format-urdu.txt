@@ -1,40 +1,17 @@
-Route Name     : osta-p-suspension-200ml
-Language       : invalid-format-urdu
-Total Tokens   : 0
--------------------------------
-Route Name     : dabur-chandraprabha-vati-tablet-40s
-Language       : invalid-format-urdu
-Total Tokens   : 0
--------------------------------
-Route Name     : trupred-1-eye-drop-10ml
-Language       : invalid-format-urdu
-Total Tokens   : 0
--------------------------------
-Route Name     : baidyanath-rumartho-gold-capsule-30s
-Language       : invalid-format-urdu
-Total Tokens   : 0
--------------------------------
-Route Name     : coldfresh-p-5mg325mg5mg-tablet-10s
-Language       : invalid-format-urdu
-Total Tokens   : 0
--------------------------------
-Route Name     : topival-50mg-tablet-10s
-Language       : invalid-format-urdu
-Total Tokens   : 0
--------------------------------
-Route Name     : naselin-saline-nasal-spray-20ml
-Language       : invalid-format-urdu
-Total Tokens   : 0
--------------------------------
-Route Name     : medistat-1.25-nasal-spray-250mdi
-Language       : invalid-format-urdu
-Total Tokens   : 0
--------------------------------
-Route Name     : rubired-z-tablet-10s
-Language       : invalid-format-urdu
-Total Tokens   : 0
--------------------------------
-Route Name     : kamasutra-spark-perfume-spray-45ml
-Language       : invalid-format-urdu
-Total Tokens   : 0
--------------------------------
+osta-p-suspension-200ml
+dabur-chandraprabha-vati-tablet-40s
+trupred-1-eye-drop-10ml
+baidyanath-rumartho-gold-capsule-30s
+coldfresh-p-5mg325mg5mg-tablet-10s
+topival-50mg-tablet-10s
+naselin-saline-nasal-spray-20ml
+medistat-1.25-nasal-spray-250mdi
+rubired-z-tablet-10s
+kamasutra-spark-perfume-spray-45ml
+seroflo-250-ciphaler-60mdi
+gabtan-100mg-tablet-10s
+furotop-cream-10-gm
+neurokem-d-75mg30mg-capsule-10s
+davi-od-5mg100mg-tablet-10s
+ubicar-woman-capsule-10s
+forcan-150mg-tablet-4s
