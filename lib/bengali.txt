@@ -38736,3 +38736,131 @@ Route Name     : zipvert-b6-tablets-10s
 Language       : bengali
 Total Tokens   : 213
 -------------------------------
+Route Name     : zita-met-plus-1000mg20mg-tablet-er-15
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+Route Name     : zitelmi-40mg-tablet-10s
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+Route Name     : zitelmi-h-40mg12.5mg-tablet-10s
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+Route Name     : ziten-m-500mg20mg-tablet-er-15s
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+Route Name     : zivast-20mg-tablet-10s
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+Route Name     : zivast-f-10mg160mg-tablet-10s
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+Route Name     : zix-r-od-capsule-sr-10s
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+Route Name     : zo-0.3-wv-eyeear-drops-5ml
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+Route Name     : zocef-125mg-dry-syrup-30ml
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+Route Name     : zocef-1.5-injection-1s
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+Route Name     : zocef-250-tablet-10s
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+Route Name     : zocon-eye-drop-5ml
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+Route Name     : zocon-100mg-tablet-dt-4s
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+Route Name     : zocon-400-tablet-1s
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+Route Name     : zocon-1-dusting-powder-100gm
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+Route Name     : zocon-st-150mg-tablet-2s
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+Route Name     : zocon-t-kit
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+Route Name     : zofer-2mg-oral-solution-30ml
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+Route Name     : zofer-8mg-tablet-10s
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+Route Name     : zoform-500mg-tablet-sr-10s
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+Route Name     : zolasta-4mg-injection-1s
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+Route Name     : zolax-0.5mg-tablet-sr-10s
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+Route Name     : zolcalm-5mg-tablet-10s
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+Route Name     : zoldro-4mg-injection-1s
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+Route Name     : zolephos-5mg100ml-infusion-100ml
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+Route Name     : zoline-plus-eye-drops
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+Route Name     : zolnyt-10mg-tablet
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+Route Name     : zolsoma-3mg5mg-tablet-10s
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+Route Name     : zoltero-4mg-injection-1s
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+Route Name     : zomet-th-tablet-sr
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+Route Name     : zoryl-1mg-tablet-15s
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
+Route Name     : zoryl-2mg-tablet-15s
+Language       : bengali
+Total Tokens   : 213
+-------------------------------
