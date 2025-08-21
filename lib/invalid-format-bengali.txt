@@ -118,7 +118,13 @@ wanish-skin-lotion-100ml
 benfomet-plus-tablet-10s
 dabur-gulabari-face-cleanser-spray-100ml
 dabur-gulabari-60ml
-Route Name     : dabur-gripe-water-100ml
-Language       : invalid-format-bengali
-Total Tokens   : 0
--------------------------------
+dabur-gripe-water-100ml
+baidyanath-dashmularishta-liquid-220ml
+baidyanath-shankhpushpi-syrup-450ml
+baidyanath-isabgol-husk-powder-100gm
+cuzil-600mg-tablet
+bisoder-5mg-tablet
+neogadine-elixir-300ml
+tripleacal-d-tablet-10s
+lysiprin-1000mg-tablet-10s
+bt-36-cream-80-gm

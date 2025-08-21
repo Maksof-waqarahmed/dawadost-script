@@ -15,3 +15,19 @@ neurokem-d-75mg30mg-capsule-10s
 davi-od-5mg100mg-tablet-10s
 ubicar-woman-capsule-10s
 forcan-150mg-tablet-4s
+Route Name     : telday-h-80mg12.5mg-tablet-15s
+Language       : invalid-format-urdu
+Total Tokens   : 0
+-------------------------------
+Route Name     : charak-pigmento-tablet-40s
+Language       : invalid-format-urdu
+Total Tokens   : 0
+-------------------------------
+Route Name     : orvas-ez-tablet-10s
+Language       : invalid-format-urdu
+Total Tokens   : 0
+-------------------------------
+Route Name     : dapahenz-m-10mg500mg-tablet-10s
+Language       : invalid-format-urdu
+Total Tokens   : 0
+-------------------------------
