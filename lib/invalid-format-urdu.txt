@@ -31,3 +31,15 @@ Route Name     : dapahenz-m-10mg500mg-tablet-10s
 Language       : invalid-format-urdu
 Total Tokens   : 0
 -------------------------------
+Route Name     : tsart-trio-40mg10mg6.25mgtablet-10s
+Language       : invalid-format-urdu
+Total Tokens   : 0
+-------------------------------
+Route Name     : my-dr-pain-relief-spray-60gm
+Language       : invalid-format-urdu
+Total Tokens   : 0
+-------------------------------
+Route Name     : my-dr-pain-relief-oil-125ml
+Language       : invalid-format-urdu
+Total Tokens   : 0
+-------------------------------

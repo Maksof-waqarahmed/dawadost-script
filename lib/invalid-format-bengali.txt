@@ -128,3 +128,35 @@ neogadine-elixir-300ml
 tripleacal-d-tablet-10s
 lysiprin-1000mg-tablet-10s
 bt-36-cream-80-gm
+Route Name     : diprobate-plus-lotion-50ml
+Language       : invalid-format-bengali
+Total Tokens   : 0
+-------------------------------
+Route Name     : anol-ad-50-tablet
+Language       : invalid-format-bengali
+Total Tokens   : 0
+-------------------------------
+Route Name     : brexelant-breast-cream-with-vitamin-e-60gm
+Language       : invalid-format-bengali
+Total Tokens   : 0
+-------------------------------
+Route Name     : dr-ortho-pain-relieving-ointment-30gm
+Language       : invalid-format-bengali
+Total Tokens   : 0
+-------------------------------
+Route Name     : dabur-amla-sarson-oil-68ml
+Language       : invalid-format-bengali
+Total Tokens   : 0
+-------------------------------
+Route Name     : pigeon-nipple-shield-1s
+Language       : invalid-format-bengali
+Total Tokens   : 0
+-------------------------------
+Route Name     : jelonet-paraffin-gauze-dressing-10cm-x-10cm-5s
+Language       : invalid-format-bengali
+Total Tokens   : 0
+-------------------------------
+Route Name     : dabur-glucose-c-orange-flavour-powder-1kg
+Language       : invalid-format-bengali
+Total Tokens   : 0
+-------------------------------
