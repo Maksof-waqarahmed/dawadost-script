@@ -43,3 +43,23 @@ Route Name     : my-dr-pain-relief-oil-125ml
 Language       : invalid-format-urdu
 Total Tokens   : 0
 -------------------------------
+Route Name     : parcem-syrup-100ml
+Language       : invalid-format-urdu
+Total Tokens   : 0
+-------------------------------
+Route Name     : sacuval-50-tablet-10s
+Language       : invalid-format-urdu
+Total Tokens   : 0
+-------------------------------
+Route Name     : nepacox-eye-drop-5ml
+Language       : invalid-format-urdu
+Total Tokens   : 0
+-------------------------------
+Route Name     : rabeclofenac-dsr-capsule-10s
+Language       : invalid-format-urdu
+Total Tokens   : 0
+-------------------------------
+Route Name     : teldix-ch-40mg12.5mg-tablet-10s
+Language       : invalid-format-urdu
+Total Tokens   : 0
+-------------------------------

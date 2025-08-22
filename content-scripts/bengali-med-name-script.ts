@@ -74,7 +74,6 @@ async function englishToHindhiConvert() {
                 console.log("Some required English columns are null for:", routeName);
                 continue;
             }
-
             const query = `
                 SELECT name, company, composition, sku_packaging, introduction, benefits,
                     how_to_use, how_it_works, uses, side_effects, safety_advice,

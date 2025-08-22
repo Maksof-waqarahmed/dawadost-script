@@ -160,3 +160,11 @@ Route Name     : dabur-glucose-c-orange-flavour-powder-1kg
 Language       : invalid-format-bengali
 Total Tokens   : 0
 -------------------------------
+Route Name     : micropore-tape-2inch
+Language       : invalid-format-bengali
+Total Tokens   : 0
+-------------------------------
+Route Name     : venpres-am-40mg5mg-tablet-10s
+Language       : invalid-format-bengali
+Total Tokens   : 0
+-------------------------------
